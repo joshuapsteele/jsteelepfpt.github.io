@@ -1,0 +1,384 @@
+---
+title: (Un)Righteous Anger? – Yoda, Jonah, Nahum, and Us
+author: joshuapsteele
+type: post
+date: 2013-05-18T21:18:39+00:00
+url: /unrighteous-anger-yoda-jonah-nahum-and-us/
+publicize_twitter_user:
+  - Steele_J
+  - Steele_J
+twitter_cards_summary_img_size:
+  - 'a:7:{i:0;i:600;i:1;i:440;i:2;i:2;i:3;s:24:"width="600" height="440"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}'
+  - 'a:7:{i:0;i:600;i:1;i:440;i:2;i:2;i:3;s:24:"width="600" height="440"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}'
+categories:
+  - Bible and Scripture
+  - Sermons
+
+---
+(TEXTS: [Jonah 3:5-10; 4:1-11; Nahum 1:1-8][1])
+
+<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
+  <div class="ez-toc-title-container">
+    <p class="ez-toc-title">
+      Table of Contents
+    </p>
+    
+    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
+  </div><nav>
+  
+  <ul class='ez-toc-list ez-toc-list-level-1' >
+    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
+      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/unrighteous-anger-yoda-jonah-nahum-and-us/#INTRODUCTION" title="INTRODUCTION">INTRODUCTION</a>
+    </li>
+    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
+      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/unrighteous-anger-yoda-jonah-nahum-and-us/#YODA_DOES_RIGHTEOUS_ANGER_EXIST" title="YODA, DOES RIGHTEOUS ANGER EXIST?">YODA, DOES RIGHTEOUS ANGER EXIST?</a>
+    </li>
+    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
+      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/unrighteous-anger-yoda-jonah-nahum-and-us/#JONAH_ARE_YOU_REALLY_SO_VERY_ANGRY" title="JONAH, ARE YOU REALLY SO VERY ANGRY?">JONAH, ARE YOU REALLY SO VERY ANGRY?</a>
+    </li>
+    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
+      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/unrighteous-anger-yoda-jonah-nahum-and-us/#NAHUM_WHY_IS_GOD_SO_ANGRY" title="NAHUM, WHY IS GOD SO ANGRY?">NAHUM, WHY IS GOD SO ANGRY?</a>
+    </li>
+    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
+      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/unrighteous-anger-yoda-jonah-nahum-and-us/#HOW_THEN_SHOULD_WE_BE_ANGRY" title="HOW, THEN, SHOULD WE BE ANGRY?">HOW, THEN, SHOULD WE BE ANGRY?</a>
+    </li>
+  </ul></nav>
+</div>
+
+# <span class="ez-toc-section" id="INTRODUCTION"></span>INTRODUCTION<span class="ez-toc-section-end"></span>
+
+<img decoding="async" loading="lazy" class="alignright" id="i-2631" style="margin-top:.4em;" alt="Image" src="https://joshuapsteele.com/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg?w=590" width="354" height="260" /> 
+
+<p dir="ltr">
+  A great green theologian of old claimed that anger is based on fear, that it leads to hatred, and results in suffering. And while I do not wish to disregard the wisdom of a long time ago in a galaxy far, far away, I would like to take a closer look at anger as discussed in Scripture, and to consider what makes certain instances of anger righteous or unrighteous, legitimate or illegitimate.
+</p>
+
+This is a question that has been on my mind throughout my final year at Cedarville University. After hearing of a few rumblings at the end of my Junior year, I left for the summer and got myself married. When my feet finally touched the ground at the beginning of term, my university felt like a battlefield. I heard that Michael Pahl had been “reviewed” and then fired over the summer months. Others were being reviewed to see if they really did toe the doctrinal line, or if they were guilty of mind crimes against the thought police. And things didn’t get any better from there.
+
+I saw the havoc that the Cedarville environment was wreaking on my mentors, friends, and their families. My leaders got rid of and harassed beloved members of my community, and then deceptively refused to own up to their nefarious actions.
+
+[<img decoding="async" loading="lazy" class="alignleft" alt="" src="https://si0.twimg.com/profile_images/2786885016/098d40ad39a165603e09a1915c37f88a.jpeg" width="240" height="240" />][2][I got angry. I spoke up][3]. And I was convinced that my anger was righteous. Others were less convinced.
+
+Some stayed poignantly and painfully silent throughout the chaos. Others repeatedly gave platitudes that everything was OK, that we were obligated to trust our leaders, that to question their actions was inherently disrespectful. And some from this latter group met my kind of anger with their own frustration and anger that I dared to criticize their beloved Cedarville.
+
+I’d love to say that I met this opposition with nothing but grace and equanimity, but that wouldn’t be true. I frequently lashed out against these types of people &#8211; when they sent me long messages to accuse me of causing unnecessary dissentious strife, or when they parodied us student activists as complete morons with nothing better to do than cook up conspiracy theories.
+
+<p dir="ltr">
+  My university’s behavior was sickening, but these people’s behavior was infuriating. I couldn’t comprehend how they could overlook the suffering I was witnessing and try to protect people who were clearly hiding the truth. So, at times, I lashed out in frustration. And I am convinced that my anger was unrighteous. But what’s the difference between these two types of anger?
+</p>
+
+<!--more-->
+
+<p dir="ltr">
+  Before considering how we should be rightly angry, I’d like to ask three questions. The first is for our great green theologian:
+</p>
+
+# <span class="ez-toc-section" id="YODA_DOES_RIGHTEOUS_ANGER_EXIST"></span>YODA, DOES RIGHTEOUS ANGER EXIST?<span class="ez-toc-section-end"></span>
+
+<p dir="ltr">
+  According to Yoda and friends, there is no such thing as legitimate anger, at least not humanly-speaking. After all, doesn’t Proverbs (29:11, NET) say that:
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  “A fool lets fly with all his temper,
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  but a wise person keeps it back.”?
+</p>
+
+<p dir="ltr">
+  And James (1:19-20) says:
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  “Understand this, my dear brothers and sisters! Let every person be quick to listen, slow to speak, slow to anger. For human anger does not accomplish God’s righteousness.”
+</p>
+
+<p dir="ltr">
+  Or what about when Paul says (Eph 4:31-32):
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  “You must put away all bitterness, anger, wrath, quarreling, and slanderous talk—indeed all malice. Instead, be kind to one another, compassionate, forgiving one another, just as God in Christ also forgave you.”
+</p>
+
+<p dir="ltr">
+  When these verses are combined with our all-too-familiar ways of speaking about “gentle Jesus, meek and mild,” anger ends up getting quite the bad rap! Aren’t Christians supposed to “turn the other cheek” (Matt 5:39)? Aren’t we supposed to keep calm and stay in line &#8211; head down, Bible open, mouth shut?
+</p>
+
+<p dir="ltr">
+  Upon closer examination, Scripture provides a much more complex view of anger than this.
+</p>
+
+<p dir="ltr">
+  For example, consider Ephesians 4:26-27. Four verses before the command to “put away all bitterness, anger, wrath, quarreling … [and] all malice,” Paul tells the Ephesian believers to “Be angry and do not sin.” However, he then continues with the admonition to “not let the sun go down on the cause of your anger” and to “not give the devil an opportunity.”
+</p>
+
+<p dir="ltr">
+  Although Paul’s seemingly contradictory counsel here is usually used to denounce anger as an appropriate emotion, a closer analysis of these two verses in context appears to give righteous anger a legitimate place when sin infects the Christian community. That is, giving the devil a foothold could refer to either the sin which anger might produce, or to allowing the sin which caused the anger in the first place to fester, but it is not an indictment of the anger itself.
+</p>
+
+<p dir="ltr">
+  And this is probably for the best, because examples abound of Yahweh, his Son, and his servants getting quite angry!
+</p>
+
+<p dir="ltr">
+  Consider Exodus 22:22-24:
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  “You must not afflict any widow or orphan. If you afflict them in any way and they cry to me, I will surely hear their cry, and my anger will burn and I will kill you with the sword, and your wives will be widows and your children will be fatherless.
+</p>
+
+<p dir="ltr">
+  In the original Hebrew, this passage is even more intense, along the following lines: “If you afflict them <span style="text-decoration:underline;">in even the slightest way</span>, and they <span style="text-decoration:underline;">even think about crying out</span> to me, then I will <span style="text-decoration:underline;">hearingly hear</span> their cry. My <span style="text-decoration:underline;">fiery anger will burn</span>, and I will kill you with the sword, so that, in exchange, YOUR wives will be widows and YOUR children will be orphans.” So much for gentle Yahweh, meek and mild!
+</p>
+
+<p dir="ltr">
+  In the New Testament, we see that the Son of God gets angry as well. After all, when he witnesses money-changers making his Father’s holy house into a marketplace, he doesn’t calmly suggest that they leave. Instead, he makes a whip, flips their tables, scatters their coins, and drives them out of the temple! (Jn 2:13-22).
+</p>
+
+<p dir="ltr">
+  Furthermore, consider Jesus’ anger at the hypocritical practices of both the scribes and the Pharisees (Matt 23). He calls them children of hell (23:15), blind fools (23:17), whitewashed tombs (23:27), the offspring of vipers (23:33), and descendants of those who murdered the prophets (23:31)!
+</p>
+
+<p dir="ltr">
+  And speaking of the prophets, as some of Yahweh’s most faithful servants in the midst of faithless generations, they got quite angry themselves! Examples abound, but one of my personal favorites is Amos 7:16-17, the prophet Amos’s response to being told by Amaziah not to preach against Jeroboam and Israel:
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  So now listen to the Lord’s message! You say, ‘Don’t prophesy against Israel! Don’t preach against the family of Isaac!’
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  “Therefore this is what the Lord says:
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  ‘Your wife will become a prostitute in the streets
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  and your sons and daughters will die violently.
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  Your land will be given to others
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  and you will die in a foreign land.
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  Israel will certainly be carried into exile away from its land.’”
+</p>
+
+<p dir="ltr">
+  Based on the behavior of Yahweh, Jesus, and the prophets, it seems that we should reconsider Yoda’s position and at least acknowledge that righteous anger exists. In at least some circumstances, it is possible to be angry and please God.
+</p>
+
+<p dir="ltr">
+  Our second question, then, is for the most successful Hebrew prophet, who got angry for all the wrong reasons:
+</p>
+
+<h1 style="text-align:left;">
+  <span class="ez-toc-section" id="JONAH_ARE_YOU_REALLY_SO_VERY_ANGRY"></span>JONAH, ARE YOU REALLY SO VERY ANGRY?<span class="ez-toc-section-end"></span>
+</h1>
+
+<h1 style="text-align:left;">
+  <img decoding="async" class="alignleft" alt="" src="http://upload.wikimedia.org/wikipedia/en/thumb/1/17/Jonah-_A_VeggieTales_Movie.jpg/220px-Jonah-_A_VeggieTales_Movie.jpg" />
+</h1>
+
+<p dir="ltr">
+  I’m presupposing that you all know the basic story of Jonah. You know, the bit about how he refuses to go to the Assyrian capital (Nineveh), gets himself cast into the sea and swallowed by a huge fish, and eventually goes to preach a one sentence prophetic message that turns out to be remarkably successful &#8211; everyone from the Ninevite king to the Ninevite cattle repented in sackcloth!
+</p>
+
+<p dir="ltr">
+  However, the book of Jonah is a much richer literary work than we often give it credit. As just one example out of many ingenious literary moves in the book, us readers never find out Jonah’s motivation for his disobedience, reluctance, and frustration until the fourth and final chapter. As was read earlier, Nineveh’s repentance and Yahweh’s relent from judgment&#8230;(Jonah 4:1-4)
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  displeased Jonah terribly and he became very angry. He prayed to the Lord and said, “Oh, Lord, this is just what I thought would happen when I was in my own country. This is what I tried to prevent by attempting to escape to Tarshish!—
+</p>
+
+<p dir="ltr">
+  What Jonah has to say next, however, is even more shocking!
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  because I knew that you are gracious and compassionate, slow to anger and abounding in mercy, and one who relents concerning threatened judgment. So now, Lord, kill me instead, because I would rather die than live!”
+</p>
+
+<p dir="ltr">
+  Jonah’s not angry because of injustice or even inconvenience&#8230;he’s angry because of God’s mercy or <span style="text-decoration:underline;"><em>hesed</em></span>: his gracious, compassionate, relenting, merciful, and steadfast love! But before we consider the heinous nature of such anger, let’s note that this is a theologically astute observation on Jonah’s part. He’s quoting a creed which gets at the heart of who Yahweh is:
+</p>
+
+<p dir="ltr">
+  Consider Exodus 34:6
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  The Lord passed by before him and proclaimed: “The Lord, the Lord, the compassionate and gracious God, slow to anger, and abounding in loyal love (hesed) and faithfulness,
+</p>
+
+<p dir="ltr">
+  Nehemiah 9:17
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  But you are a God of forgiveness, merciful and compassionate, slow to get angry and unfailing in your loyal love (hesed).
+</p>
+
+<p dir="ltr">
+  Psalm 86:15
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  But you, O Lord, are a compassionate and merciful God.
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  You are patient and demonstrate great loyal love (hesed) and faithfulness.
+</p>
+
+<p dir="ltr">
+  Joel 2:13
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  Return to the Lord your God,
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  for he is merciful and compassionate,
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  slow to anger and boundless in loyal love—often relenting from calamitous punishment.
+</p>
+
+<p dir="ltr">
+  Yahweh is slow to anger (literally “long of nostrils,” picture the deep sigh you give when someone frustrates you) and abounding in <em>hesed</em>, which predisposes him toward mercy, compassion, and even relenting from judgment, as he had just done with the Ninevites. And THIS is what makes Jonah so upset.
+</p>
+
+<p dir="ltr">
+  Instead of being joyful at the broad scope of the Gospel as God’s redemptive mission, at the remarkable success of his brief prophetic endeavor, and at the complete repentance of the Ninevite people, Jonah is furious because God has broken his mold. Yahweh had chosen to relent and to redeem the Ninevite other, and for Jonah, this was simply unacceptable.
+</p>
+
+<p dir="ltr">
+  Yahweh’s first rhetorical question, “Are you really so very angry?” (4:4) fails to bring Jonah around. And things get even worse. Jonah goes to sit and see what would happen to Nineveh. God sends a <em>qiqayon</em>, a little plant, to provide shade for the ornery prophet, and Jonah was very delighted. However, Yahweh the masterful teacher then sends a worm to devour the plant and a hot east wind to make Jonah faint. True to form, Jonah again cries out in anger: “I would rather die than live!” (4:8).
+</p>
+
+<p dir="ltr">
+  Yahweh challenges Jonah again: “Are you really (or rightly) so very angry about the little plant?” Jonah replies: “I have good reason to be angry, even to death (NASB or) I am as angry as I could possibly be!” (4:9).
+</p>
+
+<p dir="ltr">
+  Then Yahweh brings the lesson home with force: “You had compassion on the plant for which you did not work and which you did not cause to grow, which came up overnight and perished overnight. 11 Should I not have compassion on Nineveh, the great city (implied: for which I worked and which I caused to grow!) in which there are more than 120,000 persons who do not know the difference between their right and left hand, as well as many animals? (4:10-11, NASB)”
+</p>
+
+<p dir="ltr">
+  Jonah’s anger was unrighteous in that it was a self-centered hindrance to God’s mission. By scorning Yahweh’s mercy and ignoring the broad scope of his redemptive <em>hesed</em> love, Jonah disdained the repentance of the Ninevite other. He got angry for all the wrong reasons. And yet his failures are a powerful indictment against our own. After all, at least 90% of my anger is driven by selfish concerns. It’s not even an “us vs. them” moment most of the time. It’s usually ME vs. everyone else! and I can’t often care any LESS about God’s redemptive mission, as long as the checkout line’s moving too slowly for my liking, as long as the car in front of me just cut me off, as long as there’s someone on the internet with whom I disagree!
+</p>
+
+<p dir="ltr">
+  If it’s so easy to fall into Jonah-like frustration, is there any hope left for righteous anger?
+</p>
+
+<p dir="ltr">
+  Let’s ask the prophet who got to preach Jonah’s dream message against Nineveh:
+</p>
+
+# <span class="ez-toc-section" id="NAHUM_WHY_IS_GOD_SO_ANGRY"></span>NAHUM, WHY IS GOD SO ANGRY?<img decoding="async" loading="lazy" class="alignright" alt="File:Nahum-prophet.jpg" src="http://upload.wikimedia.org/wikipedia/commons/7/74/Nahum-prophet.jpg" width="259" height="300" /><span class="ez-toc-section-end"></span>
+
+<p dir="ltr">
+  In the seventh century BC, Nahum got to preach the prophetic oracles against Nineveh that Jonah had wanted to utter. Apparently, although Nineveh and the Assyrians had been used by God as an instrument of judgment in the eighth century exile, they had grown prideful of their vicious pursuits. Drunk with the blood of their victims, the Assyrians paid no mind to Yahweh who had allowed them to thrive. This brought about a change in the divine approach to the Assyrian empire. We can see this in Nahum’s modification of the traditional credal statement mentioned above. Let’s take another look at Nahum 1:2-3:
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  The Lord is a zealous and avenging God;
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  the Lord is avenging and very angry.
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  The Lord takes vengeance against his foes;
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  he sustains his rage against his enemies.
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  3 The Lord is slow to anger but great in power;
+</p>
+
+<p dir="ltr" style="padding-left:30px;">
+  the Lord will certainly not allow the wicked to go unpunished.
+</p>
+
+<p dir="ltr">
+  If you’ll compare Nahum 1:3 with Jonah 4:2, you’ll see what I mean. Although the traditional form is “Yahweh is slow to anger, but great in <em>hesed</em>,” Nahum switches <span style="text-decoration:underline;"><em>hesed</em></span><em> </em>out with <span style="text-decoration:underline;"><em>power</em></span>. No longer would the vicious Assyrians experience the merciful and steadfast love of Yahweh. As <a href="https://net.bible.org/#!bible/Nahum+1:3">one commentator puts it</a>, “God’s patience at the time of Jonah one century earlier had run out. Nineveh had exhausted the “great mercy” of God and now would experience the “great power” of God.&#8221; The rest of the book of Nahum is a series of oracles describing exactly what this would mean.
+</p>
+
+<p dir="ltr">
+  I believe that Nahum’s devastating oracles against Nineveh were important to the Hebrew mindset because they preserved Yahweh’s powerful justice as the counterpoint to the themes of merciful universalism in books like Jonah. Nahum’s relationship to Jonah is a bit like the relationship of Job and Ecclesiastes to Proverbs. The former provide important theological counterpoints to the latter books. In Jonah, Yahweh desires to teach the arrogant Hebrew prophet a lesson about the scope of the divine mission of mercy and redemption. Although it’s understandable why Jonah would have been hesitant to see Nineveh repent and be delivered from judgment (given Assyria’s messy relationship with Israel), Yahweh wanted to show Jonah that NO ONE was outside of his mercy’s reach. In fact, sometimes Ninevites repent better than God’s chosen people!
+</p>
+
+<p dir="ltr">
+  But what about when the Ninevites are consistently guilty of atrocities against God’s people? Sure, that doesn&#8217;t mean Israel should go all Jonah on them and discount the possibility of repentance/deliverance ever occurring, but what about on God’s end of the deal? Is he so merciful that he no longer cares about injustice? Is he getting soft? Turning into some passive nice guy who’s only mildly bothered by things like slaughter and oppression?
+</p>
+
+<p dir="ltr">
+  Books like Nahum answer those kind of painful questions cried out by victims of oppression:
+</p>
+
+<p dir="ltr">
+  No. Yahweh is not complacent when it comes to heinous sin. In fact, he hates it more than any human possibly could. This does not negate his mercy &#8211; the message of Jonah still stands &#8211; but he is not a passive onlooker when it comes to Sin and Death and those who enact them. He is a mighty warrior on a mission of redemption and deliverance, especially when it comes to the powerless and the oppressed. This theme echoes throughout the pages of Scripture, from the Exodus to the Cross to the coming Kingdom. The righteous anger of Yahweh is redemptive, and it usually focuses on the mistreatment of the weak.
+</p>
+
+# <span class="ez-toc-section" id="HOW_THEN_SHOULD_WE_BE_ANGRY"></span>HOW, THEN, SHOULD WE BE ANGRY?<span class="ez-toc-section-end"></span>
+
+<p dir="ltr">
+  If Yoda, Jonah, and Nahum have taught us anything, we should acknowledge that the crucial difference between righteous and unrighteous anger is whether it helps or hinders God’s redemptive mission, the Gospel. It’s important, then, that we sit long with Scripture and the Church in order to better know what the Gospel really is. The more clearly we understand the foundational Gospel principles of things like <em>shalom</em> peace, <em>hesed</em> love, and <em>mishpat</em> justice, the more likely it is that we’ll recognize the appropriate things to get angry about. As we become more familiar with God’s redemptive mission, we should gently remind Yoda and others that there is indeed a place for anger which is pleasing to God.
+</p>
+
+<p dir="ltr">
+  Furthermore, we should heed the warnings of Jonah’s failures, lest our anger be just as self-centered and Gospel-opposed as his was. After all, we can ALWAYS stumble down Jonah’s path. When it comes to my anger against my alma mater and my online detractors, as much as I’d like to paint the unjust fundamentalists as the Jonahs of the story… I’m just as much like Jonah when I refuse to believe that God can work through them, when I place them outside of the scope of God’s redemptive mission. We do well to consider continually whether our anger is stubbornly self-centered, and to remind ourselves that Yahweh is (insert deep, calming sigh) slow to anger and abounding in hesed. The people of God should strive to exemplify the same attributes.
+</p>
+
+<p dir="ltr">
+  However, Nahum reminds us that God will not be mocked. He takes oppressive opposition to his redemptive mission very seriously, and the divine warrior’s wrath is kindled when Sin and Death rear their ugly heads in this world. He rages against the violence, poverty, famine, hunger, disease, disasters, and indifference which kill untold millions of his precious image-bearers each year. His fiery anger burns when <a href="http://en.wikipedia.org/wiki/Sex-selective_abortion">baby girls are killed for nothing more than their gender</a>, when <a href="http://en.wikipedia.org/wiki/2013_Savar_building_collapse">people die amid the rubble of poorly-built factories for the sake of corporate greed</a> &#8211; the idols of wealth and power, when <a href="http://en.wikipedia.org/wiki/HIV/AIDS">children have to witness their parents die from HIV/AIDS</a>, not knowing how long they and their siblings have before the disease takes their lives as well. If these things do not anger us, something is wrong.
+</p>
+
+<p dir="ltr">
+  But perhaps the most infuriating thing to Yahweh is when those who have been redeemed in and through his precious Son commit injustices in his holy name! I can only imagine how angry it makes God that his people treat others as inferior beings &#8211; be it <a href="http://dannimoss.wordpress.com/2008/02/25/paige-patterson-on-domestic-violence/">women</a>, or <a href="http://www.splcenter.org/get-informed/intelligence-report/browse-all-issues/2006/winter/christian-nativism#.UZgp2LWG3ng">immigrants</a>, or <a href="http://www.godhatesfags.com/">homosexuals</a>, or <a href="http://www.biblerays.com/race-mixing.html">other races</a>, or the poor &#8211; for the sake of a pretentious and profane pride they DARE to call holiness.
+</p>
+
+<p dir="ltr">
+  Or what about the divine heartbreak over the fragmentation of the Church? Can you imagine how much it upsets God when his people split for every little reason, in pursuit of supposed “purity,” ignoring that the goal of his redemptive mission is to reconcile all things to himself, to make us ONE in Christ?
+</p>
+
+<p dir="ltr">
+  To bring this closer to home, can you imagine how much it upsets God that <a href="http://storify.com/fiatlux125/cedarville-2012-2013/">my university</a>, which claims to exist “For the Word of God and the testimony of Jesus Christ,” has repeatedly shown itself willing to mistreat godly people and then to lie about it? That the leaders of Cedarville are willing to buy the silence of the mistreated through non-disclosure agreements? That they are willing to appeal to God’s knowledge by using platitudes like “God is not surprised” to justify their actions against those who have less power? What happened to Michael Pahl and his family, <a href="http://storify.com/fiatlux125/cedarville-2012-2013/">in addition to many others this year within the Cedarville community</a> at the hands of those who claim Christ’s name has been appallingly shameful.
+</p>
+
+<p dir="ltr">
+  My brothers and sisters, we serve a God who is slow to anger and abounding in steadfast, merciful, and compassionate love. Let us not forget these things. May we, as God’s people, always be driven by the logic of his redemptive love.
+</p>
+
+<p dir="ltr">
+  But Yahweh is also immensely powerful and passionate, and often very angry about the effects of Sin and Death around the world and among his people. Therefore, let us not sin in our anger, as we are prone to do, but let us oppose sin in our righteous anger, with our eyes and our hearts turned toward the powerless, oppressed, sick, broken, and dying of this world as we further Yahweh’s redemptive mission and accomplish the righteousness of God.
+</p>
+
+<p dir="ltr">
+  Amen.
+</p>
+
+ [1]: http://www.biblegateway.com/passage/?search=Jonah%203:5-10;%204:1-11;%20Nahum%201:1-8&version=NET
+ [2]: http://fiatlux125.wordpress.com/
+ [3]: https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/
