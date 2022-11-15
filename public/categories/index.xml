@@ -1,135 +1,135 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Joshua P. Steele</title>
+    <link>https://jsteelepfpt.github.io/categories/</link>
+    <description>Recent content in Categories on Joshua P. Steele</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2022 20:10:02 +0000</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2022 20:10:02 +0000</lastBuildDate><atom:link href="https://jsteelepfpt.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Uncategorized</title>
-      <link>http://example.org/categories/uncategorized/</link>
+      <link>https://jsteelepfpt.github.io/categories/uncategorized/</link>
       <pubDate>Tue, 08 Nov 2022 20:10:02 +0000</pubDate>
       
-      <guid>http://example.org/categories/uncategorized/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/uncategorized/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Productivity and Time Management</title>
-      <link>http://example.org/categories/productivity-and-time-management/</link>
+      <link>https://jsteelepfpt.github.io/categories/productivity-and-time-management/</link>
       <pubDate>Tue, 08 Nov 2022 19:40:28 +0000</pubDate>
       
-      <guid>http://example.org/categories/productivity-and-time-management/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/productivity-and-time-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ministry</title>
-      <link>http://example.org/categories/ministry/</link>
+      <link>https://jsteelepfpt.github.io/categories/ministry/</link>
       <pubDate>Thu, 07 Oct 2021 11:52:40 +0000</pubDate>
       
-      <guid>http://example.org/categories/ministry/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/ministry/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>http://example.org/categories/personal/</link>
+      <link>https://jsteelepfpt.github.io/categories/personal/</link>
       <pubDate>Tue, 19 Jan 2021 22:34:46 +0000</pubDate>
       
-      <guid>http://example.org/categories/personal/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sermons</title>
-      <link>http://example.org/categories/sermons/</link>
+      <link>https://jsteelepfpt.github.io/categories/sermons/</link>
       <pubDate>Sat, 28 Nov 2020 00:22:13 +0000</pubDate>
       
-      <guid>http://example.org/categories/sermons/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/sermons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dissertation</title>
-      <link>http://example.org/categories/dissertation/</link>
+      <link>https://jsteelepfpt.github.io/categories/dissertation/</link>
       <pubDate>Wed, 25 Nov 2020 18:09:02 +0000</pubDate>
       
-      <guid>http://example.org/categories/dissertation/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/dissertation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opinion</title>
-      <link>http://example.org/categories/opinion/</link>
+      <link>https://jsteelepfpt.github.io/categories/opinion/</link>
       <pubDate>Thu, 02 Jul 2020 11:00:53 +0000</pubDate>
       
-      <guid>http://example.org/categories/opinion/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/opinion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Christian Life</title>
-      <link>http://example.org/categories/the-christian-life/</link>
+      <link>https://jsteelepfpt.github.io/categories/the-christian-life/</link>
       <pubDate>Sat, 20 Jun 2020 17:01:31 +0000</pubDate>
       
-      <guid>http://example.org/categories/the-christian-life/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/the-christian-life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Miscellaneous</title>
-      <link>http://example.org/categories/miscellaneous/</link>
+      <link>https://jsteelepfpt.github.io/categories/miscellaneous/</link>
       <pubDate>Mon, 01 Jun 2020 12:00:51 +0000</pubDate>
       
-      <guid>http://example.org/categories/miscellaneous/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/miscellaneous/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Church and Theology</title>
-      <link>http://example.org/categories/church-and-theology/</link>
+      <link>https://jsteelepfpt.github.io/categories/church-and-theology/</link>
       <pubDate>Thu, 21 May 2020 20:21:06 +0000</pubDate>
       
-      <guid>http://example.org/categories/church-and-theology/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/church-and-theology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bible and Scripture</title>
-      <link>http://example.org/categories/bible-and-scripture/</link>
+      <link>https://jsteelepfpt.github.io/categories/bible-and-scripture/</link>
       <pubDate>Wed, 27 Nov 2019 12:46:52 +0000</pubDate>
       
-      <guid>http://example.org/categories/bible-and-scripture/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/bible-and-scripture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theology</title>
-      <link>http://example.org/categories/theology/</link>
+      <link>https://jsteelepfpt.github.io/categories/theology/</link>
       <pubDate>Mon, 18 Nov 2019 20:31:52 +0000</pubDate>
       
-      <guid>http://example.org/categories/theology/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/theology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anglicanism</title>
-      <link>http://example.org/categories/anglicanism/</link>
+      <link>https://jsteelepfpt.github.io/categories/anglicanism/</link>
       <pubDate>Thu, 26 Sep 2019 09:00:18 +0000</pubDate>
       
-      <guid>http://example.org/categories/anglicanism/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/anglicanism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pastoral Ministry</title>
-      <link>http://example.org/categories/pastoral-ministry/</link>
+      <link>https://jsteelepfpt.github.io/categories/pastoral-ministry/</link>
       <pubDate>Wed, 30 Jan 2019 14:31:31 +0000</pubDate>
       
-      <guid>http://example.org/categories/pastoral-ministry/</guid>
+      <guid>https://jsteelepfpt.github.io/categories/pastoral-ministry/</guid>
       <description></description>
     </item>
     
