@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Race on My New Hugo Site</title>
+    <link>http://example.org/tags/race/</link>
+    <description>Recent content in Race on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 12:00:51 +0000</lastBuildDate><atom:link href="http://example.org/tags/race/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Letter to Fellow ACNA Clergy: On Anti-Racism and a More Diverse and Just Anglicanism</title>
+      <link>http://example.org/anti-racism-letter-to-fellow-acna-clergy/</link>
+      <pubDate>Mon, 01 Jun 2020 12:00:51 +0000</pubDate>
+      
+      <guid>http://example.org/anti-racism-letter-to-fellow-acna-clergy/</guid>
+      <description>Following the lead of bishops Jim Hobby, Todd Hunter, Stewart Ruch III, and Steve Wood, who recently wrote in response to the death of George Floyd, which gained support from a number of other bishops, we offer this open letter to our fellow ACNA clergy and to the churches under our care. Whether you’re ACNA clergy, a layperson, or a Christian leader outside the ACNA, we invite your consideration of the following and your signature in support.</description>
+    </item>
+    
+  </channel>
+</rss>

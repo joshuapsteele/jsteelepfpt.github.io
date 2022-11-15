@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>how to think on My New Hugo Site</title>
+    <link>http://example.org/tags/how-to-think/</link>
+    <description>Recent content in how to think on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Nov 2019 15:26:29 +0000</lastBuildDate><atom:link href="http://example.org/tags/how-to-think/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Damer’s “Code of Intellectual Conduct”</title>
+      <link>http://example.org/damers-code-of-intellectual-conduct/</link>
+      <pubDate>Tue, 19 Nov 2019 15:26:29 +0000</pubDate>
+      
+      <guid>http://example.org/damers-code-of-intellectual-conduct/</guid>
+      <description>This code of conduct very much relates to Rapoport’s Rules, Adler’s advice, and Alan Jacobs’s “The Thinking Person’s Checklist.”
+SOURCE: T. Edward Damer, Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments, 6th ed (Australia ; Belmont, CA: Wadsworth/Cengage Learning, 2009), 7–8.
+1. The Fallibility Principle 2. The Truth-Seeking Principle 3. The Clarity Principle In the seventh edition, the following is added:
+4. The Burden-of-Proof Principle 5. The Principle of Charity 6.</description>
+    </item>
+    
+    <item>
+      <title>Alan Jacobs’s “The Thinking Person’s Checklist”</title>
+      <link>http://example.org/alan-jacobss-the-thinking-persons-checklist/</link>
+      <pubDate>Mon, 18 Nov 2019 15:03:16 +0000</pubDate>
+      
+      <guid>http://example.org/alan-jacobss-the-thinking-persons-checklist/</guid>
+      <description>The following checklist, found on pages 155–56 of Alan Jacobs’s excellent book, How to Think: A Survival Guide for a World at Odds (affiliate link), is a worthy addition to “Rapoport’s Rules” and “Adler’s Advice” (mentioned in my previous post, “Help me come up with ‘rules for conversation’!”).
+Emphasis added in bold.
+When faced with provocation to respond to what someone has said, give it five minutes. Take a walk, or weed the garden, or chop some vegetables.</description>
+    </item>
+    
+  </channel>
+</rss>

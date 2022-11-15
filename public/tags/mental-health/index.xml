@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mental health on My New Hugo Site</title>
+    <link>http://example.org/tags/mental-health/</link>
+    <description>Recent content in mental health on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Sep 2020 17:19:39 +0000</lastBuildDate><atom:link href="http://example.org/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It’s Time to Get Some Help</title>
+      <link>http://example.org/its-time-to-get-some-help/</link>
+      <pubDate>Wed, 02 Sep 2020 17:19:39 +0000</pubDate>
+      
+      <guid>http://example.org/its-time-to-get-some-help/</guid>
+      <description>Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.
+Sure, I’ve still been able to get out of bed in the morning. And I wasn’t having any serious thoughts about hurting myself. But still, I was feeling hopeless and trapped often enough that I decided it was time to seek out help.
+I know, I know. That’s pretty personal for a blog post for the whole internet to read!</description>
+    </item>
+    
+  </channel>
+</rss>

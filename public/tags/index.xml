@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Nov 2022 20:10:02 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>questions</title>
+      <link>http://example.org/tags/questions/</link>
+      <pubDate>Tue, 08 Nov 2022 20:10:02 +0000</pubDate>
+      
+      <guid>http://example.org/tags/questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>abuse</title>
+      <link>http://example.org/tags/abuse/</link>
+      <pubDate>Thu, 07 Oct 2021 11:52:40 +0000</pubDate>
+      
+      <guid>http://example.org/tags/abuse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>churches</title>
+      <link>http://example.org/tags/churches/</link>
+      <pubDate>Thu, 07 Oct 2021 11:52:40 +0000</pubDate>
+      
+      <guid>http://example.org/tags/churches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>local churches</title>
+      <link>http://example.org/tags/local-churches/</link>
+      <pubDate>Thu, 07 Oct 2021 11:52:40 +0000</pubDate>
+      
+      <guid>http://example.org/tags/local-churches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ministry</title>
+      <link>http://example.org/tags/ministry/</link>
+      <pubDate>Thu, 07 Oct 2021 11:52:40 +0000</pubDate>
+      
+      <guid>http://example.org/tags/ministry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>safety</title>
+      <link>http://example.org/tags/safety/</link>
+      <pubDate>Thu, 07 Oct 2021 11:52:40 +0000</pubDate>
+      
+      <guid>http://example.org/tags/safety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>advent</title>
+      <link>http://example.org/tags/advent/</link>
+      <pubDate>Sat, 28 Nov 2020 00:22:13 +0000</pubDate>
+      
+      <guid>http://example.org/tags/advent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>isaiah</title>
+      <link>http://example.org/tags/isaiah/</link>
+      <pubDate>Sat, 28 Nov 2020 00:22:13 +0000</pubDate>
+      
+      <guid>http://example.org/tags/isaiah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opinion</title>
+      <link>http://example.org/tags/opinion/</link>
+      <pubDate>Fri, 04 Sep 2020 13:57:32 +0000</pubDate>
+      
+      <guid>http://example.org/tags/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mental health</title>
+      <link>http://example.org/tags/mental-health/</link>
+      <pubDate>Wed, 02 Sep 2020 17:19:39 +0000</pubDate>
+      
+      <guid>http://example.org/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>prayer</title>
+      <link>http://example.org/tags/prayer/</link>
+      <pubDate>Sun, 30 Aug 2020 13:03:34 +0000</pubDate>
+      
+      <guid>http://example.org/tags/prayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social media</title>
+      <link>http://example.org/tags/social-media/</link>
+      <pubDate>Wed, 19 Aug 2020 15:52:45 +0000</pubDate>
+      
+      <guid>http://example.org/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>http://example.org/tags/research/</link>
+      <pubDate>Thu, 13 Aug 2020 21:40:06 +0000</pubDate>
+      
+      <guid>http://example.org/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>http://example.org/tags/writing/</link>
+      <pubDate>Thu, 13 Aug 2020 21:40:06 +0000</pubDate>
+      
+      <guid>http://example.org/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reading</title>
+      <link>http://example.org/tags/reading/</link>
+      <pubDate>Sun, 05 Jul 2020 21:08:43 +0000</pubDate>
+      
+      <guid>http://example.org/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anglican Compass</title>
+      <link>http://example.org/tags/anglican-compass/</link>
+      <pubDate>Thu, 02 Jul 2020 11:00:53 +0000</pubDate>
+      
+      <guid>http://example.org/tags/anglican-compass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>women&#39;s ordination</title>
+      <link>http://example.org/tags/womens-ordination/</link>
+      <pubDate>Thu, 02 Jul 2020 11:00:53 +0000</pubDate>
+      
+      <guid>http://example.org/tags/womens-ordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bible</title>
+      <link>http://example.org/tags/bible/</link>
+      <pubDate>Sat, 20 Jun 2020 17:01:31 +0000</pubDate>
+      
+      <guid>http://example.org/tags/bible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>racism</title>
+      <link>http://example.org/tags/racism/</link>
+      <pubDate>Sat, 20 Jun 2020 17:01:31 +0000</pubDate>
+      
+      <guid>http://example.org/tags/racism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theology</title>
+      <link>http://example.org/tags/theology/</link>
+      <pubDate>Sat, 20 Jun 2020 17:01:31 +0000</pubDate>
+      
+      <guid>http://example.org/tags/theology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sermons</title>
+      <link>http://example.org/tags/sermons/</link>
+      <pubDate>Sun, 07 Jun 2020 13:02:06 +0000</pubDate>
+      
+      <guid>http://example.org/tags/sermons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Race</title>
+      <link>http://example.org/tags/race/</link>
+      <pubDate>Mon, 01 Jun 2020 12:00:51 +0000</pubDate>
+      
+      <guid>http://example.org/tags/race/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anglican</title>
+      <link>http://example.org/tags/anglican/</link>
+      <pubDate>Thu, 21 May 2020 20:21:06 +0000</pubDate>
+      
+      <guid>http://example.org/tags/anglican/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>women&amp;amp;apos;s ordination</title>
+      <link>http://example.org/tags/womenampaposs-ordination/</link>
+      <pubDate>Thu, 21 May 2020 20:21:06 +0000</pubDate>
+      
+      <guid>http://example.org/tags/womenampaposs-ordination/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>copywriting</title>
+      <link>http://example.org/tags/copywriting/</link>
+      <pubDate>Thu, 16 Apr 2020 14:06:29 +0000</pubDate>
+      
+      <guid>http://example.org/tags/copywriting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barth</title>
+      <link>http://example.org/tags/barth/</link>
+      <pubDate>Fri, 03 Apr 2020 13:38:27 +0000</pubDate>
+      
+      <guid>http://example.org/tags/barth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bonhoeffer</title>
+      <link>http://example.org/tags/bonhoeffer/</link>
+      <pubDate>Fri, 03 Apr 2020 13:38:27 +0000</pubDate>
+      
+      <guid>http://example.org/tags/bonhoeffer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>religion</title>
+      <link>http://example.org/tags/religion/</link>
+      <pubDate>Fri, 03 Apr 2020 13:38:27 +0000</pubDate>
+      
+      <guid>http://example.org/tags/religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book of common prayer</title>
+      <link>http://example.org/tags/book-of-common-prayer/</link>
+      <pubDate>Mon, 02 Mar 2020 21:35:28 +0000</pubDate>
+      
+      <guid>http://example.org/tags/book-of-common-prayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sermon on the Mount</title>
+      <link>http://example.org/tags/sermon-on-the-mount/</link>
+      <pubDate>Wed, 27 Nov 2019 12:46:52 +0000</pubDate>
+      
+      <guid>http://example.org/tags/sermon-on-the-mount/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how to think</title>
+      <link>http://example.org/tags/how-to-think/</link>
+      <pubDate>Tue, 19 Nov 2019 15:26:29 +0000</pubDate>
+      
+      <guid>http://example.org/tags/how-to-think/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenson</title>
+      <link>http://example.org/tags/jenson/</link>
+      <pubDate>Tue, 12 Nov 2019 21:35:32 +0000</pubDate>
+      
+      <guid>http://example.org/tags/jenson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romans</title>
+      <link>http://example.org/tags/romans/</link>
+      <pubDate>Fri, 09 Aug 2019 15:21:55 +0000</pubDate>
+      
+      <guid>http://example.org/tags/romans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>essay</title>
+      <link>http://example.org/tags/essay/</link>
+      <pubDate>Tue, 07 May 2019 15:51:49 +0000</pubDate>
+      
+      <guid>http://example.org/tags/essay/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

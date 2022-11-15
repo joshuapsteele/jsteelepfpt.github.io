@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Theology on My New Hugo Site</title>
+    <link>http://example.org/categories/theology/</link>
+    <description>Recent content in Theology on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2019 20:31:52 +0000</lastBuildDate><atom:link href="http://example.org/categories/theology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taking Scripture and Women’s Ordination Seriously: A Response to Blake Johnson and Lee Nelson</title>
+      <link>http://example.org/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/</link>
+      <pubDate>Mon, 18 Nov 2019 20:31:52 +0000</pubDate>
+      
+      <guid>http://example.org/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/</guid>
+      <description>Editor’s Note: Thank you to the Rev. Dr. Emily McGowin for writing this rejoinder to Fr. Blake Johnson’s and Fr. Lee Nelson’s responses to her original blog post about the in persona Christi argument against women’s ordination. While we invite this conversation (about McGowin’s original blog post) to continue in our comments section and elsewhere—and we plan to publish more about women’s ordination in the future—we will not be adding surrejoinder blog posts.</description>
+    </item>
+    
+    <item>
+      <title>If Women Can Be Saved, Then Women Can Be Priests: A Critique of the “in persona Christi” Argument Against Women’s Ordination</title>
+      <link>http://example.org/if-women-can-be-saved-then-women-can-be-priests/</link>
+      <pubDate>Thu, 26 Sep 2019 09:00:18 +0000</pubDate>
+      
+      <guid>http://example.org/if-women-can-be-saved-then-women-can-be-priests/</guid>
+      <description>Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.
+After reading this piece, please see Lee Nelson’s response and Emily McGowin’s rejoinder.
+The connection between christology and soteriology A cornerstone of orthodox Christian theology is summed up in the phrase “what is not assumed is not healed”.</description>
+    </item>
+    
+  </channel>
+</rss>

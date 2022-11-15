@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>religion on My New Hugo Site</title>
+    <link>http://example.org/tags/religion/</link>
+    <description>Recent content in religion on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Apr 2020 13:38:27 +0000</lastBuildDate><atom:link href="http://example.org/tags/religion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Want a taste of what my dissertation is about? Read these two passages (Dissertation Dispatch, 2020-04-03)</title>
+      <link>http://example.org/want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03/</link>
+      <pubDate>Fri, 03 Apr 2020 13:38:27 +0000</pubDate>
+      
+      <guid>http://example.org/want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03/</guid>
+      <description>What does “religion” mean? Great question! I’m writing my dissertation on Barth, Bonhoeffer, the Bible, and “religion.” However, getting clear on just what Barth and Bonhoeffer meant by “religion” is a huge challenge. It’s what I devoted my entire writing sample to examining, and I plan to devote an entire chapter of my dissertation to the topic.
+Neither Barth nor Bonhoeffer used the word “religion” in the way that we’re prone to use the word in everyday speech today.</description>
+    </item>
+    
+    <item>
+      <title>To Be or Not To Be Religious: A Clarification of Karl Barth’s and Dietrich Bonhoeffer’s Divergence and Convergence Regarding Religion</title>
+      <link>http://example.org/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/</link>
+      <pubDate>Sat, 31 Dec 2016 18:15:34 +0000</pubDate>
+      
+      <guid>http://example.org/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/</guid>
+      <description>(Note: Read more about my work on Barth, Bonhoeffer, and the Bible here.)
+Christian theologians Karl Barth (1886-1968) and Dietrich Bonhoeffer (1906-1945) inherited a particular understanding of religion. In the broadly post-Kantian milieu, nineteenth-century thinkers such as Friedrich Schleiermacher, Albrecht Ritschl, and Adolf von Harnack defined religion essentially, anthropologically, and subjectively. That is, religion has a particular essence, and is in some manner inalienable from our humanity. The emphasis of this conception is on the experience of the religious subject, instead of the knowledge of religion’s object (let alone its reality).</description>
+    </item>
+    
+  </channel>
+</rss>
