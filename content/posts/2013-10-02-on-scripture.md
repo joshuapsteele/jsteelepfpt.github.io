@@ -19,45 +19,8 @@ categories:
   - The Christian Life
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <ul class='ez-toc-list-level-2'>
-      <li class='ez-toc-heading-level-2'>
-        <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/on-scripture/#INTRODUCTION_THE_NATURE_OF_SCRIPTURE" title="INTRODUCTION: THE NATURE OF SCRIPTURE">INTRODUCTION: THE NATURE OF SCRIPTURE</a>
-      </li>
-      <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-        <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/on-scripture/#WHAT_SCRIPTURE_IS_FOR_CHRISTIANS" title="WHAT SCRIPTURE IS FOR CHRISTIANS">WHAT SCRIPTURE IS FOR CHRISTIANS</a>
-      </li>
-      <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-        <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/on-scripture/#How_the_Bible_Came_to_Be" title="How the Bible Came to Be">How the Bible Came to Be</a>
-      </li>
-      <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-        <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/on-scripture/#Scriptures_Proper_Interpretation_and_Role" title="Scripture&#8217;s Proper Interpretation and Role">Scripture&#8217;s Proper Interpretation and Role</a>
-      </li>
-    </ul></li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/on-scripture/#SCRIPTURES_OWN_AUTHORITY" title="SCRIPTURE&#8217;S OWN AUTHORITY">SCRIPTURE&#8217;S OWN AUTHORITY</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/on-scripture/#CONCLUSION" title="CONCLUSION">CONCLUSION</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/on-scripture/#NOTES" title="NOTES ">NOTES </a>
-    </li>
-  </ul></nav>
-</div>
-
 <h2 style="text-align: left;" align="CENTER">
-  <span class="ez-toc-section" id="INTRODUCTION_THE_NATURE_OF_SCRIPTURE"></span><span style="color: #000000;">INTRODUCTION: THE NATURE OF SCRIPTURE</span><span class="ez-toc-section-end"></span>
+  <span style="color: #000000;">INTRODUCTION: THE NATURE OF SCRIPTURE</span>
 </h2>
 
 <span style="color: #000000;">As the <a href="https://en.wikipedia.org/wiki/Illocutionary_act" target="_blank" rel="noopener">illocutionary act</a> which testifies to the Son of God<a href="#sdfootnote1sym" name="sdfootnote1anc"><span style="color: #000000;"><sup>1</sup></span></a> as the ultimate redemptive and revelatory <a href="https://en.wikipedia.org/wiki/Locutionary_act" target="_blank" rel="noopener">locution</a> of the the triune God, Scripture is used by the Spirit of God to accomplish the <a href="https://en.wikipedia.org/wiki/Perlocutionary_act" target="_blank" rel="noopener">perlocutionary end</a> of redemption<i> of</i>,<i> in</i>, and<i> through</i> the people of God.<a href="#sdfootnote2sym" name="sdfootnote2anc"><span style="color: #000000;"><sup>2</sup></span></a> </span>
@@ -73,7 +36,7 @@ _[Ahem, in order to understand my first paragraph, you must first be familiar wi
 (For an explanation of the Trinity, see my essay &#8220;[Trinity: What is it? (Why) Is it important?][1]&#8220;)
 
 <h2 style="text-align: left;" align="CENTER">
-  <span class="ez-toc-section" id="WHAT_SCRIPTURE_IS_FOR_CHRISTIANS"></span><span style="color: #000000;">WHAT SCRIPTURE IS FOR CHRISTIANS</span><span class="ez-toc-section-end"></span>
+  <span style="color: #000000;">WHAT SCRIPTURE IS FOR CHRISTIANS</span>
 </h2>
 
 <span style="color: #000000;">For Christians, Scripture is the indispensable lens through which, with the Spirit&#8217;s illumination, we view Christ, who is himself the fullest lens through which we view the Godhead. </span>
@@ -81,7 +44,7 @@ _[Ahem, in order to understand my first paragraph, you must first be familiar wi
 <span style="color: #000000;">That is, the Bible is a vital link in the revelatory chain which includes Father, Son, Holy Spirit, and humanity. However, the Bible&#8217;s role<i> in</i> and<i> for</i> the Church is inescapably intertwined with (1) how the Bible came to be and (2) how it is properly to be accessed and interpreted.</span>
 
 <h2 style="text-align: left;" align="CENTER">
-  <span class="ez-toc-section" id="How_the_Bible_Came_to_Be"></span><span style="color: #000000;">How the Bible Came to Be</span><span class="ez-toc-section-end"></span>
+  <span style="color: #000000;">How the Bible Came to Be</span>
 </h2>
 
 <span style="color: #000000;">Although the story of how the table of contents at the beginning of each Christian Bible came into existence is an old one, questions of<i> canon</i> in this sense did not arise immediately after Christ&#8217;s resurrection and ascension.<a href="#sdfootnote4sym" name="sdfootnote4anc"><span style="color: #000000;"><sup>4</sup></span></a> </span>
@@ -107,7 +70,7 @@ _[Ahem, in order to understand my first paragraph, you must first be familiar wi
 <span style="color: #000000;">Canon&#8217;s final sense, as a list of included and excluded books which comprise the Bible, came into being in the fourth century. The Church&#8217;s recognition of already authoritative writings culminated in C.E. 367 with the<i> Thirty-Ninth Festal Epistle</i> of Athanasius &#8211; the first canon list to include “all, and nothing but, all [sic] the books of our New Testament.”<a href="#sdfootnote12sym" name="sdfootnote12anc"><span style="color: #000000;"><sup>12</sup></span></a></span>
 
 <h2 style="text-align: left;" align="CENTER">
-  <span class="ez-toc-section" id="Scriptures_Proper_Interpretation_and_Role"></span><span style="color: #000000;">Scripture&#8217;s Proper Interpretation and Role</span><span class="ez-toc-section-end"></span>
+  <span style="color: #000000;">Scripture&#8217;s Proper Interpretation and Role</span>
 </h2>
 
 <span style="color: #000000;">In interacting with the Word of God, it is imperative that the people of God resist the impulse to jump behind the text – either to a Gnostic-inspired and disembodied spiritual narrative, or to historical criticism&#8217;s rationalistic insistence on verifiable facts.</span>
@@ -121,7 +84,7 @@ _[Ahem, in order to understand my first paragraph, you must first be familiar wi
 <span style="color: #000000;">It does not leave Christ behind in its insistence on esoteric behind-the-text matters, nor does it refuse the Spirit its right to bring the written Word to bear on the interpreter&#8217;s present context in fresh ways. In this way, interpretation of the Bible leads to faith through the faithful proclamation of the Christ-event according to the Scriptures.</span>
 
 <h1 style="text-align: left;" align="CENTER">
-  <span class="ez-toc-section" id="SCRIPTURES_OWN_AUTHORITY"></span><span style="color: #000000;">SCRIPTURE&#8217;S OWN AUTHORITY</span><span class="ez-toc-section-end"></span>
+  <span style="color: #000000;">SCRIPTURE&#8217;S OWN AUTHORITY</span>
 </h1>
 
 <span style="color: #000000;">As mentioned above, Scripture&#8217;s authority comes from its providential role in the speech-act of God, of which it is a necessary – yet not a sufficient – condition.</span>
@@ -145,7 +108,7 @@ _[Ahem, in order to understand my first paragraph, you must first be familiar wi
 <span style="color: #000000;">The christological, ecclesiological, and pneumatological elements of the divine speech-act thus enable the written Word continually to be an indispensable part of divine discourse, instead of a merely static word.<a href="#sdfootnote15sym" name="sdfootnote15anc"><span style="color: #000000;"><sup>15</sup></span></a></span>
 
 <h1 style="text-align: left;" align="CENTER">
-  <span class="ez-toc-section" id="CONCLUSION"></span><span style="color: #000000;">CONCLUSION</span><span class="ez-toc-section-end"></span>
+  <span style="color: #000000;">CONCLUSION</span>
 </h1>
 
 <span style="color: #000000;">Throughout the ages, God has used his Word – living and written – to do everything from creating the world, to redeeming it; from calling a people, to establishing orthodoxy and orthopraxy in his Church; from inspiring reformation, to drawing people from every tribe, tongue, and nation to himself. </span>
@@ -156,7 +119,7 @@ _[Ahem, in order to understand my first paragraph, you must first be familiar wi
 
 * * *
 
-# <span class="ez-toc-section" id="NOTES"></span><span style="color: #000000;">NOTES </span><span class="ez-toc-section-end"></span>
+# <span style="color: #000000;">NOTES </span>
 
 <div id="sdfootnote1">
   <p align="LEFT">

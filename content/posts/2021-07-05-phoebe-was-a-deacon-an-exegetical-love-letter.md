@@ -28,29 +28,7 @@ Paul’s use of the word here is significant, choosing the masculine noun to des
 
 Oddly, the most recent and rather dynamic-equivalent (thought-for-thought as opposed to word-for-word) translations of the Bible are the ones who present Phoebe in this way, as a _deacon_ (NIV, NLT, NRS) of the Church, maintaining both the masculine (or more to the point, gender-irrelevant, since almost every human language resorts to the masculine when the gender is purely grammatical) grammar of her title and its ecclesiastical formality.&nbsp;
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/phoebe-was-a-deacon-an-exegetical-love-letter/#Defining_Terms" title="Defining Terms">Defining Terms</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/phoebe-was-a-deacon-an-exegetical-love-letter/#Pauls_Diaconal_Agent" title="Paul’s Diaconal Agent">Paul’s Diaconal Agent</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/phoebe-was-a-deacon-an-exegetical-love-letter/#What_does_this_mean_for_the_modern_Church" title="What does this mean for the modern Church?&nbsp;">What does this mean for the modern Church?&nbsp;</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Defining_Terms"></span>**Defining Terms**<span class="ez-toc-section-end"></span> {#h-defining-terms}
+## **Defining Terms** {#h-defining-terms}
 
 Clearly, the ancient world did have a word for female servants and ministers. The word διάκονος certainly had both connotations in the masculine and feminine; it could refer to a trusted household servant, most commonly affiliated with relational service within the household and hospitality. Likewise, the word came to be used for ministers in the pagan temples, including priestesses. Paul seems quite careful to avoid the feminine use because of this latter connotation, particularly in writing to the Ephesians, who lived in the shadow of the feminine cult of Artemis. Nonetheless, Paul could have simply avoided any problematic interpretations by using another Greek word for servants, one he often applied to himself, δοῦλος, or its feminine equivalent δούλη. The lack of the obvious choice here seems to imply that Paul has something more defined in mind here, which even in this early era had emerged into an ecclesiastical role, that of the deacon.
 
@@ -66,7 +44,7 @@ Perhaps our most solid evidence that women did, in fact, receive the laying on o
 
 Here we find the clarity that we have been seeking. The Church was ordaining women to the diaconate, perhaps not universally, but prominently enough that one of the Seven Ecumenical Councils of the Church recorded the practice and regulated it.&nbsp;
 
-## <span class="ez-toc-section" id="Pauls_Diaconal_Agent"></span>**Paul’s Diaconal Agent**<span class="ez-toc-section-end"></span> {#h-paul-s-diaconal-agent}
+## **Paul’s Diaconal Agent** {#h-paul-s-diaconal-agent}
 
 Returning to Romans 16, we find that Phoebe bears more than the title of deacon, but also a role that would become foundational to the early diaconal role; she serves as an agent of the one who sent her. The agent in the ancient world had authority comparable to a power-of-attorney today; he (or in this case, she) was to know the sender well enough to be able to interpret his will and carry it out as if the sender were the one acting in the moment. Jesus, for example, is presented throughout John’s Gospel as the agent of God the Father.&nbsp;
 
@@ -80,7 +58,7 @@ St. Clement’s description is often translated as “defender” or “guardian
 
 It appears that Paul does not wish us to underestimate the deacon Phoebe on the basis of her sex. This woman is a deacon, and if both the previous example of the seven men ordained deacons in Acts 6 and the later examples of women deacons described at Chalcedon are any indication, she was a deacon ordained by the laying-on-of-hands and serving in the diaconal role of agent on behalf of her (episcopal) sender.&nbsp;
 
-## <span class="ez-toc-section" id="What_does_this_mean_for_the_modern_Church"></span>**What does this mean for the modern Church?&nbsp;**<span class="ez-toc-section-end"></span> {#h-what-does-this-mean-for-the-modern-church}
+## **What does this mean for the modern Church?&nbsp;** {#h-what-does-this-mean-for-the-modern-church}
 
 The Church today does not approach the diaconate of women as a settled question. In many Christian fellowships, women remain excluded from diaconal leadership, a practice often encouraged by faulty translations of texts like Romans 16:1-2. At the same time, we in the ACNA have attempted to affirm the importance of women’s ministries while remaining of mixed opinions on how far outside the parish nursery and kitchen those ministries should extend. We also have, like the Chalcedonian-era churches, both women deacons and (lay) deaconesses that we, too, are attempting to integrate into one Church tradition.&nbsp;
 

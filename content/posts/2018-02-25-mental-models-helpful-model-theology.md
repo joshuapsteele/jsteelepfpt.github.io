@@ -17,63 +17,9 @@ This idea has been bouncing around in my head for a bit. It&#8217;s not fully-fo
 
 **Here it is: &#8220;Mental Models&#8221; could be a helpful model for theology.**
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#What_is_a_mental_model" title="What is a &#8220;mental model&#8221;?">What is a &#8220;mental model&#8221;?</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#Definition_of_mental_models" title="Definition of mental models">Definition of mental models</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#Examples_of_mental_models" title="Examples of mental models">Examples of mental models</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#Mental_models_are_TRUEUSEFUL_but_also_LIMITED" title="*Mental models are TRUE/USEFUL, but also LIMITED*">*Mental models are TRUE/USEFUL, but also LIMITED*</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#Examples_of_theological_mental_models" title="Examples of theological mental models">Examples of theological mental models</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#4_Reasons_why_mental_models_might_be_useful_for_theology" title="4 Reasons why mental models might be useful for theology">4 Reasons why mental models might be useful for theology</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#1_Mental_Models_could_help_keep_theologians_humble" title="1. Mental Models could help keep theologians humble">1. Mental Models could help keep theologians humble</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#2_Mental_models_could_help_keep_theologians_creative" title="2. Mental models could help keep theologians creative.">2. Mental models could help keep theologians creative.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#3_Mental_models_could_help_introduce_theology_to_others" title="3. Mental models could help introduce theology to others.">3. Mental models could help introduce theology to others.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#4_Mental_models_could_help_us_talk_about_the_history_of_theology_and_the_Church" title="4. Mental models could help us talk about the history of theology and the Church.">4. Mental models could help us talk about the history of theology and the Church.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#What_do_you_think_Are_mental_models_as_useful_for_theology_as_I_think_they_are" title="What do you think? Are mental models as useful for theology as I think they are?">What do you think? Are mental models as useful for theology as I think they are?</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/mental-models-helpful-model-theology/#Let_me_know_in_the_comments_below" title="Let me know in the comments below!">Let me know in the comments below!</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
+# What is a &#8220;mental model&#8221;?
 
-# <span class="ez-toc-section" id="What_is_a_mental_model"></span>What is a &#8220;mental model&#8221;?<span class="ez-toc-section-end"></span>
-
-## <span class="ez-toc-section" id="Definition_of_mental_models"></span>Definition of mental models<span class="ez-toc-section-end"></span>
+## Definition of mental models
 
 Put simply, a &#8220;mental model&#8221; is a concept used to help explain how the world works.
 
@@ -85,7 +31,7 @@ Here&#8217;s a helpful video from <a href="https://www.fs.blog/mental-models/" t
 
 
 
-## <span class="ez-toc-section" id="Examples_of_mental_models"></span>Examples of mental models<span class="ez-toc-section-end"></span>
+## Examples of mental models
 
 For example, [the 80/20 Principle][4] (20% of causes lead to 80% of effects) and the [Eisenhower Decision Matrix][5] (organizing things by importance and urgency to prioritize decisions) could both be considered mental models.
 
@@ -93,7 +39,7 @@ Another famous mental model is <a href="https://www.fs.blog/2017/05/mental-model
 
 One of my personal favorite mental models is <a href="https://www.fs.blog/2017/04/mental-model-hanlons-razor/" target="_blank" rel="noopener">Hanlon&#8217;s Razor</a>, the idea that one should &#8220;never attribute to malice that which can be adequately explained by neglect.&#8221;
 
-## <span class="ez-toc-section" id="Mental_models_are_TRUEUSEFUL_but_also_LIMITED"></span>\*Mental models are TRUE/USEFUL, but also LIMITED\*<span class="ez-toc-section-end"></span>
+## \*Mental models are TRUE/USEFUL, but also LIMITED\*
 
 This is, perhaps, the most important thing about mental models.
 
@@ -103,7 +49,7 @@ However, on the other hand, a mental model is LIMITED. No single model can accur
 
 So, instead of clinging to one mental model and acting like it&#8217;s somehow comprehensive, you&#8217;re much better off developing a &#8220;toolbox&#8221; or a &#8220;latticework&#8221; (to borrow Charlie Munger&#8217;s phrase) of mental models.
 
-# <span class="ez-toc-section" id="Examples_of_theological_mental_models"></span>Examples of theological mental models<span class="ez-toc-section-end"></span>
+# Examples of theological mental models
 
 Theology is filled with statements and theories that, I think, work a lot like mental models. They are designed to accurately describe some aspect of theological reality. And yet, they are also limited. No single model/statement can account for everything about the person and work of the Triune God.
 
@@ -129,13 +75,13 @@ Also, consider the following Trinitarian theological mental models:
   * <a href="https://zondervanacademic.com/blog/common-places-pro-nicene-theology-inseparable-operations/" target="_blank" rel="noopener">Inseparable Operations</a>: how the Father, Son, and Holy Spirit relate to each other
   * &#8220;<a href="https://en.wikipedia.org/wiki/Karl_Rahner#Economic_and_immanent_Trinity" target="_blank" rel="noopener">Rahner&#8217;s Rule</a>&#8220;: &#8220;the economic Trinity is the immanent Trinity, and the immanent Trinity is the economic Trinity&#8221;
 
-# <span class="ez-toc-section" id="4_Reasons_why_mental_models_might_be_useful_for_theology"></span>4 Reasons why mental models might be useful for theology<span class="ez-toc-section-end"></span>
+# 4 Reasons why mental models might be useful for theology
 
 <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">Again, here&#8217;s my idea: Mental models could provide a helpful model for theology. </span>
 
 <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">Why? </span>
 
-## <span class="ez-toc-section" id="1_Mental_Models_could_help_keep_theologians_humble"></span>1. Mental Models could help keep theologians humble<span class="ez-toc-section-end"></span>
+## 1. Mental Models could help keep theologians humble
 
 Remember, mental models are true, but also limited. Such is also the case, I would argue, when it comes to theological claims.
 
@@ -147,7 +93,7 @@ However, no matter how worthwhile the model is, it will always be limited! It wi
 
 Therefore, we should remain humble both when (1) proposing or (2) critiquing theological Mental Models.
 
-## <span class="ez-toc-section" id="2_Mental_models_could_help_keep_theologians_creative"></span>2. Mental models could help keep theologians creative.<span class="ez-toc-section-end"></span>
+## 2. Mental models could help keep theologians creative.
 
 Because no single model can account for everything about the person and work of the Triune God, there is always more work to be done!
 
@@ -155,13 +101,13 @@ New models need to be proposed. Old models need to be critiqued, refined, and di
 
 This is why the theological conversation continues. We don&#8217;t just &#8220;arrive&#8221; at a list of correct theological positions. Instead, we delve deeper into the mysteries of God.
 
-## <span class="ez-toc-section" id="3_Mental_models_could_help_introduce_theology_to_others"></span>3. Mental models could help introduce theology to others.<span class="ez-toc-section-end"></span>
+## 3. Mental models could help introduce theology to others.
 
 Let&#8217;s be honest, theology can be quite confusing. One could easily wonder what all the theological fuss is about. Theologians have been arguing with each other for thousands of years. Why haven&#8217;t we figured everything out yet?
 
 Thinking of and presenting theology in terms of a latticework of theological models might be a helpful way forward, because it helps to make it clear why the theological enterprise is ongoing. It could also help people to evaluate and adopt various theological statements/positions on their own.
 
-## <span class="ez-toc-section" id="4_Mental_models_could_help_us_talk_about_the_history_of_theology_and_the_Church"></span>4. Mental models could help us talk about the history of theology and the Church.<span class="ez-toc-section-end"></span>
+## 4. Mental models could help us talk about the history of theology and the Church.
 
 This is, perhaps, a corollary of the previous point. The history of theology and the Church can be quite confusing. How are we supposed to keep track of all the different figures and theological statements?
 
@@ -173,9 +119,9 @@ I realize that this is already being done, but perhaps there&#8217;s room to mak
 
 * * *
 
-# <span class="ez-toc-section" id="What_do_you_think_Are_mental_models_as_useful_for_theology_as_I_think_they_are"></span>What do you think? Are mental models as useful for theology as I think they are?<span class="ez-toc-section-end"></span>
+# What do you think? Are mental models as useful for theology as I think they are?
 
-## <span class="ez-toc-section" id="Let_me_know_in_the_comments_below"></span>Let me know in the comments below!<span class="ez-toc-section-end"></span>
+## Let me know in the comments below!
 
  [1]: https://en.wikipedia.org/wiki/Thought "Thought"
  [2]: https://en.wikipedia.org/wiki/Behaviour "Behaviour"

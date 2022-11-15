@@ -19,81 +19,8 @@ categories:
   <em>The following is an attempt, written in 2012, to distill and paraphrase the main argument/message/story/logic of St. Paul&#8217;s Epistle to the Romans. </em>
 </p>
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_1_1-17" title="Romans 1:1-17">Romans 1:1-17</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_1_18-32" title="Romans 1:18-32">Romans 1:18-32</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_2_1-29" title="Romans 2:1-29">Romans 2:1-29</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_3_1-8" title="Romans 3:1-8">Romans 3:1-8</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_3_9-20" title="Romans 3:9-20">Romans 3:9-20</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_3_21-31" title="Romans 3:21-31">Romans 3:21-31</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_4_1-25" title="Romans 4:1-25">Romans 4:1-25</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_5_1-21" title="Romans 5:1-21">Romans 5:1-21</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_6_1-25" title="Romans 6:1-25">Romans 6:1-25</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_7_1-6" title="Romans 7:1-6">Romans 7:1-6</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_7_7-25" title="Romans 7:7-25">Romans 7:7-25</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_8_1-30" title="Romans 8:1-30">Romans 8:1-30</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_8_31-39" title="Romans 8:31-39">Romans 8:31-39</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_9_1-29" title="Romans 9:1-29">Romans 9:1-29</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_9_30-10_21" title="Romans 9:30-10:21">Romans 9:30-10:21</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_11_1-36" title="Romans 11:1-36">Romans 11:1-36</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_12" title="Romans 12">Romans 12</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-18" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_13" title="Romans 13">Romans 13</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-19" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_14-15" title="Romans 14-15">Romans 14-15</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-20" href="https://joshuapsteele.com/romans-distilled-paraphrased/#Romans_16" title="Romans 16">Romans 16</a>
-    </li>
-  </ul></nav>
-</div>
-
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_1_1-17"></span>Romans 1:1-17<span class="ez-toc-section-end"></span>
+  Romans 1:1-17
 </h1>
 
 <p style="text-align: left;">
@@ -117,7 +44,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_1_18-32"></span>Romans 1:18-32<span class="ez-toc-section-end"></span>
+  Romans 1:18-32
 </h1>
 
 <p style="text-align: left;">
@@ -127,7 +54,7 @@ categories:
 (For a theological essay about what the Bible is and why it&#8217;s important, read [this piece.][1])
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_2_1-29"></span>Romans 2:1-29<span class="ez-toc-section-end"></span>
+  Romans 2:1-29
 </h1>
 
 <p style="text-align: left;">
@@ -139,7 +66,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_3_1-8"></span>Romans 3:1-8<span class="ez-toc-section-end"></span>
+  Romans 3:1-8
 </h1>
 
 <p style="text-align: left;">
@@ -159,7 +86,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_3_9-20"></span>Romans 3:9-20<span class="ez-toc-section-end"></span>
+  Romans 3:9-20
 </h1>
 
 <p style="text-align: left;">
@@ -179,7 +106,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_3_21-31"></span>Romans 3:21-31<span class="ez-toc-section-end"></span>
+  Romans 3:21-31
 </h1>
 
 <p style="text-align: left;">
@@ -191,7 +118,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_4_1-25"></span>Romans 4:1-25<span class="ez-toc-section-end"></span>
+  Romans 4:1-25
 </h1>
 
 <p style="text-align: left;">
@@ -199,7 +126,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_5_1-21"></span>Romans 5:1-21<span class="ez-toc-section-end"></span>
+  Romans 5:1-21
 </h1>
 
 <p style="text-align: left;">
@@ -223,7 +150,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_6_1-25"></span>Romans 6:1-25<span class="ez-toc-section-end"></span>
+  Romans 6:1-25
 </h1>
 
 <p style="text-align: left;">
@@ -231,7 +158,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_7_1-6"></span>Romans 7:1-6<span class="ez-toc-section-end"></span>
+  Romans 7:1-6
 </h1>
 
 <p style="text-align: left;">
@@ -239,7 +166,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_7_7-25"></span>Romans 7:7-25<span class="ez-toc-section-end"></span>
+  Romans 7:7-25
 </h1>
 
 <p style="text-align: left;">
@@ -247,7 +174,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_8_1-30"></span>Romans 8:1-30<span class="ez-toc-section-end"></span>
+  Romans 8:1-30
 </h1>
 
 <p style="text-align: left;">
@@ -255,7 +182,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_8_31-39"></span>Romans 8:31-39<span class="ez-toc-section-end"></span>
+  Romans 8:31-39
 </h1>
 
 <p style="text-align: left;">
@@ -279,7 +206,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_9_1-29"></span>Romans 9:1-29<span class="ez-toc-section-end"></span>
+  Romans 9:1-29
 </h1>
 
 <p style="text-align: left;">
@@ -287,7 +214,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_9_30-10_21"></span>Romans 9:30-10:21<span class="ez-toc-section-end"></span>
+  Romans 9:30-10:21
 </h1>
 
 <p style="text-align: left;">
@@ -295,7 +222,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_11_1-36"></span>Romans 11:1-36<span class="ez-toc-section-end"></span>
+  Romans 11:1-36
 </h1>
 
 <p style="text-align: left;">
@@ -311,7 +238,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_12"></span>Romans 12<span class="ez-toc-section-end"></span>
+  Romans 12
 </h1>
 
 <p style="text-align: left;">
@@ -327,7 +254,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_13"></span>Romans 13<span class="ez-toc-section-end"></span>
+  Romans 13
 </h1>
 
 <p style="text-align: left;">
@@ -351,7 +278,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_14-15"></span>Romans 14-15<span class="ez-toc-section-end"></span>
+  Romans 14-15
 </h1>
 
 <p style="text-align: left;">
@@ -387,7 +314,7 @@ categories:
 </p>
 
 <h1 style="text-align: left;" align="right">
-  <span class="ez-toc-section" id="Romans_16"></span>Romans 16<span class="ez-toc-section-end"></span>
+  Romans 16
 </h1>
 
 <p style="text-align: left;">

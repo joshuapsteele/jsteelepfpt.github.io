@@ -14,108 +14,13 @@ tags:
 ---
 The following templates come from _[They Say / I Say: The Moves That Matter in Academic Writing][1]_.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/helpful-writing-templates/#Introducing_What_They_Say" title="Introducing What They Say">Introducing What They Say</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/helpful-writing-templates/#Introducing_Standard_Views" title="Introducing Standard Views">Introducing Standard Views</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/helpful-writing-templates/#Introducing_Something_Implied_or_Assumed" title="Introducing Something Implied or Assumed">Introducing Something Implied or Assumed</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/helpful-writing-templates/#Introducing_an_Ongoing_Debate" title="Introducing an Ongoing Debate">Introducing an Ongoing Debate</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/helpful-writing-templates/#Capturing_Authorial_Action" title="Capturing Authorial Action">Capturing Authorial Action</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/helpful-writing-templates/#Introducing_Quotations" title="Introducing Quotations">Introducing Quotations</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/helpful-writing-templates/#Explaining_Quotations" title="Explaining Quotations">Explaining Quotations</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/helpful-writing-templates/#Disagreeing_with_Reasons" title="Disagreeing, with Reasons">Disagreeing, with Reasons</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/helpful-writing-templates/#Agreeing_with_a_Difference" title="Agreeing, with a Difference">Agreeing, with a Difference</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/helpful-writing-templates/#Agreeing_and_Disagreeing_Simultaneously" title="Agreeing and Disagreeing Simultaneously">Agreeing and Disagreeing Simultaneously</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/helpful-writing-templates/#Signaling_Who_Is_Saying_What" title="Signaling Who Is Saying What">Signaling Who Is Saying What</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/helpful-writing-templates/#Embedding_Voice_Markers" title="Embedding Voice Markers">Embedding Voice Markers</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/helpful-writing-templates/#Entertaining_Objections" title="Entertaining Objections">Entertaining Objections</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/helpful-writing-templates/#Introducing_Objections_Informally" title="Introducing Objections Informally">Introducing Objections Informally</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/helpful-writing-templates/#Making_Concessions_while_Still_Standing_Your_Ground" title="Making Concessions while Still Standing Your Ground">Making Concessions while Still Standing Your Ground</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/helpful-writing-templates/#Indicating_Who_Cares" title="Indicating Who Cares">Indicating Who Cares</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/helpful-writing-templates/#Establishing_Why_Your_Claims_Matter" title="Establishing Why Your Claims Matter">Establishing Why Your Claims Matter</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-18" href="https://joshuapsteele.com/helpful-writing-templates/#Adding_Meta-commentary" title="Adding Meta-commentary">Adding Meta-commentary</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-19" href="https://joshuapsteele.com/helpful-writing-templates/#Commonly_Used_Transitions" title="Commonly Used Transitions">Commonly Used Transitions</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-20" href="https://joshuapsteele.com/helpful-writing-templates/#Cause_and_Effect" title="Cause and Effect">Cause and Effect</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-21" href="https://joshuapsteele.com/helpful-writing-templates/#Conclusion" title="Conclusion">Conclusion</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-22" href="https://joshuapsteele.com/helpful-writing-templates/#Comparison" title="Comparison">Comparison</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-23" href="https://joshuapsteele.com/helpful-writing-templates/#Contrast" title="Contrast">Contrast</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-24" href="https://joshuapsteele.com/helpful-writing-templates/#Addition" title="Addition">Addition</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-25" href="https://joshuapsteele.com/helpful-writing-templates/#Concession" title="Concession">Concession</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-26" href="https://joshuapsteele.com/helpful-writing-templates/#Example" title="Example">Example</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-27" href="https://joshuapsteele.com/helpful-writing-templates/#Elaboration" title="Elaboration">Elaboration</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Introducing_What_They_Say"></span>**Introducing What They Say**<span class="ez-toc-section-end"></span>
+## **Introducing What They Say**
 
   * A number of $$$ have recently suggested that $$$.
   * It has become common today to dismiss $$$.
   * In their recent work, Y and Z have offered harsh critiques of Dr. X for $$$.
 
-## <span class="ez-toc-section" id="Introducing_Standard_Views"></span>**Introducing Standard Views**<span class="ez-toc-section-end"></span>
+## **Introducing Standard Views**
 
   * American today tend to believe that $$$
   * Conventional wisdom has it that $$$
@@ -133,20 +38,20 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * Although I should know better by now, I cannot help thinking that $$$
   * At the same time that I believe $$$, I also believe $$$
 
-## <span class="ez-toc-section" id="Introducing_Something_Implied_or_Assumed"></span>**Introducing Something Implied or Assumed**<span class="ez-toc-section-end"></span>
+## **Introducing Something Implied or Assumed**
 
   * Although none of them have ever said so directly, my teachers have often given me the impression that $$$
   * One implication of X’s treatment of $$$ is that $$$
   * Although X does not say so directly, she apparently assumes that $$$
   * While they rarely admit as much, $$$ often take for granted that $$$
 
-## <span class="ez-toc-section" id="Introducing_an_Ongoing_Debate"></span>**Introducing an Ongoing Debate**<span class="ez-toc-section-end"></span>
+## **Introducing an Ongoing Debate**
 
   * In discussions of X, one controversial issue has been $$$. On the other hand, $$$ argues $$$. On the other hand, $$$ contends $$$. Others even maintain $$$. My own view is $$$.&nbsp;
   * When it comes to the topic of $$$, most of us will readily agree that $$$. Where this agreement usually ends, however, is on the question of $$$. Whereas some are convinced that $$$, others maintain that $$$.
   * In conclusion, then, defenders of $$$ can’t have it both ways. Their assertion that $$$ is contradicted by their claim that $$$.
 
-## <span class="ez-toc-section" id="Capturing_Authorial_Action"></span>**Capturing Authorial Action**<span class="ez-toc-section-end"></span>
+## **Capturing Authorial Action**
 
   * X **acknowledges** that $$$.
   * X **agrees** that $$$
@@ -168,7 +73,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * X **suggests** that $$$
   * X **urges** us to $$$
 
-## <span class="ez-toc-section" id="Introducing_Quotations"></span>**Introducing Quotations**<span class="ez-toc-section-end"></span>
+## **Introducing Quotations**
 
   * X **states**, “$$$.”
   * As the prominent philosopher X **puts** it, “$$$.”
@@ -180,7 +85,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * X **agrees/disagrees** when she **writes**, “$$$.”
   * X **complicates matters further** when he **writes**, “$$$.”
 
-## <span class="ez-toc-section" id="Explaining_Quotations"></span>**Explaining Quotations**<span class="ez-toc-section-end"></span>
+## **Explaining Quotations**
 
   * Basically, X is saying $$$.
   * In other words, X believes $$$.
@@ -189,7 +94,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * X’s point is that $$$
   * The essence of X’s argument is that $$$
 
-## <span class="ez-toc-section" id="Disagreeing_with_Reasons"></span>**Disagreeing, with Reasons**<span class="ez-toc-section-end"></span>
+## **Disagreeing, with Reasons**
 
   * I think X is mistaken because she overlooks $$$
   * X’s claim that $$$ rests upon the questionable assumption that $$$.
@@ -198,7 +103,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * By focusing on $$$, X overlooks the deeper problem of $$$
   * X claims $$$, but we don’t need X to tell us that. Anyone familiar with $$$ has long know that $$$
 
-## <span class="ez-toc-section" id="Agreeing_with_a_Difference"></span>**Agreeing, with a Difference**<span class="ez-toc-section-end"></span>
+## **Agreeing, with a Difference**
 
   * I agree that $$$ because my experience confirms it.
   * X surely is right about $$$ because, as she may not be aware, recent studies have shown that $$$.
@@ -207,7 +112,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * Those unfamiliar with this school of thought may be interested to know that it basically boils down to $$$
   * If group X is right that $$$, as I think they are, then we need to reassess the popular assumption that $$$
 
-## <span class="ez-toc-section" id="Agreeing_and_Disagreeing_Simultaneously"></span>**Agreeing and Disagreeing Simultaneously**<span class="ez-toc-section-end"></span>
+## **Agreeing and Disagreeing Simultaneously**
 
   * Although I agree with X up to a point, I cannot accept his overall conclusion that $$$
   * Although I disagree with much that X says, I fully endorse his final conclusion that $$$
@@ -218,7 +123,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * I’m of two minds about X’s claim that $$$. On the one hand, I agree that $$$. On the other hand, I’m not sure if $$$
   * My feelings on the issue are mixed. I do support X’s positions that $$$, but I find Y’s argument about $$$ and Z’s research on $$$ to be equally persuasive.
 
-## <span class="ez-toc-section" id="Signaling_Who_Is_Saying_What"></span>**Signaling Who Is Saying What**<span class="ez-toc-section-end"></span>
+## **Signaling Who Is Saying What**
 
   * X argues $$$
   * According to both X and Y, $$$
@@ -237,14 +142,14 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * Nevertheless, new research shows $$$
   * Anyone familiar with $$$ should see that $$$
 
-## <span class="ez-toc-section" id="Embedding_Voice_Markers"></span>**Embedding Voice Markers**<span class="ez-toc-section-end"></span>
+## **Embedding Voice Markers**
 
   * X overlooks what I consider an important point about $$$
   * My own view is that what X insists is a $$$ is in fact a $$$
   * I wholeheartedly endorse what X calls $$$
   * These conclusions, which X discusses in $$$, add weight to the argument that $$$
 
-## <span class="ez-toc-section" id="Entertaining_Objections"></span>**Entertaining Objections**<span class="ez-toc-section-end"></span>
+## **Entertaining Objections**
 
   * At this point, I would like to raise some objections that have been inspired by the skeptic in me. She feels that I have been ignoring $$$., “$$$,” she says to me, “$$$.”
   * Thus far some readers may challenge the view that $$$. After all, many believe $$$. Indeed, my own argument that $$$ seems to ignore $$$ and $$$
@@ -259,21 +164,21 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * Although not all $$$ think alike, some of them will probably dispute my claim that $$$
   * $$$ are so diverse in their views that it’s hard to generalize about them, but some are likely to object on the grounds that $$$
 
-## <span class="ez-toc-section" id="Introducing_Objections_Informally"></span>**Introducing Objections Informally**<span class="ez-toc-section-end"></span>
+## **Introducing Objections Informally**
 
   * However/But is my proposal realistic? What are the chances of its actually being adopted?
   * Yet is it always true that $$$? Is it always the case, as I have been suggesting, that $$$?
   * However, does the evidence cited prove conclusively that $$$?
   * “Impossible,” some will say. “You must be reading the research selectively.”
 
-## <span class="ez-toc-section" id="Making_Concessions_while_Still_Standing_Your_Ground"></span>**Making Concessions while Still Standing Your Ground**<span class="ez-toc-section-end"></span>
+## **Making Concessions while Still Standing Your Ground**
 
   * Although I grant that $$$, I still maintain that $$$
   * Proponents of X are right to argue that $$$. But they exaggerate when they claim that $$$
   * While it is true that $$$, it does not necessarily follow that $$$
   * On the one hand, I agree with X that $$$. But on the other hand, I still insist that $$$
 
-## <span class="ez-toc-section" id="Indicating_Who_Cares"></span>**Indicating Who Cares**<span class="ez-toc-section-end"></span>
+## **Indicating Who Cares**
 
   * $$$ used to think $$$, but recently (or within the past few decades) $$$ suggests that $$$
   * What his new research does, then, is correct the mistaken impression, held by many earlier researchers, that $$$
@@ -284,7 +189,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * These findings challenge $$$’s common assumptions that $$$
   * At first glance, teenagers appear to $$$, but on closer inspection $$$
 
-## <span class="ez-toc-section" id="Establishing_Why_Your_Claims_Matter"></span>**Establishing Why Your Claims Matter**<span class="ez-toc-section-end"></span>
+## **Establishing Why Your Claims Matter**
 
   * X matters/is important because $$$
   * Although X may seem trivial, it is in fact crucial in terms of today’s concern over $$$
@@ -294,7 +199,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * These conclusions / This discovery will have significant application in $$$ as well as in $$$
   * Although X may seem of concern to only a small group of $$$, it should in fact concern anyone who cares about $$$
 
-## <span class="ez-toc-section" id="Adding_Meta-commentary"></span>**Adding Meta-commentary**<span class="ez-toc-section-end"></span>
+## **Adding Meta-commentary**
 
   * In other words, $$$
   * What $$$ really means by this is $$$
@@ -314,9 +219,9 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * Having just argued that $$$, let us now turn our attention to $$$.
   * Although some readers may object that $$$, I would answer that $$$.
 
-## <span class="ez-toc-section" id="Commonly_Used_Transitions"></span>**Commonly Used Transitions**<span class="ez-toc-section-end"></span>
+## **Commonly Used Transitions**
 
-### <span class="ez-toc-section" id="Cause_and_Effect"></span>**Cause and Effect**<span class="ez-toc-section-end"></span>
+### **Cause and Effect**
 
   * Accordingly
   * As a result
@@ -329,7 +234,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * Therefore
   * Thus
 
-### <span class="ez-toc-section" id="Conclusion"></span>**Conclusion**<span class="ez-toc-section-end"></span>
+### **Conclusion**
 
   * As a result
   * Consequently
@@ -345,14 +250,14 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * To sum up
   * To summarize
 
-### <span class="ez-toc-section" id="Comparison"></span>**Comparison**<span class="ez-toc-section-end"></span>
+### **Comparison**
 
   * Along the same line
   * In the same way
   * Likewise
   * Similarly
 
-### <span class="ez-toc-section" id="Contrast"></span>**Contrast**<span class="ez-toc-section-end"></span>
+### **Contrast**
 
   * Although
   * But
@@ -371,7 +276,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * While
   * Yet&nbsp;
 
-### <span class="ez-toc-section" id="Addition"></span>**Addition**<span class="ez-toc-section-end"></span>
+### **Addition**
 
   * Also
   * And
@@ -383,7 +288,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * Moreover&nbsp;
   * So too
 
-### <span class="ez-toc-section" id="Concession"></span>**Concession**<span class="ez-toc-section-end"></span>
+### **Concession**
 
   * Admittedly
   * Although it is true that
@@ -393,7 +298,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * Naturally
   * To be sure
 
-### <span class="ez-toc-section" id="Example"></span>**Example**<span class="ez-toc-section-end"></span>
+### **Example**
 
   * After all
   * As an illustration
@@ -403,7 +308,7 @@ The following templates come from _[They Say / I Say: The Moves That Matter in A
   * Specifically
   * To take/taking a case in point
 
-### <span class="ez-toc-section" id="Elaboration"></span>**Elaboration**<span class="ez-toc-section-end"></span>
+### **Elaboration**
 
   * Actually
   * By extension 

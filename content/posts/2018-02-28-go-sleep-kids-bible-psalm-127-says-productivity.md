@@ -12,35 +12,7 @@ categories:
   - Productivity and Time Management
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/go-sleep-kids-bible-psalm-127-says-productivity/#Personal_Productivity_in_Psalm_127" title="Personal Productivity in Psalm 127">Personal Productivity in Psalm 127</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/go-sleep-kids-bible-psalm-127-says-productivity/#Go_to_Sleep" title="Go to Sleep">Go to Sleep</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/go-sleep-kids-bible-psalm-127-says-productivity/#Have_Some_Kids" title="Have Some Kids">Have Some Kids</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/go-sleep-kids-bible-psalm-127-says-productivity/#Reminders_of_Our_Finitude" title="Reminders of Our Finitude">Reminders of Our Finitude</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/go-sleep-kids-bible-psalm-127-says-productivity/#How_would_your_sleep_habits_andor_your_plans_for_the_future_change_if_you_took_Psalm_127_to_heart" title="How would your sleep habits and/or your plans for the future change if you took Psalm 127 to heart?">How would your sleep habits and/or your plans for the future change if you took Psalm 127 to heart?</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Personal_Productivity_in_Psalm_127"></span>Personal Productivity in Psalm 127<span class="ez-toc-section-end"></span>
+## Personal Productivity in Psalm 127
 
 I love Psalm 127. Not because it makes me feel great, necessarily, but because it hits me like a ton of bricks whenever I read it (like I did last night, during evening prayer).
 
@@ -59,7 +31,7 @@ Now, of course, this Psalm doesn&#8217;t undo the Bible other admonitions to wor
 
 However, it does have implications for when we go to bed!
 
-## <span class="ez-toc-section" id="Go_to_Sleep"></span>Go to Sleep<span class="ez-toc-section-end"></span>
+## Go to Sleep
 
 Verse 2 reads:
 
@@ -76,7 +48,7 @@ There&#8217;s nothing inherently wrong with getting up early in the morning. Aft
 
 However, if you&#8217;re staying up late and getting up early in order to toil away because you think your work and success depends only on your efforts, then this Psalm encourages you to go to bed. Get some sleep. Learn to receive each day, along with exactly as much time as it contains, as a gift from God.
 
-## <span class="ez-toc-section" id="Have_Some_Kids"></span>Have Some Kids<span class="ez-toc-section-end"></span>
+## Have Some Kids
 
 The second part of the Psalm hits close to home as well! (See my previous post: [3 Confessions of an Expectant Father][2].)
 
@@ -99,7 +71,7 @@ Don&#8217;t get me wrong, I love kids. And, [as I&#8217;ve said in my previous p
 
 And yet, I think that I&#8217;m going to need this Psalm as a frequent reminder in the days and years ahead! Personal productivity advice has come around to the idea of sleep being important, but I don&#8217;t know if there&#8217;s broad consensus on children always being considered a blessing! If you ask many people, <a href="https://www.psychologytoday.com/blog/the-happiness-doctor/201709/does-having-children-make-us-happy" target="_blank" rel="noopener">the jury is still out on whether or not having children makes you happier</a> &#8211; much less more productive!!
 
-## <span class="ez-toc-section" id="Reminders_of_Our_Finitude"></span>Reminders of Our Finitude<span class="ez-toc-section-end"></span>
+## Reminders of Our Finitude
 
 So, I think this Psalm is a countercultural reminder that both sleep and children are good gifts from God.
 
@@ -109,7 +81,7 @@ So, take heart! Go to bed a little earlier tonight! Everything doesn&#8217;t dep
 
 * * *
 
-## <span class="ez-toc-section" id="How_would_your_sleep_habits_andor_your_plans_for_the_future_change_if_you_took_Psalm_127_to_heart"></span>How would your sleep habits and/or your plans for the future change if you took Psalm 127 to heart?<span class="ez-toc-section-end"></span>
+## How would your sleep habits and/or your plans for the future change if you took Psalm 127 to heart?
 
 Let me know in the comments below!
 

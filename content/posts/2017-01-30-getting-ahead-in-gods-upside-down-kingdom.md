@@ -17,61 +17,13 @@ categories:
   - Sermons
 
 ---
-<audio class="wp-audio-shortcode" id="audio-4174-3" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3?_=3" /><https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3></audio>
+<audio class="wp-audio-shortcode" id="audio-4174-2" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3?_=2" /><https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3></audio>
 
 [[MP3: Getting Ahead in God&#8217;s Upside-Down Kingdom][1]]
 
 [[PDF Sermon Manuscript: Getting Ahead in God&#8217;s Upside-Down Kingdom][2]]
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#Opening_Prayer" title="Opening Prayer">Opening Prayer</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#Introduction" title="Introduction">Introduction</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#The_Main_Point" title="The Main Point">The Main Point</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#Gods_Upside-Down_Kingdom_-_1_Corinthians_1_18-31" title="God&#8217;s Upside-Down Kingdom &#8211; 1 Corinthians 1:18-31">God&#8217;s Upside-Down Kingdom &#8211; 1 Corinthians 1:18-31</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#Blessed_are_the_Losers_-_Matthew_5_1-12" title="Blessed are the &#8220;Losers&#8221; &#8211; Matthew 5:1-12">Blessed are the &#8220;Losers&#8221; &#8211; Matthew 5:1-12</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#The_Beatitudes_An_Interpretive_Translation" title="The Beatitudes: An Interpretive Translation">The Beatitudes: An Interpretive Translation</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#Fear_is_NOT_a_Valid_Excuse" title="Fear is NOT a Valid Excuse">Fear is NOT a Valid Excuse</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#Application_Consistently_Pro-Life_for_the_Unborn_AND_the_Refugees" title="Application: Consistently Pro-Life, for the Unborn AND the Refugees">Application: Consistently Pro-Life, for the Unborn AND the Refugees</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#Abortion" title="Abortion">Abortion</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#Refugees" title="Refugees">Refugees</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/getting-ahead-in-gods-upside-down-kingdom/#Closing_Prayer" title="Closing Prayer">Closing Prayer</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="Opening_Prayer"></span>Opening Prayer<span class="ez-toc-section-end"></span>
+# Opening Prayer
 
 God, our Refuge, I ask that your Holy Spirit would move in our lives, so that we would:
 
@@ -85,7 +37,7 @@ I ask that this transformation would begin with **me**. In Jesus’ name. _Amen_
 
 * * *
 
-# <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span>
+# Introduction
 
 I’d like to start off with a very basic question: **Do you want to get ahead in life?**
 
@@ -127,13 +79,13 @@ So here’s the kicker: **Getting ahead in God’s eyes looks a whole lot differ
 
 The world is a different context. The world follows different rules. And the world has a different goal than God’s Kingdom.
 
-# <span class="ez-toc-section" id="The_Main_Point"></span>The Main Point<span class="ez-toc-section-end"></span>
+# The Main Point
 
 In fact, and here’s my main point if you want to write it down:
 
 **Because God’s Kingdom is an “upside-down” Kingdom, getting ahead in the Kingdom of God will frequently look <span style="text-decoration: underline;">foolish</span> in the eyes of the world.** 
 
-# <span class="ez-toc-section" id="Gods_Upside-Down_Kingdom_-_1_Corinthians_1_18-31"></span>God&#8217;s Upside-Down Kingdom &#8211; 1 Corinthians 1:18-31<span class="ez-toc-section-end"></span>
+# God&#8217;s Upside-Down Kingdom &#8211; 1 Corinthians 1:18-31
 
 Now, this is the message of all of our readings for today, but I’d like to start with the words of Paul in 1 Corinthians 1:18. (You can find it on page 952 in your pew Bible.)
 
@@ -217,7 +169,7 @@ Paul continues in **[<u>1 Cor. 1:27</u>]**:
 
 This, then, is the **upside-down Kingdom of God**.
 
-# <span class="ez-toc-section" id="Blessed_are_the_Losers_-_Matthew_5_1-12"></span>Blessed are the &#8220;Losers&#8221; &#8211; Matthew 5:1-12<span class="ez-toc-section-end"></span>
+# Blessed are the &#8220;Losers&#8221; &#8211; Matthew 5:1-12
 
 And it’s the exact same Kingdom that we find in the Beatitudes of Matthew 5.
 
@@ -256,7 +208,7 @@ That is, Jesus isn’t just giving us a TO-DO LIST in order to get as much bless
 
 Now, Jesus IS **instructing**, more on that in a second. **But** he is first offering divine **encouragement** to those who are **_<u>already</u>_** in those situations.
 
-# <span class="ez-toc-section" id="The_Beatitudes_An_Interpretive_Translation"></span>The Beatitudes: An Interpretive Translation<span class="ez-toc-section-end"></span>
+# The Beatitudes: An Interpretive Translation
 
 Here’s my interpretive translation of the Beatitudes. Follow along with each one if you’ve got a Bible in front of you.
 
@@ -328,7 +280,7 @@ It’s almost like Jesus is saying,
 > 
 > And, as you do so, you’d better be prepared to end up among the oppressed and the marginalized, because the world is going to think you are out of your minds!”
 
-# <span class="ez-toc-section" id="Fear_is_NOT_a_Valid_Excuse"></span>Fear is NOT a Valid Excuse<span class="ez-toc-section-end"></span>
+# Fear is NOT a Valid Excuse
 
 Brothers and sisters, remember:
 
@@ -355,13 +307,13 @@ It’s not that Jesus doesn’t care about your fears. He does.
 
 * * *
 
-# <span class="ez-toc-section" id="Application_Consistently_Pro-Life_for_the_Unborn_AND_the_Refugees"></span>Application: Consistently Pro-Life, for the Unborn AND the Refugees<span class="ez-toc-section-end"></span>
+# Application: Consistently Pro-Life, for the Unborn AND the Refugees
 
 So, let’s get practical here. How should we respond to these passages about God’s Upside-Down Kingdom?
 
 We must show concrete concern for the powerless. And two recent issues come to mind, that I would be a coward not to mention.
 
-## <span class="ez-toc-section" id="Abortion"></span>Abortion<span class="ez-toc-section-end"></span>
+## Abortion
 
 **<u>First</u>**, in light of the [44th March for Life][3] held this past weekend, **I’d be remiss if I didn’t remind you that we must continue to stand up for the unborn.**
 
@@ -377,7 +329,7 @@ If you’re passionate about this issue, I encourage you to check out the organi
 
 **_So, first, we must stand up for the unborn._**
 
-## <span class="ez-toc-section" id="Refugees"></span>Refugees<span class="ez-toc-section-end"></span>
+## Refugees
 
 **<u>Second</u>**, given [President Trump’s recent executive actions][5] to halt the acceptance of all refugees to the USA, including a temporary moratorium on seven predominantly Muslim countries,
 
@@ -431,7 +383,7 @@ And I don’t even have time to get into how Christians should be concerned for 
 
 **But, if our Gospel is true, then we of all people should be willing to put our lives and our reputations at risk for the sake of others – especially for the poor and the needy.** 
 
-# <span class="ez-toc-section" id="Closing_Prayer"></span>Closing Prayer<span class="ez-toc-section-end"></span>
+# Closing Prayer
 
 So, again, God, our Refuge, I ask that your Holy Spirit would transform us from the inside out
 

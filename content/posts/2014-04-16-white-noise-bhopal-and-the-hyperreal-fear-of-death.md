@@ -35,33 +35,7 @@ One such depth is the **fear of death**, echoing throughout the pages of _White 
 
 In this essay, I endeavor to analyze the Baudrillardian concept of hyperreality as it pertains to the human fear of death, using DeLillo’s _White Noise_ and the Union Carbide disaster in Bhopal, India as literary and factual signposts.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/white-noise-bhopal-and-the-hyperreal-fear-of-death/#White_Noise" title="White Noise">White Noise</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/white-noise-bhopal-and-the-hyperreal-fear-of-death/#The_Bhopal_Disaster20" title="The Bhopal Disaster[20]">The Bhopal Disaster[20]</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/white-noise-bhopal-and-the-hyperreal-fear-of-death/#The_Hyperreal_Fear_of_Death_in_White_Noise" title="The Hyperreal Fear of Death in White Noise">The Hyperreal Fear of Death in White Noise</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/white-noise-bhopal-and-the-hyperreal-fear-of-death/#It_is_my_contention_that_we_cannot_really_fear_our_own_deaths" title="It is my contention that we cannot really fear our own deaths.">It is my contention that we cannot really fear our own deaths.</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="White_Noise"></span><a href="http://amzn.to/2EgL3pA" target="_blank" rel="noopener"><strong><em>White Noise</em></strong></a><span class="ez-toc-section-end"></span>
+# <a href="http://amzn.to/2EgL3pA" target="_blank" rel="noopener"><strong><em>White Noise</em></strong></a>
 
 <a href="http://amzn.to/2EgL3pA" target="_blank" rel="noopener"><img decoding="async" loading="lazy" class="alignnone" src="http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/White_Noise.jpg/200px-White_Noise.jpg" alt="White Noise by Don DeLillo." width="200" height="300" /></a>
 
@@ -167,7 +141,7 @@ The final scene is devoted to the supermarket, the transcendental temple of the 
 
 _Fame_ and _death_. Searching for center, gripped by thanatophobia. White noise.
 
-# <span class="ez-toc-section" id="The_Bhopal_Disaster20"></span>[**The Bhopal Disaster**][3]**<sup><strong><sup>[20]</sup></strong></sup>**<span class="ez-toc-section-end"></span>
+# [**The Bhopal Disaster**][3]**<sup><strong><sup>[20]</sup></strong></sup>**
 
 _White Noise_ was first published in January 1985, not long after a disastrous chemical leak in Bhopal, central India.
 
@@ -195,7 +169,7 @@ As Newsweek put it: “Experts elsewhere said that many of the victims in India 
 
 BLACKSMITH. BHOPAL. BENGAY. BRILLO. Which death should we fear?
 
-# <span class="ez-toc-section" id="The_Hyperreal_Fear_of_Death_in_White_Noise"></span>**The Hyperreal Fear of Death in White Noise**<span class="ez-toc-section-end"></span>
+# **The Hyperreal Fear of Death in White Noise**
 
 <img decoding="async" class="alignnone" src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/WikipediaBaudrillard20040612-cropped.png/220px-WikipediaBaudrillard20040612-cropped.png" alt="WikipediaBaudrillard20040612-cropped.png" /> 
 
@@ -237,7 +211,7 @@ More importantly, **whose death do we fear?**
 
 <img decoding="async" class="alignnone" src="https://joshuapsteele.com/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg" alt="" width="500" /> 
 
-## <span class="ez-toc-section" id="It_is_my_contention_that_we_cannot_really_fear_our_own_deaths"></span>It is my contention that **we cannot really fear our _own_ deaths**.<span class="ez-toc-section-end"></span>
+## It is my contention that **we cannot really fear our _own_ deaths**.
 
 Like Jack Gladney, we are limited to fearing and interacting with death’s simulacra.
 

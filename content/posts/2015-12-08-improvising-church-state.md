@@ -14,35 +14,7 @@ categories:
 ---
 ## 
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/improvising-church-state/#INTRODUCTION_ACCEPTING_BLOCKING_AND_STATUS" title="INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS">INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/improvising-church-state/#QUESTIONING_GIVENS" title="QUESTIONING GIVENS">QUESTIONING GIVENS</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/improvising-church-state/#INCORPORATING_GIFTS_AND_FORMING_HABITS" title="INCORPORATING GIFTS AND FORMING HABITS">INCORPORATING GIFTS AND FORMING HABITS</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/improvising-church-state/#CONCLUSION_REINCORPORATING_THE_LOST" title="CONCLUSION: REINCORPORATING THE LOST">CONCLUSION: REINCORPORATING THE LOST</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/improvising-church-state/#NOTES" title="===NOTES===">===NOTES===</a>
-    </li>
-  </ul></nav>
-</div>
-
-### <span class="ez-toc-section" id="INTRODUCTION_ACCEPTING_BLOCKING_AND_STATUS"></span>INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS<span class="ez-toc-section-end"></span>
+### INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS
 
 From the church’s perspective, is the state a promising offer, or a threatening one? At the risk of breathtaking oversimplification, Anglicans have tended to adopt the former perspective, leading to accommodation, and Anabaptists the latter, resulting in separation.<a href="#_ftn1" name="_ftnref1">[1]</a> Following Samuel Wells in his theological appropriation of terms from theatrical improvisation, the Anglican tradition has tended to respond to the promising _offers_ (invitations to respond) of the state by _accepting_ – maintaining the premise(s) of the state’s action(s).<a href="#_ftn2" name="_ftnref2">[2]</a> The historical legacy of the Church of England has given Anglicanism, as Anderson notes, an “inheritance of a strong loyalty to the state and a conservatism that has led the church to promote the status quo more often than it agitates for reform.”<a href="#_ftn3" name="_ftnref3">[3]</a> This inheritance from the established Church of England has coincided with a dual tendency to adopt a high _status_ (a strategy for getting one’s way), in terms of relative privilege and political optimism, and a low status, in terms of frequent subservience in church-state relations.<a href="#_ftn4" name="_ftnref4">[4]</a>
 
@@ -50,7 +22,7 @@ From the church’s perspective, is the state a promising offer, or a threatenin
 
 However, the Anabaptist tradition has tended to respond to the threatening offers of the state by _blocking_ – undermining the premise(s) of the state’s action(s).<a href="#_ftn5" name="_ftnref5">[5]</a> For many contemporary Anabaptists, as Joireman summarizes, “[T]he state has the function of ordering the social world, and the church should be the visible witness of believers, the primary affiliation of Christians, and separate from the state.”<a href="#_ftn6" name="_ftnref6">[6]</a> Passively, blocking the state can be “a choice to shut oneself away and keep oneself unsullied by the world.”<a href="#_ftn7" name="_ftnref7">[7]</a> Most often, drawing upon their sixteenth-century inheritance of facing persecution from Catholics and Protestants alike, Anabaptists have adopted a low status as somewhat of a fringe movement. Actively, however, blocking can be “a choice to take up arms,” as seen during the (admittedly rare) example of high status Anabaptist opposition during the Münster Rebellion of 1534.<a href="#_ftn8" name="_ftnref8">[8]</a>
 
-### <span class="ez-toc-section" id="QUESTIONING_GIVENS"></span>QUESTIONING GIVENS<span class="ez-toc-section-end"></span>
+### QUESTIONING GIVENS
 
 <!--more-->
 
@@ -74,7 +46,7 @@ Wells is right to invert the normal relationship between givens and gifts when i
 
 While the state is indeed an actor within the theo-drama, the “five-act play of God” (creation, Israel, Jesus, church, eschaton), the church must remember that the state’s role pertains only from the fall and until the eschaton.<a href="#_ftn15" name="_ftnref15">[15]</a> Arguably, Anglicans have overemphasized Act Two (Israel) in accepting the state, by tending to read the Old Testament (rather than Christ) as a model for political theology.<a href="#_ftn16" name="_ftnref16">[16]</a> And Anabaptists have perhaps overemphasized Act Five (eschaton) in blocking the state, when, for instance, “Mennonites have sacrificed the study of politics, and this has led to a lack of sophistication in efforts to advocate for the worldwide church and an ineffectiveness in efforts to promote development and the well-being of Christians around the globe.”<a href="#_ftn17" name="_ftnref17">[17]</a> Both traditions, at their worst, have defined politics as mere _statecraft_ – the management of “a centralized power holding monopoly on violence within a defined territory,” a “civil society.”<a href="#_ftn18" name="_ftnref18">[18]</a> Anglicans tend to join in the statecraft, and Anabaptists are more likely to withdraw.
 
-### <span class="ez-toc-section" id="INCORPORATING_GIFTS_AND_FORMING_HABITS"></span>INCORPORATING GIFTS AND FORMING HABITS<span class="ez-toc-section-end"></span>
+### INCORPORATING GIFTS AND FORMING HABITS
 
 There is a way beyond the impasse between accepting and blocking the state: _overaccepting_ it. As Wells defines it: “Overaccepting is accepting in light of a larger story,” in this case, the five-act story of God. To translate Wells’ language into the current topic, the Anglican risk of accepting is that the church “will be determined by the [state] and thus lose [its] integrity and identity.” The Anabaptist risk of blocking is that the church “will seal [it]self off from the world and thus lose [its] relevance in humanity.”  However, “Overaccepting is an active way of receiving that enables one to retain both identity and relevance. It is a way of accepting without losing the initiative.”<a href="#_ftn19" name="_ftnref19">[19]</a> It therefore offers the possibility of a synthesis between Anabaptist and Anglican approaches to the _gift_ of the state.
 
@@ -84,13 +56,13 @@ Although a more political church sounds superficially similar to Anglican accept
 
 In its liturgical worship, the church already has the resources to live a habitual life as a true polity for the sake of the world – even though liturgical manifestations differ between Anglicans and Anabaptists. The truly political worship that takes place in the church’s liturgy is, as Wannenwetsch clarifies, “meant neither to merely mirror existing political structures and procedures not to provide them with a religious rationale, but rather represents the unique politics of God.”<a href="#_ftn24" name="_ftnref24">[24]</a> Through Word and Sacrament, the church reminds the world (and itself), that true politics is not found in wielding dominion, but in worshipping _Dominum Iesum Christum_.
 
-### <span class="ez-toc-section" id="CONCLUSION_REINCORPORATING_THE_LOST"></span>CONCLUSION: REINCORPORATING THE LOST<span class="ez-toc-section-end"></span>
+### CONCLUSION: REINCORPORATING THE LOST
 
 One final way in which Anabaptists and Anglicans can unite in their approaches to the state is by entering the public sphere to advocate for the many victims of statecraft. During this, the Fourth Act of God’s story, the world’s false sense of politics has made a bloody habit of trampling upon exactly the kinds of people who will be exalted in Act Five to God’s heavenly banquet: widows, orphans, immigrants, and refugees. As Wells poignantly maintains: “The church has got to get used to the faces of the poor, because it will see them on the thrones in Act Five.”<a href="#_ftn25" name="_ftnref25">[25]</a> The church’s test of the state’s offer is therefore liturgical: does the state resemble the liturgy by creating a polity in which the victims of statecraft can flourish? For that matter, does the church itself embody such a liturgy worth resembling? Very often, the answer is “no.”
 
 And yet, by the grace of God, this depressing given can be received as a gift, if these people are received as God’s gifts. Christians – Anabaptists, Anglicans, and others – can enter the public sphere and invite the oppressed to leave the ghettos, refugee camps, and killing fields into which they have been discarded by the world’s statecraft. We can eschew the twin errors of accommodation and separation, and instead invite these “others” to become “us” – to cross the borders, which states have erected to cling to their false and fear-driven dominions, and to enter into the true polity and politics of the Triune God.
 
-### <span class="ez-toc-section" id="NOTES"></span>===NOTES===<span class="ez-toc-section-end"></span>
+### ===NOTES===
 
 <a href="#_ftnref1" name="_ftn1">[1]</a> Rowland briefly describes the “complex oscillations between accommodation and separation” throughout church history, citing Anglicanism as an example of the former and Anabaptists of the latter. **<u>Note</u>**: if this oversimplification is too breathtaking, please substitute “Anglicans” with “accomodationists” and “Anabaptists” with “separationists” throughout. See Christopher Rowland, “Scripture: New Testament,” in _The Blackwell Companion to Political Theology_, eds. Peter Scott and William T. Cavanaugh (Malden, MA: Blackwell, 2004), 21.
 

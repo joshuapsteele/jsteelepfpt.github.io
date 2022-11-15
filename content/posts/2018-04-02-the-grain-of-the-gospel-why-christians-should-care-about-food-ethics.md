@@ -15,58 +15,7 @@ _The following is a guest post written by my friend and former college roommate,
 
 * * *
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#Introduction" title="Introduction">Introduction</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#Factory_Farming" title="Factory Farming">Factory Farming</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#Animal_Suffering" title="Animal Suffering">Animal Suffering</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#Environmental_Costs" title="Environmental Costs">Environmental Costs</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#The_Grain_of_the_Gospel_Eden_Shalom_and_the_World_to_Come" title="The Grain of the Gospel: Eden, Shalom, and the World to Come">The Grain of the Gospel: Eden, Shalom, and the World to Come</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#The_Created_World" title="The Created World">The Created World</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#The_Fallen_World" title="The Fallen World">The Fallen World</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#The_Future_World" title="The Future World">The Future World</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#Is_this_a_valid_theological_argument" title="Is this a valid theological argument?">Is this a valid theological argument?</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#Conclusion" title="Conclusion">Conclusion</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/#Want_to_learn_more" title="Want to learn more?">Want to learn more?</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="Introduction"></span><span style="font-weight: 400;">Introduction</span><span class="ez-toc-section-end"></span>
+# <span style="font-weight: 400;">Introduction</span>
 
 <span style="font-weight: 400;">The three or so decisions you make each day about what to eat are some of the most consequential choices you make in your life.</span>
 
@@ -99,11 +48,11 @@ _The following is a guest post written by my friend and former college roommate,
 
 * * *
 
-# <span class="ez-toc-section" id="Factory_Farming"></span><span style="font-weight: 400;">Factory Farming</span><span class="ez-toc-section-end"></span>
+# <span style="font-weight: 400;">Factory Farming</span>
 
 <span style="font-weight: 400;">Most consumers assume that their meat comes from farms where animals graze and wander around green, pastoral landscapes. That could not be further from the truth. </span>
 
-## <span class="ez-toc-section" id="Animal_Suffering"></span><span style="font-weight: 400;">Animal Suffering</span><span class="ez-toc-section-end"></span>
+## <span style="font-weight: 400;">Animal Suffering</span>
 
 <span style="font-weight: 400;">The </span>[<span style="font-weight: 400;">vast majority</span>][1] <span style="font-weight: 400;">(>99%) of the more than 10 billion chickens, turkeys, pigs, and cows slaughtered each year in the US for meat are raised on factory farms, industrial facilities often referred to as Concentrated Animal Feeding Operations (CAFOs). </span>
 
@@ -117,7 +66,7 @@ _The following is a guest post written by my friend and former college roommate,
 
 <span style="font-weight: 400;">Cows, pigs, chickens, and other animals experience a wide range of emotions, including curiosity, pleasure, pain, fear, joy, anger, sadness, playfulness and more. They most certainly have the capacity to suffer, and suffer they do, innumerable animals in unimaginable conditions. </span>
 
-## <span class="ez-toc-section" id="Environmental_Costs"></span><span style="font-weight: 400;">Environmental Costs</span><span class="ez-toc-section-end"></span>
+## <span style="font-weight: 400;">Environmental Costs</span>
 
 <span style="font-weight: 400;">In addition, animal agriculture comes with a hefty environmental price tag. </span>
 
@@ -129,11 +78,11 @@ _The following is a guest post written by my friend and former college roommate,
 
 * * *
 
-# <span class="ez-toc-section" id="The_Grain_of_the_Gospel_Eden_Shalom_and_the_World_to_Come"></span><span style="font-weight: 400;">The Grain of the Gospel: Eden, Shalom, and the World to Come</span><span class="ez-toc-section-end"></span>
+# <span style="font-weight: 400;">The Grain of the Gospel: Eden, Shalom, and the World to Come</span>
 
 <span style="font-weight: 400;">The current food system bears all the markings of a broken system, and is surely not what Christians should envision for a redeemed world. The gospel message is that creation was made good, it belongs to God, it is in a broken state, but God is at work redeeming the world and bringing about its complete reconciliation.</span>
 
-## <span class="ez-toc-section" id="The_Created_World"></span><span style="font-weight: 400;">The Created World</span><span class="ez-toc-section-end"></span>
+## <span style="font-weight: 400;">The Created World</span>
 
 <span style="font-weight: 400;">In the original created order of Eden, all creatures lived peacefully in community, and God told humans to consume only plant-based foods:</span>
 
@@ -153,7 +102,7 @@ _The following is a guest post written by my friend and former college roommate,
 
 <span style="font-weight: 400;">Eden was a herbivorous world, filled with animals that were created to be companions with humans. Eating meat begins after human pride and greed allow brokenness into the world.  </span>
 
-## <span class="ez-toc-section" id="The_Fallen_World"></span><span style="font-weight: 400;">The Fallen World</span><span class="ez-toc-section-end"></span>
+## <span style="font-weight: 400;">The Fallen World</span>
 
 <span style="font-weight: 400;">In the new human-created order, Creation has been marred, good things have been repurposed for evil, blood is being shed, and instead of living in a peaceful community of God’s original design, humans are now violent toward animals and each other.</span>
 
@@ -161,7 +110,7 @@ _The following is a guest post written by my friend and former college roommate,
 
 <span style="font-weight: 400;">While the Fall is a part of our present reality, Christians are called to work towards reversing its effects, not accentuating them. The Fall is the way the world is, but Eden and Heaven are the way it should be, and it seems good for Christians to participate in building the fully redeemed world to come rather than deepening the effects of the Fall.</span>
 
-## <span class="ez-toc-section" id="The_Future_World"></span><span style="font-weight: 400;">The Future World</span><span class="ez-toc-section-end"></span>
+## <span style="font-weight: 400;">The Future World</span>
 
 <span style="font-weight: 400;">Prophecies such as Isaiah 11.6–9 seem to foresee a return to this vegetarian world: </span>
 
@@ -196,7 +145,7 @@ _The following is a guest post written by my friend and former college roommate,
   <span style="font-weight: 400;">In the future, reconciled world, the wolf will lie down with the lamb, and a child will lead them. Hurt and destruction will pass away, and the lion will eat straw like the ox (Isaiah 11.3-9 and 65.25)</span>
 </li>
 
-## <span class="ez-toc-section" id="Is_this_a_valid_theological_argument"></span>Is this a valid theological argument?<span class="ez-toc-section-end"></span>
+## Is this a valid theological argument?
 
 **It is important to note that Christians should not always operate on the basis of the world to come in the midst of the world as it is.** <span style="font-weight: 400;">There will not be marriage in the world to come (Matt. 22.30), nor will people teach each other about God (Jer. 31:34), but these are both acceptable things to do in the present age. </span>
 
@@ -210,7 +159,7 @@ _The following is a guest post written by my friend and former college roommate,
 
 * * *
 
-# <span class="ez-toc-section" id="Conclusion"></span><span style="font-weight: 400;">Conclusion</span><span class="ez-toc-section-end"></span>
+# <span style="font-weight: 400;">Conclusion</span>
 
 <span style="font-weight: 400;">Reducing meat consumption has many benefits:</span>
 
@@ -231,7 +180,7 @@ _The following is a guest post written by my friend and former college roommate,
 
 <span style="font-weight: 400;">Because we can eat either </span>_<span style="font-weight: 400;">with </span>_<span style="font-weight: 400;">or </span>_<span style="font-weight: 400;">against </span>_<span style="font-weight: 400;">the grain of the gospel, Christians need to see ethical food choices as everyday acts of virtue. Christians need to become food theologians, acquiring a moral imagination that sees animals as valuable co-heirs of the present and future world, and finding ways to look beyond the habits and comforts of our current food system to participate in a better, redeemed alternative.</span>
 
-## <span class="ez-toc-section" id="Want_to_learn_more"></span>Want to learn more?<span class="ez-toc-section-end"></span>
+## Want to learn more?
 
 _<span style="font-weight: 400;">If you are interested in reducing your meat consumption, there are numerous organizations that can guide you through the process of finding delicious, healthy, and inexpensive alternatives. The </span>_[**_Christian Vegetarian Association_**][9]_ <span style="font-weight: 400;">and </span>_[**_Mercy for Animals_**][10]_ <span style="font-weight: 400;">are two good places to start. </span>_
 

@@ -41,43 +41,7 @@ tags:
   What’s the solution? A regular writing habit, day in and day out.
 </p>
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/i-need-to-develop-a-writing-habit-do-you/#How_to_developchange_a_habit" title="How to develop/change a habit">How to develop/change a habit</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/i-need-to-develop-a-writing-habit-do-you/#Habit_Trigger_Behavior_Reward" title="Habit = Trigger + Behavior + Reward">Habit = Trigger + Behavior + Reward</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/i-need-to-develop-a-writing-habit-do-you/#To_change_an_old_habit_taken_from_this_helpful_flowchart_from_Charles_Duhigg" title="To change an old habit (taken from this helpful flowchart from Charles Duhigg):">To change an old habit (taken from this helpful flowchart from Charles Duhigg):</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/i-need-to-develop-a-writing-habit-do-you/#To_develop_a_new_habit_taken_from_this_helpful_flowchart_from_Charles_Duhigg" title="To develop a new habit (taken from this helpful flowchart from Charles Duhigg):">To develop a new habit (taken from this helpful flowchart from Charles Duhigg):</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/i-need-to-develop-a-writing-habit-do-you/#How_to_develop_a_writing_habit_my_example" title="How to develop a writing habit: my example">How to develop a writing habit: my example</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/i-need-to-develop-a-writing-habit-do-you/#What_about_you_What_will_your_writing_habit_look_like" title="What about you? What will your writing habit look like?">What about you? What will your writing habit look like?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/i-need-to-develop-a-writing-habit-do-you/#Get_specific_Let_me_know_what_youre_planning_in_the_comments_below" title="Get specific! Let me know what you’re planning in the comments below!">Get specific! Let me know what you’re planning in the comments below!</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="How_to_developchange_a_habit"></span>How to develop/change a habit<span class="ez-toc-section-end"></span> {.p1}
+# How to develop/change a habit {.p1}
 
 <p class="p3">
   There are plenty of guides out there on the internet about the process of habit formation. Here are a few:
@@ -108,7 +72,7 @@ tags:
   </li>
 </ul>
 
-## <span class="ez-toc-section" id="Habit_Trigger_Behavior_Reward"></span>Habit = Trigger + Behavior + Reward<span class="ez-toc-section-end"></span> {.p4}
+## Habit = Trigger + Behavior + Reward {.p4}
 
 <p class="p3">
   If you look through those resources, you’ll notice a particular model that appears again and again. A habit boils down to three things (this version of the framework mainly comes from Charles Duhigg’s <a href="http://amzn.to/2pkxfBO"><i>The Power of Habit</i></a><i>. </i>You can read the appendix of the book for free <a href="http://charlesduhigg.com/how-habits-work/">here</a>.) :
@@ -143,7 +107,7 @@ tags:
   </li>
 </ul>
 
-## <span class="ez-toc-section" id="To_change_an_old_habit_taken_from_this_helpful_flowchart_from_Charles_Duhigg"></span>To change an old habit (taken from [this helpful flowchart][1] from Charles Duhigg):<span class="ez-toc-section-end"></span> {.p4}
+## To change an old habit (taken from [this helpful flowchart][1] from Charles Duhigg): {.p4}
 
 <ul class="ul1">
   <li class="li3">
@@ -184,7 +148,7 @@ tags:
   </li>
 </ul>
 
-## <span class="ez-toc-section" id="To_develop_a_new_habit_taken_from_this_helpful_flowchart_from_Charles_Duhigg"></span>To develop a new habit (taken from [this helpful flowchart][2] from Charles Duhigg):<span class="ez-toc-section-end"></span> {.p4}
+## To develop a new habit (taken from [this helpful flowchart][2] from Charles Duhigg): {.p4}
 
 <ul class="ul1">
   <li class="li3">
@@ -233,7 +197,7 @@ tags:
   </li>
 </ul>
 
-# <span class="ez-toc-section" id="How_to_develop_a_writing_habit_my_example"></span>How to develop a writing habit: my example<span class="ez-toc-section-end"></span> {.p1}
+# How to develop a writing habit: my example {.p1}
 
 <p class="p3">
   In theory, it’s pretty simple, actually. We just need to take the previous outline, for how to develop a new habit, and apply it to the specific behavior of writing consistently. 500 words a day is a great goal, and it’s the one I’ll be using.
@@ -251,7 +215,7 @@ tags:
   Put together, my commitment looks like: “When I arrive at the library in the morning, before doing anything else, I will write 500 words, because then I get to go for a 20-minute walk outside.”
 </p>
 
-# <span class="ez-toc-section" id="What_about_you_What_will_your_writing_habit_look_like"></span>What about you? What will your writing habit look like?<span class="ez-toc-section-end"></span> {.p1}
+# What about you? What will your writing habit look like? {.p1}
 
 <p class="p2">
   Would you like to create a writing habit?
@@ -269,7 +233,7 @@ tags:
   What’s your writing behavior going to look like? How often will you write? How many words?
 </p>
 
-# <span class="ez-toc-section" id="Get_specific_Let_me_know_what_youre_planning_in_the_comments_below"></span>**Get specific! Let me know what you’re planning in the comments below!**<span class="ez-toc-section-end"></span> {.p1}
+# **Get specific! Let me know what you’re planning in the comments below!** {.p1}
 
 * * *
 

@@ -16,57 +16,7 @@ With that in mind, “Rapoport’s Rules” and “Adler’s Advice” seem like
 
 **But, if you have any further suggestions, please let me know in the comments!**
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#Rapoports_Rules" title="Rapoport’s Rules">Rapoport’s Rules</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#Adlers_Advice" title="Adler’s Advice">Adler’s Advice</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#FactorsObstacles" title="Factors/Obstacles">Factors/Obstacles</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#Rules" title="Rules">Rules</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#Recommendations_for_Impersonal_Conversations" title="Recommendations for Impersonal Conversations">Recommendations for Impersonal Conversations</a><ul class='ez-toc-list-level-4'>
-            <li class='ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#Intellectual_Rules" title="Intellectual Rules">Intellectual Rules</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#Emotional_Rules" title="Emotional Rules">Emotional Rules</a>
-            </li>
-          </ul>
-        </li>
-        
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#The_Meeting_of_Minds_Chapter_12_Highlights" title="“The Meeting of Minds” (Chapter 12, Highlights)">“The Meeting of Minds” (Chapter 12, Highlights)</a><ul class='ez-toc-list-level-4'>
-            <li class='ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#You_must_understand_before_you_can_agree_or_disagree" title="You must understand before you can agree or disagree.">You must understand before you can agree or disagree.</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#Fully_understood_disagreement_and_fully_understood_agreement" title="Fully understood disagreement and fully understood agreement.">Fully understood disagreement and fully understood agreement.</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/#There_are_4_kinds_of_genuine_disagreement" title="There are 4 kinds of genuine disagreement.">There are 4 kinds of genuine disagreement.</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Rapoports_Rules"></span>Rapoport’s Rules<span class="ez-toc-section-end"></span>
+## Rapoport’s Rules
 
 I’ve [posted about these rules before on my blog][1]. Click that link for a bit more information. Here are the rules.
 
@@ -77,7 +27,7 @@ When critiquing someone else:
   3. You should **mention anything you have learned from your target.**
   4. Only then are you permitted to say so much as a word of **rebuttal or criticism**.
 
-## <span class="ez-toc-section" id="Adlers_Advice"></span>Adler’s Advice<span class="ez-toc-section-end"></span>
+## Adler’s Advice
 
 Rapoport’s Rules are an excellent start, but surely there’s more out there!
 
@@ -85,7 +35,7 @@ Mortimer Adler’s book, _How to Speak How to Listen_ contains some practical ad
 
 _(NOTE: Page numbers below are from the Scribd e-book. They might not perfectly coincide with the hardcover or paperback.)_
 
-### <span class="ez-toc-section" id="FactorsObstacles"></span>Factors/Obstacles<span class="ez-toc-section-end"></span>
+### Factors/Obstacles
 
 First, Adler highlights four factors or obstacles that need to be recognized and overcome for a successful conversation to take place.
 
@@ -94,7 +44,7 @@ First, Adler highlights four factors or obstacles that need to be recognized and
   3. **Self-Knowledge**: “Understanding one’s self is a necessary condition for understanding anyone else.” (138).
   4. **Effort**: “Saying what you mean is one of the hardest things in the world to do. Listening to what others say in order to discern what they mean is equally hard. Both call for expenditures of intellectual energy that many persons are loath to make.” (140).
 
-### <span class="ez-toc-section" id="Rules"></span>Rules<span class="ez-toc-section-end"></span>
+### Rules
 
   1. “**Pick the right place and occasion for a conversation**, one that provides sufficient time for carrying it on and one that is free from the annoyance of distractions that interrupt or divert it.” (140).
   2. “**Know in advance what kind of conversation you are trying to have.**” (141).
@@ -123,9 +73,9 @@ First, Adler highlights four factors or obstacles that need to be recognized and
       3. “The end should bring the conversation to a conclusion—a decision reached if the conversation has a practical purpose, a position agreed upon if the matter is theoretical. 
       4. “If agreement is beyond reach, then the conclusion may involve suspended judgment and the tabling of the matter in question for further conversation, and perhaps resolution, at a later time.” (145–47).
 
-### <span class="ez-toc-section" id="Recommendations_for_Impersonal_Conversations"></span>Recommendations for Impersonal Conversations<span class="ez-toc-section-end"></span>
+### Recommendations for Impersonal Conversations
 
-#### <span class="ez-toc-section" id="Intellectual_Rules"></span>Intellectual Rules<span class="ez-toc-section-end"></span>
+#### Intellectual Rules
 
   1. “If you are an active participant in a conversation or discussion, your first obligation is to **focus on the question to be considered.** What is the problem to be solved, the issue to be settled, the subject to be explored? **If the matter is complex** and has a number of component elements, those engaged in the conversation would be well advised to **break it up into its parts, label them, and put them in some order.**” (150).
   2. “**Stick to the issue.** Stay within the framework of the subject under consideration, either as a whole or with respect to one or another of its parts. Don’t wander off and talk about something else or intrude irrelevancies into the course of the conversation.” (150).
@@ -143,7 +93,7 @@ First, Adler highlights four factors or obstacles that need to be recognized and
       5. “**Beware of examples.** They often prove too much or too little and they are seldom perfectly relevant. … Examples can be useful, but only to illustrate what you are saying, never to prove it.”
       6. “Examples should be treated like assumptions. Just as assumptions should be allowed to exert whatever force they have only with everyone’s explicit acknowledgment and consent, so **examples should stand only if everyone sees their relevance and is aware that they are being used to illustrate a point, not to prove it.**” (153–56). 
 
-#### <span class="ez-toc-section" id="Emotional_Rules"></span>Emotional Rules<span class="ez-toc-section-end"></span>
+#### Emotional Rules
 
   1. “catch yourself or the other person getting angry. The signs that this is happening are many and various:  
       1. you or he start to shout; 
@@ -155,9 +105,9 @@ First, Adler highlights four factors or obstacles that need to be recognized and
   3. “**Do not allow an impersonal discussion to become a personal quarrel.** Argument is not aggression. There is no point at all in trying to win an argument simply by putting your opponent down or beating him up.”
   4. “**Be aware of the results of emotional disorder on your own part.** … There is certainly no point in winning an argument for personal or emotional reasons that impel you to try to get the better of the other person when your mind either knows now or will recognize later that he was right and you were wrong.” (156–57).
 
-### <span class="ez-toc-section" id="The_Meeting_of_Minds_Chapter_12_Highlights"></span>“The Meeting of Minds” (Chapter 12, Highlights)<span class="ez-toc-section-end"></span>
+### “The Meeting of Minds” (Chapter 12, Highlights)
 
-#### <span class="ez-toc-section" id="You_must_understand_before_you_can_agree_or_disagree"></span>You must understand before you can agree or disagree.<span class="ez-toc-section-end"></span>
+#### You must understand before you can agree or disagree.
 
 <blockquote class="wp-block-quote">
   <p>
@@ -169,7 +119,7 @@ First, Adler highlights four factors or obstacles that need to be recognized and
   </p>
 </blockquote>
 
-#### <span class="ez-toc-section" id="Fully_understood_disagreement_and_fully_understood_agreement"></span>Fully understood disagreement and fully understood agreement.<span class="ez-toc-section-end"></span>
+#### Fully understood disagreement and fully understood agreement.
 
 <blockquote class="wp-block-quote">
   <p>
@@ -177,7 +127,7 @@ First, Adler highlights four factors or obstacles that need to be recognized and
   </p>
 </blockquote>
 
-#### <span class="ez-toc-section" id="There_are_4_kinds_of_genuine_disagreement"></span>There are 4 kinds of genuine disagreement.<span class="ez-toc-section-end"></span>
+#### There are 4 kinds of genuine disagreement.
 
 <blockquote class="wp-block-quote">
   <p>

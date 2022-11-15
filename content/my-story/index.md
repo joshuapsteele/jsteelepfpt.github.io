@@ -9,32 +9,7 @@ mf2_syndication:
 ---
 _(Note: for a much briefer profile of what I&#8217;m like and what makes me tick as a worker, <a href="https://joshuapsteele.com/what-color-is-my-parachute-the-flower-petal-exercise/" target="_blank" rel="noreferrer noopener">read this self-assessment</a>.)_
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/portfolio/my-story/#From_Childhood_to_College" title="From Childhood to College">From Childhood to College</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/portfolio/my-story/#College_Cedarville_University" title="College (Cedarville University)">College (Cedarville University)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/portfolio/my-story/#Seminary_Beeson_Divinity_School" title="Seminary (Beeson Divinity School)">Seminary (Beeson Divinity School)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/portfolio/my-story/#PhD_and_The_Priesthood_Wheaton_College" title="Ph.D. and The Priesthood (Wheaton College)">Ph.D. and The Priesthood (Wheaton College)</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="From_Childhood_to_College"></span>From Childhood to College<span class="ez-toc-section-end"></span>
+## From Childhood to College
 
 God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.
 
@@ -46,7 +21,7 @@ Although I languished in spiritual apathy and bitterness during junior high, God
 
 After returning from Mexico, however, my first opportunity to preach wrecked my plans for the future (I wanted to be a mechanical engineer). As I prepared my first sermon, it bothered me that I knew much more about calculus, physics, and Spanish than I did about Scripture. Wanting to learn more about the gospel to preach that good news to others, I changed my major from Mechanical Engineering to Pre-seminary Bible just three weeks before my first semester of college.
 
-## <span class="ez-toc-section" id="College_Cedarville_University"></span>College (Cedarville University)<span class="ez-toc-section-end"></span>
+## College (Cedarville University)
 
 I had a lot going for me as I entered college. Although I am the son of a bricklayer and a homemaker, I was able to go to a Christian university because God miraculously provided a full-ride scholarship. Furthermore, the conservative Baptist environment of my high school days had given me a love for the gospel, for prayer, and for studying Scripture.
 
@@ -56,13 +31,13 @@ In college, I fell in love with a nursing student from Pennsylvania (we got marr
 
 Nevertheless, my college years ended on a painful note. In what I now refer to as the “Cedarville Purge,” the most conservative constituents of the university exacted revenge for a shift to moderate evangelicalism that had taken place in the years just before I arrived as a freshman. My professors were forced out because being a moderate evangelical was too liberal for the university’s new vision. I and others protested the shameful actions of the trustees and administrators—but we failed. Although God was gracious to provide other jobs for my professors, it was a very painful experience during a formative period in my life.
 
-## <span class="ez-toc-section" id="Seminary_Beeson_Divinity_School"></span>Seminary (Beeson Divinity School)<span class="ez-toc-section-end"></span>
+## Seminary (Beeson Divinity School)
 
 Given the unhappy ending to my college career, I am extremely thankful that God led me to Beeson Divinity School and St. Peter’s Anglican Church in Birmingham, AL. The theological tradition and breadth of Anglicanism, as well as the ecumenical spirit of Beeson, were breaths of fresh air and balms to my wounded spirit. In not throwing out the theological baby with the bathwater, it was healthy for me to step back from the prophetic fervor of my final days at Cedarville, and instead to devote myself to being faithful with the gifts and opportunities God gave me in Alabama.
 
 I _learned_ a lot as a seminarian. And I was also given the opportunity as a youth minister at St. Peter’s to _teach_ others about the God of the gospel who has captured my thoughts. The joys and challenges of student ministry reinforced my identity as a student and a teacher. While I used to think I could be satisfied as a professor even without a pastoral role in the Church, my time as a youth minister in seminary changed that. If forced to choose between the Church and the academy, I would choose pastoral ministry every time. I was ordained as a deacon in October 2016, shortly before completing my M.Div.
 
-## <span class="ez-toc-section" id="PhD_and_The_Priesthood_Wheaton_College"></span>Ph.D. and The Priesthood (Wheaton College)<span class="ez-toc-section-end"></span>
+## Ph.D. and The Priesthood (Wheaton College)
 
 Nevertheless, in the interests of becoming a pastor-theologian, I decided to pursue a Ph.D. I entered the Ph.D. program at Wheaton College in 2017. Since then, God has blessed me and my family in many ways. He provided fulfilling work as a Nurse Practitioner for my wife, Rachel. He provided me with a part-time job as the Managing Editor of Anglican Compass. And he also blessed us with two wonderful children (Eva in July 2018, Andrew in July 2020).
 

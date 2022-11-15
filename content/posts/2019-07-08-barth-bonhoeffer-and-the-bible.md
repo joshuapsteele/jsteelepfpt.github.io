@@ -10,79 +10,7 @@ categories:
   - Uncategorized
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#John_Websters_Idea" title="John Webster’s Idea">John Webster’s Idea</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#My_Idea" title="My Idea">My Idea</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Barth_Bonhoeffer_and_the_Bible_Where_to_Begin" title="Barth, Bonhoeffer, and the Bible: Where to Begin?">Barth, Bonhoeffer, and the Bible: Where to Begin?</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Begin_at_the_Beginning_Genesis_1-3" title="Begin at the Beginning: Genesis 1–3">Begin at the Beginning: Genesis 1–3</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Other_Possibilities" title="Other Possibilities? ">Other Possibilities? </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Bonhoeffer_and_the_Bible" title="Bonhoeffer and the Bible">Bonhoeffer and the Bible</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Barth_and_the_Bible" title="Barth and the Bible">Barth and the Bible</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1913_GA_I8" title="Predigten 1913 (GA I.8)">Predigten 1913 (GA I.8)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1914_GA_I5" title="Predigten 1914 (GA I.5)">Predigten 1914 (GA I.5)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1915_GA_I27" title="Predigten 1915 (GA I.27)">Predigten 1915 (GA I.27)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1916_GA_I29" title="Predigten 1916 (GA I.29)">Predigten 1916 (GA I.29)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1917_GA_I32" title="Predigten 1917 (GA I.32)">Predigten 1917 (GA I.32)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1918_GA_I37" title="Predigten 1918 (GA I.37)">Predigten 1918 (GA I.37)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1919_GA_I39" title="Predigten 1919 (GA I.39)">Predigten 1919 (GA I.39)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1920_GA_I42" title="Predigten 1920 (GA I.42)">Predigten 1920 (GA I.42)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1921_GA_I44" title="Predigten 1921 (GA I.44)">Predigten 1921 (GA I.44)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1921-1935_GA_I31" title="Predigten 1921-1935 (GA I.31)">Predigten 1921-1935 (GA I.31)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-18" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1935-1952_GA_I26" title="Predigten 1935-1952 (GA I.26)">Predigten 1935-1952 (GA I.26)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-19" href="https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/#Predigten_1954-1967_GA_I12" title="Predigten 1954-1967 (GA I.12)">Predigten 1954-1967 (GA I.12)</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="John_Websters_Idea"></span>John Webster’s Idea<span class="ez-toc-section-end"></span>
+## John Webster’s Idea
 
 Like so many others, I desperately wish that John Webster were still alive. 
 
@@ -132,7 +60,7 @@ Don’t get me wrong. Webster successfully (in my opinion) demonstrates that
 
 However, he does not address their expositions of specific biblical passages!
 
-## <span class="ez-toc-section" id="My_Idea"></span>My Idea<span class="ez-toc-section-end"></span>
+## My Idea
 
 This, then, is what I would like to do. 
 
@@ -144,23 +72,23 @@ But I want to go beyond Webster’s essay in order to read specific biblical pas
   2. Learning how to read the Bible theologically for the benefit of the Church today.  
     
 
-## <span class="ez-toc-section" id="Barth_Bonhoeffer_and_the_Bible_Where_to_Begin"></span>Barth, Bonhoeffer, and the Bible: Where to Begin?<span class="ez-toc-section-end"></span>
+## Barth, Bonhoeffer, and the Bible: Where to Begin?
 
 The main challenge of a “Barth, Bonhoeffer, and the Bible” project is limiting its scope. 
 
 After all, the quantity of Barth’s biblical material is massive. And, even though Bonhoeffer wrote much less, there’s still a fair amount of biblical material across his corpus!
 
-### <span class="ez-toc-section" id="Begin_at_the_Beginning_Genesis_1-3"></span>Begin at the Beginning: Genesis 1–3<span class="ez-toc-section-end"></span>
+### Begin at the Beginning: Genesis 1–3
 
 Genesis 1–3 is perhaps the best place to begin. Not only is it the beginning of the biblical canon, but both Barth and Bonhoeffer wrote about Genesis 1–3 at length. Furthermore, Bonhoeffer’s interpretation of the _imago Dei_ gets mentioned by Barth in the _Church Dogmatics_. And the various issues discussed in relationship to Genesis 1–3 are quite central to both theologians’ theological projects.
 
 I have already demonstrated connections between (1) both theologians’ interpretations of Genesis 1–3 and (2) their theological critiques of religion. Furthermore, [I’ve explored the connections between (1) their interpretations of the tree of the knowledge of good and evil and (2) their similarities and differences when it comes to religion][4].
 
-## <span class="ez-toc-section" id="Other_Possibilities"></span>Other Possibilities? <span class="ez-toc-section-end"></span>
+## Other Possibilities? 
 
 However, there’s much more beyond Genesis 1–3 to consider!
 
-## <span class="ez-toc-section" id="Bonhoeffer_and_the_Bible"></span>Bonhoeffer and the Bible<span class="ez-toc-section-end"></span>
+## Bonhoeffer and the Bible
 
 On the Bonhoeffer side of things, his lengthiest expositions are found in: 
 
@@ -315,11 +243,11 @@ Bonhoeffer’s numerous sermons and meditations are also worth considering:
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Barth_and_the_Bible"></span>Barth and the Bible<span class="ez-toc-section-end"></span>
+## Barth and the Bible
 
 For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Barth’s _Gesamtausgabe_.
 
-## <span class="ez-toc-section" id="Predigten_1913_GA_I8"></span>Predigten 1913 (GA I.8)<span class="ez-toc-section-end"></span>
+## Predigten 1913 (GA I.8)
 
   * 1 und 5 Januar (Neujahr): Prediger 1,9
   * 12 Januar: Matthäus 18,19
@@ -374,7 +302,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * 28 Dezember: Hebräer 13,14  
     
 
-## <span class="ez-toc-section" id="Predigten_1914_GA_I5"></span>Predigten 1914 (GA I.5)<span class="ez-toc-section-end"></span>
+## Predigten 1914 (GA I.5)
 
   * 1 Januar (Neujahr): Psalm 31,15-16
   * 11 Januar: Römer 1,16 (I)
@@ -434,7 +362,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * Grabrede  
     
 
-## <span class="ez-toc-section" id="Predigten_1915_GA_I27"></span>Predigten 1915 (GA I.27)<span class="ez-toc-section-end"></span>
+## Predigten 1915 (GA I.27)
 
   * 1 und 3 Januar (Neujahr): Offenbarung 1,8
   * 10 Januar: Markus 1,14-15
@@ -490,7 +418,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * Kasualreden  
     
 
-## <span class="ez-toc-section" id="Predigten_1916_GA_I29"></span>Predigten 1916 (GA I.29)<span class="ez-toc-section-end"></span>
+## Predigten 1916 (GA I.29)
 
   * 1 Januar (Neujahr): Hebräer 13,8
   * 2 Januar: Lukas 2,40
@@ -549,7 +477,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * Kasualreden: Hochzeit von Karl Guggenheim und Nelly Zollikofer  
     
 
-## <span class="ez-toc-section" id="Predigten_1917_GA_I32"></span>Predigten 1917 (GA I.32)<span class="ez-toc-section-end"></span>
+## Predigten 1917 (GA I.32)
 
   * 1 und 7 Januar (Neujahr): Psalm 25,14
   * 21 Januar: 1 Mose 1,1-2
@@ -606,7 +534,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * Anhang: Vorworte zu «Suchet Gott, so werdet ihr leben!»  
     
 
-## <span class="ez-toc-section" id="Predigten_1918_GA_I37"></span>Predigten 1918 (GA I.37)<span class="ez-toc-section-end"></span>
+## Predigten 1918 (GA I.37)
 
   * 1 Januar (Neujahr): Psalm 96,1
   * 6 Januar: Lukas 2,41-52
@@ -654,7 +582,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * 29 Dezember: Offenbarung 1,3  
     
 
-## <span class="ez-toc-section" id="Predigten_1919_GA_I39"></span>Predigten 1919 (GA I.39)<span class="ez-toc-section-end"></span>
+## Predigten 1919 (GA I.39)
 
   * 1 Januar (Neujahr): Psalm 23
   * 5 Januar: Johannes 14,1
@@ -710,7 +638,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * 28 Dezember: Matthäus 2,1-12  
     
 
-## <span class="ez-toc-section" id="Predigten_1920_GA_I42"></span>Predigten 1920 (GA I.42)<span class="ez-toc-section-end"></span>
+## Predigten 1920 (GA I.42)
 
   * 1 Januar (Neujahr): Jeremia 31,31-34
   * 4 Januar: Sprüche 3,26
@@ -762,7 +690,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * 26 Dezember (Weihnacht II): Lukas 2,33-35  
     
 
-## <span class="ez-toc-section" id="Predigten_1921_GA_I44"></span>Predigten 1921 (GA I.44)<span class="ez-toc-section-end"></span>
+## Predigten 1921 (GA I.44)
 
   * 1 Januar (Neujahr): Offenbarung 21,1-7
   * 9 Januar: Matthäus 20,1-16
@@ -798,7 +726,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * Kasualrede  
     
 
-## <span class="ez-toc-section" id="Predigten_1921-1935_GA_I31"></span>Predigten 1921-1935 (GA I.31)<span class="ez-toc-section-end"></span>
+## Predigten 1921-1935 (GA I.31)
 
   * Jakobus 5,7-8 (1921)
   * Das ewige Licht, Jesaja 60,19-20 (1922)
@@ -874,7 +802,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * Nachweis früherer Veröffentlichungen des Inhalts dieses Bandes  
     
 
-## <span class="ez-toc-section" id="Predigten_1935-1952_GA_I26"></span>Predigten 1935-1952 (GA I.26)<span class="ez-toc-section-end"></span>
+## Predigten 1935-1952 (GA I.26)
 
   * Matthäus 6,24-34 (1935)
   * Matthäus 21,1-11 (1935)
@@ -938,7 +866,7 @@ For Barth, first of all, there’s the entire “Abteilung I. Predigten” of Ba
   * Jesus Christus ist auferstanden (1947)  
     
 
-## <span class="ez-toc-section" id="Predigten_1954-1967_GA_I12"></span>Predigten 1954-1967 (GA I.12)<span class="ez-toc-section-end"></span>
+## Predigten 1954-1967 (GA I.12)
 
   * Dennoch bleibe ich stets bei dir, Psalm 73,23 (1954)
   * Euch ist heute der Heiland geboren, Lukas 2,10-11 (1954)

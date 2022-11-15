@@ -10,45 +10,7 @@ categories:
 ---
 _This sermon, on Mark 8:27-38 and James 3:1-12, was originally preached on September 16, 2018 at [Christ Redeemer Anglican Church in Milwaukee, WI][1]._
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/take-up-your-tongue-and-follow-jesus/#Introduction" title="Introduction">Introduction</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/take-up-your-tongue-and-follow-jesus/#Main_Point" title="Main Point">Main Point</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/take-up-your-tongue-and-follow-jesus/#Mark_8_27-38" title="Mark 8:27-38">Mark 8:27-38</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/take-up-your-tongue-and-follow-jesus/#What_does_that_look_like_though" title="What does that look like, though?">What does that look like, though?</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/take-up-your-tongue-and-follow-jesus/#First_as_our_passage_implies_we_need_to_realize_that_whenever_we_are_communicating_with_another_person_we_are_either_talking_to_God_or_to_one_of_Gods_image-bearers" title="First, as our passage implies, we need to realize that, whenever we are communicating with another person, we are either talking to God or to one of God&#8217;s image-bearers.">First, as our passage implies, we need to realize that, whenever we are communicating with another person, we are either talking to God or to one of God&#8217;s image-bearers.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/take-up-your-tongue-and-follow-jesus/#Second_we_need_to_pray" title="Second, we need to pray.">Second, we need to pray.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/take-up-your-tongue-and-follow-jesus/#Third_we_need_to_slow_down_and_calm_down_in_our_communication" title="Third, we need to slow down and calm down in our communication.">Third, we need to slow down and calm down in our communication.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/take-up-your-tongue-and-follow-jesus/#Finally_we_need_to_back_up_our_words_with_our_actions" title="Finally, we need to back up our words with our actions.">Finally, we need to back up our words with our actions.</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span>
+## Introduction
 
 Would you pray with me?
 
@@ -106,7 +68,7 @@ Whether you&#8217;ve ever preached before or not, I trust you&#8217;ve been ther
 
 We&#8217;ve all said some things we later regretted. We&#8217;ve all learned that it&#8217;s easier to talk yourself into trouble than out of it.
 
-## <span class="ez-toc-section" id="Main_Point"></span>Main Point<span class="ez-toc-section-end"></span>
+## Main Point
 
 My main point this morning is, I think, rather simple to understand. But it&#8217;s very difficult to live.
 
@@ -120,7 +82,7 @@ And James has convicted us that, even though it&#8217;s difficult, there&#8217;s
 
 This leaves us in a bit of a bind! At least we&#8217;re not alone.
 
-## <span class="ez-toc-section" id="Mark_8_27-38"></span>Mark 8:27-38<span class="ez-toc-section-end"></span>
+## Mark 8:27-38
 
 Let&#8217;s take a look at our Gospel text in Mark 8.
 
@@ -182,7 +144,7 @@ Rescued by Jesus Christ and empowered by the Holy Spirit, we can be set free to 
 
 The only way to tame your tongue is to take up your cross and follow Jesus.
 
-## <span class="ez-toc-section" id="What_does_that_look_like_though"></span>What does that look like, though?<span class="ez-toc-section-end"></span>
+## What does that look like, though?
 
 Admittedly, the passage we read from James today doesn&#8217;t give us much to go on as far as how to apply these things to our lives today.
 
@@ -196,7 +158,7 @@ How do we do that?
 
 Well, let me offer some suggestions from the book of James as a whole.
 
-### <span class="ez-toc-section" id="First_as_our_passage_implies_we_need_to_realize_that_whenever_we_are_communicating_with_another_person_we_are_either_talking_to_God_or_to_one_of_Gods_image-bearers"></span>First, as our passage implies, we need to realize that, whenever we are communicating with another person, we are either talking to God or to one of God&#8217;s image-bearers.<span class="ez-toc-section-end"></span>
+### First, as our passage implies, we need to realize that, whenever we are communicating with another person, we are either talking to God or to one of God&#8217;s image-bearers.
 
 Though it might seem mundane and unimportant, our daily communication with God&#8217;s image-bearers is a huge area of our life in which we either obey or disobey Jesus&#8217; command to deny ourselves, take up our crosses, and follow him.
 
@@ -212,7 +174,7 @@ Now, as Jesus himself modeled for us, this &#8220;speaking the truth in love&#82
 
 Telling the difference between speaking hard truths in love and speaking them in self-interest requires wisdom.
 
-### <span class="ez-toc-section" id="Second_we_need_to_pray"></span>Second, we need to pray.<span class="ez-toc-section-end"></span>
+### Second, we need to pray.
 
 As James 1:5 puts it:
 
@@ -224,7 +186,7 @@ It could be as simple as praying the last verse of Psalm 19 each morning before 
 
 > &#8220;Let the words of my mouth and the meditation of my heart be acceptable in your sight, O Lord, my rock and my redeemer.&#8221; 
 
-### <span class="ez-toc-section" id="Third_we_need_to_slow_down_and_calm_down_in_our_communication"></span>Third, we need to slow down and calm down in our communication.<span class="ez-toc-section-end"></span>
+### Third, we need to slow down and calm down in our communication.
 
 Consider James 1:19-20:
 
@@ -246,7 +208,7 @@ How much time do we spend being pulled in either direction?
 
 Perhaps we need to pray for the wisdom and the ability to turn off the TV and log off Facebook and Twitter.
 
-### <span class="ez-toc-section" id="Finally_we_need_to_back_up_our_words_with_our_actions"></span>Finally, we need to back up our words with our actions.<span class="ez-toc-section-end"></span>
+### Finally, we need to back up our words with our actions.
 
 Taming the tongue doesn&#8217;t just mean not saying anything bad. And it doesn&#8217;t just mean saying good things. It also includes speaking in a way that is consistent with your behavior.
 

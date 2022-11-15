@@ -17,43 +17,14 @@ categories:
 
 ### 
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/the-grooms-big-day/#READINGS" title="READINGS">READINGS</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/the-grooms-big-day/#HOMILY" title="HOMILY">HOMILY</a><ul class='ez-toc-list-level-4'>
-        <li class='ez-toc-heading-level-4'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/the-grooms-big-day/#Great_weddings_might_I_even_say_heavenly_weddings_are_all_about_the_groom" title="Great weddings, might I even say heavenly weddings, are all about the groom.">Great weddings, might I even say heavenly weddings, are all about the groom.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/the-grooms-big-day/#Great_weddings_and_great_marriages_are_all_about_Christ_our_Bridegroom" title="Great weddings, and great marriages, are all about Christ, our Bridegroom.">Great weddings, and great marriages, are all about Christ, our Bridegroom.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/the-grooms-big-day/#Great_weddings_and_marriages_are_all_about_the_Bridegroom" title="Great weddings and marriages are all about the Bridegroom.">Great weddings and marriages are all about the Bridegroom.</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-### <span class="ez-toc-section" id="READINGS"></span>[READINGS][1]<span class="ez-toc-section-end"></span>
+### [READINGS][1]
 
   1. **Ephesians 5:21-33** – Wives and Husbands
   2. **Psalm 67** – May God Be Gracious to Us and Bless Us
   3. **Revelation 19:6-10** – The Marriage Supper of the Lamb
   4. **Matthew 25:1-13** – The Parable of the Ten Virgins
 
-### <span class="ez-toc-section" id="HOMILY"></span>HOMILY<span class="ez-toc-section-end"></span>
+### HOMILY
 
 What makes a great wedding?
 
@@ -83,7 +54,7 @@ However, I’m here today to tell you all that, sure, you can have a _**good**_ 
 
 But, **if you want a really great wedding – if you want a really great marriage – then it’s really all about the <u>groom</u>**.
 
-#### <span class="ez-toc-section" id="Great_weddings_might_I_even_say_heavenly_weddings_are_all_about_the_groom"></span><u>Great</u> weddings, might I even say _heavenly_ weddings, are all about the <span style="text-decoration: underline;"><strong>groom</strong></span>.<span class="ez-toc-section-end"></span>
+#### <u>Great</u> weddings, might I even say _heavenly_ weddings, are all about the <span style="text-decoration: underline;"><strong>groom</strong></span>.
 
 Now, either you’re not listening or I’ve probably upset you!
 
@@ -101,7 +72,7 @@ Because, for one thing, I’m an egalitarian!
 
 And, for another, I’m not talking about **you** (gestures to groom), **_her_** (to bride) bridegroom, but rather to **<u>Christ</u>**, **_our_** (gestures to everyone) bridegroom.
 
-#### <span class="ez-toc-section" id="Great_weddings_and_great_marriages_are_all_about_Christ_our_Bridegroom"></span>**Great weddings, and great marriages, are all about Christ, our Bridegroom.**<span class="ez-toc-section-end"></span>
+#### **Great weddings, and great marriages, are all about Christ, our Bridegroom.**
 
 Take a glance at the Bible readings on your order of service everyone.
 
@@ -131,7 +102,7 @@ Now, why in the world am I telling you all this? I mean, first I steal the brid
 
 Here’s why (looks directly at bride and groom): **your wedding, and your marriage to each other,** **finds its true meaning and glory** **as a part of Christ’s Bride – the Church –** **preparing herself for the Bridegroom’s return.** 
 
-#### <span class="ez-toc-section" id="Great_weddings_and_marriages_are_all_about_the_Bridegroom"></span>**_Great weddings and marriages are all about the Bridegroom._**<span class="ez-toc-section-end"></span>
+#### **_Great weddings and marriages are all about the Bridegroom._**
 
 What does that mean for you? Well, as we read in Ephesians 5, it means **you are to love each other sacrificially and humbly**.
 

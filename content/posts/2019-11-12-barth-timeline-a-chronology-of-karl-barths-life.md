@@ -61,26 +61,7 @@ There&#8217;s also [this helpful &#8220;Biography&#8221; page over at the Center
 
 Of course, Busch does provide the following chronological list of Barth&#8217;s major works: 
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/barth-timeline-a-chronology-of-karl-barths-life/#Chronological_list_of_Barths_Major_Works_Busch_Karl_Barth_509-12" title="Chronological list of Barth’s Major Works (Busch, Karl Barth, 509–12)">Chronological list of Barth’s Major Works (Busch, Karl Barth, 509–12)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/barth-timeline-a-chronology-of-karl-barths-life/#Do_you_know_of_any_other_Barth_timeline_resources_out_there" title="Do you know of any other Barth timeline resources out there? ">Do you know of any other Barth timeline resources out there? </a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Chronological_list_of_Barths_Major_Works_Busch_Karl_Barth_509-12"></span>Chronological list of Barth’s Major Works (Busch, _Karl Barth_, 509–12)<span class="ez-toc-section-end"></span>
+## Chronological list of Barth’s Major Works (Busch, _Karl Barth_, 509–12)
 
 SOURCE: &nbsp;Eberhard Busch, _Karl Barth: His Life from Letters and Autobiographical Texts_, trans. John Bowden (Eugene, OR: Wipf & Stock Publishers, 2005), 509–512.
 
@@ -181,7 +162,7 @@ SOURCE: &nbsp;Eberhard Busch, _Karl Barth: His Life from Letters and Autobiograp
       * ET _Church Dogmatics_ IV, 4, 1969
   * _Letzte Zeugnisse_, Evangelischer Verlag 1969
 
-## <span class="ez-toc-section" id="Do_you_know_of_any_other_Barth_timeline_resources_out_there"></span>Do you know of any other Barth timeline resources out there? <span class="ez-toc-section-end"></span>
+## Do you know of any other Barth timeline resources out there? 
 
 If so, let me know in the comments!
 

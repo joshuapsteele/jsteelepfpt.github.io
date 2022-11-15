@@ -65,78 +65,7 @@ categories:
 
 &#8212;
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#Introduction" title="Introduction">Introduction</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#Mark_1-5" title="Mark 1-5">Mark 1-5</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#Our_Text_Mark_6_1-13" title="Our Text: Mark 6:1-13">Our Text: Mark 6:1-13</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#First_in_verse_2_they_are_asking_the_right_questions" title="First, in verse 2, they are asking the right questions.">First, in verse 2, they are asking the right questions.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#Second_in_verse_3_everything_the_hometown_crowd_says_is_factually_correct" title="Second, in verse 3, everything the hometown crowd says is factually correct!">Second, in verse 3, everything the hometown crowd says is factually correct!</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#First_their_reaction_shows_us_that_you_can_ask_the_right_questions_with_the_wrong_attitude" title="First, their reaction shows us that you can ask the right questions with the wrong attitude.">First, their reaction shows us that you can ask the right questions with the wrong attitude.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#Second_then_their_reaction_shows_us_that_you_can_know_the_facts_and_miss_the_point" title="Second, then, their reaction shows us that you can know the facts and miss the point.">Second, then, their reaction shows us that you can know the facts and miss the point.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#Conclusion" title="Conclusion:">Conclusion:</a><ul class='ez-toc-list-level-4'>
-        <li class='ez-toc-heading-level-4'>
-          <ul class='ez-toc-list-level-4'>
-            <li class='ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#Faith_is_about_entrusting_yourself_your_entire_life_to_Jesus_as_your_King_-_your_only_Hope_your_only_Lord" title="Faith is about entrusting yourself, your entire life, to Jesus as your King &#8211; your only Hope, your only Lord.">Faith is about entrusting yourself, your entire life, to Jesus as your King &#8211; your only Hope, your only Lord.</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#So_the_uncomfortable_question_stands_Are_we_loyal_to_King_Jesus_above_all_else_Or_are_we_loyal_to_a_Jesus_weve_made_in_our_own_image" title="So the uncomfortable question stands: Are we loyal to King Jesus above all else? Or are we loyal to a &#8220;Jesus&#8221; we’ve made in our own image?">So the uncomfortable question stands: Are we loyal to King Jesus above all else? Or are we loyal to a &#8220;Jesus&#8221; we’ve made in our own image?</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#King_Jesus_doesnt_just_want_to_add_a_pearly_gate_to_our_picket_fences_He_doesnt_just_want_to_stamp_a_Jesus-approved_ticket_to_heaven_on_our_pre-existent_American_Dream" title="King Jesus doesn&#8217;t just want to add a pearly gate to our picket fences. He doesn&#8217;t just want to stamp a Jesus-approved ticket to heaven on our pre-existent American Dream.">King Jesus doesn&#8217;t just want to add a pearly gate to our picket fences. He doesn&#8217;t just want to stamp a Jesus-approved ticket to heaven on our pre-existent American Dream.</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#He_wants_us_to_crucify_the_American_Dream" title="He wants us to crucify the American Dream!">He wants us to crucify the American Dream!</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#He_calls_us_to_abandon_our_self-centered_agendas_of_upward_mobility_and_instead_to_take_up_our_crosses_To_adopt_his_others-focused_agenda_of_self-sacrificial_love" title="He calls us to abandon our self-centered agendas of upward mobility, and instead to take up our crosses! To adopt his others-focused agenda of self-sacrificial love!">He calls us to abandon our self-centered agendas of upward mobility, and instead to take up our crosses! To adopt his others-focused agenda of self-sacrificial love!</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#King_Jesus_followers_carry_forward_his_mission_Do_we" title="King Jesus&#8217; followers carry forward his mission. Do we?">King Jesus&#8217; followers carry forward his mission. Do we?</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#Will_we_in_faith_entrust_our_entire_lives_in_allegiance_to_him_No_matter_the_changes_No_matter_the_costs" title="Will we, in faith, entrust our entire lives in allegiance to him? No matter the changes? No matter the costs?">Will we, in faith, entrust our entire lives in allegiance to him? No matter the changes? No matter the costs?</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#Will_we_refuse_to_make_Jesus_into_just_one_of_us" title="Will we refuse to make Jesus into &#8220;just one of us&#8221;?">Will we refuse to make Jesus into &#8220;just one of us&#8221;?</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/jesus-is-not-just-one-of-us/#King_Jesus_has_dominion_over_disease_demons_and_death_Does_he_have_dominion_over_our_dreams_and_desires" title="King Jesus has dominion over disease, demons, and death. Does he have dominion over our dreams and desires?">King Jesus has dominion over disease, demons, and death. Does he have dominion over our dreams and desires?</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span>
+## Introduction
 
 The &#8220;hometown,&#8221; &#8220;home court&#8221; advantage is a very real occurrence in many areas of life. Familiar fans and supportive surroundings help us humans to perform better at many tasks, from singing to sports.
 
@@ -158,7 +87,7 @@ However, when it comes to family and friends, it&#8217;s difficult to preach re
 
 But every stressed out seminarian, every nervous young pastor preparing to preach to the home crowd, can take heart that the very One we preach, Jesus the Messiah, faced a similar challenge during his earthly preaching ministry.
 
-## <span class="ez-toc-section" id="Mark_1-5"></span>Mark 1-5<span class="ez-toc-section-end"></span>
+## Mark 1-5
 
 Please turn with me to the Gospel of Mark, beginning on page 836 of your pew Bibles.
 
@@ -201,7 +130,7 @@ Jesus is up to something **BIG**, something **NEW**. He is <span style="text-d
 
 Well, maybe **_one_** thing can.
 
-## <span class="ez-toc-section" id="Our_Text_Mark_6_1-13"></span>Our Text: Mark 6:1-13<span class="ez-toc-section-end"></span>
+## Our Text: Mark 6:1-13
 
 We&#8217;re now on page 841, Mark chapter 6 begins this way:
 
@@ -213,7 +142,7 @@ We&#8217;re now on page 841, Mark chapter 6 begins this way:
 
 Now, before I get to two negative aspects of the Nazarenes&#8217; reaction, let&#8217;s consider two positives:
 
-### <span class="ez-toc-section" id="First_in_verse_2_they_are_asking_the_right_questions"></span>First, in verse 2, they are **asking the right questions**.<span class="ez-toc-section-end"></span>
+### First, in verse 2, they are **asking the right questions**.
 
 They recognize that Jesus has wisdom, mighty works, mighty hands – things which should have reminded them of God himself:
 
@@ -227,7 +156,7 @@ The God who, according to Deuteronomy (4:34 and 7:19), rescued Israel from the h
 
 The Creator was **re-creating**. The Redeemer was **rescuing** and **restoring **&#8212; like Jesus had just done with Jairus&#8217; daughter and the bleeding woman in chapter 5.
 
-### <span class="ez-toc-section" id="Second_in_verse_3_everything_the_hometown_crowd_says_is_factually_correct"></span>Second, in verse 3, **everything the hometown crowd says is factually correct!**<span class="ez-toc-section-end"></span>
+### Second, in verse 3, **everything the hometown crowd says is factually correct!**
 
   * Jesus was _in fact_ a carpenter by family trade.
   * And although it&#8217;s perhaps a slur, or a reference to Joseph&#8217;s prior death, Jesus is _in fact_ the &#8220;Son of Mary.&#8221;
@@ -236,7 +165,7 @@ The Creator was **re-creating**. The Redeemer was **rescuing** and **restoring�
 
 So, what&#8217;s wrong with the hometown reaction? Let me focus on two things:
 
-### <span class="ez-toc-section" id="First_their_reaction_shows_us_that_you_can_ask_the_right_questions_with_the_wrong_attitude"></span>First, their reaction shows us that <span style="text-decoration:underline;"><strong>you can ask the right questions with the wrong attitude</strong></span>.<span class="ez-toc-section-end"></span>
+### First, their reaction shows us that <span style="text-decoration:underline;"><strong>you can ask the right questions with the wrong attitude</strong></span>.
 
 Sure, Jesus&#8217; wisdom and mighty deeds should have persuaded them that God was up to something big, something new – and that they might have to change their lives because of it.
 
@@ -250,7 +179,7 @@ But instead, they ask their questions with incredulous skepticism:
 > 
 > He&#8217;s <span style="text-decoration:underline;"><em><strong>just one of us</strong></em></span>, a normal Nazarene.
 
-### <span class="ez-toc-section" id="Second_then_their_reaction_shows_us_that_you_can_know_the_facts_and_miss_the_point"></span>Second, then, their reaction shows us that <span style="text-decoration:underline;"><strong>you can know the facts and miss the point</strong></span>.<span class="ez-toc-section-end"></span>
+### Second, then, their reaction shows us that <span style="text-decoration:underline;"><strong>you can know the facts and miss the point</strong></span>.
 
 In fact, sometimes, you can use the facts in order to miss the point!
 
@@ -282,13 +211,13 @@ And yet, in the face of stubborn unbelief at Nazareth, Mark is willing to say th
 
 Sure, he healed a few sick people, but **whereas elsewhere in the Gospels it is the crowds who marvel at the mighty words and works of Jesus, here he himself is STUNNED by their unbelief! **
 
-## <span class="ez-toc-section" id="Conclusion"></span>Conclusion:<span class="ez-toc-section-end"></span>
+## Conclusion:
 
 Sisters, brothers: **You can know the facts, and miss the point. <span style="text-decoration:underline;">Because FACTS aren&#8217;t FAITH.</span> **
 
 FAITH is not merely intellectual assent to true propositions about Jesus. Look back at Mark 5, to Jairus and the bleeding woman!
 
-#### <span class="ez-toc-section" id="Faith_is_about_entrusting_yourself_your_entire_life_to_Jesus_as_your_King_-_your_only_Hope_your_only_Lord"></span>**Faith is about entrusting yourself, your entire life, to Jesus as your King &#8211; your only Hope, your only Lord.**<span class="ez-toc-section-end"></span>
+#### **Faith is about entrusting yourself, your entire life, to Jesus as your King &#8211; your only Hope, your only Lord.**
 
 When you hear &#8220;**faith**,&#8221; think &#8220;_faithfulness_.&#8221; Think &#8220;_trust_.&#8221; Think &#8220;_loyalty_.&#8221;
 
@@ -322,7 +251,7 @@ He has his own agenda of cosmic redemption. He has his own approach, which oft
 
 <span style="text-decoration:underline;"><strong>King Jesus is not &#8220;<em>just one of us</em>&#8220;!</strong></span>
 
-#### <span class="ez-toc-section" id="So_the_uncomfortable_question_stands_Are_we_loyal_to_King_Jesus_above_all_else_Or_are_we_loyal_to_a_Jesus_weve_made_in_our_own_image"></span>So the uncomfortable question stands: Are we loyal to King Jesus above all else? Or are we loyal to a &#8220;_Jesus_&#8221; we’ve made <span style="text-decoration:underline;">in our own image</span>?<span class="ez-toc-section-end"></span>
+#### So the uncomfortable question stands: Are we loyal to King Jesus above all else? Or are we loyal to a &#8220;_Jesus_&#8221; we’ve made <span style="text-decoration:underline;">in our own image</span>?
 
 King Jesus is not &#8220;_**middle-to-upper-class-American-Jesus**_.&#8221;
 
@@ -330,23 +259,23 @@ Don&#8217;t get me wrong, he cares about the welfare of those around the world 
 
 But, hear me:
 
-#### <span class="ez-toc-section" id="King_Jesus_doesnt_just_want_to_add_a_pearly_gate_to_our_picket_fences_He_doesnt_just_want_to_stamp_a_Jesus-approved_ticket_to_heaven_on_our_pre-existent_American_Dream"></span>King Jesus doesn&#8217;t just want to add a pearly gate to our picket fences. He doesn&#8217;t just want to stamp a Jesus-approved ticket to heaven on our pre-existent American Dream.<span class="ez-toc-section-end"></span>
+#### King Jesus doesn&#8217;t just want to add a pearly gate to our picket fences. He doesn&#8217;t just want to stamp a Jesus-approved ticket to heaven on our pre-existent American Dream.
 
-#### <span class="ez-toc-section" id="He_wants_us_to_crucify_the_American_Dream"></span>He wants us to crucify the American Dream!<span class="ez-toc-section-end"></span>
+#### He wants us to crucify the American Dream!
 
-#### <span class="ez-toc-section" id="He_calls_us_to_abandon_our_self-centered_agendas_of_upward_mobility_and_instead_to_take_up_our_crosses_To_adopt_his_others-focused_agenda_of_self-sacrificial_love"></span>He calls us to abandon our self-centered agendas of upward mobility, and instead to take up our crosses! To adopt his others-focused agenda of self-sacrificial love!<span class="ez-toc-section-end"></span>
+#### He calls us to abandon our self-centered agendas of upward mobility, and instead to take up our crosses! To adopt his others-focused agenda of self-sacrificial love!
 
 And just like it was for Jesus&#8217; hometown crowd back then, our easiest way out of this required repentance now is **to make Jesus&#8217; message a little less demanding and his mission a little bit more like our own**, _**until finally, faithlessly – though we may worship Jesus with our lips – in our hearts, <span style="text-decoration:underline;">we worship only ourselves</span>.**_
 
 Briefly notice with me that, in Mark 6:7-13, Jesus sends out his disciples to do what he himself had been doing: preaching repentance, casting out demons, and healing the sick.
 
-#### <span class="ez-toc-section" id="King_Jesus_followers_carry_forward_his_mission_Do_we"></span>King Jesus&#8217; followers carry forward his mission. Do we?<span class="ez-toc-section-end"></span>
+#### King Jesus&#8217; followers carry forward his mission. Do we?
 
-#### <span class="ez-toc-section" id="Will_we_in_faith_entrust_our_entire_lives_in_allegiance_to_him_No_matter_the_changes_No_matter_the_costs"></span>Will we, in faith, entrust our entire lives in allegiance to him? No matter the changes? No matter the costs?<span class="ez-toc-section-end"></span>
+#### Will we, in faith, entrust our entire lives in allegiance to him? No matter the changes? No matter the costs?
 
-#### <span class="ez-toc-section" id="Will_we_refuse_to_make_Jesus_into_just_one_of_us"></span>Will we refuse to make Jesus into &#8220;just one of us&#8221;?<span class="ez-toc-section-end"></span>
+#### Will we refuse to make Jesus into &#8220;just one of us&#8221;?
 
-#### <span class="ez-toc-section" id="King_Jesus_has_dominion_over_disease_demons_and_death_Does_he_have_dominion_over_our_dreams_and_desires"></span>King Jesus has dominion over disease, demons, and death. Does he have dominion over our dreams and desires?<span class="ez-toc-section-end"></span>
+#### King Jesus has dominion over disease, demons, and death. Does he have dominion over our dreams and desires?
 
 By God&#8217;s grace &#8212; given to us in the life, death, resurrection, and ascension of Jesus Christ our Lord &#8212; By God’s amazing grace, **may these things be so, may we follow him <span style="text-decoration:underline;">faithfully</span>**.
 

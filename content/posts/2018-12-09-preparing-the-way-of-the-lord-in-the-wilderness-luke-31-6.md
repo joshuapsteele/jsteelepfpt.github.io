@@ -17,68 +17,7 @@ I’d like to pray this week’s collect again:
 
 * * *
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#Introduction" title="Introduction">Introduction</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#Big_Idea" title="Big Idea">Big Idea</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#First_what_does_it_mean_to_prepare_the_way_of_the_Lord" title="First, what does it mean to “prepare the way of the Lord”?">First, what does it mean to “prepare the way of the Lord”?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#Why_then_is_getting_people_ready_for_Christs_return_not_comfortable" title="Why, then, is getting people ready for Christ’s return not comfortable?">Why, then, is getting people ready for Christ’s return not comfortable?</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#1_Because_its_done_in_the_wilderness_of_human_history" title="1. Because it’s done in the wilderness of human history.">1. Because it’s done in the wilderness of human history.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#2_Because_it_begins_with_us_the_people_of_God" title="2. Because it begins with us, the people of God.">2. Because it begins with us, the people of God.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#Why_is_getting_ourselves_ready_for_Christs_return_comforting" title="Why is getting ourselves ready for Christ’s return comforting?">Why is getting ourselves ready for Christ’s return comforting?</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#1_Preparing_the_way_of_the_Lord_brings_comfort_first_because_though_we_have_sinned_and_need_to_repent_forgiveness_is_freely_available_through_Jesus_Christ" title="1. Preparing the way of the Lord brings comfort, first, because, though we have sinned and need to repent, forgiveness is freely available through Jesus Christ.">1. Preparing the way of the Lord brings comfort, first, because, though we have sinned and need to repent, forgiveness is freely available through Jesus Christ.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#2_Preparing_the_way_of_the_Lord_brings_comfort_second_because_the_wilderness_will_not_have_the_final_word" title="2. Preparing the way of the Lord brings comfort, second, because the wilderness will not have the final word.">2. Preparing the way of the Lord brings comfort, second, because the wilderness will not have the final word.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#How_should_we_prepare_the_way_of_the_Lord_today_at_Savior" title="How should we prepare the way of the Lord today, at Savior?">How should we prepare the way of the Lord today, at Savior?</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#1_Avoid_escapism_Tell_the_truth_about_the_wilderness" title="1. Avoid escapism. Tell the truth about the wilderness.">1. Avoid escapism. Tell the truth about the wilderness.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#2_Radically_resist_busyness_and_hurry" title="2. Radically resist busyness and hurry.">2. Radically resist busyness and hurry.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#3_Lead_the_way_in_repentance_by_preaching_the_gospel_to_ourselves_daily" title="3. Lead the way in repentance by preaching the gospel to ourselves daily.">3. Lead the way in repentance by preaching the gospel to ourselves daily.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/#Conclusion" title="Conclusion">Conclusion</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span>
+## Introduction
 
 It’s been a particularly difficult week here at Church of the Savior.
 
@@ -109,7 +48,7 @@ Right now, we need some _good_ news. We need some comfort.
 
 Do we really need to hear from John the Baptist right now?
 
-## <span class="ez-toc-section" id="Big_Idea"></span>Big Idea<span class="ez-toc-section-end"></span>
+## Big Idea
 
 I think we do, and here’s why.
 
@@ -123,7 +62,7 @@ But preparing the way of the Lord in the wilderness is comforting, because it br
 
 * * *
 
-## <span class="ez-toc-section" id="First_what_does_it_mean_to_prepare_the_way_of_the_Lord"></span>First, what does it mean to “prepare the way of the Lord”?<span class="ez-toc-section-end"></span>
+## First, what does it mean to “prepare the way of the Lord”?
 
 Well, it simply means to get things ready for God’s arrival.
 
@@ -155,9 +94,9 @@ We Christians prepare the way for Lord’s second arrival, when he returns to �
 
 * * *
 
-## <span class="ez-toc-section" id="Why_then_is_getting_people_ready_for_Christs_return_not_comfortable"></span>Why, then, is getting people ready for Christ’s return not comfortable?<span class="ez-toc-section-end"></span>
+## Why, then, is getting people ready for Christ’s return not comfortable?
 
-### <span class="ez-toc-section" id="1_Because_its_done_in_the_wilderness_of_human_history"></span>1. Because it’s done in the wilderness of human history.<span class="ez-toc-section-end"></span>
+### 1. Because it’s done in the wilderness of human history.
 
 We prepare the way of the Lord in the midst of a world that, though it still belongs to God, has been infected and affected by sin and death at every level.
 
@@ -202,7 +141,7 @@ I say we let the Tiberiuses of this world know that their days in power are numb
 
 But here there is a second reason why preparing the way of the Lord is uncomfortable.
 
-### <span class="ez-toc-section" id="2_Because_it_begins_with_us_the_people_of_God"></span>2. Because it begins with us, the people of God.<span class="ez-toc-section-end"></span>
+### 2. Because it begins with us, the people of God.
 
 John doesn’t go to Tiberius’ palace. He doesn’t pay a visit to Pontius Pilate’s mansion.
 
@@ -237,7 +176,7 @@ And yet, I insist, preparing the way of the Lord is comforting!
 
 * * *
 
-## <span class="ez-toc-section" id="Why_is_getting_ourselves_ready_for_Christs_return_comforting"></span>Why is getting ourselves ready for Christ’s return comforting?<span class="ez-toc-section-end"></span>
+## Why is getting ourselves ready for Christ’s return comforting?
 
 I find it fascinating that all four Gospels link the fiery ministry of John the Baptist with Isaiah 40.
 
@@ -256,7 +195,7 @@ And then we get to Isaiah 40, which begins:
 
 The “voice crying in the wilderness,” which all four Gospels say is John the Baptist, is preparing the way—getting people ready–for the arrival of God’s comfort in and through Jesus Christ.
 
-### <span class="ez-toc-section" id="1_Preparing_the_way_of_the_Lord_brings_comfort_first_because_though_we_have_sinned_and_need_to_repent_forgiveness_is_freely_available_through_Jesus_Christ"></span>1. Preparing the way of the Lord brings comfort, first, because, though we have sinned and need to repent, forgiveness is freely available through Jesus Christ.<span class="ez-toc-section-end"></span>
+### 1. Preparing the way of the Lord brings comfort, first, because, though we have sinned and need to repent, forgiveness is freely available through Jesus Christ.
 
 We are not saved by how well we repent. If we were, that would be very bad news. Instead, we are saved by the life, death, and resurrection of Jesus Christ.
 
@@ -264,7 +203,7 @@ Turning away from sin and toward Jesus in repentance and faith might not be comf
 
 We don’t have to run the rat race of trying to earn God’s favor and give our own lives meaning. Instead, we can cling to Jesus and find forgiveness, purpose, and value in him.
 
-### <span class="ez-toc-section" id="2_Preparing_the_way_of_the_Lord_brings_comfort_second_because_the_wilderness_will_not_have_the_final_word"></span>2. Preparing the way of the Lord brings comfort, second, because the wilderness will not have the final word.<span class="ez-toc-section-end"></span>
+### 2. Preparing the way of the Lord brings comfort, second, because the wilderness will not have the final word.
 
 The word of God in the wilderness is NOT “get used to it! This is the way things are always going to be!” NO!
 
@@ -289,7 +228,7 @@ That’s what we’re preparing for. And that’s why it’s comforting.
 
 * * *
 
-## <span class="ez-toc-section" id="How_should_we_prepare_the_way_of_the_Lord_today_at_Savior"></span>How should we prepare the way of the Lord today, at Savior?<span class="ez-toc-section-end"></span>
+## How should we prepare the way of the Lord today, at Savior?
 
 How should we get ourselves ready for Christ’s return?
 
@@ -297,7 +236,7 @@ Well, Father Kevin is going to preach more about repentance based on the content
 
 But, in the meantime, I’ve got three pastoral suggestions based on this week’s introduction of John’s ministry.
 
-### <span class="ez-toc-section" id="1_Avoid_escapism_Tell_the_truth_about_the_wilderness"></span>1. Avoid escapism. Tell the truth about the wilderness.<span class="ez-toc-section-end"></span>
+### 1. Avoid escapism. Tell the truth about the wilderness.
 
 Maybe I’m just speaking to myself here, but it seems like one of the easiest approaches to the suffering we’re enduring here at Savior would be to ignore it. Put a smile on.
 
@@ -325,7 +264,7 @@ Yes, we should be grateful. Yes, we should be hopeful.
 
 But we also need to be unflinchingly truthful. Especially in difficult seasons like the one we’re in right now.
 
-### <span class="ez-toc-section" id="2_Radically_resist_busyness_and_hurry"></span>2. Radically resist busyness and hurry.<span class="ez-toc-section-end"></span>
+### 2. Radically resist busyness and hurry.
 
 If that sounds familiar, it’s because it’s one of our stated values here at Savior. It’s baked into the culture of this church.
 
@@ -341,7 +280,7 @@ Confession and repentance are both more difficult and less comfortable than volu
 
 So, let’s not use getting lost in the “Lord’s work” as an excuse for avoiding the Lord’s word.
 
-### <span class="ez-toc-section" id="3_Lead_the_way_in_repentance_by_preaching_the_gospel_to_ourselves_daily"></span>3. Lead the way in repentance by preaching the gospel to ourselves daily.<span class="ez-toc-section-end"></span>
+### 3. Lead the way in repentance by preaching the gospel to ourselves daily.
 
 It might not be comfortable, but God’s comforting word to us in the wilderness is that we are sinners and we need to repent and be baptized for the forgiveness of our sins.
 
@@ -357,7 +296,7 @@ So let’s remind ourselves. Let’s remind each other.
 
 * * *
 
-## <span class="ez-toc-section" id="Conclusion"></span>Conclusion<span class="ez-toc-section-end"></span>
+## Conclusion
 
 Like I said earlier, right now, this week, at Church of the Savior in Wheaton, IL, we need some good news.
 

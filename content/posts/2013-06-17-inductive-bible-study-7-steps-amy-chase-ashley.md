@@ -18,62 +18,7 @@ categories:
 
 * * *
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Jeremiah_29_11" title="Jeremiah 29:11">Jeremiah 29:11</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Inspiration" title="Inspiration">Inspiration</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Perspicuity" title="Perspicuity">Perspicuity</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Inductive_Bible_Study_7_Steps_to_Study_the_Bible" title="Inductive Bible Study: 7 Steps to Study the Bible">Inductive Bible Study: 7 Steps to Study the Bible</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Step_One_Survey_Reading_and_Historical_Background" title="Step One: Survey Reading and Historical Background.">Step One: Survey Reading and Historical Background.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Step_Two_Unaided_Observations" title="Step Two: Unaided Observations.">Step Two: Unaided Observations.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Step_Three_Interpretive_Questions" title="Step Three: Interpretive Questions.">Step Three: Interpretive Questions.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Step_Four_Word_Studies" title="Step Four: Word Studies.">Step Four: Word Studies.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Step_Five_Commentaries" title="Step Five: Commentaries.">Step Five: Commentaries.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Step_Six_Synthesize" title="Step Six: Synthesize.">Step Six: Synthesize.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Step_Seven_Application" title="Step Seven: Application.">Step Seven: Application.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Now_lets_go_back_to_my_beef_with_Jeremiah_29_11" title="Now, let’s go back to my beef with Jeremiah 29:11.">Now, let’s go back to my beef with Jeremiah 29:11.</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/inductive-bible-study-7-steps-amy-chase-ashley/#Would_you_like_to_learn_more_about_inductive_Bible_study_Ask_your_questions_in_the_comments_below" title="Would you like to learn more about inductive Bible study? Ask your questions in the comments below!">Would you like to learn more about inductive Bible study? Ask your questions in the comments below!</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Jeremiah_29_11"></span>Jeremiah 29:11<span class="ez-toc-section-end"></span>
+## Jeremiah 29:11
 
 <p dir="ltr">
   When I accepted the invitation to speak at my parents’ church, I immediately started thinking about what message I would deliver.  I decided to give a message on something that is very important to me after my four years at <a href="http://www.cedarville.edu/">Cedarville</a> and something I am very passionate about.  I hope it will be <span style="text-decoration: underline;">engaging</span>; I hope it will <span style="text-decoration: underline;">make you think</span>; and I hope it will <span style="text-decoration: underline;">bring glory to God</span>.  If I can accomplish those three things, I will be satisfied.
@@ -140,7 +85,7 @@ categories:
 </p>
 
 <h2 dir="ltr">
-  <span class="ez-toc-section" id="Inspiration"></span>Inspiration<span class="ez-toc-section-end"></span>
+  Inspiration
 </h2>
 
 <p dir="ltr">
@@ -148,7 +93,7 @@ categories:
 </p>
 
 <h2 dir="ltr">
-  <span class="ez-toc-section" id="Perspicuity"></span>Perspicuity<span class="ez-toc-section-end"></span>
+  Perspicuity
 </h2>
 
 <p dir="ltr">
@@ -170,7 +115,7 @@ categories:
 * * *
 
 <h2 dir="ltr">
-  <span class="ez-toc-section" id="Inductive_Bible_Study_7_Steps_to_Study_the_Bible"></span>Inductive Bible Study: 7 Steps to Study the Bible<span class="ez-toc-section-end"></span>
+  Inductive Bible Study: 7 Steps to Study the Bible
 </h2>
 
 <p dir="ltr">
@@ -178,7 +123,7 @@ categories:
 </p>
 
 <h3 dir="ltr">
-  <span class="ez-toc-section" id="Step_One_Survey_Reading_and_Historical_Background"></span>Step One: Survey Reading and Historical Background.<span class="ez-toc-section-end"></span>
+  Step One: Survey Reading and Historical Background.
 </h3>
 
 <p dir="ltr">
@@ -186,7 +131,7 @@ categories:
 </p>
 
 <h3 dir="ltr">
-  <span class="ez-toc-section" id="Step_Two_Unaided_Observations"></span>Step Two: Unaided Observations.<span class="ez-toc-section-end"></span>
+  Step Two: Unaided Observations.
 </h3>
 
 <p dir="ltr">
@@ -194,7 +139,7 @@ categories:
 </p>
 
 <h3 dir="ltr">
-  <span class="ez-toc-section" id="Step_Three_Interpretive_Questions"></span>Step Three: Interpretive Questions.<span class="ez-toc-section-end"></span>
+  Step Three: Interpretive Questions.
 </h3>
 
 <p dir="ltr">
@@ -202,7 +147,7 @@ categories:
 </p>
 
 <h3 dir="ltr">
-  <span class="ez-toc-section" id="Step_Four_Word_Studies"></span>Step Four: Word Studies.<span class="ez-toc-section-end"></span>
+  Step Four: Word Studies.
 </h3>
 
 <p dir="ltr">
@@ -214,7 +159,7 @@ categories:
 </p>
 
 <h3 dir="ltr">
-  <span class="ez-toc-section" id="Step_Five_Commentaries"></span>Step Five: Commentaries.<span class="ez-toc-section-end"></span>
+  Step Five: Commentaries.
 </h3>
 
 <p dir="ltr">
@@ -226,7 +171,7 @@ categories:
 </p>
 
 <h3 dir="ltr">
-  <span class="ez-toc-section" id="Step_Six_Synthesize"></span>Step Six: Synthesize.<span class="ez-toc-section-end"></span>
+  Step Six: Synthesize.
 </h3>
 
 <p dir="ltr">
@@ -234,7 +179,7 @@ categories:
 </p>
 
 <h3 dir="ltr">
-  <span class="ez-toc-section" id="Step_Seven_Application"></span>Step Seven: Application.<span class="ez-toc-section-end"></span>
+  Step Seven: Application.
 </h3>
 
 <p dir="ltr">
@@ -244,7 +189,7 @@ categories:
 * * *
 
 <h2 dir="ltr">
-  <span class="ez-toc-section" id="Now_lets_go_back_to_my_beef_with_Jeremiah_29_11"></span>Now, let’s go back to my beef with Jeremiah 29:11.<span class="ez-toc-section-end"></span>
+  Now, let’s go back to my beef with Jeremiah 29:11.
 </h2>
 
 <p dir="ltr">
@@ -289,4 +234,4 @@ Now, if you are a position where you are <span style="text-decoration: underline
 
 * * *
 
-### <span class="ez-toc-section" id="Would_you_like_to_learn_more_about_inductive_Bible_study_Ask_your_questions_in_the_comments_below"></span>Would you like to learn more about inductive Bible study? Ask your questions in the comments below!<span class="ez-toc-section-end"></span>
+### Would you like to learn more about inductive Bible study? Ask your questions in the comments below!

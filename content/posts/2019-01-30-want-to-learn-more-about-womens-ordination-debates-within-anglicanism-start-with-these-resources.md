@@ -102,104 +102,7 @@ If you’re interested in learning more about the contours of Anglican debates o
 
 * * *
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#The_ACNA_Holy_Orders_Task_Force_Report_2017" title="The ACNA Holy Orders Task Force Report (2017)">The ACNA Holy Orders Task Force Report (2017)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#A_Statement_from_the_ACNA_College_of_Bishops_on_the_Ordination_of_Women" title="A Statement from the ACNA College of Bishops on the Ordination of Women">A Statement from the ACNA College of Bishops on the Ordination of Women</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Whats_The_ACNAs_Position_on_Womens_Ordination" title="What&#8217;s The ACNA&#8217;s Position on Women&#8217;s Ordination?">What&#8217;s The ACNA&#8217;s Position on Women&#8217;s Ordination?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Which_ACNA_Dioceses_DoDont_Ordain_Women" title="Which ACNA Dioceses Do/Don&#8217;t Ordain Women?">Which ACNA Dioceses Do/Don&#8217;t Ordain Women?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Bibliography_for_Further_Study" title="Bibliography for Further Study">Bibliography for Further Study</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Womens_Ordination_from_an_Evangelical_Perspective" title="Women’s Ordination from an Evangelical Perspective">Women’s Ordination from an Evangelical Perspective</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Books_in_favor_of_Womens_Ordination" title="Books in favor of Women’s Ordination">Books in favor of Women’s Ordination</a><ul class='ez-toc-list-level-4'>
-            <li class='ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Collections_of_Essays" title="Collections of Essays">Collections of Essays</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#General_Works_on_Women_in_the_New_Testament_and_the_Early_Church" title="General Works on Women in the New Testament and the Early Church">General Works on Women in the New Testament and the Early Church</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Commentaries_on_I_Corinthians_11_1-16_and_14_34-34" title="Commentaries on I Corinthians (11:1-16 and 14:34-34)">Commentaries on I Corinthians (11:1-16 and 14:34-34)</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Commentaries_on_I_Timothy_2_8-8-15" title="Commentaries on I Timothy 2: 8-8-15">Commentaries on I Timothy 2: 8-8-15</a>
-            </li>
-          </ul>
-        </li>
-        
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Books_containing_a_variety_of_views" title="Books containing a variety of views">Books containing a variety of views</a><ul class='ez-toc-list-level-4'>
-            <li class='ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Collections_of_Essays-2" title="Collections of Essays">Collections of Essays</a>
-            </li>
-          </ul>
-        </li>
-        
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Books_not_in_favor_of_womens_ordination" title="Books not in favor of women’s ordination">Books not in favor of women’s ordination</a><ul class='ez-toc-list-level-4'>
-            <li class='ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Collections_of_Essays-3" title="Collections of Essays">Collections of Essays</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#General_Works_on_Women_in_the_New_Testament_and_the_Early_Church-2" title="General Works on Women in the New Testament and the Early Church*">General Works on Women in the New Testament and the Early Church*</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Works_discussing_Mens_and_Womens_roles_in_the_Church_and_Society" title="Works discussing Men’s and Women’s roles in the Church and Society">Works discussing Men’s and Women’s roles in the Church and Society</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-18" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Works_discussing_relevant_Scripture_Passages" title="Works discussing relevant Scripture Passages">Works discussing relevant Scripture Passages</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-              <a class="ez-toc-link ez-toc-heading-19" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Studies_and_Articles" title="Studies and Articles">Studies and Articles</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-20" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Womens_Ordination_from_an_Anglo-catholic_Perspective" title="Women’s Ordination from an Anglo-catholic Perspective">Women’s Ordination from an Anglo-catholic Perspective</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-21" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#General_Anglican_Sources" title="General Anglican Sources">General Anglican Sources</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-22" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Catholic_Perspective-Notable_Sources" title="Catholic Perspective—Notable Sources">Catholic Perspective—Notable Sources</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-23" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Ecumenical_Sources" title="Ecumenical Sources">Ecumenical Sources</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-24" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Catholic_Perspective-Other_Sources" title="Catholic Perspective—Other Sources">Catholic Perspective—Other Sources</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-25" href="https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/#Works_Not_Mentioned_in_the_Task_Force_Report" title="Works Not Mentioned in the Task Force Report">Works Not Mentioned in the Task Force Report</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="The_ACNA_Holy_Orders_Task_Force_Report_2017"></span>The ACNA Holy Orders Task Force Report (2017)<span class="ez-toc-section-end"></span>
+## The ACNA Holy Orders Task Force Report (2017)
 
 _Here’s an excerpt from [the official ACNA announcement of the report][1], quoted from the ACNA website._
 
@@ -222,7 +125,7 @@ I _highly_ recommend that you at least **take the time to read Section 5, becaus
 
 Speaking of which, the College of Bishops issued a statement on the ordination of women on September 7, 2017.
 
-## <span class="ez-toc-section" id="A_Statement_from_the_ACNA_College_of_Bishops_on_the_Ordination_of_Women"></span>A Statement from the ACNA College of Bishops on the Ordination of Women<span class="ez-toc-section-end"></span>
+## A Statement from the ACNA College of Bishops on the Ordination of Women
 
 _Click [here][9] to see the original version of this on the ACNA website, which includes an introduction from Archbishop Foley Beach._
 
@@ -242,7 +145,7 @@ Finally, the Bishops state their commitments moving forward:
 
 This statement was adopted unanimously by the ACNA College of Bishops in September 2017. It describes the current state of the issue in the ACNA.
 
-## <span class="ez-toc-section" id="Whats_The_ACNAs_Position_on_Womens_Ordination"></span>What&#8217;s The ACNA&#8217;s Position on Women&#8217;s Ordination?<span class="ez-toc-section-end"></span>
+## What&#8217;s The ACNA&#8217;s Position on Women&#8217;s Ordination?
 
 This question is included on the [ACNA&#8217;s FAQ page][10]. Here&#8217;s the answer:
 
@@ -254,7 +157,7 @@ This question is included on the [ACNA&#8217;s FAQ page][10]. Here&#8217;s the a
 > (2) Except as hereinafter provided, the norms for ordination shall be determined by the Bishops having jurisdiction. (Title III Canon 1.4)  
 > (3) To be a suitable candidate for the episcopate (bishop), a person must: Be a male Presbyter at least 35 years old. (Title III Canon 8.3.7) 
 
-## <span class="ez-toc-section" id="Which_ACNA_Dioceses_DoDont_Ordain_Women"></span>Which ACNA Dioceses Do/Don&#8217;t Ordain Women?<span class="ez-toc-section-end"></span>
+## Which ACNA Dioceses Do/Don&#8217;t Ordain Women?
 
 To put some numbers to this debate, [I&#8217;ve produced the following chart][11]. [The congregation/membership/attendance data comes from this 2018 report.][12] Please let me know if you spot any errors!
 
@@ -264,7 +167,7 @@ Click the image below to view the most recent version of the spreadsheet on Goog
 
 * * *
 
-## <span class="ez-toc-section" id="Bibliography_for_Further_Study"></span>Bibliography for Further Study<span class="ez-toc-section-end"></span>
+## Bibliography for Further Study
 
 If you&#8217;d like to do some more reading and research on this topic, then the Task Force Report has a very helpful [annotated Bibliography for Further Study][13] (pp. 300–11 of the Task Force Report).
 
@@ -274,18 +177,18 @@ Note that I&#8217;m still trying to find links to everything. Amazon links below
 
 * * *
 
-## <span class="ez-toc-section" id="Womens_Ordination_from_an_Evangelical_Perspective"></span>Women’s Ordination from an Evangelical Perspective<span class="ez-toc-section-end"></span>
+## Women’s Ordination from an Evangelical Perspective
 
 * * *
 
-### <span class="ez-toc-section" id="Books_in_favor_of_Womens_Ordination"></span>Books in favor of Women’s Ordination<span class="ez-toc-section-end"></span>
+### Books in favor of Women’s Ordination
 
-#### <span class="ez-toc-section" id="Collections_of_Essays"></span>Collections of Essays<span class="ez-toc-section-end"></span>
+#### Collections of Essays
 
   * Mickelsen, Alvera (editor), [_Women, Authority & the Bible._][14] InterVarsity Press, 1986.
   * Pierce, Ronald W. and Rebecca Merrill Groothius (editors), [_Discovering Biblical Equality: Complementarity Without Hierarchy,_][15] Second Edition (InterVarsity Press, 2005).
 
-#### <span class="ez-toc-section" id="General_Works_on_Women_in_the_New_Testament_and_the_Early_Church"></span>General Works on Women in the New Testament and the Early Church<span class="ez-toc-section-end"></span>
+#### General Works on Women in the New Testament and the Early Church
 
   * Bauckham, Richard, [_Gospel Women: Studies of the Named Women in the Gospels._][16] Eerdmans, 2002.
   * Cooper, Kate, [_Band of Angels: The Forgotten World of Early Christian Women._][17] The Overlook Press, 2013.
@@ -294,13 +197,13 @@ Note that I&#8217;m still trying to find links to everything. Amazon links below
   * Payne, Philip B., [_Man and Woman, One in Christ: An Exegetical and Theological Study of Paul’s Letters._][20] Zondervan, 2009
   * Witherington, Ben III, [_Women and the Genesis of Christianity._][21] Cambridge University Press, 1990.
 
-#### <span class="ez-toc-section" id="Commentaries_on_I_Corinthians_11_1-16_and_14_34-34"></span>Commentaries on I Corinthians (11:1-16 and 14:34-34)<span class="ez-toc-section-end"></span>
+#### Commentaries on I Corinthians (11:1-16 and 14:34-34)
 
   * Peppiatt, Lucy, [_Women and Worship at Corinth: Paul’s Rhetorical Arguments in I Corinthians._][22] Cascade Books, 2015.
   * Thiselton, Anthony C., [_The First Epistle to the Corinthians._][23] Eerdmans, 2000: in The New International Greek Testament Commentary).
   * Witherington, Ben III, [_Conflict & Community in Corinth: A Socio-Rhetorical Commentary on I and II Corinthians._][24] Eerdmans, 1995.
 
-#### <span class="ez-toc-section" id="Commentaries_on_I_Timothy_2_8-8-15"></span>Commentaries on I Timothy 2: 8-8-15<span class="ez-toc-section-end"></span>
+#### Commentaries on I Timothy 2: 8-8-15
 
   * Fee, Gordon D., [_1 & 2 Timothy, Titus._][25] Baker Books, 2011.
   * Kroeger, Catherine Clark and Richard Clark Kroeger, [_I Suffer Not a Woman: Rethinking I Timothy 2:11-15 in Light of Ancient Evidence._][26] Baker Book House, 1992.
@@ -308,37 +211,37 @@ Note that I&#8217;m still trying to find links to everything. Amazon links below
 
 * * *
 
-### <span class="ez-toc-section" id="Books_containing_a_variety_of_views"></span>Books containing a variety of views<span class="ez-toc-section-end"></span>
+### Books containing a variety of views
 
-#### <span class="ez-toc-section" id="Collections_of_Essays-2"></span>Collections of Essays<span class="ez-toc-section-end"></span>
+#### Collections of Essays
 
   * Clouse, Bonnidell and Robert G., eds., [_Women in Ministry: Four Views._][29] Downers Grove: IVP, 1989.
   * Beck, James R. and Blomberg, Craig L., eds., _Two Views on Women in Ministry._ Grand Rapids: Zondervan, 2001. (See the [Revised Edition, published in 2005][30].)
 
 * * *
 
-### <span class="ez-toc-section" id="Books_not_in_favor_of_womens_ordination"></span>Books not in favor of women’s ordination<span class="ez-toc-section-end"></span>
+### Books not in favor of women’s ordination
 
-#### <span class="ez-toc-section" id="Collections_of_Essays-3"></span>Collections of Essays<span class="ez-toc-section-end"></span>
+#### Collections of Essays
 
   * Piper, John and Grudem, Wayne, eds., [_Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism._][31] Wheaton, Ill.: Crossway, 1991.
 
-#### <span class="ez-toc-section" id="General_Works_on_Women_in_the_New_Testament_and_the_Early_Church-2"></span>General Works on Women in the New Testament and the Early Church*<span class="ez-toc-section-end"></span>
+#### General Works on Women in the New Testament and the Early Church*
 
   * Mitchell, Patrick, [_The Scandal of Gender: Early Christian Teaching on the Man and the Woman._][32] Salisbury, Mass.: Regina Orthodox Press, 1998.
 
-#### <span class="ez-toc-section" id="Works_discussing_Mens_and_Womens_roles_in_the_Church_and_Society"></span>Works discussing Men’s and Women’s roles in the Church and Society<span class="ez-toc-section-end"></span>
+#### Works discussing Men’s and Women’s roles in the Church and Society
 
   * Clark, Stephen B., [_Man and Woman in Christ: An Examination of the Roles of Men and Women in Light of Scripture and the Social Sciences._][33] Ann Arbor, Mich.: Servant, 1980.
   * Harper, Michael, [_Equal and Different: Male and Female in Church and Family._][34] London: Hodder and Stoughton, 1994.
   * Hurley, James B., [_Man and Woman in Biblical Perspective._][35] Grand Rapids: Zondervan, 1981.
 
-#### <span class="ez-toc-section" id="Works_discussing_relevant_Scripture_Passages"></span>Works discussing relevant Scripture Passages<span class="ez-toc-section-end"></span>
+#### Works discussing relevant Scripture Passages
 
   * Hauke, Manfred, [_Women in the Priesthood?: A Systematic Analysis in the Light of the Order of Creation and Redemption,_][36] tr. David Kipp. San Francisco: Ignatius, 1986.
   * Köstenberger, Andreas J., Schreiner, Thomas R., and Baldwin, H. Scott, eds., [_Women in the Church: A Fresh Analysis of 1 Timothy 2:9-15._][37] Grand Rapids: Baker, 1995.
 
-#### <span class="ez-toc-section" id="Studies_and_Articles"></span>Studies and Articles<span class="ez-toc-section-end"></span>
+#### Studies and Articles
 
   * [“A Report of the Study Concerning the Ordination of Women Undertaken by the Anglican Mission in America: A survey of the Leading Theological Convictions,”][38] unpublished paper by the Rt. Rev. John H. Rodgers and the Women’s Ordination Study Team (July 31, 2003)
   * This is the 2003 AMIA Report upon which Section 4 of the 2017 ACNA Report relies.
@@ -347,9 +250,9 @@ Note that I&#8217;m still trying to find links to everything. Amazon links below
 
 * * *
 
-## <span class="ez-toc-section" id="Womens_Ordination_from_an_Anglo-catholic_Perspective"></span>Women’s Ordination from an Anglo-catholic Perspective<span class="ez-toc-section-end"></span>
+## Women’s Ordination from an Anglo-catholic Perspective
 
-### <span class="ez-toc-section" id="General_Anglican_Sources"></span>General Anglican Sources<span class="ez-toc-section-end"></span>
+### General Anglican Sources
 
   * [Church of England]. _The Priesthood of the Ordained Ministry._ London: Church House Publishing, 1986.
   * [Church of England]. [_The Ordination of Women to the Priesthood: A Second Report by the House of Bishops of the General Synod of the Church of England_.][41] London: Church House Publishing, 1988.
@@ -358,7 +261,7 @@ Note that I&#8217;m still trying to find links to everything. Amazon links below
 
 * * *
 
-### <span class="ez-toc-section" id="Catholic_Perspective-Notable_Sources"></span>Catholic Perspective—Notable Sources<span class="ez-toc-section-end"></span>
+### Catholic Perspective—Notable Sources
 
   * Beattie, Tina. [_God’s Mother, Eve’s Advocate: A Marian Narrative of Women’s Salvation_.][44] London: Continuum, 2002.
   * Kirk, Geoffrey. [_Without Precedent: Scripture, Tradition, and the Ordination of Women_.][45] Eugene, OR: Wipf and Stock, 2016.
@@ -369,7 +272,7 @@ Note that I&#8217;m still trying to find links to everything. Amazon links below
 
 * * *
 
-### <span class="ez-toc-section" id="Ecumenical_Sources"></span>Ecumenical Sources<span class="ez-toc-section-end"></span>
+### Ecumenical Sources
 
   * [Paul VI.] [_Inter insigniores (Declaration on the Question of Admission of Women to the Ministerial Priesthood)._][50] Rome: Congregation for the Doctrine of the Faith, 1976.
   * [John Paul II.] [_Ordinatio sacerdotalis (Apostolic Letter of John Paul II to the Bishops of the Catholic Church on Reserving Priestly Ordination to Men Alone)._][51] Rome: Congregation for the Doctrine of the Faith, 1992.
@@ -379,7 +282,7 @@ Note that I&#8217;m still trying to find links to everything. Amazon links below
 
 * * *
 
-### <span class="ez-toc-section" id="Catholic_Perspective-Other_Sources"></span>Catholic Perspective—Other Sources<span class="ez-toc-section-end"></span>
+### Catholic Perspective—Other Sources
 
   * Baker, Jonathan, ed. [_Consecrated Women? A Contribution to the Women Bishops Debate._][55] Norwich: Canterbury Press, 2004.
   * Beattie, Tina. ‘Vision and Vulnerability: The Significance of Sacramentality and the Woman Priest for Feminist Theology.’ In [_Exchanges of Grace: Essays in Honour of Ann Loades_.][56] London: SCM Press, 2008. 235-249.
@@ -392,7 +295,7 @@ Note that I&#8217;m still trying to find links to everything. Amazon links below
 
 * * *
 
-## <span class="ez-toc-section" id="Works_Not_Mentioned_in_the_Task_Force_Report"></span>Works Not Mentioned in the Task Force Report<span class="ez-toc-section-end"></span>
+## Works Not Mentioned in the Task Force Report
 
   * Lynn H. **Cohick** and Amy **Brown Hughes**, [_Christian Women in the Patristic World: Their Influence, Authority, and Legacy in the Second through Fifth Centuries_][63], Baker Academic, 2017.
   * Gordon P. **Hugenberger**, [&#8220;Women in Church Office: Hermeneutics or Exegesis? A Survey of Approaches to 1 TIM 2:8-15,&#8221;][64] _JETS_ 35/3 (1992): 341–60.

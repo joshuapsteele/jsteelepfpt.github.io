@@ -28,117 +28,11 @@ What&#8217;s the reasoning that goes into the triage?
 
 That&#8217;s what I&#8217;m really interested in.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Heres_what_Ive_found_so_far_If_you_can_think_of_anything_else_please_let_me_know" title="Here&#8217;s what I&#8217;ve found so far. If you can think of anything else, please let me know!">Here&#8217;s what I&#8217;ve found so far. If you can think of anything else, please let me know!</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#John_Calvin_Institutes_3197" title="John Calvin, Institutes, 3.19.7">John Calvin, Institutes, 3.19.7</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#DA_Carson_On_Disputable_Matters_Themelios_40_no_3_December_2015_383-88" title="D.A. Carson, “On Disputable Matters.” Themelios 40, no. 3 (December 2015): 383–88.">D.A. Carson, “On Disputable Matters.” Themelios 40, no. 3 (December 2015): 383–88.</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#He_provides_ten_reflections_on_what_does_and_does_not_constitute_a_theologically_disputable_matter_384" title="He provides “ten reflections on what does and does not constitute a theologically disputable matter” (384).">He provides “ten reflections on what does and does not constitute a theologically disputable matter” (384).</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Evangelical_Free_Church_of_America_EFCA_Spiritual_Heritage_Committee_The_Bible_Dogmatic_Rank_and_a_Statement_of_Faith_Part_1" title="Evangelical Free Church of America (EFCA) Spiritual Heritage Committee, &#8220;The Bible, Dogmatic Rank, and a Statement of Faith: Part 1.&#8221;">Evangelical Free Church of America (EFCA) Spiritual Heritage Committee, &#8220;The Bible, Dogmatic Rank, and a Statement of Faith: Part 1.&#8221;</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Regarding_Dogmatic_Rank" title="Regarding &#8220;Dogmatic Rank&#8221;:">Regarding &#8220;Dogmatic Rank&#8221;:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Regarding_the_EFCA" title="Regarding the EFCA:">Regarding the EFCA:</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Millard_J_Erickson_Degrees_of_Authority_of_Theological_Statements_in_Christian_Theology_3rd_ed_Baker_2013_65-66" title="Millard J. Erickson,  &#8220;Degrees of Authority of Theological Statements,&#8221; in Christian Theology (3rd ed., Baker, 2013), 65–66.">Millard J. Erickson, &#8220;Degrees of Authority of Theological Statements,&#8221; in Christian Theology (3rd ed., Baker, 2013), 65–66.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Stanley_J_Grenz_and_Roger_E_Olson_Who_Needs_Theology_An_Invitation_to_the_Study_of_God_IVP_1996_70-77" title="Stanley J. Grenz and Roger E. Olson, Who Needs Theology? An Invitation to the Study of God (IVP, 1996), 70–77.">Stanley J. Grenz and Roger E. Olson, Who Needs Theology? An Invitation to the Study of God (IVP, 1996), 70–77.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#LUTHERAN_X_Church_Practices_in_The_Formula_of_Concord_1577" title="(LUTHERAN) “X. Church Practices,” in The Formula of Concord (1577)">(LUTHERAN) “X. Church Practices,” in The Formula of Concord (1577)</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Affirmative_Statements_from_the_EpitomeSummary" title="Affirmative Statements (from the Epitome/Summary)">Affirmative Statements (from the Epitome/Summary)</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Negative_Statements_from_the_EpitomeSummary" title="Negative Statements (from the Epitome/Summary): ">Negative Statements (from the Epitome/Summary): </a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Al_Mohler_A_Call_for_Theological_Triage_and_Christian_Maturity" title="Al Mohler, &#8220;A Call for Theological Triage and Christian Maturity.&#8220;">Al Mohler, &#8220;A Call for Theological Triage and Christian Maturity.&#8220;</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#R_Albert_Mohler_Jr_Confessional_Evangelicalism_in_Four_Views_on_the_Spectrum_of_Evangelicalism_Zondervan_2011_77-80" title="R. Albert Mohler Jr., &#8220;Confessional Evangelicalism,&#8221; in Four Views on the Spectrum of Evangelicalism (Zondervan, 2011), 77–80">R. Albert Mohler Jr., &#8220;Confessional Evangelicalism,&#8221; in Four Views on the Spectrum of Evangelicalism (Zondervan, 2011), 77–80</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Gavin_Ortlund_Finding_the_Right_Hills_to_Die_On_The_Case_for_Theological_Triage_Crossway_2020" title="Gavin Ortlund,  Finding the Right Hills to Die On: The Case for Theological Triage (Crossway, 2020).">Gavin Ortlund, Finding the Right Hills to Die On: The Case for Theological Triage (Crossway, 2020).</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Table_of_Contents" title="Table of Contents">Table of Contents</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Rhyne_R_Putman_In_Defense_of_Doctrine_Evangelicalism_Theology_and_Scripture_Fortress_2015_312n163" title="Rhyne R. Putman, In Defense of Doctrine: Evangelicalism, Theology, and Scripture (Fortress, 2015), 312n163.">Rhyne R. Putman, In Defense of Doctrine: Evangelicalism, Theology, and Scripture (Fortress, 2015), 312n163.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-18" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Michael_Root_and_James_J_Buckley_eds_The_Morally_Divided_Body_Ethical_Disagreement_and_the_Disunity_of_the_Church_Cascade_Books_2010" title="Michael Root&nbsp;and&nbsp;James J. Buckley, eds.,&nbsp;The Morally Divided Body: Ethical Disagreement and the Disunity of the Church&nbsp;(Cascade Books,&nbsp;2010).">Michael Root&nbsp;and&nbsp;James J. Buckley, eds.,&nbsp;The Morally Divided Body: Ethical Disagreement and the Disunity of the Church&nbsp;(Cascade Books,&nbsp;2010).</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-19" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Sawyer_Doctrinal_Taxonomy_Are_All_Doctrines_of_Equal_Importance_in_The_Survivors_Guide_to_Theology_Zondervan_2006_143-76" title="Sawyer, &#8220;Doctrinal Taxonomy: Are All Doctrines of Equal Importance?,&#8221; in The Survivor&#8217;s Guide to Theology (Zondervan, 2006), 143–76.">Sawyer, &#8220;Doctrinal Taxonomy: Are All Doctrines of Equal Importance?,&#8221; in The Survivor&#8217;s Guide to Theology (Zondervan, 2006), 143–76.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-20" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#James_KA_Smith_On_orthodox_Christianity_some_observations_and_a_couple_of_questions_Fors_Clavigera_4_August_2017" title="James K.A. Smith, &#8220;On &#8216;orthodox Christianity&#8217;: some observations, and a couple of questions&#8221; (Fors Clavigera; 4 August, 2017).">James K.A. Smith, &#8220;On &#8216;orthodox Christianity&#8217;: some observations, and a couple of questions&#8221; (Fors Clavigera; 4 August, 2017).</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-21" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Smiths_post_led_to_the_following_replies" title="Smith&#8217;s post led to the following replies:">Smith&#8217;s post led to the following replies:</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-22" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Taylor_Levels_of_Doctrine_and_Not_All_Doctrines_Are_at_the_Same_Level_The_Gospel_Coalition_2010_and_2015" title="Taylor, &#8220;Levels of Doctrine&#8221; and &#8220;Not All Doctrines Are at the Same Level&#8221; (The Gospel Coalition, 2010 and 2015).">Taylor, &#8220;Levels of Doctrine&#8221; and &#8220;Not All Doctrines Are at the Same Level&#8221; (The Gospel Coalition, 2010 and 2015).</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-23" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Heres_Taylor_quoting_Thoennes" title="Here&#8217;s Taylor quoting Thoennes:">Here&#8217;s Taylor quoting Thoennes:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-24" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Heres_Taylor_summarizing_Wittmer" title="Here&#8217;s Taylor summarizing Wittmer:">Here&#8217;s Taylor summarizing Wittmer:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-25" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Heres_Taylor_interviewing_Wittmer" title="Here&#8217;s Taylor interviewing Wittmer:">Here&#8217;s Taylor interviewing Wittmer:</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-26" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Erik_Thoennes_Lifes_Biggest_Questions_What_the_Bible_Says_About_the_Things_That_Matter_Most_Crossway_2011_Essential_vs_Peripheral_Doctrine_35-37" title="Erik Thoennes, Life’s Biggest Questions: What the Bible Says About the Things That Matter Most (Crossway, 2011), “Essential vs. Peripheral Doctrine,” 35-37.">Erik Thoennes, Life’s Biggest Questions: What the Bible Says About the Things That Matter Most (Crossway, 2011), “Essential vs. Peripheral Doctrine,” 35-37.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-27" href="https://joshuapsteele.com/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/#Kevin_J_Vanhoozer_and_Daniel_J_Treier_Theology_and_the_Mirror_of_Scripture_A_Mere_Evangelical_Account_IVP_Academic_2015_45-53_122-27_196-220" title="Kevin J. Vanhoozer and Daniel J. Treier, Theology and the Mirror of Scripture: A Mere Evangelical Account (IVP Academic, 2015), 45–53, 122–27, 196–220. ">Kevin J. Vanhoozer and Daniel J. Treier, Theology and the Mirror of Scripture: A Mere Evangelical Account (IVP Academic, 2015), 45–53, 122–27, 196–220. </a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Heres_what_Ive_found_so_far_If_you_can_think_of_anything_else_please_let_me_know"></span>Here&#8217;s what I&#8217;ve found so far. If you can think of anything else, please let me know!<span class="ez-toc-section-end"></span>
+## Here&#8217;s what I&#8217;ve found so far. If you can think of anything else, please let me know!
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="John_Calvin_Institutes_3197"></span>John Calvin, _Institutes_, 3.19.7<span class="ez-toc-section-end"></span>
+## John Calvin, _Institutes_, 3.19.7
 
 <blockquote class="wp-block-quote">
   <p>
@@ -160,14 +54,14 @@ That&#8217;s what I&#8217;m really interested in.
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="DA_Carson_On_Disputable_Matters_Themelios_40_no_3_December_2015_383-88"></span>D.A. **Carson, “On Disputable Matters.” _Themelios_ 40, no. 3 (December 2015): 383–88.**<span class="ez-toc-section-end"></span>
+## D.A. **Carson, “On Disputable Matters.” _Themelios_ 40, no. 3 (December 2015): 383–88.**
 
   * Notes 1 Cor. 6:9–10 and Rom. 14:5–6 as scriptural support for every generation’s need “to decide just what beliefs and behavior are morally mandated of all believers, and what beliefs and behavior may be left to the individual believer’s conscience” (383).
   * “The matters where Christians may safely agree to disagree have traditionally been labeled _adiaphora_, ‘indifferent things’” (383). Yet, because _adiaphora_ are not unimportant, Carson prefers “disputable matters” to “indifferent matters.”
   * Some decisions, like the resurrection of Jesus Christ being essential, are easy. Other decisions are more complicated. Carson notes “that some things that were thought theologically indisputable in the past have become disputable” (383). Culture and history can/do play a role.
   * Carson notes the contemporary debate over homosexuality as an example of the _adiaphora_ question’s relevance.
 
-### <span class="ez-toc-section" id="He_provides_ten_reflections_on_what_does_and_does_not_constitute_a_theologically_disputable_matter_384"></span>He provides “ten reflections on what does and does not constitute a theologically disputable matter” (384).<span class="ez-toc-section-end"></span>
+### He provides “ten reflections on what does and does not constitute a theologically disputable matter” (384).
 
   1. “That something is disputed does not make it theologically disputable, i.e., part of the _adiaphora_.” (384).
   2. “What places something in the indisputable column, then, is not whether or not it is disputed by some people, or has ever been disputed, but what the Scriptures consistently say about the topic, and how the Scriptures tie it to other matters. At the end of the day that turns on sober, even-handed, reverent exegesis—as Athanasius understood in his day on a different topic.” (384).
@@ -182,9 +76,9 @@ That&#8217;s what I&#8217;m really interested in.
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Evangelical_Free_Church_of_America_EFCA_Spiritual_Heritage_Committee_The_Bible_Dogmatic_Rank_and_a_Statement_of_Faith_Part_1"></span>Evangelical Free Church of America (EFCA) Spiritual Heritage Committee, &#8220;[The Bible, Dogmatic Rank, and a Statement of Faith: Part 1][1].&#8221;<span class="ez-toc-section-end"></span>
+## Evangelical Free Church of America (EFCA) Spiritual Heritage Committee, &#8220;[The Bible, Dogmatic Rank, and a Statement of Faith: Part 1][1].&#8221;
 
-### <span class="ez-toc-section" id="Regarding_Dogmatic_Rank"></span>Regarding &#8220;Dogmatic Rank&#8221;:<span class="ez-toc-section-end"></span>
+### Regarding &#8220;Dogmatic Rank&#8221;:
 
 <blockquote class="wp-block-quote">
   <p>
@@ -228,7 +122,7 @@ Furthermore, in FN4, they list some examples of doctrinal taxonomy:
   </p>
 </blockquote>
 
-### <span class="ez-toc-section" id="Regarding_the_EFCA"></span>Regarding the EFCA:<span class="ez-toc-section-end"></span>
+### Regarding the EFCA:
 
 <blockquote class="wp-block-quote">
   <p>
@@ -261,7 +155,7 @@ Finally, note that _this_ EFCA document references an earlier one and a later on
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Millard_J_Erickson_Degrees_of_Authority_of_Theological_Statements_in_Christian_Theology_3rd_ed_Baker_2013_65-66"></span>Millard J. Erickson, &#8220;Degrees of Authority of Theological Statements,&#8221; in _Christian Theology_ (3rd ed., Baker, 2013), 65–66.<span class="ez-toc-section-end"></span>
+## Millard J. Erickson, &#8220;Degrees of Authority of Theological Statements,&#8221; in _Christian Theology_ (3rd ed., Baker, 2013), 65–66.
 
   1. Direct statements of Scripture.
   2. Direct implications of Scripture.
@@ -272,7 +166,7 @@ Finally, note that _this_ EFCA document references an earlier one and a later on
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Stanley_J_Grenz_and_Roger_E_Olson_Who_Needs_Theology_An_Invitation_to_the_Study_of_God_IVP_1996_70-77"></span>Stanley J. Grenz and Roger E. Olson, _Who Needs Theology? An Invitation to the Study of God_ (IVP, 1996), 70–77.<span class="ez-toc-section-end"></span>
+## Stanley J. Grenz and Roger E. Olson, _Who Needs Theology? An Invitation to the Study of God_ (IVP, 1996), 70–77.
 
   * The chapter is titled &#8220;Theology&#8217;s Tasks & Traditions.&#8221; The section is titled &#8220;Theology&#8217;s Critical Task.&#8221;
   * &#8220;Theology&#8217;s critical task is to examine beliefs and teachings about God, ourselves and the world in light of Christian sources, especially the primary norm of the biblical message&#8221; (70).
@@ -290,12 +184,12 @@ Finally, note that _this_ EFCA document references an earlier one and a later on
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="LUTHERAN_X_Church_Practices_in_The_Formula_of_Concord_1577"></span>**(LUTHERAN) “X. Church Practices,” in The Formula of Concord (1577)**<span class="ez-toc-section-end"></span>
+## **(LUTHERAN) “X. Church Practices,” in The Formula of Concord (1577)**
 
   * [Article 10 of the Formula of Concord][4] is devoted to the controversy “Concerning ceremonies or church rites which are neither commanded nor forbidden in God’s Word, but have been introduced into the Church for the sake of good order and propriety.”
   * The main question/debate was “whether, in time of persecution and in case of confession, even if the enemies of the Gospel have not reached an agreement with us in doctrine, some abrogated ceremonies, which in themselves are matters of indifference and are neither commanded nor forbidden by God, may nevertheless, upon the pressure and demand of the adversaries, be reestablished without violence to conscience, and we may thus [rightly] have conformity with them in such ceremonies and adiaphora. To this the one side has said Yea, the other, Nay.”
 
-### <span class="ez-toc-section" id="Affirmative_Statements_from_the_EpitomeSummary"></span>Affirmative Statements (from the Epitome/Summary)<span class="ez-toc-section-end"></span>
+### Affirmative Statements (from the Epitome/Summary)
 
   1. “the ceremonies or church rites which are neither commanded nor forbidden in God’s Word, but have been instituted alone for the sake of propriety and good order, are in and of themselves no divine worship, nor even a part of it.&nbsp; [Matt. 15:9][5] :In vain they do worship Me, teaching for doctrines the commandments of men.”
   2. “the congregation of God of every place and every time has the power, according to its circumstances, to change such ceremonies in such manner as may be most useful and edifying to the congregation of God.”
@@ -303,7 +197,7 @@ Finally, note that _this_ EFCA document references an earlier one and a later on
   4. “in time of persecution, when a plain [and steadfast] confession is required of us, we should not yield to the enemies in regard to such adiaphora, . . . For in such a case it is no longer a question concerning adiaphora, but concerning the truth of the Gospel, concerning [preserving] Christian liberty, and concerning sanctioning open idolatry, as also concerning the prevention of offense to the weak in the faith [how care should be taken lest idolatry be openly sanctioned and the weak in faith be offended]; in which we have nothing to concede, but should plainly confess and suffer on that account what God sends, and what He allows the enemies of His Word to inflict upon us.”
   5. “no Church should condemn another because one has less or more external ceremonies not commanded by God than the other, if otherwise there is agreement among them in doctrine and all its articles, as also in the right use of the holy Sacraments, according to the well-known saying: Dissonantia ieiunii non dissolvit consonantiam fidei, Disagreement in fasting does not destroy agreement in faith.”
 
-### <span class="ez-toc-section" id="Negative_Statements_from_the_EpitomeSummary"></span>Negative Statements (from the Epitome/Summary): <span class="ez-toc-section-end"></span>
+### Negative Statements (from the Epitome/Summary): 
 
 “Accordingly, we reject and condemn as wrong and contrary to God’s Word when it is taught:
 
@@ -314,7 +208,7 @@ Finally, note that _this_ EFCA document references an earlier one and a later on
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Al_Mohler_A_Call_for_Theological_Triage_and_Christian_Maturity"></span>Al Mohler, &#8220;[A Call for Theological Triage and Christian Maturity.][8]&#8220;<span class="ez-toc-section-end"></span>
+## Al Mohler, &#8220;[A Call for Theological Triage and Christian Maturity.][8]&#8220;
 
 <blockquote class="wp-block-quote">
   <p>
@@ -336,13 +230,13 @@ Note: Mohler also has another piece online, &#8220;[Part III: The pastor and the
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="R_Albert_Mohler_Jr_Confessional_Evangelicalism_in_Four_Views_on_the_Spectrum_of_Evangelicalism_Zondervan_2011_77-80"></span>R. Albert Mohler Jr., &#8220;Confessional Evangelicalism,&#8221; in _Four Views on the Spectrum of Evangelicalism_ (Zondervan, 2011), 77–80<span class="ez-toc-section-end"></span>
+## R. Albert Mohler Jr., &#8220;Confessional Evangelicalism,&#8221; in _Four Views on the Spectrum of Evangelicalism_ (Zondervan, 2011), 77–80
 
 Mohler makes much the same argument here as he does in &#8220;A Call for Theological Triage and Christian Maturity.&#8221; See above.
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Gavin_Ortlund_Finding_the_Right_Hills_to_Die_On_The_Case_for_Theological_Triage_Crossway_2020"></span>Gavin Ortlund, _[Finding the Right Hills to Die On: The Case for Theological Triage][10]_ (Crossway, 2020).<span class="ez-toc-section-end"></span>
+## Gavin Ortlund, _[Finding the Right Hills to Die On: The Case for Theological Triage][10]_ (Crossway, 2020).
 
 I wish this book were out! It&#8217;s set to be published in April 2020.
 
@@ -356,7 +250,7 @@ From the publisher:
   <cite><a href="https://www.crossway.org/books/finding-the-right-hills-to-die-on-tpb/">https://www.crossway.org/books/finding-the-right-hills-to-die-on-tpb/</a></cite>
 </blockquote>
 
-### <span class="ez-toc-section" id="Table_of_Contents"></span>**Table of Contents**<span class="ez-toc-section-end"></span>
+### **Table of Contents**
 
   * Introduction
   * **Part 1: Why Theological Triage?**
@@ -371,7 +265,7 @@ From the publisher:
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Rhyne_R_Putman_In_Defense_of_Doctrine_Evangelicalism_Theology_and_Scripture_Fortress_2015_312n163"></span>Rhyne R. Putman, _[In Defense of Doctrine: Evangelicalism, Theology, and Scripture][11]_ (Fortress, 2015), 312n163.<span class="ez-toc-section-end"></span>
+## Rhyne R. Putman, _[In Defense of Doctrine: Evangelicalism, Theology, and Scripture][11]_ (Fortress, 2015), 312n163.
 
 Putman lists the following examples of doctrinal taxonomy on page 312 in footnote 163:
 
@@ -381,7 +275,7 @@ Putman lists the following examples of doctrinal taxonomy on page 312 in footnot
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Michael_Root_and_James_J_Buckley_eds_The_Morally_Divided_Body_Ethical_Disagreement_and_the_Disunity_of_the_Church_Cascade_Books_2010"></span>Michael Root&nbsp;and&nbsp;James J. Buckley, eds.,&nbsp;_[The Morally Divided Body: Ethical Disagreement and the Disunity of the Church][12]_&nbsp;(Cascade Books,&nbsp;2010).<span class="ez-toc-section-end"></span>
+## Michael Root&nbsp;and&nbsp;James J. Buckley, eds.,&nbsp;_[The Morally Divided Body: Ethical Disagreement and the Disunity of the Church][12]_&nbsp;(Cascade Books,&nbsp;2010).
 
 From [Charles Raith II&#8217;s review of this volume in IJST][13]:
 
@@ -399,7 +293,7 @@ From [Charles Raith II&#8217;s review of this volume in IJST][13]:
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Sawyer_Doctrinal_Taxonomy_Are_All_Doctrines_of_Equal_Importance_in_The_Survivors_Guide_to_Theology_Zondervan_2006_143-76"></span>Sawyer, &#8220;Doctrinal Taxonomy: Are All Doctrines of Equal Importance?,&#8221; in _[The Survivor&#8217;s Guide to Theology][14]_ (Zondervan, 2006), 143–76.<span class="ez-toc-section-end"></span>
+## Sawyer, &#8220;Doctrinal Taxonomy: Are All Doctrines of Equal Importance?,&#8221; in _[The Survivor&#8217;s Guide to Theology][14]_ (Zondervan, 2006), 143–76.
 
 Here&#8217;s the chapter outline.
 
@@ -427,7 +321,7 @@ Here&#8217;s the chapter outline.
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="James_KA_Smith_On_orthodox_Christianity_some_observations_and_a_couple_of_questions_Fors_Clavigera_4_August_2017"></span>James K.A. Smith, &#8220;[On &#8216;orthodox Christianity&#8217;: some observations, and a couple of questions][15]&#8221; (Fors Clavigera; 4 August, 2017).<span class="ez-toc-section-end"></span>
+## James K.A. Smith, &#8220;[On &#8216;orthodox Christianity&#8217;: some observations, and a couple of questions][15]&#8221; (Fors Clavigera; 4 August, 2017).
 
 Special thanks to [Matt Erickson][16] for [drawing my attention][17] back to this 2017 blog exchange. It all started with James K.A. Smith wondering if it&#8217;s a mistake to use &#8220;(un)orthodox&#8221; language to describe contemporary debates about sexuality and marriage. Instead, Smith thinks/thought we should reserve &#8220;orthodoxy&#8221; language to refer to what&#8217;s explicitly stated in the ecumenical creeds.
 
@@ -443,7 +337,7 @@ Special thanks to [Matt Erickson][16] for [drawing my attention][17] back to thi
   <cite><a href="http://forsclavigera.blogspot.com/2017/08/on-orthodox-christianity-some.html">http://forsclavigera.blogspot.com/2017/08/on-orthodox-christianity-some.html</a></cite>
 </blockquote>
 
-### <span class="ez-toc-section" id="Smiths_post_led_to_the_following_replies"></span>Smith&#8217;s post led to the following replies:<span class="ez-toc-section-end"></span>
+### Smith&#8217;s post led to the following replies:
 
   * &#8220;[A Remark on Creedally-Defined Orthodoxy][18]&#8221; (Alastair Roberts; 5 August, 2017)
   * &#8220;[On Sexuality and the Grammar of Orthodoxy][19]&#8221; (Alan Jacobs; 5 August, 2017)
@@ -453,7 +347,7 @@ Special thanks to [Matt Erickson][16] for [drawing my attention][17] back to thi
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Taylor_Levels_of_Doctrine_and_Not_All_Doctrines_Are_at_the_Same_Level_The_Gospel_Coalition_2010_and_2015"></span>Taylor, &#8220;Levels of Doctrine&#8221; and &#8220;Not All Doctrines Are at the Same Level&#8221; (The Gospel Coalition, 2010 and 2015).<span class="ez-toc-section-end"></span>
+## Taylor, &#8220;Levels of Doctrine&#8221; and &#8220;Not All Doctrines Are at the Same Level&#8221; (The Gospel Coalition, 2010 and 2015).
 
 Over at The Gospel Coalition, Justin Taylor has covered this issue at least twice:
 
@@ -466,7 +360,7 @@ Taylor highlights and quotes from:
   2. Al **Mohler**&#8216;s &#8220;[A Call for Theological Triage and Christian Maturity][26].&#8221;
   3. Michael **Wittmer**&#8216;s approach, as found in _[Don’t Stop Believing: Why Living Like Jesus Is Not Enough][27]_.
 
-### <span class="ez-toc-section" id="Heres_Taylor_quoting_Thoennes"></span>Here&#8217;s Taylor quoting Thoennes:<span class="ez-toc-section-end"></span>
+### Here&#8217;s Taylor quoting Thoennes:
 
 <blockquote class="wp-block-quote">
   <p>
@@ -500,7 +394,7 @@ Taylor highlights and quotes from:
   </p>
 </blockquote>
 
-### <span class="ez-toc-section" id="Heres_Taylor_summarizing_Wittmer"></span>Here&#8217;s Taylor summarizing Wittmer:<span class="ez-toc-section-end"></span>
+### Here&#8217;s Taylor summarizing Wittmer:
 
 <blockquote class="wp-block-quote">
   <p>
@@ -516,7 +410,7 @@ Taylor highlights and quotes from:
   <figure class="aligncenter is-resized"><img decoding="async" loading="lazy" src="http://blogs.thegospelcoalition.org/justintaylor/files/2015/09/Screen-Shot-2015-09-29-at-2.42.25-PM1.png" alt="Screen Shot 2015-09-29 at 2.42.25 PM" class="wp-image-30424" width="537" height="522" /><figcaption>Diagram from Zondervan.</figcaption></figure>
 </div>
 
-### <span class="ez-toc-section" id="Heres_Taylor_interviewing_Wittmer"></span>Here&#8217;s Taylor interviewing Wittmer:<span class="ez-toc-section-end"></span>
+### Here&#8217;s Taylor interviewing Wittmer:
 
 In a 2008&nbsp;[interview with Dr. Wittmer][28], I asked him to explain these categories:
 
@@ -560,13 +454,13 @@ In a 2008&nbsp;[interview with Dr. Wittmer][28], I asked him to explain these ca
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Erik_Thoennes_Lifes_Biggest_Questions_What_the_Bible_Says_About_the_Things_That_Matter_Most_Crossway_2011_Essential_vs_Peripheral_Doctrine_35-37"></span>Erik Thoennes, _Life’s Biggest Questions: What the Bible Says About the Things That Matter Most_ (Crossway, 2011), “Essential vs. Peripheral Doctrine,” 35-37.<span class="ez-toc-section-end"></span>
+## Erik Thoennes, _Life’s Biggest Questions: What the Bible Says About the Things That Matter Most_ (Crossway, 2011), “Essential vs. Peripheral Doctrine,” 35-37.
 
 See the summary of Thoennes given under the Justin Taylor entry above.
 
 <hr class="wp-block-separator" />
 
-## <span class="ez-toc-section" id="Kevin_J_Vanhoozer_and_Daniel_J_Treier_Theology_and_the_Mirror_of_Scripture_A_Mere_Evangelical_Account_IVP_Academic_2015_45-53_122-27_196-220"></span>Kevin J. Vanhoozer and Daniel J. Treier, _[Theology and the Mirror of Scripture: A Mere Evangelical Account][29]_ (IVP Academic, 2015), 45–53, 122–27, 196–220. <span class="ez-toc-section-end"></span>
+## Kevin J. Vanhoozer and Daniel J. Treier, _[Theology and the Mirror of Scripture: A Mere Evangelical Account][29]_ (IVP Academic, 2015), 45–53, 122–27, 196–220. 
 
   * Note that Vanhoozer and Treier are attempting to articular &#8220;mere evangelical theology.&#8221;
   * They propose the model of an &#8220;anchored set,&#8221; in which the anchor is the being of the Triune God (52).

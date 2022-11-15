@@ -21,59 +21,9 @@ categories:
 ---
 _The following is an &#8220;It is Finished&#8221; sermon preached on Ascension Sunday, 2017. You can listen to the sermon here:_
 
-<audio class="wp-audio-shortcode" id="audio-39721-7" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3?_=7" /><https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3></audio>
+<audio class="wp-audio-shortcode" id="audio-39721-4" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3?_=4" /><https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3></audio>
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <ul class='ez-toc-list-level-2'>
-      <li class='ez-toc-heading-level-2'>
-        <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/20170613it-is-finished-so-get-to-work-an-ascension-sermon/#GOODBYES_SUCK" title="GOODBYES SUCK">GOODBYES SUCK</a>
-      </li>
-      <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-        <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/20170613it-is-finished-so-get-to-work-an-ascension-sermon/#WHAT_ABOUT_THE_ASCENSION_DOES_IT_SUCK" title="WHAT ABOUT THE ASCENSION? DOES IT SUCK?">WHAT ABOUT THE ASCENSION? DOES IT SUCK?</a>
-      </li>
-    </ul></li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/20170613it-is-finished-so-get-to-work-an-ascension-sermon/#HOW_DOES_THE_ASCENSION_COMPLETE_THE_GOSPEL" title="HOW DOES THE ASCENSION COMPLETE THE GOSPEL?">HOW DOES THE ASCENSION COMPLETE THE GOSPEL?</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/20170613it-is-finished-so-get-to-work-an-ascension-sermon/#THE_GOSPEL" title="THE GOSPEL">THE GOSPEL</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/20170613it-is-finished-so-get-to-work-an-ascension-sermon/#HOW_THE_ASCENSION_COMPLETES_THE_GOSPEL" title="HOW THE ASCENSION COMPLETES THE GOSPEL">HOW THE ASCENSION COMPLETES THE GOSPEL</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/20170613it-is-finished-so-get-to-work-an-ascension-sermon/#HOW_DOES_THE_ASCENSION_COMPEL_THE_CHURCH" title="HOW DOES THE ASCENSION COMPEL THE CHURCH?">HOW DOES THE ASCENSION COMPEL THE CHURCH?</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/20170613it-is-finished-so-get-to-work-an-ascension-sermon/#THE_ASCENSION_GIVES_THE_CHURCH_ITS_GLOBAL_MISSION" title="THE ASCENSION GIVES THE CHURCH ITS GLOBAL MISSION">THE ASCENSION GIVES THE CHURCH ITS GLOBAL MISSION</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/20170613it-is-finished-so-get-to-work-an-ascension-sermon/#THE_ASCENSION_GIVES_THE_CHURCH_ITS_ENDURING_HOPE" title="THE ASCENSION GIVES THE CHURCH ITS ENDURING HOPE">THE ASCENSION GIVES THE CHURCH ITS ENDURING HOPE</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/20170613it-is-finished-so-get-to-work-an-ascension-sermon/#THE_ASCENSION_GIVES_THE_CHURCH_ITS_ENABLING_POWER_THE_HOLY_SPIRIT" title="THE ASCENSION GIVES THE CHURCH ITS ENABLING POWER: THE HOLY SPIRIT">THE ASCENSION GIVES THE CHURCH ITS ENABLING POWER: THE HOLY SPIRIT</a><ul class='ez-toc-list-level-3'>
-            <li class='ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/20170613it-is-finished-so-get-to-work-an-ascension-sermon/#THE_ASCENSION_COMPLETES_THE_GOSPEL_AND_COMPELS_THE_CHURCH_TO_FULFILL_ITS_GLOBAL_MISSION_CLINGING_TO_ITS_ENDURING_HOPE_EMPOWERED_BY_THE_HOLY_SPIRIT" title="THE ASCENSION COMPLETES THE GOSPEL AND COMPELS THE CHURCH TO FULFILL ITS GLOBAL MISSION, CLINGING TO ITS ENDURING HOPE, EMPOWERED BY THE HOLY SPIRIT.">THE ASCENSION COMPLETES THE GOSPEL AND COMPELS THE CHURCH TO FULFILL ITS GLOBAL MISSION, CLINGING TO ITS ENDURING HOPE, EMPOWERED BY THE HOLY SPIRIT.</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="GOODBYES_SUCK"></span>GOODBYES SUCK<span class="ez-toc-section-end"></span>
+## GOODBYES SUCK
 
 You know, if there’s one thing I hate, it’s goodbyes. Anyone else here hate goodbyes?
 
@@ -113,7 +63,7 @@ Goodbyes suck, because they leave our stories unfinished.
 
 (Note: For other sermons, check out [my Sermons page][1].)
 
-## <span class="ez-toc-section" id="WHAT_ABOUT_THE_ASCENSION_DOES_IT_SUCK"></span>WHAT ABOUT THE ASCENSION? DOES IT SUCK?<span class="ez-toc-section-end"></span>
+## WHAT ABOUT THE ASCENSION? DOES IT SUCK?
 
 Is the Ascension of Jesus Christ, then, just another awful goodbye?
 
@@ -151,13 +101,13 @@ And here’s my main point:
 
 **The Ascension completes the Gospel and compels the Church.**
 
-# <span class="ez-toc-section" id="HOW_DOES_THE_ASCENSION_COMPLETE_THE_GOSPEL"></span>HOW DOES THE ASCENSION COMPLETE THE GOSPEL?<span class="ez-toc-section-end"></span>
+# HOW DOES THE ASCENSION COMPLETE THE GOSPEL?
 
 How does the Ascension complete the Gospel?
 
 Well, that requires knowing what the Gospel is, so here goes:
 
-## <span class="ez-toc-section" id="THE_GOSPEL"></span>THE GOSPEL<span class="ez-toc-section-end"></span>
+## THE GOSPEL
 
 In the beginning, God created the entire universe to be his temple, his kingdom – the place where he would dwell and rule.
 
@@ -247,7 +197,7 @@ We’re not really sure what it all meant.
 
 The story would have ended there, left hanging between tragedy and triumph, were it not for the Ascension.
 
-## <span class="ez-toc-section" id="HOW_THE_ASCENSION_COMPLETES_THE_GOSPEL"></span>HOW THE ASCENSION COMPLETES THE GOSPEL<span class="ez-toc-section-end"></span>
+## HOW THE ASCENSION COMPLETES THE GOSPEL
 
 Brothers and sisters, we can’t forget the Ascension!
 
@@ -285,7 +235,7 @@ But the story’s not over, because the Ascension also compels the Church.
 
 The Ascension completes the Gospel, and it also compels the Church.
 
-# <span class="ez-toc-section" id="HOW_DOES_THE_ASCENSION_COMPEL_THE_CHURCH"></span>HOW DOES THE ASCENSION COMPEL THE CHURCH?<span class="ez-toc-section-end"></span>
+# HOW DOES THE ASCENSION COMPEL THE CHURCH?
 
 How does the Ascension compel the Church?
 
@@ -301,7 +251,7 @@ We’ve talked about the Ascension’s theological significance, how the Ascensi
 
 Now let’s talk about the Ascension’s application to our lives – how the Ascension should both challenge us and encourage us.
 
-## <span class="ez-toc-section" id="THE_ASCENSION_GIVES_THE_CHURCH_ITS_GLOBAL_MISSION"></span>THE ASCENSION GIVES THE CHURCH ITS GLOBAL MISSION<span class="ez-toc-section-end"></span>
+## THE ASCENSION GIVES THE CHURCH ITS GLOBAL MISSION
 
 Here’s the challenge of the Ascension: it gives the Church its global mission.
 
@@ -352,7 +302,7 @@ What then?
 
 Do we throw up our hands in despair?
 
-## <span class="ez-toc-section" id="THE_ASCENSION_GIVES_THE_CHURCH_ITS_ENDURING_HOPE"></span>THE ASCENSION GIVES THE CHURCH ITS ENDURING HOPE<span class="ez-toc-section-end"></span>
+## THE ASCENSION GIVES THE CHURCH ITS ENDURING HOPE
 
 Here’s the encouragement of the Ascension: it gives the Church its enduring hope.
 
@@ -392,7 +342,7 @@ There’s no reason for us to hedge our bets, as it were, by bending the knee to
 
 Instead, the Church can freely exist for the sake of the world, because we know that the world is in the hands of our ascended King.
 
-## <span class="ez-toc-section" id="THE_ASCENSION_GIVES_THE_CHURCH_ITS_ENABLING_POWER_THE_HOLY_SPIRIT"></span>THE ASCENSION GIVES THE CHURCH ITS ENABLING POWER: THE HOLY SPIRIT<span class="ez-toc-section-end"></span>
+## THE ASCENSION GIVES THE CHURCH ITS ENABLING POWER: THE HOLY SPIRIT
 
 So, you know, just get out there and try harder to love people and let them know about Jesus, no matter how different they are!
 
@@ -432,7 +382,7 @@ And, even though we live in a divided, divisive, and terrifying world, the Holy 
 
 So, thanks be to God that the Ascension and Pentecost go hand in hand!
 
-### <span class="ez-toc-section" id="THE_ASCENSION_COMPLETES_THE_GOSPEL_AND_COMPELS_THE_CHURCH_TO_FULFILL_ITS_GLOBAL_MISSION_CLINGING_TO_ITS_ENDURING_HOPE_EMPOWERED_BY_THE_HOLY_SPIRIT"></span>THE ASCENSION COMPLETES THE GOSPEL AND COMPELS THE CHURCH TO FULFILL ITS GLOBAL MISSION, CLINGING TO ITS ENDURING HOPE, EMPOWERED BY THE HOLY SPIRIT.<span class="ez-toc-section-end"></span>
+### THE ASCENSION COMPLETES THE GOSPEL AND COMPELS THE CHURCH TO FULFILL ITS GLOBAL MISSION, CLINGING TO ITS ENDURING HOPE, EMPOWERED BY THE HOLY SPIRIT.
 
 So, Father, we thank you for your persistence and patience to rescue us from Sin and Death.
 

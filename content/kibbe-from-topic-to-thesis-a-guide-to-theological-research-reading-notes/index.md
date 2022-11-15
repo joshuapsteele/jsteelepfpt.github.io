@@ -5,65 +5,9 @@ type: page
 date: 2019-03-27T14:25:28+00:00
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Kibbe_From_Topic_to_Thesis_A_Guide_to_Theological_Research" title="Kibbe, From Topic to Thesis: A Guide to Theological Research">Kibbe, From Topic to Thesis: A Guide to Theological Research</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#BIBLIOGRAPHIC_DATA" title="BIBLIOGRAPHIC DATA:">BIBLIOGRAPHIC DATA:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Introduction" title="Introduction">Introduction</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Finding_Direction" title="Finding Direction">Finding Direction</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Gathering_Sources" title="Gathering Sources">Gathering Sources</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Understanding_Issues" title="Understanding Issues">Understanding Issues</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Entering_Discussion" title="Entering Discussion">Entering Discussion</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Establishing_Position" title="Establishing Position">Establishing Position</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Appendix_A_Ten_Things_You_Should_Never_Do_in_a_Theological_Research_Paper" title="Appendix A: Ten Things You Should Never Do in a Theological Research Paper">Appendix A: Ten Things You Should Never Do in a Theological Research Paper</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Appendix_B_Theological_Research_and_Writing_Tools" title="Appendix B: Theological Research and Writing Tools">Appendix B: Theological Research and Writing Tools</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Appendix_C_Scholarly_Resources_for_Theological_Research" title="Appendix C: Scholarly Resources for Theological Research">Appendix C: Scholarly Resources for Theological Research</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Appendix_D_Navigating_the_ATLA_Religion_Database" title="Appendix D: Navigating the ATLA Religion Database">Appendix D: Navigating the ATLA Religion Database</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Appendix_E_Zotero_Bibliography_Software" title="Appendix E: Zotero Bibliography Software">Appendix E: Zotero Bibliography Software</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/kibbe-from-topic-to-thesis-a-guide-to-theological-research-reading-notes/#Appendix_F_A_Suggested_Timeline_for_Theological_Research_Papers" title="Appendix F: A Suggested Timeline for Theological Research Papers">Appendix F: A Suggested Timeline for Theological Research Papers</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
+# Kibbe, From Topic to Thesis: A Guide to Theological Research
 
-# <span class="ez-toc-section" id="Kibbe_From_Topic_to_Thesis_A_Guide_to_Theological_Research"></span>Kibbe, From Topic to Thesis: A Guide to Theological Research<span class="ez-toc-section-end"></span>
-
-## <span class="ez-toc-section" id="BIBLIOGRAPHIC_DATA"></span>BIBLIOGRAPHIC DATA:<span class="ez-toc-section-end"></span>
+## BIBLIOGRAPHIC DATA:
 
 Author: Michael Kibbe  
 Title and subtitle: From Topic to Thesis: A Guide to Theological Research  
@@ -75,7 +19,7 @@ Date: 2016
 
 _Note: The following reading notes are a mixture of quotation and paraphrase throughout._
 
-## <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span>
+## Introduction
 
   * The Process: From “Topic to Thesis”
   * The Ongoing Conversation
@@ -105,7 +49,7 @@ _Note: The following reading notes are a mixture of quotation and paraphrase thr
       * Entering Discussion
       * Establishing Position
 
-## <span class="ez-toc-section" id="Finding_Direction"></span>Finding Direction<span class="ez-toc-section-end"></span>
+## Finding Direction
 
   * Keys to Finding Direction 
       * Do not decide what your paper will argue before starting the research process!
@@ -122,7 +66,7 @@ _Note: The following reading notes are a mixture of quotation and paraphrase thr
       * What issues in those portions strike you as particularly interesting?
       * What are some _possible_ arguments you could make?
 
-## <span class="ez-toc-section" id="Gathering_Sources"></span>Gathering Sources<span class="ez-toc-section-end"></span>
+## Gathering Sources
 
   * Keys to Gathering Sources 
       * Do not spend too much time on any one source.
@@ -141,7 +85,7 @@ _Note: The following reading notes are a mixture of quotation and paraphrase thr
       * Using only one type of source. (Commentaries, journal articles, dissertations, essays, monographs, and dictionary articles are all important!)
       * Considering only one sub discipline.
 
-## <span class="ez-toc-section" id="Understanding_Issues"></span>Understanding Issues<span class="ez-toc-section-end"></span>
+## Understanding Issues
 
   * Keys to Understanding Issues 
       * Read with a pen or pencil.
@@ -159,7 +103,7 @@ _Note: The following reading notes are a mixture of quotation and paraphrase thr
       * Depending too much on tertiary and secondary sources.
       * Misunderstanding sources.
 
-## <span class="ez-toc-section" id="Entering_Discussion"></span>Entering Discussion<span class="ez-toc-section-end"></span>
+## Entering Discussion
 
   * Keys to Entering the Discussion 
       * Do you have something to contribute to the discussion?
@@ -180,14 +124,14 @@ _Note: The following reading notes are a mixture of quotation and paraphrase thr
       * What evidence has been lost in the shuffle? Are there any issues in the primary source that no one seems to be talking about? (Note: if your list of these points is very long, you’ve probably not done enough reading yet!)
       * Does my argument match what the primary source has to say? (Does it work with the entire primary source and not just one tiny part of it?)
 
-## <span class="ez-toc-section" id="Establishing_Position"></span>Establishing Position<span class="ez-toc-section-end"></span>
+## Establishing Position
 
   * Keys to Establishing Position 
       * Your thesis is the heart and soul of your paper.
       * Don’t start writing the paper too soon.
       * Research is entering into an already-existing conversation about your topic.
 
-## <span class="ez-toc-section" id="Appendix_A_Ten_Things_You_Should_Never_Do_in_a_Theological_Research_Paper"></span>Appendix A: Ten Things You Should _Never_ Do in a Theological Research Paper<span class="ez-toc-section-end"></span>
+## Appendix A: Ten Things You Should _Never_ Do in a Theological Research Paper
 
   1. Suggest that your research paper has broken new ground.
   2. Use debated terms without demonstrating that you know they’re debated terms.
@@ -200,7 +144,7 @@ _Note: The following reading notes are a mixture of quotation and paraphrase thr
   9. Ignore the required citation style guide.
  10. Plagiarize.
 
-## <span class="ez-toc-section" id="Appendix_B_Theological_Research_and_Writing_Tools"></span>Appendix B: Theological Research and Writing Tools<span class="ez-toc-section-end"></span>
+## Appendix B: Theological Research and Writing Tools
 
   * Formatting and Style 
       * The SBL Handbook of Style.
@@ -210,7 +154,7 @@ _Note: The following reading notes are a mixture of quotation and paraphrase thr
       * Booth, Colomb, and Willians. The Craft of Research.
       * Vyhmeister. Your Guide to Writing Quality Research Papers: For Students of Religion and Theology.
 
-## <span class="ez-toc-section" id="Appendix_C_Scholarly_Resources_for_Theological_Research"></span>Appendix C: Scholarly Resources for Theological Research<span class="ez-toc-section-end"></span>
+## Appendix C: Scholarly Resources for Theological Research
 
   * Primary Sources 
       * Biblical Texts
@@ -259,8 +203,8 @@ _Note: The following reading notes are a mixture of quotation and paraphrase thr
       * Word Biblical Commentary
       * Zondervan Exegetical Commentary on the New Testament
 
-## <span class="ez-toc-section" id="Appendix_D_Navigating_the_ATLA_Religion_Database"></span>Appendix D: Navigating the ATLA Religion Database<span class="ez-toc-section-end"></span>
+## Appendix D: Navigating the ATLA Religion Database
 
-## <span class="ez-toc-section" id="Appendix_E_Zotero_Bibliography_Software"></span>Appendix E: Zotero Bibliography Software<span class="ez-toc-section-end"></span>
+## Appendix E: Zotero Bibliography Software
 
-## <span class="ez-toc-section" id="Appendix_F_A_Suggested_Timeline_for_Theological_Research_Papers"></span>Appendix F: A Suggested Timeline for Theological Research Papers<span class="ez-toc-section-end"></span>
+## Appendix F: A Suggested Timeline for Theological Research Papers

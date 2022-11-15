@@ -11,96 +11,9 @@ mf2_syndication:
 ---
 _(For a brief profile of what I&#8217;m like and what makes me tick as a worker, [read this self-assessment][1]. You can also view my resume on [LinkedIn][2].)_
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/portfolio/cv/#EDUCATION" title="EDUCATION">EDUCATION</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/portfolio/cv/#PhD_Candidate_-_Wheaton_College_Graduate_School_Wheaton_IL" title="Ph.D. Candidate &#8211; Wheaton College Graduate School; Wheaton, IL">Ph.D. Candidate &#8211; Wheaton College Graduate School; Wheaton, IL</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/portfolio/cv/#MDiv_-_Beeson_Divinity_School_Birmingham_AL" title="M.Div. &#8211; Beeson Divinity School; Birmingham, AL">M.Div. &#8211; Beeson Divinity School; Birmingham, AL</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/portfolio/cv/#BA_-_Cedarville_University_Cedarville_OH" title="B.A. &#8211; Cedarville University; Cedarville, OH">B.A. &#8211; Cedarville University; Cedarville, OH</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/portfolio/cv/#EXPERIENCE" title="EXPERIENCE">EXPERIENCE</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/portfolio/cv/#Software_Engineer_I_-_Proofpoint" title="Software Engineer I &#8211; Proofpoint">Software Engineer I &#8211; Proofpoint</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/portfolio/cv/#Managing_Editor_-_Anglican_Compass" title="Managing Editor &#8211; Anglican Compass">Managing Editor &#8211; Anglican Compass</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/portfolio/cv/#PastorClergy_Anglican_Priest" title="Pastor/Clergy (Anglican Priest)">Pastor/Clergy (Anglican Priest)</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/portfolio/cv/#PastorClergy_Anglican_Deacon" title="Pastor/Clergy (Anglican Deacon)">Pastor/Clergy (Anglican Deacon)</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/portfolio/cv/#Teaching_Research_Assistant_PhD_Student" title="Teaching / Research Assistant (Ph.D. Student)">Teaching / Research Assistant (Ph.D. Student)</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/portfolio/cv/#Church_Website_Manager" title="Church Website Manager">Church Website Manager</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/portfolio/cv/#Youth_PastorMinister" title="Youth Pastor/Minister">Youth Pastor/Minister</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/portfolio/cv/#Other_Positions" title="Other Positions">Other Positions</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/portfolio/cv/#HONORS_AWARDS" title="HONORS & AWARDS">HONORS & AWARDS</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/portfolio/cv/#Beeson_Divinity_School" title="Beeson Divinity School">Beeson Divinity School</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/portfolio/cv/#Cedarville_University" title="Cedarville University">Cedarville University</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/portfolio/cv/#Other" title="Other">Other</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-18" href="https://joshuapsteele.com/portfolio/cv/#CONFERENCE_PRESENTATIONS" title="CONFERENCE PRESENTATIONS">CONFERENCE PRESENTATIONS</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-19" href="https://joshuapsteele.com/portfolio/cv/#The_Guilt_of_Karl_Barth_Strengths_and_Weaknesses_of_Barths_Romerbrief_Reading_of_Romans_9_30-10_21" title="The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s Römerbrief Reading of Romans 9:30–10:21">The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s Römerbrief Reading of Romans 9:30–10:21</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-20" href="https://joshuapsteele.com/portfolio/cv/#Disunity_as_Ecclesiological_Impossibility_A_Barthian_Analogy" title="Disunity as Ecclesiological Impossibility: A Barthian Analogy">Disunity as Ecclesiological Impossibility: A Barthian Analogy</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-21" href="https://joshuapsteele.com/portfolio/cv/#Reconciliation_and_the_Lack_Thereof_Atonement_Ecclesiology_and_the_Unity_of_God" title="Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God">Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-22" href="https://joshuapsteele.com/portfolio/cv/#REFERENCES" title="REFERENCES">REFERENCES</a>
-    </li>
-  </ul></nav>
-</div>
+## EDUCATION {.has-text-align-center}
 
-## <span class="ez-toc-section" id="EDUCATION"></span>EDUCATION<span class="ez-toc-section-end"></span> {.has-text-align-center}
-
-### <span class="ez-toc-section" id="PhD_Candidate_-_Wheaton_College_Graduate_School_Wheaton_IL"></span>Ph.D. Candidate &#8211; [Wheaton College Graduate School][3]; Wheaton, IL<span class="ez-toc-section-end"></span>
+### Ph.D. Candidate &#8211; [Wheaton College Graduate School][3]; Wheaton, IL
 
   * IN PROGRESS: Ph.D. in Biblical & Theological Studies
   * Supervisor: Marc Cortez, Ph.D.
@@ -108,13 +21,13 @@ _(For a brief profile of what I&#8217;m like and what makes me tick as a worker,
 
 _(Note: <a href="https://joshuapsteele.com/portfolio/essays/" target="_blank" aria-label="undefined (opens in a new tab)" rel="noreferrer noopener">to read some of my academic essays, go here</a>.)_
 
-### <span class="ez-toc-section" id="MDiv_-_Beeson_Divinity_School_Birmingham_AL"></span>M.Div. &#8211; [Beeson Divinity School][4]; Birmingham, AL<span class="ez-toc-section-end"></span>
+### M.Div. &#8211; [Beeson Divinity School][4]; Birmingham, AL
 
   * Class of 2016 (December)
   * Certificate of Anglican Studies &#8211; [Beeson Institute of Anglican Studies][5]
   * Cumulative GPA: 4.00
 
-### <span class="ez-toc-section" id="BA_-_Cedarville_University_Cedarville_OH"></span>B.A. &#8211; [Cedarville University][6]; Cedarville, OH<span class="ez-toc-section-end"></span>
+### B.A. &#8211; [Cedarville University][6]; Cedarville, OH
 
   * Class of 2013
   * Double Major: Preseminary Bible & Spanish
@@ -122,9 +35,9 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/essays/" target="_blank" ar
 
 <hr class="wp-block-separator has-css-opacity" />
 
-## <span class="ez-toc-section" id="EXPERIENCE"></span>EXPERIENCE<span class="ez-toc-section-end"></span> {.has-text-align-center}
+## EXPERIENCE {.has-text-align-center}
 
-### <span class="ez-toc-section" id="Software_Engineer_I_-_Proofpoint"></span>**Software Engineer I &#8211; Proofpoint**<span class="ez-toc-section-end"></span>
+### **Software Engineer I &#8211; Proofpoint**
 
   * January 2022 &#8211; Present
   * Prepared End User Sync Simplified for EA and GA Release (Q1-Q2 2022)
@@ -134,7 +47,7 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/essays/" target="_blank" ar
 <div class="is-layout-flow wp-block-group">
   <div class="wp-block-group__inner-container">
     <h3>
-      <span class="ez-toc-section" id="Managing_Editor_-_Anglican_Compass"></span><strong>Managing Editor &#8211; <a aria-label="undefined (opens in a new tab)" rel="noreferrer noopener" href="https://anglicancompass.com/" target="_blank">Anglican Compass</a></strong><span class="ez-toc-section-end"></span>
+      <strong>Managing Editor &#8211; <a aria-label="undefined (opens in a new tab)" rel="noreferrer noopener" href="https://anglicancompass.com/" target="_blank">Anglican Compass</a></strong>
     </h3>
     
     <ul>
@@ -163,7 +76,7 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/essays/" target="_blank" ar
 <div class="is-layout-flow wp-block-group">
   <div class="wp-block-group__inner-container">
     <h3>
-      <span class="ez-toc-section" id="PastorClergy_Anglican_Priest"></span><strong>Pastor/Clergy (Anglican Priest)</strong><span class="ez-toc-section-end"></span>
+      <strong>Pastor/Clergy (Anglican Priest)</strong>
     </h3>
     
     <ul>
@@ -216,7 +129,7 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/sermons/" target="_blank" a
 <div class="is-layout-flow wp-block-group">
   <div class="wp-block-group__inner-container">
     <h3>
-      <span class="ez-toc-section" id="PastorClergy_Anglican_Deacon"></span><strong>Pastor/Clergy (Anglican Deacon)</strong><span class="ez-toc-section-end"></span>
+      <strong>Pastor/Clergy (Anglican Deacon)</strong>
     </h3>
     
     <ul>
@@ -233,7 +146,7 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/sermons/" target="_blank" a
 <div class="is-layout-flow wp-block-group">
   <div class="wp-block-group__inner-container">
     <h3>
-      <span class="ez-toc-section" id="Teaching_Research_Assistant_PhD_Student"></span><strong>Teaching / Research Assistant (Ph.D. Student)</strong><span class="ez-toc-section-end"></span>
+      <strong>Teaching / Research Assistant (Ph.D. Student)</strong>
     </h3>
     
     <ul>
@@ -275,7 +188,7 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/sermons/" target="_blank" a
 <div class="is-layout-flow wp-block-group">
   <div class="wp-block-group__inner-container">
     <h3>
-      <span class="ez-toc-section" id="Church_Website_Manager"></span><strong>Church Website Manager</strong><span class="ez-toc-section-end"></span>
+      <strong>Church Website Manager</strong>
     </h3>
     
     <ul>
@@ -314,7 +227,7 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/sermons/" target="_blank" a
 <div class="is-layout-flow wp-block-group">
   <div class="wp-block-group__inner-container">
     <h3>
-      <span class="ez-toc-section" id="Youth_PastorMinister"></span><strong>Youth Pastor/Minister</strong><span class="ez-toc-section-end"></span>
+      <strong>Youth Pastor/Minister</strong>
     </h3>
     
     <ul>
@@ -353,7 +266,7 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/sermons/" target="_blank" a
 <div class="is-layout-flow wp-block-group">
   <div class="wp-block-group__inner-container">
     <h3>
-      <span class="ez-toc-section" id="Other_Positions"></span><strong>Other Positions</strong><span class="ez-toc-section-end"></span>
+      <strong>Other Positions</strong>
     </h3>
     
     <ul>
@@ -378,11 +291,11 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/sermons/" target="_blank" a
 <div class="is-layout-flow wp-block-group">
   <div class="wp-block-group__inner-container">
     <h2 class="has-text-align-center">
-      <span class="ez-toc-section" id="HONORS_AWARDS"></span><strong>HONORS & AWARDS</strong><span class="ez-toc-section-end"></span>
+      <strong>HONORS & AWARDS</strong>
     </h2>
     
     <h3>
-      <span class="ez-toc-section" id="Beeson_Divinity_School"></span><strong>Beeson Divinity School</strong><span class="ez-toc-section-end"></span>
+      <strong>Beeson Divinity School</strong>
     </h3>
     
     <ul>
@@ -398,7 +311,7 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/sermons/" target="_blank" a
     </ul>
     
     <h3>
-      <span class="ez-toc-section" id="Cedarville_University"></span><strong>Cedarville University</strong><span class="ez-toc-section-end"></span>
+      <strong>Cedarville University</strong>
     </h3>
     
     <ul>
@@ -426,7 +339,7 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/sermons/" target="_blank" a
     </ul>
     
     <h3>
-      <span class="ez-toc-section" id="Other"></span><strong>Other</strong><span class="ez-toc-section-end"></span>
+      <strong>Other</strong>
     </h3>
     
     <ul>
@@ -445,27 +358,27 @@ _(Note: <a href="https://joshuapsteele.com/portfolio/sermons/" target="_blank" a
 
 <hr class="wp-block-separator has-css-opacity" />
 
-## <span class="ez-toc-section" id="CONFERENCE_PRESENTATIONS"></span>CONFERENCE PRESENTATIONS<span class="ez-toc-section-end"></span> {.has-text-align-center}
+## CONFERENCE PRESENTATIONS {.has-text-align-center}
 
-### <span class="ez-toc-section" id="The_Guilt_of_Karl_Barth_Strengths_and_Weaknesses_of_Barths_Romerbrief_Reading_of_Romans_9_30-10_21"></span>[The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s _Römerbrief_ Reading of Romans 9:30–10:21][7]<span class="ez-toc-section-end"></span>
+### [The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s _Römerbrief_ Reading of Romans 9:30–10:21][7]
 
   * [2019 Barth Graduate Student Colloquium][8]
   * The Center for Barth Studies; Princeton Theological Seminary (Princeton, NJ)
   * August 14–16, 2019
 
-### <span class="ez-toc-section" id="Disunity_as_Ecclesiological_Impossibility_A_Barthian_Analogy"></span>[Disunity as Ecclesiological Impossibility: A Barthian Analogy][9]<span class="ez-toc-section-end"></span>
+### [Disunity as Ecclesiological Impossibility: A Barthian Analogy][9]
 
   * Regional ETS Southeast
   * Lithonia, GA: 2015
 
-### <span class="ez-toc-section" id="Reconciliation_and_the_Lack_Thereof_Atonement_Ecclesiology_and_the_Unity_of_God"></span>[Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God][10]<span class="ez-toc-section-end"></span>
+### [Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God][10]
 
   * Regional ETS Southeast
   * Birmingham, AL: 2014
 
 <hr class="wp-block-separator has-css-opacity" />
 
-## <span class="ez-toc-section" id="REFERENCES"></span>REFERENCES<span class="ez-toc-section-end"></span> {.has-text-align-center}
+## REFERENCES {.has-text-align-center}
 
 _(For contact information, please [contact me][11].)_
 

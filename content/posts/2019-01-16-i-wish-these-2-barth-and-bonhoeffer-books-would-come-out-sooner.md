@@ -21,26 +21,7 @@ I&#8217;m really looking forward to reading these two Barth (and Bonhoeffer) boo
   1. [Freedom under the Word: Karl Barth’s Theological Exegesis][2]. Edited by Ben Rhodes and Martin Westerholm.
   2. [Karl Barth and Dietrich Bonhoeffer: Theologians for a Post-Christian World][3]. By Wolf Krötke. Translated by John P. Burgess.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner/#Freedom_under_the_Word_May_2019" title="Freedom under the Word (May 2019)">Freedom under the Word (May 2019)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner/#Karl_Barth_and_Dietrich_Bonhoeffer_August_2019" title="Karl Barth and Dietrich Bonhoeffer (August 2019)">Karl Barth and Dietrich Bonhoeffer (August 2019)</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Freedom_under_the_Word_May_2019"></span>Freedom under the Word (May 2019)<span class="ez-toc-section-end"></span>
+## Freedom under the Word (May 2019)
 
 According to [Baker][4]:
 
@@ -80,7 +61,7 @@ Part 5: Barth&#8217;s Doctrine of Reconciliation in Exegetical Perspective
   * &#8220;We, Too, Are in Advent&#8221;: Barth&#8217;s Theological Exegesis of Hebrews 11 R. David Nelson
   * The Compassion of Jesus for the Crowds Paul T. Nimmo
 
-## <span class="ez-toc-section" id="Karl_Barth_and_Dietrich_Bonhoeffer_August_2019"></span>Karl Barth and Dietrich Bonhoeffer (August 2019)<span class="ez-toc-section-end"></span>
+## Karl Barth and Dietrich Bonhoeffer (August 2019)
 
 Again, according to [Baker][5]:
 

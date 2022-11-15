@@ -122,52 +122,7 @@ The structure of this passage is easy enough to ascertain.
 
 First, then:
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/the-hope-of-the-holy-innocents/#I_IN_TELLING_OF_THE_FLIGHT_TO_EGYPTVV_13-15_PORTRAY_JESUS_AS_THE_NEW_MOSES_THE_TRUE_ISRAELAND_THE_SOURCE_OF_HOPE" title="I. IN TELLING OF THE FLIGHT TO EGYPT,VV. 13-15 PORTRAY JESUS AS THE NEW MOSES, THE TRUE ISRAEL,AND THE SOURCE OF HOPE.">I. IN TELLING OF THE FLIGHT TO EGYPT,VV. 13-15 PORTRAY JESUS AS THE NEW MOSES, THE TRUE ISRAEL,AND THE SOURCE OF HOPE.</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/the-hope-of-the-holy-innocents/#A_THE_FLIGHT" title="A. THE FLIGHT">A. THE FLIGHT</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/the-hope-of-the-holy-innocents/#B_THE_FULFILLMENT" title="B. THE FULFILLMENT">B. THE FULFILLMENT</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/the-hope-of-the-holy-innocents/#II_IN_TELLING_OF_THE_SLAUGHTER_OF_THE_INNOCENTSVV_16-18_REVEAL_THE_DESPERATE_NEED_FOR_HOPE" title="II. IN TELLING OF THE SLAUGHTER OF THE INNOCENTS,VV. 16-18 REVEAL THE DESPERATE NEED FOR HOPE.">II. IN TELLING OF THE SLAUGHTER OF THE INNOCENTS,VV. 16-18 REVEAL THE DESPERATE NEED FOR HOPE.</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/the-hope-of-the-holy-innocents/#A_THE_MASSACRE" title="A. THE MASSACRE">A. THE MASSACRE</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/the-hope-of-the-holy-innocents/#B_THE_FULFILLMENT-2" title="B. THE FULFILLMENT">B. THE FULFILLMENT</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/the-hope-of-the-holy-innocents/#CONCLUSION" title="CONCLUSION">CONCLUSION</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/the-hope-of-the-holy-innocents/#We_cannot_afford_an_escapist_religion_because_we_do_not_worship_an_escapist_God" title="We cannot afford an escapist religion because we do not worship an escapist God!">We cannot afford an escapist religion because we do not worship an escapist God!</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/the-hope-of-the-holy-innocents/#Evil_cannot_and_should_not_be_explained_But_it_can_has_been_and_will_be_defeated" title="Evil cannot and should not be explained.&nbsp;But it can, has been, and will be defeated!">Evil cannot and should not be explained.&nbsp;But it can, has been, and will be defeated!</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="I_IN_TELLING_OF_THE_FLIGHT_TO_EGYPTVV_13-15_PORTRAY_JESUS_AS_THE_NEW_MOSES_THE_TRUE_ISRAELAND_THE_SOURCE_OF_HOPE"></span>I. IN TELLING OF THE FLIGHT TO EGYPT,VV. 13-15 PORTRAY JESUS AS THE NEW MOSES, THE TRUE ISRAEL,AND THE SOURCE OF HOPE.<span class="ez-toc-section-end"></span>
+## I. IN TELLING OF THE FLIGHT TO EGYPT,VV. 13-15 PORTRAY JESUS AS THE NEW MOSES, THE TRUE ISRAEL,AND THE SOURCE OF HOPE.
 
 <blockquote class="wp-block-quote">
   <p>
@@ -187,7 +142,7 @@ First, then:
   </p>
 </blockquote>
 
-### <span class="ez-toc-section" id="A_THE_FLIGHT"></span>A. THE FLIGHT<span class="ez-toc-section-end"></span>
+### A. THE FLIGHT
 
 Verse 13 begins by referring to the departure of the wise men, after offering their now-famous gifts. And just as they were warned in a dream to take an alternate route home to avoid Herod, so Joseph is commanded in a dream by a messenger of the Lord to flee to Egypt to avoid Herod.
 
@@ -198,7 +153,7 @@ Therefore , although Egypt was, in the immediate sense, a natural destination to
 The urgency of the angel’s command matches the urgency with which it was obeyed. The family made the approximately 90 mile journey, beginning under cover of darkness. And they obediently remained there u  
 ntil receiving further instructions &#8211; until Herod would later die, allowing them to return and to journey to Nazareth in Galilee.
 
-### <span class="ez-toc-section" id="B_THE_FULFILLMENT"></span>B. THE FULFILLMENT<span class="ez-toc-section-end"></span>
+### B. THE FULFILLMENT
 
 And then Matthew says that these things happened in order that that which was spoken by the Lord through the prophet – in this case, the prophet Hosea – might be fulfilled: “Out of Egypt I called my son.” As I have mentioned, this comes from Hosea 11, from a beautiful prophetic passage which begins by speaking of Israel and the Exodus – the formative event in the birth of the young nation, the young “son” of God.
 
@@ -214,7 +169,7 @@ Already , early in Matthew’s Gospel, we get the sense that Christ is going to 
 
 I wish I could end there. However,
 
-## <span class="ez-toc-section" id="II_IN_TELLING_OF_THE_SLAUGHTER_OF_THE_INNOCENTSVV_16-18_REVEAL_THE_DESPERATE_NEED_FOR_HOPE"></span>**II. IN TELLING OF THE SLAUGHTER OF THE INNOCENTS,****VV. 16-18 REVEAL THE DESPERATE NEED FOR HOPE.**<span class="ez-toc-section-end"></span>
+## **II. IN TELLING OF THE SLAUGHTER OF THE INNOCENTS,****VV. 16-18 REVEAL THE DESPERATE NEED FOR HOPE.**
 
 <blockquote class="wp-block-quote">
   <p>
@@ -242,7 +197,7 @@ I wish I could end there. However,
   </p>
 </blockquote>
 
-### <span class="ez-toc-section" id="A_THE_MASSACRE"></span>**A. THE MASSACRE**<span class="ez-toc-section-end"></span>
+### **A. THE MASSACRE**
 
 According to [estimates][10], the number of baby boys killed in the region of Bethlehem would have been between 10 and 30.In the course of the Church’s commemoration of this event, the number has grown drastically – to 14,000; 64,000; or even 144,000.
 
@@ -272,7 +227,7 @@ Although I’m sure I’ll find this passage even more poignant when, Lord-willi
 
 <u>She has a point, right?</u> If God could save Jesus from bloodthirsty Herod, why not the Bethlehem babies? Didn’t the angel of the Lord have enough free time to show up in the dreams of the other Bethlehem parents? Doesn’t this event, like all the others I mentioned in my introduction, rightly prompt the question, perhaps asked with a tone of weeping and loud lamentation: _**“Why, God? Why?!”?**_
 
-### <span class="ez-toc-section" id="B_THE_FULFILLMENT-2"></span>**B. THE FULFILLMENT**<span class="ez-toc-section-end"></span>
+### **B. THE FULFILLMENT**
 
 This passage sticks with me partially because my wife’s name is Rachel. She has wept, as a nurse, over the often senseless suffering of her patients. And she is not alone. Matthew draws our attention to Jeremiah 31:15, depicting [Rachel][11] – the wife of Jacob, the mother of Joseph and Benjamin – as weeping for her children, refusing to be comforted, for they are no more. _**“Why, God? Why?!”**_
 
@@ -319,7 +274,7 @@ With the mothers of Bethlehem, Rachel was still weeping.
 
 Her children were not yet home.
 
-## <span class="ez-toc-section" id="CONCLUSION"></span>**CONCLUSION**<span class="ez-toc-section-end"></span>
+## **CONCLUSION**
 
 What do we make of this?
 
@@ -336,7 +291,7 @@ The Incarnation is glorious, but it’s also <u>messy</u>. Because we are messy!
 
 Sisters and brothers, we Christians cannot afford an escapist religion of mere sentimentality which is out of touch with this broken and twisted world.
 
-### <span class="ez-toc-section" id="We_cannot_afford_an_escapist_religion_because_we_do_not_worship_an_escapist_God"></span>**We** **cannot afford an escapist religion because we do not worship an escapist God!**<span class="ez-toc-section-end"></span>
+### **We** **cannot afford an escapist religion because we do not worship an escapist God!**
 
 Now , remember: **evil is incomprehensible**. It is the impossible possibility – a headlong dive, away from the source of Life and Light, into the arms of nothingness and darkness. **It** **makes no sense!**
 
@@ -346,7 +301,7 @@ Don’t offer or seek such “answers.” It’s better to remain silent, or to 
 
 JESUS DID…on the Cross!
 
-### <span class="ez-toc-section" id="Evil_cannot_and_should_not_be_explained_But_it_can_has_been_and_will_be_defeated"></span>**Evil cannot and should not be explained.&nbsp;****But it can, has been, and will be defeated!**<span class="ez-toc-section-end"></span>
+### **Evil cannot and should not be explained.&nbsp;****But it can, has been, and will be defeated!**
 
 Although it does not lessen the tragedy, King Jesus, the commander of heaven’s armies, did not abandon these baby boys, his very first standard-bearers, as [Peter Chrysologus][13] noted. Instead, he sent them on ahead of himself into victory.
 

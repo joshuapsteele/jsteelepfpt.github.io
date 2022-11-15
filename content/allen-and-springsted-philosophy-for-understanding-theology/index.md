@@ -5,75 +5,7 @@ type: page
 date: 2019-02-27T17:47:34+00:00
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#BIBLIOGRAPHIC_DATA" title="BIBLIOGRAPHIC DATA:">BIBLIOGRAPHIC DATA:</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#INTERPRETATION" title="INTERPRETATION:">INTERPRETATION:</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Problems_Attempted_to_Solve" title="Problems Attempted to Solve:">Problems Attempted to Solve:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Summary_What_is_the_book_about_as_a_whole" title="Summary (What is the book about as a whole?):">Summary (What is the book about as a whole?):</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Outline_of_Source" title="Outline of Source:">Outline of Source:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Key_Terms" title="Key Terms:">Key Terms:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Key_PropositionsArguments_What_is_being_said_in_detail_and_how" title="Key Propositions/Arguments (What is being said in detail, and how?):">Key Propositions/Arguments (What is being said in detail, and how?):</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#CRITIQUE" title="CRITIQUE:">CRITIQUE:</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Is_the_book_true_in_whole_or_part" title="Is the book true, in whole or part?:">Is the book true, in whole or part?:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Problems_Solved" title="Problems Solved:">Problems Solved:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Problems_Not_Solved" title="Problems Not Solved:">Problems Not Solved:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Author_is_uninformed" title="Author is uninformed:">Author is uninformed:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Author_is_misinformed" title="Author is misinformed:">Author is misinformed:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Author_is_illogical" title="Author is illogical:">Author is illogical:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Author_is_incomplete" title="Author is incomplete:">Author is incomplete:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#What_of_it_Why_is_it_important_to_know_these_things" title="What of it? (Why) is it important to know these things?:">What of it? (Why) is it important to know these things?:</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/allen-and-springsted-philosophy-for-understanding-theology/#Suggested_Further_Reading" title="Suggested Further Reading">Suggested Further Reading</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="BIBLIOGRAPHIC_DATA"></span>BIBLIOGRAPHIC DATA:<span class="ez-toc-section-end"></span>
+## BIBLIOGRAPHIC DATA:
 
   * Author(s): Diogenes Allen and Eric O. Springsted
   * Title and subtitle: Philosophy for Understanding Theology
@@ -84,7 +16,7 @@ date: 2019-02-27T17:47:34+00:00
 
 * * *
 
-## <span class="ez-toc-section" id="INTERPRETATION"></span>INTERPRETATION:<span class="ez-toc-section-end"></span>
+## INTERPRETATION:
 
   * Kind of Book: Theoretical
   * Subject Matter: 
@@ -92,18 +24,18 @@ date: 2019-02-27T17:47:34+00:00
       * Theology; 
       * History (of both philosophy and theology)
 
-### <span class="ez-toc-section" id="Problems_Attempted_to_Solve"></span>Problems Attempted to Solve:<span class="ez-toc-section-end"></span>
+### Problems Attempted to Solve:
 
   * Theologians often have a lack of basic philosophical knowledge. This prevents their full understanding of many theologians and theological issues/debates.
 
-### <span class="ez-toc-section" id="Summary_What_is_the_book_about_as_a_whole"></span>Summary (What is the book about as a whole?):<span class="ez-toc-section-end"></span>
+### Summary (What is the book about as a whole?):
 
 > This book aims to give a person the philosophy needed to understand Christian theology better, for often the lack of knowledge of some key philosophic term or concept impedes significant understanding of a vital issue. (x) 
 
   * The history of _theology_ has determined which philosophical figures/issues are discussed.
   * This book is not a conventional or comprehensive history of philosophy.
 
-### <span class="ez-toc-section" id="Outline_of_Source"></span>Outline of Source:<span class="ez-toc-section-end"></span>
+### Outline of Source:
 
   * Introduction: The Foundation of Christian Theology: The World was Created
   * Plato: The World Is the Handiwork of a Mind
@@ -134,7 +66,7 @@ date: 2019-02-27T17:47:34+00:00
   * Postmodernism: Truth, Objectivity and Certainty
   * Postmodernism: Moral Philosophy
 
-### <span class="ez-toc-section" id="Key_Terms"></span>Key Terms:<span class="ez-toc-section-end"></span>
+### Key Terms:
 
   * a priori / a posteriori:
 
@@ -365,51 +297,51 @@ The view in epistemology that knowledge must be regarded as a structure raised u
 
 * * *
 
-### <span class="ez-toc-section" id="Key_PropositionsArguments_What_is_being_said_in_detail_and_how"></span>Key Propositions/Arguments (What is being said in detail, and how?):<span class="ez-toc-section-end"></span>
+### Key Propositions/Arguments (What is being said in detail, and how?):
 
   * The overall argument of the book is rather simple (&#8220;here&#8217;s the philosophy you need to know in order to better understand theology&#8221;).
   * However, due to the nature of the book, there are plenty of summaries of various philosophers&#8217; and theologians&#8217; arguments.
 
 * * *
 
-## <span class="ez-toc-section" id="CRITIQUE"></span>CRITIQUE:<span class="ez-toc-section-end"></span>
+## CRITIQUE:
 
-### <span class="ez-toc-section" id="Is_the_book_true_in_whole_or_part"></span>Is the book true, in whole or part?:<span class="ez-toc-section-end"></span>
+### Is the book true, in whole or part?:
 
   * Yes.
 
-### <span class="ez-toc-section" id="Problems_Solved"></span>Problems Solved:<span class="ez-toc-section-end"></span>
+### Problems Solved:
 
   * Gives an adequate amount of philosophical information/background in order to better understand key theological issues.
 
-### <span class="ez-toc-section" id="Problems_Not_Solved"></span>Problems Not Solved:<span class="ez-toc-section-end"></span>
+### Problems Not Solved:
 
   * None. Allen and Springsted solve the problem they set for themselves.
 
-### <span class="ez-toc-section" id="Author_is_uninformed"></span>Author is uninformed:<span class="ez-toc-section-end"></span>
+### Author is uninformed:
 
   * Unable to critique
 
-### <span class="ez-toc-section" id="Author_is_misinformed"></span>Author is misinformed:<span class="ez-toc-section-end"></span>
+### Author is misinformed:
 
   * Unable to critique
 
-### <span class="ez-toc-section" id="Author_is_illogical"></span>Author is illogical:<span class="ez-toc-section-end"></span>
+### Author is illogical:
 
   * Unable to critique
 
-### <span class="ez-toc-section" id="Author_is_incomplete"></span>Author is incomplete:<span class="ez-toc-section-end"></span>
+### Author is incomplete:
 
   * Yes, but this book doesn&#8217;t attempt to give a comprehensive overview of either philosophy or theology.
 
-### <span class="ez-toc-section" id="What_of_it_Why_is_it_important_to_know_these_things"></span>What of it? (Why) is it important to know these things?:<span class="ez-toc-section-end"></span>
+### What of it? (Why) is it important to know these things?:
 
   * This book illustrates the importance of philosophical literacy as a systematic/historical theologian.
   * Even if one takes a rather &#8220;Barthian&#8221; stance on the relationship between theology and philosophy, in order to correctly understand the history of theology, some knowledge of the history of philosophy is required!
 
 * * *
 
-## <span class="ez-toc-section" id="Suggested_Further_Reading"></span>Suggested Further Reading<span class="ez-toc-section-end"></span>
+## Suggested Further Reading
 
 <img decoding="async" loading="lazy" src="https://joshuapsteele.com/wp-content/uploads/2019/02/IMG_4842.jpeg" alt="IMG 4842" title="IMG_4842.jpeg" border="0" width="442" height="600" /> 
 

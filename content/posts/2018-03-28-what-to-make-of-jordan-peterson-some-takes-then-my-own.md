@@ -17,84 +17,11 @@ _UPDATE: Read my post, [&#8220;Two More Pieces about Jordan Peterson.&#8221;][1]
 
 If I remember correctly, I first heard of and listened to Jordan Peterson on [an episode of The Art of Manliness podcast][2]. (Or perhaps it was [this episode][3].)
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#However_I_could_be_mistaken_because_Petersons_been_popping_up_in_conversation_all_over_the_place_in_my_circles" title="However, I could be mistaken, because Peterson&#8217;s been popping up in conversation all over the place in my circles.">However, I could be mistaken, because Peterson&#8217;s been popping up in conversation all over the place in my circles.</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#Gerald_McDermotts_Take" title="Gerald McDermott&#8217;s Take">Gerald McDermott&#8217;s Take</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#Scot_McKnights_Blogs_Patrick_Mitchells_Take" title="Scot McKnight&#8217;s Blog&#8217;s (Patrick Mitchell&#8217;s) Take">Scot McKnight&#8217;s Blog&#8217;s (Patrick Mitchell&#8217;s) Take</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#The_Infamous_Channel_4_Interview" title="The Infamous Channel 4 Interview">The Infamous Channel 4 Interview</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#Other_Takes_on_Peterson" title="Other Takes on Peterson">Other Takes on Peterson</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#First_Things_Jordan_Peterson_Unlikely_Guru_Matthew_Schmitz" title="First Things: &#8220;Jordan Peterson, Unlikely Guru&#8221; (Matthew Schmitz)">First Things: &#8220;Jordan Peterson, Unlikely Guru&#8221; (Matthew Schmitz)</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#Think_Theology_Peterson_Driscoll_and_the_Millenial_Man_Matthew_Hosier" title="Think Theology: &#8220;Peterson, Driscoll, and the Millenial Man&#8221; (Matthew Hosier)">Think Theology: &#8220;Peterson, Driscoll, and the Millenial Man&#8221; (Matthew Hosier)</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#The_Atlantic_Why_Cant_People_Hear_What_Jordan_Peterson_is_saying_Connor_Friesdorf" title="The Atlantic: &#8220;Why Can&#8217;t People Hear What Jordan Peterson is saying?&#8221; (Connor Friesdorf)">The Atlantic: &#8220;Why Can&#8217;t People Hear What Jordan Peterson is saying?&#8221; (Connor Friesdorf)</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#Vox_Jordan_Peterson_Explained_Zack_Beauchamp" title="Vox: &#8220;Jordan Peterson, Explained&#8221; (Zack Beauchamp)">Vox: &#8220;Jordan Peterson, Explained&#8221; (Zack Beauchamp)</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#The_New_York_Times_The_Jordan_Peterson_Moment_David_Brooks" title="The New York Times: &#8220;The Jordan Peterson Moment&#8221; (David Brooks)">The New York Times: &#8220;The Jordan Peterson Moment&#8221; (David Brooks)</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#The_New_Yorker_Jordan_Petersons_Gospel_of_Masculinity_Kelefa_Sanneh" title="The New Yorker: &#8220;Jordan Peterson&#8217;s Gospel of Masculinity&#8221; (Kelefa Sanneh)">The New Yorker: &#8220;Jordan Peterson&#8217;s Gospel of Masculinity&#8221; (Kelefa Sanneh)</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#My_Current_Take_on_Jordan_Peterson" title="My Current Take on Jordan Peterson">My Current Take on Jordan Peterson</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#First_hes_definitely_on_to_something" title="First, he&#8217;s definitely on to something.">First, he&#8217;s definitely on to something.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#And_yet_his_individualism_worries_me" title="And yet, his individualism worries me.">And yet, his individualism worries me.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#Furthermore_he_seems_to_fall_into_the_very_trap_he_attempts_to_avoid_victimhood" title="Furthermore, he seems to fall into the very trap he attempts to avoid: victimhood.">Furthermore, he seems to fall into the very trap he attempts to avoid: victimhood.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#Finally_he_plays_fast_and_loose_with_divine_revelation_and_religious_traditions" title="Finally, he plays fast and loose with divine revelation and religious traditions.">Finally, he plays fast and loose with divine revelation and religious traditions.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#Hes_worth_reading" title="He&#8217;s worth reading.">He&#8217;s worth reading.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-18" href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/#If_you_do_end_up_reading_or_listening_to_Peterson_let_me_know_what_you_think" title="If you do end up reading or listening to Peterson, let me know what you think!">If you do end up reading or listening to Peterson, let me know what you think!</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="However_I_could_be_mistaken_because_Petersons_been_popping_up_in_conversation_all_over_the_place_in_my_circles"></span>However, I could be mistaken, because Peterson&#8217;s been popping up in conversation all over the place in my circles.<span class="ez-toc-section-end"></span>
+# However, I could be mistaken, because Peterson&#8217;s been popping up in conversation all over the place in my circles.
 
 Blog posts, podcast episodes, conversations with friends &#8211; Peterson has been popping up everywhere, so it seems.
 
-## <span class="ez-toc-section" id="Gerald_McDermotts_Take"></span>Gerald McDermott&#8217;s Take<span class="ez-toc-section-end"></span>
+## Gerald McDermott&#8217;s Take
 
 My [old seminary professor, Gerald McDermott][4], has blogged about Peterson&#8217;s new book, &#8220;[12 Rules for Life: an Antidote to Chaos][5],&#8221; saying:
 
@@ -104,7 +31,7 @@ My [old seminary professor, Gerald McDermott][4], has blogged about Peterson&#82
 
 
 
-## <span class="ez-toc-section" id="Scot_McKnights_Blogs_Patrick_Mitchells_Take"></span>Scot McKnight&#8217;s Blog&#8217;s (Patrick Mitchell&#8217;s) Take<span class="ez-toc-section-end"></span>
+## Scot McKnight&#8217;s Blog&#8217;s (Patrick Mitchell&#8217;s) Take
 
 Furthermore, [Scot McKnight blogged (or rather, published a guest post by Patrick Mitchell) about Peterson&#8217;s 12 Rules][6]:
 
@@ -118,7 +45,7 @@ The rest of the post is [a pretty detailed look at various aspects of Peterson&#
 
 * * *
 
-## <span class="ez-toc-section" id="The_Infamous_Channel_4_Interview"></span>The Infamous Channel 4 Interview<span class="ez-toc-section-end"></span>
+## The Infamous Channel 4 Interview
 
 Both of those blogs mention Peterson&#8217;s now infamous Channel 4 interview where Cathy Newman adopts some pretty aggressive and apparently unfair interviewing tactics (listen for &#8220;so you&#8217;re saying&#8230;,&#8221; followed by caricatures of Peterson&#8217;s claims):
 
@@ -126,13 +53,13 @@ Both of those blogs mention Peterson&#8217;s now infamous Channel 4 interview wh
 
 * * *
 
-# <span class="ez-toc-section" id="Other_Takes_on_Peterson"></span>Other Takes on Peterson<span class="ez-toc-section-end"></span>
+# Other Takes on Peterson
 
 * * *
 
 First, here are a couple explicitly &#8220;theological&#8221; takes:
 
-## <span class="ez-toc-section" id="First_Things_Jordan_Peterson_Unlikely_Guru_Matthew_Schmitz"></span>First Things: &#8220;Jordan Peterson, Unlikely Guru&#8221; (Matthew Schmitz)<span class="ez-toc-section-end"></span>
+## First Things: &#8220;Jordan Peterson, Unlikely Guru&#8221; (Matthew Schmitz)
 
 [Schmitz&#8217;s entire piece][7] is worth reading, but here was the kicker, in my opinion:
 
@@ -144,7 +71,7 @@ Schmitz concludes the piece with:
 
 * * *
 
-## <span class="ez-toc-section" id="Think_Theology_Peterson_Driscoll_and_the_Millenial_Man_Matthew_Hosier"></span>Think Theology: &#8220;Peterson, Driscoll, and the Millenial Man&#8221; (Matthew Hosier)<span class="ez-toc-section-end"></span>
+## Think Theology: &#8220;Peterson, Driscoll, and the Millenial Man&#8221; (Matthew Hosier)
 
 [Mathew Hosier, at Think Theology, confesses that some of Peterson&#8217;s talk of personal responsibility reminds him of Mark Driscoll][8]. Nevertheless, he admits that he thinks Peterson is different than Driscoll:
 
@@ -156,7 +83,7 @@ Schmitz concludes the piece with:
 
 Other, less (explicitly) theological takes on Peterson abound:
 
-## <span class="ez-toc-section" id="The_Atlantic_Why_Cant_People_Hear_What_Jordan_Peterson_is_saying_Connor_Friesdorf"></span>The Atlantic: &#8220;Why Can&#8217;t People Hear What Jordan Peterson is saying?&#8221; (Connor Friesdorf)<span class="ez-toc-section-end"></span>
+## The Atlantic: &#8220;Why Can&#8217;t People Hear What Jordan Peterson is saying?&#8221; (Connor Friesdorf)
 
 Focusing on the Channel 4 interview, Friesdorf concludes:
 
@@ -166,7 +93,7 @@ Focusing on the Channel 4 interview, Friesdorf concludes:
 
 * * *
 
-## <span class="ez-toc-section" id="Vox_Jordan_Peterson_Explained_Zack_Beauchamp"></span>Vox: &#8220;Jordan Peterson, Explained&#8221; (Zack Beauchamp)<span class="ez-toc-section-end"></span>
+## Vox: &#8220;Jordan Peterson, Explained&#8221; (Zack Beauchamp)
 
 [Zack Beauchamp has a long write-up on Jordan Peterson in Vox magazine][9], which concludes:
 
@@ -182,7 +109,7 @@ NOTE: From what I know of Peterson, Beauchamp&#8217;s take strikes me as unfair.
 
 * * *
 
-## <span class="ez-toc-section" id="The_New_York_Times_The_Jordan_Peterson_Moment_David_Brooks"></span>The New York Times: &#8220;The Jordan Peterson Moment&#8221; (David Brooks)<span class="ez-toc-section-end"></span>
+## The New York Times: &#8220;The Jordan Peterson Moment&#8221; (David Brooks)
 
 In my opinion, [David Brooks hits the nail on the head here][10]:
 
@@ -192,7 +119,7 @@ However, I wouldn&#8217;t exactly call Peterson&#8217;s calls to self-sacrifice 
 
 * * *
 
-## <span class="ez-toc-section" id="The_New_Yorker_Jordan_Petersons_Gospel_of_Masculinity_Kelefa_Sanneh"></span>The New Yorker: &#8220;Jordan Peterson&#8217;s Gospel of Masculinity&#8221; (Kelefa Sanneh)<span class="ez-toc-section-end"></span>
+## The New Yorker: &#8220;Jordan Peterson&#8217;s Gospel of Masculinity&#8221; (Kelefa Sanneh)
 
 Similarly, I think that [Kelefa Sanneh hits the nail on the head here][11]:
 
@@ -202,9 +129,9 @@ Alright, time for some thoughts of my own.
 
 * * *
 
-# <span class="ez-toc-section" id="My_Current_Take_on_Jordan_Peterson"></span>My Current Take on Jordan Peterson<span class="ez-toc-section-end"></span>
+# My Current Take on Jordan Peterson
 
-## <span class="ez-toc-section" id="First_hes_definitely_on_to_something"></span>First, he&#8217;s definitely on to something.<span class="ez-toc-section-end"></span>
+## First, he&#8217;s definitely on to something.
 
 There&#8217;s no denying it, Jordan Peterson is striking a chord. And, I believe, that&#8217;s at least partially due to the fact that he&#8217;s RIGHT.
 
@@ -214,7 +141,7 @@ I believe that the Christian doctrine of the imago Dei &#8212; of humans being c
 
 Furthermore, there&#8217;s plenty of content in biblical Wisdom Literature (see Proverbs and Ecclesiastes, especially) to support what Peterson is saying about how to live your life in a way that fights back against the chaos of the world.
 
-## <span class="ez-toc-section" id="And_yet_his_individualism_worries_me"></span>And yet, his individualism worries me.<span class="ez-toc-section-end"></span>
+## And yet, his individualism worries me.
 
 Sure, we&#8217;re created in the imago Dei, and that means we have control and responsibility for our lives.
 
@@ -226,7 +153,7 @@ Granted, Peterson isn&#8217;t simply saying &#8220;it&#8217;s every man for hims
 
 But still, I find his views of the world &#8212; at least as expressed in 12 Rules for Life &#8212; to be more individualistic than the account I see in Christian Scripture.
 
-## <span class="ez-toc-section" id="Furthermore_he_seems_to_fall_into_the_very_trap_he_attempts_to_avoid_victimhood"></span>Furthermore, he seems to fall into the very trap he attempts to avoid: victimhood.<span class="ez-toc-section-end"></span>
+## Furthermore, he seems to fall into the very trap he attempts to avoid: victimhood.
 
 Peterson is trying to provide an alternative, a middle way, to the Radical Left and the Radical Right. However, some of his rhetoric about the Radical Left &#8212; justified though it may be in certain circumstances, given what appear to be widespread mischaracterizations of his thought! &#8212; sometimes seem to fall into the very trap of &#8220;victimhood&#8221; that he encourages his audience to avoid.
 
@@ -238,7 +165,7 @@ Then again, perhaps that&#8217;s because Peterson&#8217;s been the target of qui
 
 And yet, if he&#8217;s _really_ going to provide a middle way between Right and Left ideologies, he needs to avoid the victim/oppressed rhetoric consistently.
 
-## <span class="ez-toc-section" id="Finally_he_plays_fast_and_loose_with_divine_revelation_and_religious_traditions"></span>Finally, he plays fast and loose with divine revelation and religious traditions.<span class="ez-toc-section-end"></span>
+## Finally, he plays fast and loose with divine revelation and religious traditions.
 
 I think it&#8217;s great that Peterson has respect for religion and religious narratives.
 
@@ -248,7 +175,7 @@ Sure, sometimes his theological interpretation of biblical texts seems pretty th
 
 By respecting all/most religious traditions, Peterson may very well end up respecting no particular religious tradition. As a Christian theologian, I find that troublesome.
 
-## <span class="ez-toc-section" id="Hes_worth_reading"></span>He&#8217;s worth reading.<span class="ez-toc-section-end"></span>
+## He&#8217;s worth reading.
 
 After listening to the book on Audible, I bought myself a physical copy of 12 Rules for Life.
 
@@ -260,7 +187,7 @@ Those Amazon links above are affiliate links. It&#8217;s a no-extra-cost way to 
 
 * * *
 
-# <span class="ez-toc-section" id="If_you_do_end_up_reading_or_listening_to_Peterson_let_me_know_what_you_think"></span>If you do end up reading or listening to Peterson, let me know what you think!<span class="ez-toc-section-end"></span>
+# If you do end up reading or listening to Peterson, let me know what you think!
 
  [1]: https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/
  [2]: https://www.artofmanliness.com/2017/08/31/podcast-335-using-power-myths-live-flourishing-life/

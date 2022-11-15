@@ -35,40 +35,11 @@ In addition to that class discussion question, [Tom Greggs][4]&#8216; _[Theolog
 
 After graduating from Beeson in December, I plan to pursue a Ph.D. in historical/systematic theology. If all goes well, I&#8217;d like to expand my Barth/Bonhoeffer project this semester into a doctoral project &#8211; perhaps focusing on the relationship between Barth&#8217;s &#8220;No-God&#8221; and Bonhoeffer&#8217;s &#8220;God-as-stopgap,&#8221; or on the relationship between Barth&#8217;s and Bonhoeffer&#8217;s theological interpretation[s] of Scripture and their theological critiques of religion.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/#My_Reading_List" title="My Reading List">My Reading List</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/#Primary_Sources" title="Primary Sources: ">Primary Sources: </a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/#Secondary_Sources" title="Secondary Sources:">Secondary Sources:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/#Have_any_suggestions_on_how_to_improve_this_reading_list" title="Have any suggestions on how to improve this reading list?">Have any suggestions on how to improve this reading list?</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/#Have_any_suggestions_on_who_might_be_interested_in_supervising_doctoral_work_in_this_area" title="Have any suggestions on who might be interested in supervising doctoral work in this area?">Have any suggestions on who might be interested in supervising doctoral work in this area?</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="My_Reading_List"></span>My Reading List<span class="ez-toc-section-end"></span>
+## My Reading List
 
 Anyway, with the help of [Michael DeJonge][6], Clifford Green, [Garrett Green][7], [Tom Greggs][4], and [Paul Dafydd Jones][8], I have developed the following reading list for this semester&#8217;s directed study:
 
-### <span class="ez-toc-section" id="Primary_Sources"></span>**Primary Sources: **<span class="ez-toc-section-end"></span>
+### **Primary Sources: **
 
   * BARTH, Karl. _[On Religion: The Revelation of God as the Sublimation of Religion][9]._Translated by Garrett Green. New York: T&T Clark, 2007.
   * _&#8212;. [The Epistle to the Romans][10]_. Translated by Edwyn C. Hoskyns. Oxford: OUP, 1968.
@@ -76,7 +47,7 @@ Anyway, with the help of [Michael DeJonge][6], Clifford Green, [Garrett Green][7
   * &#8212;. “The Center of the Earth (Gen. 2:8-17)” In [_Creation and Fall: A Theological Exposition of Genesis 1-3_][12], translated by Douglas Stephen Bax, edited by John W. de Gruchy, 80-93. DBWE Vol. 3. Minneapolis: Fortress, 1997.
   * &#8212;. “7. Inaugural Lecture: The Anthropological Question in Contemporary Philosophy and Theology.” In [_Barcelona, Berlin, New York: 1928-1931_][13], translated by Douglas W. Stott, edited by Clifford J. Green, 389-408. DBWE Vol. 10. Minneapolis: Fortress, 2008.
 
-### <span class="ez-toc-section" id="Secondary_Sources"></span>**Secondary Sources:**<span class="ez-toc-section-end"></span>
+### **Secondary Sources:**
 
   * DEJONGE, Michael P. [_Bonhoeffer&#8217;s Theological Formation: Berlin, Barth, and Protestant Theology_][14]. Oxford: OUP, 2012.
   * FEIL, Ernst. “Part Three: Religionless Christianity in a World Come of Age.” Chapters 4-5 in [_The Theology of Dietrich Bonhoeffer_][15], translated by Martin Rumscheidt, 99-202. Philadelphia: Fortress, 1985.
@@ -90,9 +61,9 @@ Anyway, with the help of [Michael DeJonge][6], Clifford Green, [Garrett Green][7
 
 If you&#8217;re interested in Barth and Bonhoeffer, I&#8217;m interested in starting up a conversation! Based on what I&#8217;ve written above, do you:
 
-### <span class="ez-toc-section" id="Have_any_suggestions_on_how_to_improve_this_reading_list"></span>Have any suggestions on how to improve this reading list?<span class="ez-toc-section-end"></span>
+### Have any suggestions on how to improve this reading list?
 
-### <span class="ez-toc-section" id="Have_any_suggestions_on_who_might_be_interested_in_supervising_doctoral_work_in_this_area"></span>Have any suggestions on who might be interested in supervising doctoral work in this area?<span class="ez-toc-section-end"></span>
+### Have any suggestions on who might be interested in supervising doctoral work in this area?
 
 If so, let me know in the comments!
 

@@ -17,32 +17,7 @@ As I said in my previous post, “[Interpretive Approaches to the Sermon on the 
 
 Of course, when interpreting the Sermon on the Mount, the best place to start is at the beginning! This means beginning with the Beatitudes in Matthew 5:1–12. 
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/interpretive-approaches-to-the-beatitudes/#The_Beatitudes_Matt_5_1-12" title="The Beatitudes (Matt. 5:1–12)">The Beatitudes (Matt. 5:1–12)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/interpretive-approaches-to-the-beatitudes/#Heres_Lukes_version_of_the_Beatitudes_Luke_6_20-26" title="Here’s Luke’s version of the Beatitudes (Luke 6:20–26)">Here’s Luke’s version of the Beatitudes (Luke 6:20–26)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/interpretive-approaches-to-the-beatitudes/#So_what_should_we_make_of_the_Beatitudes" title="So, what should we make of the Beatitudes?">So, what should we make of the Beatitudes?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/interpretive-approaches-to-the-beatitudes/#What_about_Barth_and_Bonhoeffer" title="What about Barth and Bonhoeffer?">What about Barth and Bonhoeffer?</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="The_Beatitudes_Matt_5_1-12"></span>The Beatitudes (Matt. 5:1–12)<span class="ez-toc-section-end"></span>
+## The Beatitudes (Matt. 5:1–12)
 
 <blockquote class="wp-block-quote">
   <p>
@@ -86,7 +61,7 @@ Of course, when interpreting the Sermon on the Mount, the best place to start is
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="Heres_Lukes_version_of_the_Beatitudes_Luke_6_20-26"></span>Here’s Luke’s version of the Beatitudes (Luke 6:20–26)<span class="ez-toc-section-end"></span>
+## Here’s Luke’s version of the Beatitudes (Luke 6:20–26)
 
 <blockquote class="wp-block-quote">
   <p>
@@ -126,7 +101,7 @@ Of course, when interpreting the Sermon on the Mount, the best place to start is
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="So_what_should_we_make_of_the_Beatitudes"></span>So, what should we make of the Beatitudes?<span class="ez-toc-section-end"></span>
+## So, what should we make of the Beatitudes?
 
 Of course, the differences between Matthew’s and Luke’s versions of the Beatitudes have prompted considerable discussion within biblical studies. 
 
@@ -166,7 +141,7 @@ After all, I agree with Kuo that, regardless of which framework we go with, we n
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="What_about_Barth_and_Bonhoeffer"></span>What about Barth and Bonhoeffer?<span class="ez-toc-section-end"></span>
+## What about Barth and Bonhoeffer?
 
 For me, it’s still early days in trying to make sense of Barth and Bonhoeffer. Nevertheless, I’m comfortable with claiming that they both take a “synthetic” and “christological” approach to the Beatitudes. 
 

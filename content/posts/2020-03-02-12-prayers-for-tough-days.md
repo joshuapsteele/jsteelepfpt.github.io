@@ -16,57 +16,7 @@ The &#8220;Occasional Prayers&#8221; section of the Book of Common Prayer is a g
 
 The following prayers come from [the Anglican Church in North America&#8217;s 2019 Book of Common Prayer][1]. You can [view the text of the 2019 BCP here][2]. And you can [download a Word document containing all of the Occasional Prayers here][3]. 
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/12-prayers-for-tough-days/#58_FOR_A_PERSON_IN_TROUBLE_OR_BEREAVEMENT" title="58. FOR A PERSON IN TROUBLE OR BEREAVEMENT">58. FOR A PERSON IN TROUBLE OR BEREAVEMENT</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/12-prayers-for-tough-days/#59_FOR_THE_DISCOURAGED_AND_DOWNCAST" title="59. FOR THE DISCOURAGED AND DOWNCAST">59. FOR THE DISCOURAGED AND DOWNCAST</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/12-prayers-for-tough-days/#61_FOR_THE_RECOVERY_OF_A_SICK_PERSON" title="61. FOR THE RECOVERY OF A SICK PERSON">61. FOR THE RECOVERY OF A SICK PERSON</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/12-prayers-for-tough-days/#62_FOR_THOSE_AFFLICTED_WITH_MENTAL_SUFFERING" title="62. FOR THOSE AFFLICTED WITH MENTAL SUFFERING">62. FOR THOSE AFFLICTED WITH MENTAL SUFFERING</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/12-prayers-for-tough-days/#77_FOR_GUIDANCE" title="77. FOR GUIDANCE">77. FOR GUIDANCE</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/12-prayers-for-tough-days/#79_FOR_MERCY" title="79. FOR MERCY">79. FOR MERCY</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/12-prayers-for-tough-days/#80_FOR_TRUSTFULNESS_IN_TIMES_OF_WORRY_AND_ANXIETY" title="80. FOR TRUSTFULNESS IN TIMES OF WORRY AND
-ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/12-prayers-for-tough-days/#82_FOR_QUIET_CONFIDENCE" title="82. FOR QUIET CONFIDENCE">82. FOR QUIET CONFIDENCE</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/12-prayers-for-tough-days/#86_FOR_SLEEP" title="86. FOR SLEEP">86. FOR SLEEP</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/12-prayers-for-tough-days/#95_IN_TIMES_OF_SUFFERING_OR_WEAKNESS" title="95. IN TIMES OF SUFFERING OR WEAKNESS">95. IN TIMES OF SUFFERING OR WEAKNESS</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/12-prayers-for-tough-days/#97_PREPARATION_FOR_PERSONAL_PRAYER" title="97. PREPARATION FOR PERSONAL PRAYER">97. PREPARATION FOR PERSONAL PRAYER</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/12-prayers-for-tough-days/#115_FOR_THE_COMING_OF_GODS_KINGDOM" title="115. FOR THE COMING OF GOD’S KINGDOM">115. FOR THE COMING OF GOD’S KINGDOM</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="58_FOR_A_PERSON_IN_TROUBLE_OR_BEREAVEMENT"></span>58. FOR A PERSON IN TROUBLE OR BEREAVEMENT<span class="ez-toc-section-end"></span>
+## 58. FOR A PERSON IN TROUBLE OR BEREAVEMENT
 
 <blockquote class="wp-block-quote">
   <p>
@@ -74,7 +24,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="59_FOR_THE_DISCOURAGED_AND_DOWNCAST"></span>59. FOR THE DISCOURAGED AND DOWNCAST<span class="ez-toc-section-end"></span>
+## 59. FOR THE DISCOURAGED AND DOWNCAST
 
 <blockquote class="wp-block-quote">
   <p>
@@ -82,7 +32,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="61_FOR_THE_RECOVERY_OF_A_SICK_PERSON"></span>61. FOR THE RECOVERY OF A SICK PERSON<span class="ez-toc-section-end"></span>
+## 61. FOR THE RECOVERY OF A SICK PERSON
 
 <blockquote class="wp-block-quote">
   <p>
@@ -90,7 +40,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="62_FOR_THOSE_AFFLICTED_WITH_MENTAL_SUFFERING"></span>62. FOR THOSE AFFLICTED WITH MENTAL SUFFERING<span class="ez-toc-section-end"></span>
+## 62. FOR THOSE AFFLICTED WITH MENTAL SUFFERING
 
 <blockquote class="wp-block-quote">
   <p>
@@ -98,7 +48,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="77_FOR_GUIDANCE"></span>77. FOR GUIDANCE<span class="ez-toc-section-end"></span>
+## 77. FOR GUIDANCE
 
 <blockquote class="wp-block-quote">
   <p>
@@ -106,7 +56,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="79_FOR_MERCY"></span>79. FOR MERCY<span class="ez-toc-section-end"></span>
+## 79. FOR MERCY
 
 <blockquote class="wp-block-quote">
   <p>
@@ -114,7 +64,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="80_FOR_TRUSTFULNESS_IN_TIMES_OF_WORRY_AND_ANXIETY"></span>80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY<span class="ez-toc-section-end"></span>
+## 80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY
 
 <blockquote class="wp-block-quote">
   <p>
@@ -122,7 +72,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="82_FOR_QUIET_CONFIDENCE"></span>82. FOR QUIET CONFIDENCE<span class="ez-toc-section-end"></span>
+## 82. FOR QUIET CONFIDENCE
 
 <blockquote class="wp-block-quote">
   <p>
@@ -130,7 +80,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="86_FOR_SLEEP"></span>86. FOR SLEEP<span class="ez-toc-section-end"></span>
+## 86. FOR SLEEP
 
 <blockquote class="wp-block-quote">
   <p>
@@ -138,7 +88,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="95_IN_TIMES_OF_SUFFERING_OR_WEAKNESS"></span>95. IN TIMES OF SUFFERING OR WEAKNESS<span class="ez-toc-section-end"></span>
+## 95. IN TIMES OF SUFFERING OR WEAKNESS
 
 <blockquote class="wp-block-quote">
   <p>
@@ -146,7 +96,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="97_PREPARATION_FOR_PERSONAL_PRAYER"></span>97. PREPARATION FOR PERSONAL PRAYER<span class="ez-toc-section-end"></span>
+## 97. PREPARATION FOR PERSONAL PRAYER
 
 <blockquote class="wp-block-quote">
   <p>
@@ -154,7 +104,7 @@ ANXIETY">80. FOR TRUSTFULNESS IN TIMES OF WORRY AND ANXIETY</a>
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="115_FOR_THE_COMING_OF_GODS_KINGDOM"></span>115. FOR THE COMING OF GOD’S KINGDOM<span class="ez-toc-section-end"></span>
+## 115. FOR THE COMING OF GOD’S KINGDOM
 
 <blockquote class="wp-block-quote">
   <p>

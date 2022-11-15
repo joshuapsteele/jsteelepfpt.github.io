@@ -91,47 +91,7 @@ _Keep in mind that this is a description of the basic doctrinal beliefs of the m
 
 * * *
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/what-do-anglicans-believe-2/#What_do_Anglicans_believe_about_Jesus" title="What do Anglicans believe about Jesus?">What do Anglicans believe about Jesus?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/what-do-anglicans-believe-2/#What_do_Anglicans_believe_about_the_Church" title="What do Anglicans believe about the Church?">What do Anglicans believe about the Church?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/what-do-anglicans-believe-2/#What_do_Anglicans_believe_about_the_creeds_of_the_early_Church" title="What do Anglicans believe about the creeds of the early Church?">What do Anglicans believe about the creeds of the early Church?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/what-do-anglicans-believe-2/#What_do_Anglicans_believe_about_liturgy" title="What do Anglicans believe about liturgy?">What do Anglicans believe about liturgy?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/what-do-anglicans-believe-2/#What_do_Anglicans_believe_about_human_life" title="What do Anglicans believe about human life?">What do Anglicans believe about human life?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/what-do-anglicans-believe-2/#What_do_Anglicans_believe_about_the_Reformation" title="What do Anglicans believe about the Reformation?">What do Anglicans believe about the Reformation?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/what-do-anglicans-believe-2/#What_do_Anglicans_believe_about_ordination_and_Holy_Orders" title="What do Anglicans believe about ordination and Holy Orders?">What do Anglicans believe about ordination and Holy Orders?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/what-do-anglicans-believe-2/#What_do_Anglicans_believe_about_other_Christians" title="What do Anglicans believe about other Christians?">What do Anglicans believe about other Christians?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/what-do-anglicans-believe-2/#To_learn_more_about_what_Anglicans_believe_check_out" title="To learn more about what Anglicans believe, check out">To learn more about what Anglicans believe, check out</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="What_do_Anglicans_believe_about_Jesus"></span>What do Anglicans believe about Jesus?<span class="ez-toc-section-end"></span>
+## What do Anglicans believe about Jesus?
 
 We Anglicans are, first of all, Christians. We believe that Jesus Christ is the Savior of the world.
 
@@ -139,7 +99,7 @@ We believe that [the Bible, Holy Scripture][1], tells the true story of the huma
 
 The Bible also tells the story of the founding of his Church, and its mission to the world in his name through the Holy Spirit. We believe that each and every person is loved by God and that salvation is offered in the name of Christ to all who will believe in him.
 
-## <span class="ez-toc-section" id="What_do_Anglicans_believe_about_the_Church"></span>What do Anglicans believe about the Church?<span class="ez-toc-section-end"></span>
+## What do Anglicans believe about the Church?
 
 We Anglicans believe that the Church is the Body of Christ on earth.
 
@@ -154,13 +114,13 @@ These two means of grace we call Sacraments, and they point to God&#8217;s work 
 
 This is our sacramental understanding of God&#8217;s work in the world.
 
-## <span class="ez-toc-section" id="What_do_Anglicans_believe_about_the_creeds_of_the_early_Church"></span>What do Anglicans believe about [the creeds of the early Church][4]?<span class="ez-toc-section-end"></span>
+## What do Anglicans believe about [the creeds of the early Church][4]?
 
 We believe the Apostles&#8217; Creed and the Nicene Creed. These creeds are Trinitarian (One God in three Persons: Father, Son, and Holy Spirit). They affirm the incarnation (God became a man in the person of Jesus Christ, without ceasing to be God). They affirm the presence of the Holy Spirit in the Church and at work in the world.
 
 Our more specific doctrines and practices are found in [the 39 Articles of Religion][5], which do not supersede the Creeds, but provide some clarity in terms of our way of being a church.
 
-## <span class="ez-toc-section" id="What_do_Anglicans_believe_about_liturgy"></span>What do Anglicans believe about liturgy?<span class="ez-toc-section-end"></span>
+## What do Anglicans believe about liturgy?
 
 We are liturgical. We follow the ancient, biblical pattern of worship through our [Book of Common Prayer][6] (founded in its most basic form on the Lord&#8217;s Prayer) that guides what we do and say in worship and prayer.
 
@@ -168,7 +128,7 @@ We follow [the Church year][7], a Christian calendar of seasons, feasts and fast
 
 We believe in holy matrimony, confession and reconciliation, ordination and confirmation, and anointing of the sick and dying as sacramental rites which convey God&#8217;s grace.
 
-## <span class="ez-toc-section" id="What_do_Anglicans_believe_about_human_life"></span>What do Anglicans believe about human life?<span class="ez-toc-section-end"></span>
+## What do Anglicans believe about human life?
 
 We believe in the dignity of all people.
 
@@ -176,7 +136,7 @@ We believe in the sanctity of all life from conception.
 
 We believe in serving and advocating for the poor, the outcast, the stranger, and the marginalized in the name of Jesus Christ.
 
-## <span class="ez-toc-section" id="What_do_Anglicans_believe_about_the_Reformation"></span>What do Anglicans believe about the Reformation?<span class="ez-toc-section-end"></span>
+## What do Anglicans believe about the Reformation?
 
 We Anglicans are both reformational and catholic.
 
@@ -188,7 +148,7 @@ Still later our church experienced both a catholic resurgence and then a charism
 
 We are a church with various emphasis in one fellowship.
 
-## <span class="ez-toc-section" id="What_do_Anglicans_believe_about_ordination_and_Holy_Orders"></span>What do Anglicans believe about ordination and Holy Orders?<span class="ez-toc-section-end"></span>
+## What do Anglicans believe about ordination and Holy Orders?
 
 We Anglicans are also episcopal.
 
@@ -200,7 +160,7 @@ We retain three orders of ordained ministry:
   * Priests (presbyters/elders) and
   * Deacons.
 
-## <span class="ez-toc-section" id="What_do_Anglicans_believe_about_other_Christians"></span>What do Anglicans believe about other Christians?<span class="ez-toc-section-end"></span>
+## What do Anglicans believe about other Christians?
 
 We Anglicans are not the only true Church.
 
@@ -212,7 +172,7 @@ Therefore, we do not believe that we are the only true Church. We affirm that th
 
 I&#8217;m sure that this attempt is inadequate as a full summary, and that other Anglicans would take issue with some of the wording or emphasis. But I believe this gives a good starting point for someone exploring Anglicanism, and I hope it serves to give you a big picture from which you can gain a more detailed picture.
 
-## <span class="ez-toc-section" id="To_learn_more_about_what_Anglicans_believe_check_out"></span>To learn more about what Anglicans believe, check out<span class="ez-toc-section-end"></span>
+## To learn more about what Anglicans believe, check out
 
   * The [Anglican Church in North America&#8217;s Catechism][8]
   * The [Thirty-Nine Articles of Religion][5]

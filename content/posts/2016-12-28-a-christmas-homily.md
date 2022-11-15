@@ -25,47 +25,7 @@ Please raise your hand if you’ve ever had a disappointing Christmas.
 
 I mean a Christmas that didn’t live up to your expectations. You wanted it to be filled with love, happiness, and peace, and instead all you got was stress, anxiety, and loneliness.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/a-christmas-homily/#Have_you_ever_had_a_disappointing_Christmas" title="Have you ever had a disappointing Christmas?">Have you ever had a disappointing Christmas?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/a-christmas-homily/#We_must_sing_Joy_to_the_World_-_even_through_tears_-_in_the_deepest_and_darkest_disappointments_of_this_world" title="We must sing Joy to the World – even through tears – in the deepest and darkest disappointments of this world.">We must sing Joy to the World – even through tears – in the deepest and darkest disappointments of this world.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/a-christmas-homily/#Consider_the_disappointing_circumstances_of_his_birth" title="Consider the disappointing circumstances of his birth!">Consider the disappointing circumstances of his birth!</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/a-christmas-homily/#Are_you_sure" title="Are you sure?!">Are you sure?!</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/a-christmas-homily/#Christmas_is_shocking" title="Christmas is shocking.">Christmas is shocking.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/a-christmas-homily/#Why_would_we_reject_Jesus" title="Why would we reject Jesus?">Why would we reject Jesus?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/a-christmas-homily/#Thankfully_however_that_baby_born_in_Bethlehem_can_save_us_all" title="Thankfully, however, that baby born in Bethlehem can save us all">Thankfully, however, that baby born in Bethlehem can save us all</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/a-christmas-homily/#How_can_we_be_a_part_of_this_hope" title="How can we be a part of this hope?">How can we be a part of this hope?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/a-christmas-homily/#We_are_all_of_us_called_to_worship_the_God_who_has_dwelt_among_us_in_order_to_save_us" title="We are, all of us, called to worship the God who has dwelt among us in order to save us.">We are, all of us, called to worship the God who has dwelt among us in order to save us.</a>
-    </li>
-  </ul></nav>
-</div>
-
-### <span class="ez-toc-section" id="Have_you_ever_had_a_disappointing_Christmas"></span>Have you ever had a disappointing Christmas?<span class="ez-toc-section-end"></span>
+### Have you ever had a disappointing Christmas?
 
 I have.<!--more-->
 
@@ -98,7 +58,7 @@ In our own troubled homes?
 
 **Yes, we can. In fact, we <span style="text-decoration: underline;">must</span>.**
 
-### <span class="ez-toc-section" id="We_must_sing_Joy_to_the_World_-_even_through_tears_-_in_the_deepest_and_darkest_disappointments_of_this_world"></span>We must sing Joy to the World – even through tears – in the deepest and darkest disappointments of this world.<span class="ez-toc-section-end"></span>
+### We must sing Joy to the World – even through tears – in the deepest and darkest disappointments of this world.
 
 No matter how painful things get, we cannot celebrate Christmas by ignoring, denying, and detaching from the world around us.
 
@@ -114,7 +74,7 @@ Although we rebel against God, and run in the opposite direction – away from l
 
 No, instead He dives from heaven’s heights into the muck and the mire of our sin- and death-stained world. He joins us in the thick of things, in order to bring us back to God.
 
-### <span class="ez-toc-section" id="Consider_the_disappointing_circumstances_of_his_birth"></span>Consider the disappointing circumstances of his birth!<span class="ez-toc-section-end"></span>
+### Consider the disappointing circumstances of his birth!
 
 We have thoroughly romanticized the nativity scene. Sure, there were glimpses of the extraordinary – such as the appearance of angels and the fact that Jesus was born to a virgin.
 
@@ -138,7 +98,7 @@ You mean, this criminal hanging on a bloodstained Roman cross?
 
 **_He_ upholds the universe by the word of his power?**
 
-### <span class="ez-toc-section" id="Are_you_sure"></span>Are you sure?!<span class="ez-toc-section-end"></span>
+### Are you sure?!
 
 Because at his birth, throughout his life, and at his death, he is surrounded by the **outcasts** of this world! By the broken bits that the universe churns out!
 
@@ -146,7 +106,7 @@ Because at his birth, throughout his life, and at his death, he is surrounded by
 
 <span style="text-decoration: underline;"><strong>Yes</strong></span>. Although, I do understand that this is <span style="text-decoration: underline;">shocking</span>.
 
-### <span class="ez-toc-section" id="Christmas_is_shocking"></span>Christmas is shocking.<span class="ez-toc-section-end"></span>
+### Christmas is shocking.
 
 It’s either a shocking disappointment or a shocking hope.
 
@@ -158,7 +118,7 @@ Consider again the words of John 1:
 
 > The true light, which gives light to everyone, was coming into the world.&nbsp;He was in the world, and the world was made through him, yet the world did not know him. He came to his own, and his own people did not receive him.
 
-### <span class="ez-toc-section" id="Why_would_we_reject_Jesus"></span>Why would we reject Jesus?<span class="ez-toc-section-end"></span>
+### Why would we reject Jesus?
 
 Perhaps we’re not interested in such humble Savior. We’re interested in power, and we’re interested in staying in control.
 
@@ -166,7 +126,7 @@ We think that, despite life’s disappointments, we can fix this on our own. We 
 
 But **we can’t save ourselves from Sin and Death**. And it’s about time we admit that.
 
-### <span class="ez-toc-section" id="Thankfully_however_that_baby_born_in_Bethlehem_can_save_us_all"></span>Thankfully, however, that baby born in Bethlehem can save us all<span class="ez-toc-section-end"></span>
+### Thankfully, however, that baby born in Bethlehem can save us all
 
 – even those at the **bottom** of this world – because he himself went to the bottom, to the outcasts, to the borders, and to the grave.
 
@@ -184,7 +144,7 @@ The Word who became flesh and made his dwelling among us will dwell with us once
 
 He will wipe away every tear from our eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore.
 
-### <span class="ez-toc-section" id="How_can_we_be_a_part_of_this_hope"></span>How can we be a part of this hope?<span class="ez-toc-section-end"></span>
+### How can we be a part of this hope?
 
 Not by rejecting Jesus, but by receiving him. As John 1 continues:
 
@@ -202,7 +162,7 @@ That’s the response some of you are called to make this Christmas.
 
 What about the rest of us?
 
-### <span class="ez-toc-section" id="We_are_all_of_us_called_to_worship_the_God_who_has_dwelt_among_us_in_order_to_save_us"></span>We are, all of us, called to worship the God who has dwelt among us in order to save us.<span class="ez-toc-section-end"></span>
+### We are, all of us, called to worship the God who has dwelt among us in order to save us.
 
 We are, all of us, called to sing to the Lord a fresh, new song, for he has done marvelous things!
 

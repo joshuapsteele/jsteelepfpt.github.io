@@ -9,35 +9,7 @@ mf2_syndication:
   - 'a:0:{}'
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/#Im_a_pastor-turned-programmer_who_works_with_dead_languages_to_help_the_living" title="I&#8217;m a pastor-turned-programmer who works with &#8220;dead&#8221; languages to help the living!">I&#8217;m a pastor-turned-programmer who works with &#8220;dead&#8221; languages to help the living!</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/#What_others_are_saying%E2%80%A6" title="What others are saying&#8230;">What others are saying&#8230;</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/#Meet_my_family" title="Meet my family!">Meet my family!</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/#Want_to_get_in_touch" title="Want to get in touch?">Want to get in touch?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/#Read_my_blog" title="Read my blog">Read my blog</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Im_a_pastor-turned-programmer_who_works_with_dead_languages_to_help_the_living"></span>I&#8217;m a pastor-turned-programmer who works with &#8220;dead&#8221; languages to help the living!<span class="ez-toc-section-end"></span> {.has-text-align-center}
+## I&#8217;m a pastor-turned-programmer who works with &#8220;dead&#8221; languages to help the living! {.has-text-align-center}
 
 <div class="wp-block-image is-style-circle-mask">
   <figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="1024" height="1024" src="https://joshuapsteele.com/wp-content/uploads/2021/09/Joshua_Steele-Close-Headshot-Photo-Square_2018-1024x1024.jpg" alt="Joshua Steele" class="wp-image-42566" srcset="https://joshuapsteele.com/wp-content/uploads/2021/09/Joshua_Steele-Close-Headshot-Photo-Square_2018-1024x1024.jpg 1024w, https://joshuapsteele.com/wp-content/uploads/2021/09/Joshua_Steele-Close-Headshot-Photo-Square_2018-300x300.jpg 300w, https://joshuapsteele.com/wp-content/uploads/2021/09/Joshua_Steele-Close-Headshot-Photo-Square_2018-150x150.jpg 150w, https://joshuapsteele.com/wp-content/uploads/2021/09/Joshua_Steele-Close-Headshot-Photo-Square_2018-768x768.jpg 768w, https://joshuapsteele.com/wp-content/uploads/2021/09/Joshua_Steele-Close-Headshot-Photo-Square_2018.jpg 1206w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
@@ -61,7 +33,7 @@ That&#8217;s how I combine a programmer&#8217;s eye for detail with a pastor&#82
   </li>
 </ul>
 
-## <span class="ez-toc-section" id="What_others_are_saying%E2%80%A6"></span>What others are saying&#8230;<span class="ez-toc-section-end"></span> {.alignfull.has-text-align-center}<figure class="wp-block-pullquote alignfull is-style-default">
+## What others are saying&#8230; {.alignfull.has-text-align-center}<figure class="wp-block-pullquote alignfull is-style-default">
 
 > As a student at Tech Elevator, Josh has been impressive from the start. He has a keen ability to grasp technical concepts, and couple new concepts with what he has already learned. I believe one of Josh&#8217;s greatest strengths is his curiosity. He asks well-articulated, pointed questions to gain a deeper understanding of the material. In doing so, he helps those around him to gain a deeper understanding as well.  
 >  
@@ -69,7 +41,7 @@ That&#8217;s how I combine a programmer&#8217;s eye for detail with a pastor&#82
 > 
 > <cite>Walt Impellicceiri, Instructor at Tech Elevator</cite></figure> 
 
-<div class="is-layout-flex wp-container-21 wp-block-columns alignfull is-style-default">
+<div class="is-layout-flex wp-container-13 wp-block-columns alignfull is-style-default">
   <div class="is-layout-flow wp-block-column">
     <figure class="wp-block-pullquote has-background has-black-background-color is-style-default has-border-color has-text-color" style="border-color:#000000;color:#ffffff">
     
@@ -134,11 +106,11 @@ That&#8217;s how I combine a programmer&#8217;s eye for detail with a pastor&#82
   </div>
 </div>
 
-## <span class="ez-toc-section" id="Meet_my_family"></span>Meet my family!<span class="ez-toc-section-end"></span> {.alignwide.has-text-align-center}<figure class="is-layout-flex wp-block-gallery-22 wp-block-gallery has-nested-images columns-default is-cropped alignfull"> <figure class="wp-block-image size-large">
+## Meet my family! {.alignwide.has-text-align-center}<figure class="is-layout-flex wp-block-gallery-14 wp-block-gallery has-nested-images columns-default is-cropped alignfull"> <figure class="wp-block-image size-large">
 
 <img decoding="async" loading="lazy" width="683" height="1024" data-id="42451"  src="https://joshuapsteele.com/wp-content/uploads/2021/01/BF5ED527-51B9-482A-A797-3DB0E51BCC4C_1_105_c-683x1024.jpeg" alt="" class="wp-image-42451" srcset="https://joshuapsteele.com/wp-content/uploads/2021/01/BF5ED527-51B9-482A-A797-3DB0E51BCC4C_1_105_c-683x1024.jpeg 683w, https://joshuapsteele.com/wp-content/uploads/2021/01/BF5ED527-51B9-482A-A797-3DB0E51BCC4C_1_105_c-200x300.jpeg 200w, https://joshuapsteele.com/wp-content/uploads/2021/01/BF5ED527-51B9-482A-A797-3DB0E51BCC4C_1_105_c.jpeg 724w" sizes="(max-width: 683px) 100vw, 683px" /> </figure> <figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="42450"  src="https://joshuapsteele.com/wp-content/uploads/2021/01/A21B9359-1F31-4D71-AEB2-FEDEA7A4C560_1_105_c-1024x683.jpeg" alt="" class="wp-image-42450" srcset="https://joshuapsteele.com/wp-content/uploads/2021/01/A21B9359-1F31-4D71-AEB2-FEDEA7A4C560_1_105_c-1024x683.jpeg 1024w, https://joshuapsteele.com/wp-content/uploads/2021/01/A21B9359-1F31-4D71-AEB2-FEDEA7A4C560_1_105_c-300x200.jpeg 300w, https://joshuapsteele.com/wp-content/uploads/2021/01/A21B9359-1F31-4D71-AEB2-FEDEA7A4C560_1_105_c-768x512.jpeg 768w, https://joshuapsteele.com/wp-content/uploads/2021/01/A21B9359-1F31-4D71-AEB2-FEDEA7A4C560_1_105_c.jpeg 1086w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> <figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="683" height="1024" data-id="42449"  src="https://joshuapsteele.com/wp-content/uploads/2021/01/4B673CE9-6A49-4634-AE26-5A204A1EFE43_1_105_c-683x1024.jpeg" alt="" class="wp-image-42449" srcset="https://joshuapsteele.com/wp-content/uploads/2021/01/4B673CE9-6A49-4634-AE26-5A204A1EFE43_1_105_c-683x1024.jpeg 683w, https://joshuapsteele.com/wp-content/uploads/2021/01/4B673CE9-6A49-4634-AE26-5A204A1EFE43_1_105_c-200x300.jpeg 200w, https://joshuapsteele.com/wp-content/uploads/2021/01/4B673CE9-6A49-4634-AE26-5A204A1EFE43_1_105_c.jpeg 724w" sizes="(max-width: 683px) 100vw, 683px" /></figure> <figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="42448"  src="https://joshuapsteele.com/wp-content/uploads/2021/01/40F108E4-B361-451D-AA23-56A451608988_1_105_c-1024x683.jpeg" alt="" class="wp-image-42448" srcset="https://joshuapsteele.com/wp-content/uploads/2021/01/40F108E4-B361-451D-AA23-56A451608988_1_105_c-1024x683.jpeg 1024w, https://joshuapsteele.com/wp-content/uploads/2021/01/40F108E4-B361-451D-AA23-56A451608988_1_105_c-300x200.jpeg 300w, https://joshuapsteele.com/wp-content/uploads/2021/01/40F108E4-B361-451D-AA23-56A451608988_1_105_c-768x512.jpeg 768w, https://joshuapsteele.com/wp-content/uploads/2021/01/40F108E4-B361-451D-AA23-56A451608988_1_105_c.jpeg 1086w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> <figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="42447"  src="https://joshuapsteele.com/wp-content/uploads/2021/01/9C3A0B4E-D0FB-4CE2-B330-1081FD9CF186_1_105_c-1024x683.jpeg" alt="" class="wp-image-42447" srcset="https://joshuapsteele.com/wp-content/uploads/2021/01/9C3A0B4E-D0FB-4CE2-B330-1081FD9CF186_1_105_c-1024x683.jpeg 1024w, https://joshuapsteele.com/wp-content/uploads/2021/01/9C3A0B4E-D0FB-4CE2-B330-1081FD9CF186_1_105_c-300x200.jpeg 300w, https://joshuapsteele.com/wp-content/uploads/2021/01/9C3A0B4E-D0FB-4CE2-B330-1081FD9CF186_1_105_c-768x512.jpeg 768w, https://joshuapsteele.com/wp-content/uploads/2021/01/9C3A0B4E-D0FB-4CE2-B330-1081FD9CF186_1_105_c.jpeg 1086w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> <figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="42446"  src="https://joshuapsteele.com/wp-content/uploads/2021/01/8A160C78-16B0-45A3-B457-2F3FBABD1B82_1_105_c-1024x683.jpeg" alt="" class="wp-image-42446" srcset="https://joshuapsteele.com/wp-content/uploads/2021/01/8A160C78-16B0-45A3-B457-2F3FBABD1B82_1_105_c-1024x683.jpeg 1024w, https://joshuapsteele.com/wp-content/uploads/2021/01/8A160C78-16B0-45A3-B457-2F3FBABD1B82_1_105_c-300x200.jpeg 300w, https://joshuapsteele.com/wp-content/uploads/2021/01/8A160C78-16B0-45A3-B457-2F3FBABD1B82_1_105_c-768x512.jpeg 768w, https://joshuapsteele.com/wp-content/uploads/2021/01/8A160C78-16B0-45A3-B457-2F3FBABD1B82_1_105_c.jpeg 1086w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> <figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="683" height="1024" data-id="42445"  src="https://joshuapsteele.com/wp-content/uploads/2021/01/B83B74BF-ACF3-4C9B-A65E-7C401C201326_1_105_c-683x1024.jpeg" alt="" class="wp-image-42445" srcset="https://joshuapsteele.com/wp-content/uploads/2021/01/B83B74BF-ACF3-4C9B-A65E-7C401C201326_1_105_c-683x1024.jpeg 683w, https://joshuapsteele.com/wp-content/uploads/2021/01/B83B74BF-ACF3-4C9B-A65E-7C401C201326_1_105_c-200x300.jpeg 200w, https://joshuapsteele.com/wp-content/uploads/2021/01/B83B74BF-ACF3-4C9B-A65E-7C401C201326_1_105_c.jpeg 724w" sizes="(max-width: 683px) 100vw, 683px" /></figure> <figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="683" height="1024" data-id="42444"  src="https://joshuapsteele.com/wp-content/uploads/2021/01/F9D0AC94-D3E6-4A79-9CAA-8F56A664CD7F_1_105_c-683x1024.jpeg" alt="" class="wp-image-42444" srcset="https://joshuapsteele.com/wp-content/uploads/2021/01/F9D0AC94-D3E6-4A79-9CAA-8F56A664CD7F_1_105_c-683x1024.jpeg 683w, https://joshuapsteele.com/wp-content/uploads/2021/01/F9D0AC94-D3E6-4A79-9CAA-8F56A664CD7F_1_105_c-200x300.jpeg 200w, https://joshuapsteele.com/wp-content/uploads/2021/01/F9D0AC94-D3E6-4A79-9CAA-8F56A664CD7F_1_105_c.jpeg 724w" sizes="(max-width: 683px) 100vw, 683px" /></figure> <figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="683" data-id="42443"  src="https://joshuapsteele.com/wp-content/uploads/2021/01/9F8E8C0B-A5DF-4280-AC22-C510ACD37625_1_105_c-1024x683.jpeg" alt="" class="wp-image-42443" srcset="https://joshuapsteele.com/wp-content/uploads/2021/01/9F8E8C0B-A5DF-4280-AC22-C510ACD37625_1_105_c-1024x683.jpeg 1024w, https://joshuapsteele.com/wp-content/uploads/2021/01/9F8E8C0B-A5DF-4280-AC22-C510ACD37625_1_105_c-300x200.jpeg 300w, https://joshuapsteele.com/wp-content/uploads/2021/01/9F8E8C0B-A5DF-4280-AC22-C510ACD37625_1_105_c-768x512.jpeg 768w, https://joshuapsteele.com/wp-content/uploads/2021/01/9F8E8C0B-A5DF-4280-AC22-C510ACD37625_1_105_c.jpeg 1086w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure> <figcaption class="blocks-gallery-caption wp-element-caption">We&#8217;re the Steele family!</figcaption></figure> 
 
-## <span class="ez-toc-section" id="Want_to_get_in_touch"></span>Want to get in touch?<span class="ez-toc-section-end"></span> {.has-text-align-center}
+## Want to get in touch? {.has-text-align-center}
 
 The contact form below goes straight to my inbox.
 
@@ -149,7 +121,7 @@ The contact form below goes straight to my inbox.
 
 <hr class="wp-block-separator has-css-opacity" />
 
-## <span class="ez-toc-section" id="Read_my_blog"></span>Read [my blog][1]<span class="ez-toc-section-end"></span> {.has-text-align-center}
+## Read [my blog][1] {.has-text-align-center}
 
 <ul class="wp-block-latest-posts__list has-dates aligncenter is-style-twentytwentyone-latest-posts-borders wp-block-latest-posts">
   <li>

@@ -23,44 +23,7 @@ I am not one of those deacons.
 
 I don&#8217;t share this story often, rarely in its fullness, and never in public non-anonymous writing. Be gentle with my soul, O Church. The words which follow are all too raw.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/#Baby_steps" title="Baby steps.">Baby steps.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/#Vocations_dont_leave_us_alone" title="Vocations don&#8217;t leave us alone.">Vocations don&#8217;t leave us alone.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/#So_why_am_I_not_a_priest_in_a_diocese_which_would_happily_ordain_a_woman_priest" title="So why am I not a priest in a diocese which would happily ordain a woman priest?">So why am I not a priest in a diocese which would happily ordain a woman priest?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/#Women_priests_many_of_whom_are_my_friends_I_honor_your_ministry" title="Women priests, many of whom are my friends, I honor your ministry.">Women priests, many of whom are my friends, I honor your ministry.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/#Those_who_oppose_the_ordination_of_women_I_hope_you_will_understand_the_sacrifice_required_specifically_of_women_to_lay_our_vocations_on_the_altar_knowing_that_it_cannot_be_expected_to_be_received_by_the_whole_Church" title="Those who oppose the ordination of women, I hope you will understand the sacrifice required, specifically of women, to lay our vocations on the altar knowing that it cannot be expected to be received by the whole Church.">Those who oppose the ordination of women, I hope you will understand the sacrifice required, specifically of women, to lay our vocations on the altar knowing that it cannot be expected to be received by the whole Church.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/#Vocational_deacons_my_own_heart_this_does_not_diminish_the_wild_abandon_of_joy_I_have_for_our_order" title="Vocational deacons, my own heart, this does not diminish the wild abandon of joy I have for our order.">Vocational deacons, my own heart, this does not diminish the wild abandon of joy I have for our order.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/#I_do_not_share_this_story_to_gain_your_sympathy" title="I do not share this story to gain your sympathy.">I do not share this story to gain your sympathy.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/#I_am_humbled_and_gratified_daily_that_our_Lord_saw_fit_to_make_me_a_deacon_and_has_mostly_given_me_the_grace_to_be_satisfied_in_this_gift_which_he_has_given_me" title="I am humbled and gratified daily that our Lord saw fit to make me a deacon and has (mostly) given me the grace to be satisfied in this gift which he has given me.">I am humbled and gratified daily that our Lord saw fit to make me a deacon and has (mostly) given me the grace to be satisfied in this gift which he has given me.</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Baby_steps"></span>Baby steps.<span class="ez-toc-section-end"></span>
+## Baby steps.
 
 I first felt called to the priesthood before I claimed the word &#8220;priest.&#8221; It was a fleeting moment in the middle school mind, and easily abandoned. Children try on shoes, and my wandering attention during a dull class did take a bit of a look at the shoes labeled &#8220;minister&#8221; but set them aside as having too much to do with funerals. As a college freshman, it was the word &#8220;priest&#8221; that came and caught me in a lonely hallway, one afternoon. I presented it to friends as a joke, before it settled in on me during the weeks that followed as a very serious reality.
 
@@ -70,13 +33,13 @@ I look back on that sometimes and think of what could have been. If I had kept m
 
 Instead of following the path before me, I veered from it. At a friend’s suggestion, I chose a seminary unsanctioned by the bishop of East Tennessee. I had a baby during my first year of seminary and began to question my priorities. I felt pigeon-holed into forms of ministry I never envisioned. In the end, I walked away from the ordination process entirely for a couple of years.
 
-## <span class="ez-toc-section" id="Vocations_dont_leave_us_alone"></span>Vocations don&#8217;t leave us alone.<span class="ez-toc-section-end"></span>
+## Vocations don&#8217;t leave us alone.
 
 Eventually, presented with a strong model of the vocational diaconate in my parish (by then in the Diocese of Pittsburgh) I again swallowed hard and shared my sense of vocation with the woman who would become my &#8220;mother in the diaconate.&#8221; I knew as soon as I did, it would again be out of my hands. This time, I submitted to the process; I let it unfold as it willed. I was ordained a deacon in June of 2004.
 
 I would like to say that since then my call to the priesthood has gone away, but it has not. Most of the time, it lies dormant, but it has its triggers. Some have been intentionally put in my path by well-intended priests, occasionally even those in authority over me. Some I have simply had to stumble upon by chance, or in a more self-indulgent moment have sought out and examined anew.
 
-## <span class="ez-toc-section" id="So_why_am_I_not_a_priest_in_a_diocese_which_would_happily_ordain_a_woman_priest"></span>So why am I not a priest in a diocese which would happily ordain a woman priest?<span class="ez-toc-section-end"></span>
+## So why am I not a priest in a diocese which would happily ordain a woman priest?
 
 In short, the cost is just too high. I simply do not have the right to pursue my individual sense of calling at the cost of the unity of the Church.
 
@@ -88,7 +51,7 @@ This is essential to me. In this mobile society, we should know now more than ev
 
 But Christ did not establish a divided Church. We were made for more than this.
 
-## <span class="ez-toc-section" id="Women_priests_many_of_whom_are_my_friends_I_honor_your_ministry"></span>Women priests, many of whom are my friends, I honor your ministry.<span class="ez-toc-section-end"></span>
+## Women priests, many of whom are my friends, I honor your ministry.
 
 I see the pain you&#8217;ve experienced and the sacrifices you&#8217;ve made. Yet I cannot see a way in which there can be a priesthood that emerges from an act of rebellion and division, as took place with the Philadelphia Eleven, that can be good or healthy for the whole Church. I do not see a women&#8217;s priesthood in Anglicanism today that is focused on unity over rights, on ordination as self-emptying rather than claiming our equality.
 
@@ -96,7 +59,7 @@ Perhaps it is a failure of imagination on my part, but I do not see a path forwa
 
 I do not believe the church has been kind to women priests. Many are simply trying to love Jesus and serve him the best way they know how. Yet the Church has systematically abandoned them to their ministries with no assurance of their place within the whole Church, shuttled them out of the public eye as if they represented a momentary indiscretion, and even subjected them to verbal abuse in our public discourse. This is not the tradition we inherited. It is not who we are to be in Christ. The early Church was a haven for women in part because of the intentionality of the Church&#8217;s empowerment of those whom secular society disenfranchised, quite notably women. Jesus himself surrounded himself with women. Paul called them fellow workers and greeted them prominently in his letters. Whether or not they were ordained to the priesthood, the early Church’s women were empowered for ministry. While some served as hospitality co-ordinators and nursery workers (or some ancient equivalents thereof), others served as missionaries, evangelists and martyrs, and yes, deacons. The modern Church has failed, in some places quite miserably, in this task of empowering women to serve in ways that fulfill our less traditionally feminine gifts and vocations.
 
-## <span class="ez-toc-section" id="Those_who_oppose_the_ordination_of_women_I_hope_you_will_understand_the_sacrifice_required_specifically_of_women_to_lay_our_vocations_on_the_altar_knowing_that_it_cannot_be_expected_to_be_received_by_the_whole_Church"></span>Those who oppose the ordination of women, I hope you will understand the sacrifice required, specifically of women, to lay our vocations on the altar knowing that it cannot be expected to be received by the whole Church.<span class="ez-toc-section-end"></span>
+## Those who oppose the ordination of women, I hope you will understand the sacrifice required, specifically of women, to lay our vocations on the altar knowing that it cannot be expected to be received by the whole Church.
 
 This is a uniquely feminine sacrifice, to be called and never empowered, to be shuttled off to birthing and raising babies (and being told that the painful and messy &#8220;miracle of life&#8221; should be enough for us), and to the ministry of hospitality and children&#8217;s ministry in some branches of the Church, when our gifts and our calling are to proclaim the gospel and make our Lord known in the breaking of bread. The women of the Church are often the walking wounded, caught in the crossfire of other Christians&#8217; battles. Unless you look at women&#8217;s ministries through the lens of sacrifice, you will never truly see.
 
@@ -104,7 +67,7 @@ There are some, I understand, who are vocal in our Church’s public discourse, 
 
 In my own journal, I recorded a quote from Archbishop Beach shortly after his election to serve as our archbishop. When asked what he thought about the Church’s women priests he replied, “For the people on the other side of that issue, for me I feel we need to honor them and respect them and treat them royally&#8221; (personal journal, July 6, 2014). Many in the Church have done just that. Nonetheless, when the official statements come down—the sort which carefully balances itself not to offend either side nor to make progress in either direction—we continually fail to acknowledge that our women priests are sisters in Christ, our women deacons are caught in a perpetual crossfire, and our dioceses which do not ordain women at all are often missing any visible and healthy vision of women in ministry other than the stereotypically feminine roles. Many of us are just not cut from that cloth.
 
-## <span class="ez-toc-section" id="Vocational_deacons_my_own_heart_this_does_not_diminish_the_wild_abandon_of_joy_I_have_for_our_order"></span>Vocational deacons, my own heart, this does not diminish the wild abandon of joy I have for our order.<span class="ez-toc-section-end"></span>
+## Vocational deacons, my own heart, this does not diminish the wild abandon of joy I have for our order.
 
 My love for the order defines my diaconate, and I see your own sacrifices and self-emptying defining yours. Each of us has had to lay lives upon Christ&#8217;s altar and acknowledge that it is not about us. Even our own vocation is not ours. It is about our Lord and his Church and the profound beauty of his creation, of which we are part.
 
@@ -112,7 +75,7 @@ I have been blessed to work with deacons (men and women) from coast to coast, in
 
 In short, it is from the diaconate, this foundational order, that I find the most encouragement for the future. While women’s ordination to the priesthood has, quite frankly, gutted the modern diaconate in the global north, the order has continued to hold fast, examine its heart, and increasingly take up its historical identity in connection with the deacons who have gone before. What is perhaps overlooked here is that the diaconate continues to need encouragement and development, despite being somewhat outside the fray.
 
-## <span class="ez-toc-section" id="I_do_not_share_this_story_to_gain_your_sympathy"></span>I do not share this story to gain your sympathy.<span class="ez-toc-section-end"></span>
+## I do not share this story to gain your sympathy.
 
 I would rather not share it at all, most especially not in a church that sees every mention of the ordination of women as an opportunity to demonize one another and fragment further along party lines. I would rather hoard it to myself, and not risk becoming the next target of ecclesiastical angst and ire. I do share it, however, in order to remind the whole Church what is truly at stake here. I share this story because I see the Church as the only institution on earth which is literally called to hand-feed its members from baptism to the last moments of life, and I see that the Church of the Internet Age has traded that call for a culture that devours one another instead.
 
@@ -124,7 +87,7 @@ What follows this passage is the great “Christ hymn” in which we are reminde
 
 There is no healthy priesthood that is sourced in an act of rebellion. It does not matter that the rebellion took place a generation ago. Neither does healthy discernment depend on our individual ambitions and personal liberties. Holy Orders must come as an act of radical obedience. There is no fulfillment of a diaconal vow that comes at the cost of the universal Church, for which we are to be servants.
 
-## <span class="ez-toc-section" id="I_am_humbled_and_gratified_daily_that_our_Lord_saw_fit_to_make_me_a_deacon_and_has_mostly_given_me_the_grace_to_be_satisfied_in_this_gift_which_he_has_given_me"></span>I am humbled and gratified daily that our Lord saw fit to make me a deacon and has (mostly) given me the grace to be satisfied in this gift which he has given me.<span class="ez-toc-section-end"></span>
+## I am humbled and gratified daily that our Lord saw fit to make me a deacon and has (mostly) given me the grace to be satisfied in this gift which he has given me.
 
 I am hopeful that we may someday be able to set aside our conceits and agendas and truly seek God’s will as one Body. I am convinced that my continued experience of a call to the priesthood is part of the Lord&#8217;s call to me to set aside what I may think even of my own self and let him fashion me instead after his own likeness. That is, after all, every Christian&#8217;s hope, sacrifice, and joy. I am also convinced that our Lord’s call to all of us is to a unity that loves one another, even as Christ has loved us, even to death on a Cross, no matter which side of our divisions we claim as our own.
 

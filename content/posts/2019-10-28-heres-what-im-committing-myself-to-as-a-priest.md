@@ -12,43 +12,7 @@ categories:
 ---
 _I&#8217;m getting ordained to the priesthood_ [_this Saturday, November 02_][1]_. For public/posterity&#8217;s sake, I wanted to post some of the main parts of the ordination liturgy (from the ACNA&#8217;s 2019 Book of Common Prayer)._
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/heres-what-im-committing-myself-to-as-a-priest/#The_Presentation" title="The Presentation">The Presentation</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/heres-what-im-committing-myself-to-as-a-priest/#The_Oath_of_Conformity" title="(The Oath of Conformity)">(The Oath of Conformity)</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/heres-what-im-committing-myself-to-as-a-priest/#The_Oath_of_Canonical_Obedience" title="(The Oath of Canonical Obedience)">(The Oath of Canonical Obedience)</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/heres-what-im-committing-myself-to-as-a-priest/#The_Exhortation" title="The Exhortation">The Exhortation</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/heres-what-im-committing-myself-to-as-a-priest/#The_Examination" title="The Examination">The Examination</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/heres-what-im-committing-myself-to-as-a-priest/#Veni_Creator_Spiritus" title="Veni, Creator Spiritus">Veni, Creator Spiritus</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/heres-what-im-committing-myself-to-as-a-priest/#The_Consecration_of_the_Priest" title="The Consecration of the Priest">The Consecration of the Priest</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="The_Presentation"></span>The Presentation<span class="ez-toc-section-end"></span>
+## The Presentation
 
 _The Bishop and People sit. The Presenters, standing before the Bishop, present the Ordinand, saying_
 
@@ -68,7 +32,7 @@ _The Bishop shall then require the Ordinand to take the Oath of Conformity and t
 
 _The Ordinand then declares_
 
-### <span class="ez-toc-section" id="The_Oath_of_Conformity"></span>(The Oath of Conformity)<span class="ez-toc-section-end"></span>
+### (The Oath of Conformity)
 
 <blockquote class="wp-block-quote">
   <p>
@@ -76,7 +40,7 @@ _The Ordinand then declares_
   </p>
 </blockquote>
 
-### <span class="ez-toc-section" id="The_Oath_of_Canonical_Obedience"></span>(The Oath of Canonical Obedience)<span class="ez-toc-section-end"></span>
+### (The Oath of Canonical Obedience)
 
 <blockquote class="wp-block-quote">
   <p>
@@ -104,7 +68,7 @@ Is it your will that _N_. be ordained a Priest?
 
  _People:_ **We will.**
 
-## <span class="ez-toc-section" id="The_Exhortation"></span>The Exhortation<span class="ez-toc-section-end"></span>
+## The Exhortation
 
 _All are seated except the Ordinand, who stands before the Bishop._
 
@@ -128,7 +92,7 @@ _The Bishop addresses the Ordinand as follows_
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="The_Examination"></span>The Examination<span class="ez-toc-section-end"></span>
+## The Examination
 
 _The Bishop then examines the Ordinand, saying_
 
@@ -228,7 +192,7 @@ _The Ordinand kneels or lies prostrate, facing the Bishop, with the priests pres
 
 _The Veni, Creator Spiritus is sung or said as a prayer for the renewal of the Church._
 
-## <span class="ez-toc-section" id="Veni_Creator_Spiritus"></span>Veni, Creator Spiritus<span class="ez-toc-section-end"></span>
+## Veni, Creator Spiritus
 
 <blockquote class="wp-block-quote">
   <p>
@@ -252,7 +216,7 @@ _The Veni, Creator Spiritus is sung or said as a prayer for the renewal of the C
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="The_Consecration_of_the_Priest"></span>The Consecration of the Priest<span class="ez-toc-section-end"></span>
+## The Consecration of the Priest
 
 _All now stand as witnesses, except the Ordinand, who kneels facing the Bishop. The Bishop prays the following prayer, first saying_
 

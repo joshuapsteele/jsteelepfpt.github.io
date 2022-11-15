@@ -19,35 +19,7 @@ categories:
   - Church and Theology
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/holy-trinity/#Introduction_The_Holy_Trinity" title="Introduction: The Holy Trinity">Introduction: The Holy Trinity</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/holy-trinity/#Is_the_Trinity_in_the_Bible_-_Canonical_Presence" title="Is the Trinity in the Bible? &#8211; Canonical Presence">Is the Trinity in the Bible? &#8211; Canonical Presence</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/holy-trinity/#How_did_we_get_the_doctrine_of_the_Trinity_-_Historical_Outworking" title="How did we get the &#8220;doctrine&#8221; of the Trinity? &#8211; Historical Outworking">How did we get the &#8220;doctrine&#8221; of the Trinity? &#8211; Historical Outworking</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/holy-trinity/#Conclusion" title="Conclusion">Conclusion</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/holy-trinity/#_NOTES" title="======== NOTES =========">======== NOTES =========</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="Introduction_The_Holy_Trinity"></span>Introduction: The Holy Trinity<span class="ez-toc-section-end"></span>
+# Introduction: The Holy Trinity
 
 <span style="color: #000000;">One God. Three persons. The Holy Trinity.</span>
 
@@ -66,7 +38,7 @@ categories:
 (For a[n attempted] summary of the Christian faith, see my essay: &#8220;[Theology in Outline: What do I Believe?][1]&#8220;)
 
 <h1 style="text-align: left;" align="CENTER">
-  <span class="ez-toc-section" id="Is_the_Trinity_in_the_Bible_-_Canonical_Presence"></span><span style="color: #000000;">Is the Trinity in the Bible? &#8211; Canonical Presence</span><span class="ez-toc-section-end"></span>
+  <span style="color: #000000;">Is the Trinity in the Bible? &#8211; Canonical Presence</span>
 </h1>
 
 <span style="color: #000000;">A common objection to the doctrine of the Trinity as just stated is that it nowhere appears within the pages of Scripture. </span>
@@ -90,7 +62,7 @@ categories:
 <span style="color: #000000;">The classical formulation of the Trinity did not arise from a scriptural vacuum.</span>
 
 <h1 style="text-align: left;" align="CENTER">
-  <span class="ez-toc-section" id="How_did_we_get_the_doctrine_of_the_Trinity_-_Historical_Outworking"></span><span style="color: #000000;">How did we get the &#8220;doctrine&#8221; of the Trinity? &#8211; Historical Outworking</span><span class="ez-toc-section-end"></span>
+  <span style="color: #000000;">How did we get the &#8220;doctrine&#8221; of the Trinity? &#8211; Historical Outworking</span>
 </h1>
 
 <span style="color: #000000;">Neither was the doctrine formed in a historical vacuum. </span>
@@ -130,7 +102,7 @@ categories:
 <span style="color: #000000;">Christians worship one God, because although each divine Person is God, “by the same proclamation God is one, because neither in regard to nature [or ousia] nor activity is any difference viewed.”<a href="#sdfootnote28sym" name="sdfootnote28anc"><span style="color: #000000;"><sup>28</sup></span></a> Unlike the diverse and discordant human<i> hypostases</i>, the divine persons are completely unified in their will and operations. Therefore, in the words of Gregory of Nazianzus: “the Godhead exists undivided in beings divided.”<a href="#sdfootnote29sym" name="sdfootnote29anc"><span style="color: #000000;"><sup>29</sup></span></a></span>
 
 <h1 style="text-align: left;" align="CENTER">
-  <span class="ez-toc-section" id="Conclusion"></span><span style="color: #000000;">Conclusion</span><span class="ez-toc-section-end"></span>
+  <span style="color: #000000;">Conclusion</span>
 </h1>
 
 <span style="color: #000000;">To return to what was mentioned at the outset, the best discussions of the Trinity also<i> end</i> with an acknowledgment of its inherent mystery which eludes the grasp of human reason&#8217;s highest reach. </span><span style="color: #000000;">Theological modesty is always in order, in part because of the unavoidable limitations of finite human speech about<i> anything</i>, much less about the infinite God. </span>
@@ -140,7 +112,7 @@ categories:
 <span style="color: #000000;">And yet, because true theology is not learning how to speak about God in order to master him intellectually, but in order to worship him faithfully, a persistent lacuna in trinitarian understanding is surely acceptable. For, although the gracious condescension of the triune God enables our faith to seek understanding successfully, the inscrutable mysteries of the same triune God ensure that some understandings will ever transcend our faith&#8217;s reach.</span>
 
 <h1 style="text-align: left;">
-  <span class="ez-toc-section" id="_NOTES"></span>======== NOTES =========<span class="ez-toc-section-end"></span>
+  ======== NOTES =========
 </h1>
 
 <p id="sdfootnote1">

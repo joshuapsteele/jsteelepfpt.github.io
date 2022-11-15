@@ -11,66 +11,7 @@ The following are works that I’m required to read during my PhD program at Whe
 
 * * *
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Leading_Journals" title="Leading Journals">Leading Journals</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Useful_Series" title="Useful Series">Useful Series</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#General_Reading_Requirements" title="General Reading Requirements">General Reading Requirements</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Classics_and_Historical_Theology_Competence" title="Classics and Historical Theology Competence">Classics and Historical Theology Competence</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Creeds_and_Confessions" title="Creeds and Confessions">Creeds and Confessions</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Milestone_Works" title="“Milestone” Works">“Milestone” Works</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Additional_Figures" title="Additional Figures">Additional Figures</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Philosophy" title="Philosophy">Philosophy</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Modern_Theology" title="Modern Theology">Modern Theology</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Church_History" title="Church History">Church History</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Systematic_Theology_Competence" title="Systematic Theology Competence">Systematic Theology Competence</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Contemporary_Evangelical_Theology" title="Contemporary Evangelical Theology">Contemporary Evangelical Theology</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Contemporary_Academic_Theology" title="Contemporary Academic Theology">Contemporary Academic Theology</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Catechesis_Catechisms" title="Catechesis; Catechisms">Catechesis; Catechisms</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/#Important_Contemporary_Works" title="Important Contemporary Works">Important Contemporary Works</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Leading_Journals"></span>Leading Journals<span class="ez-toc-section-end"></span>
+## Leading Journals
 
 Including, but not limited to:
 
@@ -83,7 +24,7 @@ Including, but not limited to:
 
 * * *
 
-## <span class="ez-toc-section" id="Useful_Series"></span>Useful Series<span class="ez-toc-section-end"></span>
+## Useful Series
 
 Including, but not limited to:
 
@@ -96,18 +37,18 @@ Including, but not limited to:
 
 * * *
 
-## <span class="ez-toc-section" id="General_Reading_Requirements"></span>General Reading Requirements<span class="ez-toc-section-end"></span>
+## General Reading Requirements
 
-### <span class="ez-toc-section" id="Classics_and_Historical_Theology_Competence"></span>Classics and Historical Theology Competence<span class="ez-toc-section-end"></span>
+### Classics and Historical Theology Competence
 
-### <span class="ez-toc-section" id="Creeds_and_Confessions"></span>Creeds and Confessions<span class="ez-toc-section-end"></span>
+### Creeds and Confessions
 
 Be familiar with the ecumenical creeds and major confessions, using resources such as:
 
   * Leith’s [Creeds of the Churches][13] or
   * Pelikan’s [Credo][14]
 
-### <span class="ez-toc-section" id="Milestone_Works"></span>“Milestone” Works<span class="ez-toc-section-end"></span>
+### “Milestone” Works
 
 Have basic knowledge and at least significant sample reading of these twenty milestone works is expected:
 
@@ -131,7 +72,7 @@ Have basic knowledge and at least significant sample reading of these twenty mil
   * Friedrich Schleiermacher. The Christian Faith.
   * Karl Barth. [Church Dogmatics][19].
 
-### <span class="ez-toc-section" id="Additional_Figures"></span>Additional Figures<span class="ez-toc-section-end"></span>
+### Additional Figures
 
 Additional figures with which to have some kind of reading acquaintance include:
 
@@ -151,7 +92,7 @@ Additional figures with which to have some kind of reading acquaintance include:
   * Søren Kierkegaard,
   * Dietrich Bonhoeffer.)
 
-### <span class="ez-toc-section" id="Philosophy"></span>Philosophy<span class="ez-toc-section-end"></span>
+### Philosophy
 
 Students should also familiarize themselves with relevant philosophical content and contours, such as that covered in:
 
@@ -169,13 +110,13 @@ Students should also familiarize themselves with relevant philosophical content 
       * 10: Russian Philosophy
       * 11: Logical Positivism and Existentialism
 
-### <span class="ez-toc-section" id="Modern_Theology"></span>Modern Theology<span class="ez-toc-section-end"></span>
+### Modern Theology
 
 In addition, they should have basic familiarity with key figures influential upon modern theology, such as Kant and Hegel. The best way to start is to read
 
   * James C. Livingston, et al., eds., Modern Christian Thought, 2 vols., 2nd ed. (Minneapolis: Fortress, 2006).
 
-### <span class="ez-toc-section" id="Church_History"></span>Church History<span class="ez-toc-section-end"></span>
+### Church History
 
 It is assumed that in master’s work students have already read one general-coverage overview of church history. If remedial work is required, possibilities include:
 
@@ -185,32 +126,32 @@ It is assumed that in master’s work students have already read one general-cov
   * Pelikan, Jaroslav. The Christian Tradition: A History of the Development of Doctrine. 5 vols. Chicago: University of Chicago Press, 1971–1988.
   * Walker, Williston. A History of the Christian Church. 3rd ed. New York: Scribner’s, 1970.
 
-### <span class="ez-toc-section" id="Systematic_Theology_Competence"></span>Systematic Theology Competence<span class="ez-toc-section-end"></span>
+### Systematic Theology Competence
 
 Students should read one modern, general-coverage ST written by a non-evangelical (e.g. Pannenberg, Jenson). They should also be acquainted with at least one general-coverage, evangelical ST (e.g. Erickson) They should also be familiar with other major, contemporary systematic theology projects (e.g. Sonderegger, Coakley, Kärkkainen).
 
-### <span class="ez-toc-section" id="Contemporary_Evangelical_Theology"></span>Contemporary Evangelical Theology<span class="ez-toc-section-end"></span>
+### Contemporary Evangelical Theology
 
 Students should read one of the following recent overviews of evangelical ST, to gain ability to discuss contemporary positions on major dogmatic issues at a classroom Q & A level.
 
   * Larsen, Timothy, and Daniel J. Treier, eds. The Cambridge Companion to Evangelical Theology. Cambridge: Cambridge University Press, 2007.
   * McDermott, Gerald R., ed. The Oxford Handbook of Evangelical Theology. Oxford: Oxford University Press, 2010.
 
-### <span class="ez-toc-section" id="Contemporary_Academic_Theology"></span>Contemporary Academic Theology<span class="ez-toc-section-end"></span>
+### Contemporary Academic Theology
 
 Students should read through at least one sizable, general-coverage, overview of contemporary academic theology, such as:
 
   * Hodgson & King, The Cambridge Companion to Christian Doctrine, or
   * the Oxford Handbook of Systematic Theology
 
-### <span class="ez-toc-section" id="Catechesis_Catechisms"></span>Catechesis; Catechisms<span class="ez-toc-section-end"></span>
+### Catechesis; Catechisms
 
 Students should become familiar with the form and basic content of
 
   * the Catechism of the Catholic Church
   * (the Lutheran Book of Concord can also be a very helpful resource for catechetical work).
 
-### <span class="ez-toc-section" id="Important_Contemporary_Works"></span>Important Contemporary Works<span class="ez-toc-section-end"></span>
+### Important Contemporary Works
 
 The following works on particular subjects are of such broad importance to contemporary HT and/or ST that all students are required to read, mark, learn, and inwardly digest (possibly also disagreeing heartily with!) them—at least to become capable of discussing them in detail.
 

@@ -17,7 +17,7 @@ categories:
   - Sermons
 
 ---
-<audio class="wp-audio-shortcode" id="audio-4235-5" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://joshuapsteele.com/wp-content/uploads/2017/04/04-13-17JS.mp3?_=5" /><https://joshuapsteele.com/wp-content/uploads/2017/04/04-13-17JS.mp3></audio>
+<audio class="wp-audio-shortcode" id="audio-4235-3" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://joshuapsteele.com/wp-content/uploads/2017/04/04-13-17JS.mp3?_=3" /><https://joshuapsteele.com/wp-content/uploads/2017/04/04-13-17JS.mp3></audio>
 
 There is something special about last meals, isn’t there?
 
@@ -25,7 +25,7 @@ I’d like to show you a series of photographs. These photographs, except for th
 
 I don’t want to belabor the artwork with my commentary, so I’ll give you a few seconds to take each slide in.
 
-<div id='gallery-3' class='gallery galleryid-4235 gallery-columns-3 gallery-size-thumbnail'>
+<div id='gallery-2' class='gallery galleryid-4235 gallery-columns-3 gallery-size-thumbnail'>
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
@@ -81,54 +81,11 @@ While Jesus of Nazareth was no common criminal, his so-called “Last Supper” 
 
 That is, the Last Supper is not just a one-time event, some two-thousand years ago. Instead, Holy Communion, the Lasting Supper, is an ongoing meal, with profound implications for our past, our future, and our present.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/#The_Meal" title="The Meal">The Meal</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/#Passover_An_Interpretive_Celebration" title="Passover: An Interpretive Celebration">Passover: An Interpretive Celebration</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/#An_Unexpected_Paradigm_Shift" title="An Unexpected Paradigm Shift">An Unexpected Paradigm Shift</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/#New_Exodus_New_Covenant" title="New Exodus, New Covenant">New Exodus, New Covenant</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/#Passover_and_Holy_Communion_An_Expanded_Timeline" title="Passover and Holy Communion: An Expanded Timeline">Passover and Holy Communion: An Expanded Timeline</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/#What_Does_Transformative_Remembrance_Look_Like" title="What Does Transformative Remembrance Look Like?">What Does Transformative Remembrance Look Like?</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/#Servants_Or_Traitors" title="Servants? Or Traitors?">Servants? Or Traitors?</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/#Foot_Washing" title="Foot Washing">Foot Washing</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/#The_Lords_Table" title="The Lord&#8217;s Table">The Lord&#8217;s Table</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="The_Meal"></span>**The Meal**<span class="ez-toc-section-end"></span>
+# **The Meal**
 
 First, let’s look at the original meal itself, the “Last Supper,” as described in our Gospel lesson (Luke 22:14-20).<!--more-->
 
-## <span class="ez-toc-section" id="Passover_An_Interpretive_Celebration"></span>Passover: An Interpretive Celebration<span class="ez-toc-section-end"></span>
+## Passover: An Interpretive Celebration
 
 Now, as expected, the Passover was an interpretive celebration, because it looked back to the Exodus event – when God rescued his people from slavery in Egypt – in order to explain what salvation looked like.
 
@@ -179,7 +136,7 @@ Remembering God’s faithfulness was supposed to transform them into God’s fai
 
 So much for the expected aspects of the Last Supper: it was an interpretive Passover.
 
-## <span class="ez-toc-section" id="An_Unexpected_Paradigm_Shift"></span>An Unexpected Paradigm Shift<span class="ez-toc-section-end"></span>
+## An Unexpected Paradigm Shift
 
 What is unexpected about this meal is how Jesus shifts the paradigm! He takes the whole “Passover, Exodus, Covenant, Remembrance, Hope” timeline and makes himself the center of it!
 
@@ -195,7 +152,7 @@ This shifts the timeline forward, from Israel’s transformative remembrance of 
 
 Passover points to the Lord’s Supper, Holy Communion.
 
-## <span class="ez-toc-section" id="New_Exodus_New_Covenant"></span>New Exodus, New Covenant<span class="ez-toc-section-end"></span>
+## New Exodus, New Covenant
 
 What about the Exodus and the Covenant? Do they point to anything?
 
@@ -237,7 +194,7 @@ Yahweh says:
 > 
 > For I will forgive their iniquity, and I will remember their sin no more” (Jer. 31:33-34).
 
-## <span class="ez-toc-section" id="Passover_and_Holy_Communion_An_Expanded_Timeline"></span>Passover and Holy Communion: An Expanded Timeline<span class="ez-toc-section-end"></span>
+## Passover and Holy Communion: An Expanded Timeline
 
 So, to review, the previous timeline was:
 
@@ -267,7 +224,7 @@ Just as Passover was designed to be a transformative remembrance, to shape the I
 
 It’s meant to transform us into faithful followers of Jesus Christ, faithful members of Christ’s body, the Church!
 
-# <span class="ez-toc-section" id="What_Does_Transformative_Remembrance_Look_Like"></span>What Does Transformative Remembrance Look Like?<span class="ez-toc-section-end"></span>
+# What Does Transformative Remembrance Look Like?
 
 But, what does that look like?
 
@@ -295,7 +252,7 @@ I think that these final scenes in our passage offer us a challenging reminder o
 
 They show us, albeit through the failure of Judas and the disciples, how the remembrance of Holy Communion should transform us into sacrificial servants of Jesus Christ and one another.
 
-## <span class="ez-toc-section" id="Servants_Or_Traitors"></span>Servants? Or Traitors?<span class="ez-toc-section-end"></span>
+## Servants? Or Traitors?
 
 Let me put it to you this way:
 
@@ -331,7 +288,7 @@ Like always, he gives us his very self, for the sake of our salvation.
 
 Will we follow his example? Will we gratefully accept his service, and – in joyful response to his salvation – serve others in Jesus’ name? Or will we come in betrayal, seeking honor for only ourselves?
 
-## <span class="ez-toc-section" id="Foot_Washing"></span>Foot Washing<span class="ez-toc-section-end"></span>
+## Foot Washing
 
 Now, during our service of Holy Communion, we are going to have a service of Foot-Washing. During that time, I’d like you to remember that the same Lord who washed his disciples’ feet – the dirtiest parts of their bodies – now washes away even the dirtiest parts of our lives with his blood.
 
@@ -343,7 +300,7 @@ The answer, by the way, is NOT “try harder! Be better! Serve more!” No!
 
 INSTEAD, it is to surrender your entire life to Jesus. Only when you’ve accepted his salvation and his lordship will you be able to serve others out of the overflow of Christ’s love in your life.
 
-## <span class="ez-toc-section" id="The_Lords_Table"></span>The Lord&#8217;s Table<span class="ez-toc-section-end"></span>
+## The Lord&#8217;s Table
 
 And of course, in addition to the foot-washing, we will come to the Lord’s Table. And, during that time, I’d like you to remember that the same Messiah who so frequently ate with outcasts and sinners now welcomes us outcasts and sinners to come to his table and receive the saving benefits of his broken body and his shed blood.
 

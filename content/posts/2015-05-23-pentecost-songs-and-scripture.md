@@ -11,70 +11,15 @@ categories:
 ---
 Listening to [the first episode][1] of the excellent new podcast, [LectioCast][2], helped to orient my thoughts toward [tomorrow&#8217;s readings][3] for [Pentecost Sunday][4]. I&#8217;ve reproduced the first lesson, psalm, second lesson, and Gospel reading below, but I&#8217;d also like to call your attention to three powerful songs.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/pentecost-songs-and-scripture/#Song_1_Dry_Bones_by_Gungor" title="Song #1: &#8220;Dry Bones&#8221; by Gungor">Song #1: &#8220;Dry Bones&#8221; by Gungor</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/pentecost-songs-and-scripture/#First_Lesson_Ezekiel_37_1-14_NET_Bible" title="First Lesson: Ezekiel 37:1-14 (NET Bible)">First Lesson: Ezekiel 37:1-14 (NET Bible)</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <ul class='ez-toc-list-level-3'>
-            <li class='ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/pentecost-songs-and-scripture/#The_Valley_of_Dry_Bones" title="The Valley of Dry Bones">The Valley of Dry Bones</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/pentecost-songs-and-scripture/#Psalm_104_24-34_NET_Bible" title="Psalm: 104:24-34 (NET Bible)">Psalm: 104:24-34 (NET Bible)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/pentecost-songs-and-scripture/#Song_2_Tongues_of_Fire_by_John_Mark_McMillan" title="Song #2: &#8220;Tongues of Fire&#8221; by John Mark McMillan">Song #2: &#8220;Tongues of Fire&#8221; by John Mark McMillan</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/pentecost-songs-and-scripture/#Second_Lesson_Acts_2_1-21_NET_Bible" title="Second Lesson: Acts 2:1-21 (NET Bible)">Second Lesson: Acts 2:1-21 (NET Bible)</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <ul class='ez-toc-list-level-3'>
-            <li class='ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/pentecost-songs-and-scripture/#The_Holy_Spirit_and_the_Day_of_Pentecost" title="The Holy Spirit and the Day of Pentecost ">The Holy Spirit and the Day of Pentecost </a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/pentecost-songs-and-scripture/#Peters_Address_on_the_Day_of_Pentecost" title="Peter’s Address on the Day of Pentecost">Peter’s Address on the Day of Pentecost</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/pentecost-songs-and-scripture/#Song_3_Holy_Ghost_by_John_Mark_McMillan" title="Song #3: &#8220;Holy Ghost&#8221; by John Mark McMillan">Song #3: &#8220;Holy Ghost&#8221; by John Mark McMillan</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/pentecost-songs-and-scripture/#Gospel_John_15_26-27_16_4b-15_NET_Bible" title="Gospel: John 15:26-27, 16:4b-15 (NET Bible)">Gospel: John 15:26-27, 16:4b-15 (NET Bible)</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="Song_1_Dry_Bones_by_Gungor"></span>Song #1: &#8220;Dry Bones&#8221; by Gungor<span class="ez-toc-section-end"></span>
+# Song #1: &#8220;Dry Bones&#8221; by Gungor
 
 The first song is &#8220;Dry Bones&#8221; by Gungor. Read the Ezekiel passage and psalm below, and give it a listen.
 
 
 
-# <span class="ez-toc-section" id="First_Lesson_Ezekiel_37_1-14_NET_Bible"></span><span class="passage-display-bcv">First Lesson: Ezekiel 37:1-14 </span><span class="passage-display-version">(NET Bible)</span><span class="ez-toc-section-end"></span>
+# <span class="passage-display-bcv">First Lesson: Ezekiel 37:1-14 </span><span class="passage-display-version">(NET Bible)</span>
 
-### <span class="ez-toc-section" id="The_Valley_of_Dry_Bones"></span><span id="en-NET-21399" class="text Ezek-37-1">The Valley of Dry Bones</span><span class="ez-toc-section-end"></span>
+### <span id="en-NET-21399" class="text Ezek-37-1">The Valley of Dry Bones</span>
 
 <!--more-->
 
@@ -90,7 +35,7 @@ The first song is &#8220;Dry Bones&#8221; by Gungor. Read the Ezekiel passage an
 
 <span id="en-NET-21409" class="text Ezek-37-11"><sup class="versenum">11 </sup>Then he said to me, “Son of man, these bones are all the house of Israel. Look, they are saying, ‘Our bones are dry, our hope has perished; we are cut off.’ </span><span id="en-NET-21410" class="text Ezek-37-12"><sup class="versenum">12 </sup>Therefore prophesy, and tell them, ‘This is what the sovereign <span class="small-caps">Lord</span> says: Look, I am about to open your graves and will raise you from your graves, my people. I will bring you to the land of Israel. </span><span id="en-NET-21411" class="text Ezek-37-13"><sup class="versenum">13 </sup>Then you will know that I am the<span class="small-caps">Lord</span>, when I open your graves and raise you from your graves, my people. </span><span id="en-NET-21412" class="text Ezek-37-14"><sup class="versenum">14 </sup>I will place my breath in you and you will live; I will give you rest in your own land. Then you will know that I am the <span class="small-caps">Lord</span>—I have spoken and I will act, declares the <span class="small-caps">Lord</span>.’”</span>
 
-# <span class="ez-toc-section" id="Psalm_104_24-34_NET_Bible"></span><span class="passage-display-bcv">Psalm: 104:24-34 </span><span class="passage-display-version">(NET Bible)</span><span class="ez-toc-section-end"></span> {.passage-display}
+# <span class="passage-display-bcv">Psalm: 104:24-34 </span><span class="passage-display-version">(NET Bible)</span> {.passage-display}
 
 <div class="poetry">
   <p class="line">
@@ -102,7 +47,7 @@ The first song is &#8220;Dry Bones&#8221; by Gungor. Read the Ezekiel passage an
   </p>
   
   <h1 class="passage-display">
-    <span class="ez-toc-section" id="Song_2_Tongues_of_Fire_by_John_Mark_McMillan"></span>Song #2: &#8220;Tongues of Fire&#8221; by John Mark McMillan<span class="ez-toc-section-end"></span>
+    Song #2: &#8220;Tongues of Fire&#8221; by John Mark McMillan
   </h1>
   
   <p class="passage-display">
@@ -113,11 +58,11 @@ The first song is &#8220;Dry Bones&#8221; by Gungor. Read the Ezekiel passage an
   </p>
   
   <h1 class="passage-display">
-    <span class="ez-toc-section" id="Second_Lesson_Acts_2_1-21_NET_Bible"></span><span class="passage-display-bcv">Second Lesson: Acts 2:1-21 </span><span class="passage-display-version">(NET Bible)</span><span class="ez-toc-section-end"></span>
+    <span class="passage-display-bcv">Second Lesson: Acts 2:1-21 </span><span class="passage-display-version">(NET Bible)</span>
   </h1>
   
   <h3>
-    <span class="ez-toc-section" id="The_Holy_Spirit_and_the_Day_of_Pentecost"></span><span class="text Acts-2-1">The Holy Spirit and the Day of Pentecost </span><span class="ez-toc-section-end"></span>
+    <span class="text Acts-2-1">The Holy Spirit and the Day of Pentecost </span>
   </h3>
   
   <p>
@@ -133,7 +78,7 @@ The first song is &#8220;Dry Bones&#8221; by Gungor. Read the Ezekiel passage an
   </p>
   
   <h3>
-    <span class="ez-toc-section" id="Peters_Address_on_the_Day_of_Pentecost"></span><span id="en-NET-26953" class="text Acts-2-14">Peter’s Address on the Day of Pentecost</span><span class="ez-toc-section-end"></span>
+    <span id="en-NET-26953" class="text Acts-2-14">Peter’s Address on the Day of Pentecost</span>
   </h3>
   
   <p>
@@ -147,7 +92,7 @@ The first song is &#8220;Dry Bones&#8221; by Gungor. Read the Ezekiel passage an
   </div>
   
   <h1>
-    <span class="ez-toc-section" id="Song_3_Holy_Ghost_by_John_Mark_McMillan"></span>Song #3: &#8220;Holy Ghost&#8221; by John Mark McMillan<span class="ez-toc-section-end"></span>
+    Song #3: &#8220;Holy Ghost&#8221; by John Mark McMillan
   </h1>
   
   <p>
@@ -159,7 +104,7 @@ The first song is &#8220;Dry Bones&#8221; by Gungor. Read the Ezekiel passage an
   </p>
   
   <h1 class="passage-display">
-    <span class="ez-toc-section" id="Gospel_John_15_26-27_16_4b-15_NET_Bible"></span><span class="passage-display-bcv">Gospel: John 15:26-27, 16:4b-15 (</span><span class="passage-display-version">NET Bible)</span><span class="ez-toc-section-end"></span>
+    <span class="passage-display-bcv">Gospel: John 15:26-27, 16:4b-15 (</span><span class="passage-display-version">NET Bible)</span>
   </h1>
   
   <p>

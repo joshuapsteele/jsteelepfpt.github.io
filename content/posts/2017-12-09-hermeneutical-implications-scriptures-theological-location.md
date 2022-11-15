@@ -10,83 +10,7 @@ categories:
   - Church and Theology
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#INTRODUCTION" title="INTRODUCTION">INTRODUCTION</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#SUMMARY_OUTLINE" title="SUMMARY OUTLINE">SUMMARY OUTLINE</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#SCRIPTURES_THEOLOGICAL_LOCATION" title="SCRIPTURE’S THEOLOGICAL LOCATION">SCRIPTURE’S THEOLOGICAL LOCATION</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Scriptures_Subject_Matter_The_Story_to_Which_It_Bears_Witness" title="Scripture’s Subject Matter: The Story to Which It Bears Witness">Scripture’s Subject Matter: The Story to Which It Bears Witness</a><ul class='ez-toc-list-level-3'>
-            <li class='ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Regarding_Gods_identity_Scripture_bears_witness_to_the_fact_that_God_is_triune" title="Regarding God’s identity, Scripture bears witness to the fact that God is triune.">Regarding God’s identity, Scripture bears witness to the fact that God is triune.</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Regarding_Gods_acts_Scripture_bears_witness_to_the_narrative_of_Gods_creation_and_redemption_of_a_people_unto_perfect_fellowship_with_himself" title="Regarding God’s acts, Scripture bears witness to the narrative of God’s creation and redemption of a people unto perfect fellowship with himself.">Regarding God’s acts, Scripture bears witness to the narrative of God’s creation and redemption of a people unto perfect fellowship with himself.</a>
-            </li>
-          </ul>
-        </li>
-        
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Scriptures_Role_in_the_Story_to_Which_It_Bears_Witness" title="Scripture’s Role in the Story to Which It Bears Witness">Scripture’s Role in the Story to Which It Bears Witness</a><ul class='ez-toc-list-level-3'>
-            <li class='ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Scripture_and_God" title="Scripture and God">Scripture and God</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Scripture_and_Creation" title="Scripture and Creation">Scripture and Creation</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Scripture_and_Gods_People" title="Scripture and God’s People">Scripture and God’s People</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#THEOLOGICAL_HERMENEUTICS_SPECIAL_AND_GENERAL" title="THEOLOGICAL HERMENEUTICS: SPECIAL AND GENERAL">THEOLOGICAL HERMENEUTICS: SPECIAL AND GENERAL</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Implications_for_the_Hermeneutical_Triads" title="Implications for the Hermeneutical Triads">Implications for the Hermeneutical Triads</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#BIBLICAL_AND_THEOLOGICAL_STUDIES_A_MULTIFACETED_DISCIPLINE" title="BIBLICAL AND THEOLOGICAL STUDIES: A MULTIFACETED DISCIPLINE">BIBLICAL AND THEOLOGICAL STUDIES: A MULTIFACETED DISCIPLINE</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Biblical_and_Theological_Studies_Need_Each_Other" title="Biblical and Theological Studies Need Each Other">Biblical and Theological Studies Need Each Other</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Implications_for_Biblical_Theology_and_the_Theological_Interpretation_of_Scripture" title="Implications for Biblical Theology and the Theological Interpretation of Scripture">Implications for Biblical Theology and the Theological Interpretation of Scripture</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#Theological_Subdisciplines_Need_Each_Other" title="Theological Subdisciplines Need Each Other">Theological Subdisciplines Need Each Other</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#CONCLUSIONSUMMARY" title="CONCLUSION/SUMMARY">CONCLUSION/SUMMARY</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-18" href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/#NOTES" title="===NOTES===">===NOTES===</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="INTRODUCTION"></span>INTRODUCTION<span class="ez-toc-section-end"></span>
+# INTRODUCTION
 
 Theological <a href="https://en.wikipedia.org/wiki/Hermeneutics" target="_blank" rel="noopener">hermeneutics</a> – human understanding and interpretation in light of the identity and acts of the triune God – faces two problematic questions that, I believe, every biblical and/or theological scholar must be prepared to address. First, should the Bible be read in some special sense as divine revelation, or should we read the Bible like any other text? And second, should biblical and theological studies be one discipline, or two?
 
@@ -106,7 +30,7 @@ Finally, in the third section, I offer an account of biblical and theological st
 
 * * *
 
-# <span class="ez-toc-section" id="SUMMARY_OUTLINE"></span>SUMMARY OUTLINE<span class="ez-toc-section-end"></span>
+# SUMMARY OUTLINE
 
   1. **Introduction: Problematic Questions and a Potential Way Forward** 
       1. Problematic Questions 
@@ -148,7 +72,7 @@ Finally, in the third section, I offer an account of biblical and theological st
 
 * * *
 
-# <span class="ez-toc-section" id="SCRIPTURES_THEOLOGICAL_LOCATION"></span><a id="1"></a>SCRIPTURE’S THEOLOGICAL LOCATION<span class="ez-toc-section-end"></span>
+# <a id="1"></a>SCRIPTURE’S THEOLOGICAL LOCATION
 
 The admittedly diverse texts that make up the Old and New Testaments of Christian Scripture bear witness to a single unified narrative – a sequence of events with its own dramatic coherence and sense – of the triune God’s creation and redemption of the world.<a href="#_ftn1" name="_ftnref1">[1]</a> Crucially, Scripture plays an authoritative role in the all-encompassing story to which it bears witness. After briefly summarizing the subject matter of Scripture, I will explain Scripture’s authoritative role by explaining the relationships between Scripture and (1) God, (2) creation, and (3) God’s people.
 
@@ -156,11 +80,11 @@ The admittedly diverse texts that make up the Old and New Testaments of Christia
   <strong><em>(Note: For a related account of Scripture, read my previous essay: <a href="https://joshuapsteele.com/on-scripture/">Scripture: What It Is and Why It Matters</a>.)</em></strong>
 </p>
 
-## <span class="ez-toc-section" id="Scriptures_Subject_Matter_The_Story_to_Which_It_Bears_Witness"></span>Scripture’s Subject Matter: The Story to Which It Bears Witness<span class="ez-toc-section-end"></span>
+## Scripture’s Subject Matter: The Story to Which It Bears Witness
 
 What is the story to which Scripture bears witness? It is the story of the identity and acts of God.
 
-### <span class="ez-toc-section" id="Regarding_Gods_identity_Scripture_bears_witness_to_the_fact_that_God_is_triune"></span>Regarding God’s _identity_, Scripture bears witness to the fact that God is triune.<span class="ez-toc-section-end"></span>
+### Regarding God’s _identity_, Scripture bears witness to the fact that God is triune.
 
 Granted, a common objection to the doctrine of the Trinity is the claim that it nowhere appears in the pages of Scripture. And indeed, despite the favorite trinitarian “proof-texts” in which Father, Son, and Spirit appear together, “no doctrine of the Trinity in the Nicene sense is present in [even] the New Testament.”<a href="#_ftn2" name="_ftnref2"><sup>[2]</sup></a>
 
@@ -170,7 +94,7 @@ YHWH – the God of Israel who created the world and delivered through the Exodu
 
 To say the very least, the classical formulation of the Trinity did not arise from a scriptural vacuum. So much for Scripture’s witness to the triune _identity_ of God.
 
-### <span class="ez-toc-section" id="Regarding_Gods_acts_Scripture_bears_witness_to_the_narrative_of_Gods_creation_and_redemption_of_a_people_unto_perfect_fellowship_with_himself"></span>Regarding God’s _acts_, Scripture bears witness to the narrative of God’s creation and redemption of a people unto perfect fellowship with himself.<span class="ez-toc-section-end"></span>
+### Regarding God’s _acts_, Scripture bears witness to the narrative of God’s creation and redemption of a people unto perfect fellowship with himself.
 
 Admittedly, there are ways of improving upon the common “creation – fall – redemption – consummation” framework for summarizing the story or “theo-drama” to which Scripture bears witness.<a href="#_ftn9" name="_ftnref9">[9]</a> However, as long as it is emphasized that redemption includes Israel, Jesus, and the Church, I think that this four-part framework is sufficient for our purposes.
 
@@ -186,21 +110,21 @@ At the death of Christ, the Trinity has stretched to its limit, and yet humanity
 
 Through this movement of the Son into the utmost exile and back again, sin itself is offered up to destruction. And crucially, all humanity who is united to him by grace through faith – everyone who is therefore in Christ – gets caught up with the Son in his return to the eternal life and love of the Triune God.<a href="#_ftn13" name="_ftnref13">[13]</a>
 
-## <span class="ez-toc-section" id="Scriptures_Role_in_the_Story_to_Which_It_Bears_Witness"></span>Scripture’s Role in the Story to Which It Bears Witness<span class="ez-toc-section-end"></span>
+## Scripture’s Role in the Story to Which It Bears Witness
 
 Having summarized the story to which Scripture bears witness, we now turn to Scripture’s authoritative role in the story. What authority does Scripture have in the story, and what function/role does it play? I will attempt to answer these questions by explaining the relationships between (1) Scripture and God, (2) Scripture and creation, and (3) Scripture and God’s people, the Church.
 
-### <span class="ez-toc-section" id="Scripture_and_God"></span>Scripture and God<span class="ez-toc-section-end"></span>
+### Scripture and God
 
 With respect to God, Scripture is the authoritative and inspired word of the triune God, which God uses to reveal himself and redeem his creatures. But what does it mean for Scripture to be inspired by God? I agree with Henry’s definition of inspiration as “a supernatural influence of the Holy Spirit on divinely chosen agents in consequence of which their writings become trustworthy and authoritative.”<a href="#_ftn14" name="_ftnref14">[14]</a> However, I would add that the writings are specifically trustworthy and authoritative toward the divine ends of revelation and redemption. That is, God inspires human authors to communicate his word to human audiences for the sake of fellowship and communion with them.
 
 The authority of Scripture, then, rests in its divine provenance. As Webster rightly states, “Scripture is authoritative because it is instrumental in bringing the word of God to bear upon the thought and practices of the church.”<a href="#_ftn15" name="_ftnref15">[15]</a> Or, as Vanhoozer summarizes it, “the Bible not only reports the word of God but is itself a form of the divine address.”<a href="#_ftn16" name="_ftnref16">[16]</a> In this way, the triune God makes himself verbally present to his creatures through Holy Scripture. The Bible, therefore, plays an authoritative role in the story to which it bears witness, because it is God’s own witness to his own identity and acts.
 
-### <span class="ez-toc-section" id="Scripture_and_Creation"></span>Scripture and Creation<span class="ez-toc-section-end"></span>
+### Scripture and Creation
 
 With respect to creation, because Scripture’s subject matter is all-encompassing, there is no domain outside of its purview. I will have more to say about this below (see “Theological Hermeneutics: Both Special and General”). For now, it is enough to note that it is impossible to take up a perspective completely outside of the story to which Scripture bears witness, for the story encompasses all created space and time, as well as their origins and ends. Though Scripture plays a distinct role in the story, as opposed to other created realities, whether trees or thermodynamics, it is inherently related to the rest of creation – especially to God’s people.
 
-### <span class="ez-toc-section" id="Scripture_and_Gods_People"></span>Scripture and God’s People<span class="ez-toc-section-end"></span>
+### Scripture and God’s People
 
 The story of Scripture includes and is intertwined with the story of God’s people, beginning with the story of Israel, and then, through Jesus the Messiah, the culmination of Israel’s story, continuing into the story of the Church.<a href="#_ftn17" name="_ftnref17">[17]</a> For this reason, Scripture is unavoidably and irreducibly ecclesiological.
 
@@ -210,7 +134,7 @@ I agree with Watson’s claim that Gadamer’s concept of _Wirkungsgeschichte_ i
 
 In summary, Scripture plays an authoritative role in the all-encompassing story to which it bears witness. It is the authoritative and inspired word of the triune God, which God uses to reveal himself and redeem his creatures. Furthermore, because Scripture’s subject matter is all-encompassing, there is no domain outside of its purview. And finally, Scripture is irreducibly ecclesiological.
 
-# <span class="ez-toc-section" id="THEOLOGICAL_HERMENEUTICS_SPECIAL_AND_GENERAL"></span><a id="2"></a>THEOLOGICAL HERMENEUTICS: SPECIAL AND GENERAL<span class="ez-toc-section-end"></span>
+# <a id="2"></a>THEOLOGICAL HERMENEUTICS: SPECIAL AND GENERAL
 
 Having clarified the relationship between Scripture and its subject matter, if the story to which Scripture bears witness is true, then the relationships between (1) special and general hermeneutics and (2) biblical and theological studies become much less problematic. To the first relationship we now turn. Properly understood, theological hermeneutics is both a special and a general hermeneutic.<a href="#_ftn21" name="_ftnref21">[21]</a>
 
@@ -222,7 +146,7 @@ I am in agreement with Jenson’s claim that “we read the relation between the
 
 Because the story to which Scripture bears witness is the story of the real world, theological hermeneutics is a general and universal hermeneutic.** **
 
-## <span class="ez-toc-section" id="Implications_for_the_Hermeneutical_Triads"></span>Implications for the Hermeneutical Triads<span class="ez-toc-section-end"></span>
+## Implications for the Hermeneutical Triads
 
 This has implications for two related hermeneutical triads, the general hermeneutical triad of author, text, and reader, and the special hermeneutical triad of historical, literary, and theological analysis.
 
@@ -238,11 +162,11 @@ Therefore, although some readers may object to the extent to which I am willing 
 
 In sum, then, because Scripture plays a uniquely authoritative role within its all-encompassing subject matter, theological hermeneutics encompasses both special and general hermeneutics. What does this mean for the relationship between biblical and theological studies? Should they be one discipline or two (or more)?
 
-# <span class="ez-toc-section" id="BIBLICAL_AND_THEOLOGICAL_STUDIES_A_MULTIFACETED_DISCIPLINE"></span><a id="3"></a>BIBLICAL AND THEOLOGICAL STUDIES: A MULTIFACETED DISCIPLINE<span class="ez-toc-section-end"></span>
+# <a id="3"></a>BIBLICAL AND THEOLOGICAL STUDIES: A MULTIFACETED DISCIPLINE
 
 Given the enormity and the importance of Scripture’s subject matter, I here offer an account of biblical and theological studies as a single multifaceted discipline, one that includes both biblical studies and the various theological sub-disciplines of historical, systematic, and pastoral theology. Because Scripture’s subject matter is complex, unified, and irreducibly ecclesiological, biblical and theological studies need each other. Furthermore, because the Church’s understanding of and participation in Scripture’s subject matter is historically, conceptually, and practically complex, the theological subdisciplines need each other.
 
-## <span class="ez-toc-section" id="Biblical_and_Theological_Studies_Need_Each_Other"></span>Biblical and Theological Studies Need Each Other<span class="ez-toc-section-end"></span>
+## Biblical and Theological Studies Need Each Other
 
 Because Scripture’s subject matter is complex, unified, and irreducibly ecclesiological, biblical and theological studies need each other. In many churchly circles, this assertion would not be met with much resistance. However, in the (modern) academy, biblical and theological studies have been kept increasingly separate. Since the academy is the sphere in which biblical and(/or) theological studies is/are located as (an) academic discipline/s (see how confusing this gets?), we must reckon with the academic division.
 
@@ -254,7 +178,7 @@ On the biblical studies side of that relationship, I believe that the focus ough
 
 However, on the other hand, theology is required to remind biblical studies that, thought the biblical texts be admittedly varied, they bear witness to a unified and irreducibly ecclesiological narrative, held together by the story’s author and central character, the triune God. After all, even the moniker “biblical” studies, as opposed to, say, “Ancient Near Eastern” or “Greco-Roman” studies, implies “the theological decision that the particular documents that constitute the Bible are in some way related to one another, as distinct from their relation to other pieces of literature, and are therefore to be treated together.” (Though, as Rowe and Hays also note, this does not settle the question of _how_ biblical texts relate to one another.)<a href="#_ftn30" name="_ftnref30">[30]</a>
 
-## <span class="ez-toc-section" id="Implications_for_Biblical_Theology_and_the_Theological_Interpretation_of_Scripture"></span>Implications for Biblical Theology and the Theological Interpretation of Scripture<span class="ez-toc-section-end"></span>
+## Implications for Biblical Theology and the Theological Interpretation of Scripture
 
 This seems like the best time to address the contested and contentious fields of biblical theology [BT] and the theological interpretation of Scripture [TIS]. While I do not have much to add to the ongoing discussion that has taken place between, among others, Bockmuehl, Fowl, Klink and Lockett, and Treier, I do think that conceiving biblical and theological studies as a single, multifaceted discipline adds plausibility to Treier’s “middle way” or “Type 3” approach to relating the two disciplines in a distinct-yet-complementary way.<a href="#_ftn31" name="_ftnref31">[31]</a>
 
@@ -272,7 +196,7 @@ On the other hand, BT could use TIS as a reminder that (1) Scripture itself, and
 
 This may not result in a radical change within BT’s or TIS’s explicit methods (or, perhaps in the case of the latter, the lack thereof), but it would hopefully at least result in greater disciplinary humility and appreciation for (1) the theological authority of Scripture itself, apart from either BT’s or TIS’s elucidations of it, and (2) the Holy Spirit’s role(s) in inspiration, preservation, and interpretation of Scripture throughout the history of the Church.
 
-## <span class="ez-toc-section" id="Theological_Subdisciplines_Need_Each_Other"></span>Theological Subdisciplines Need Each Other<span class="ez-toc-section-end"></span>
+## Theological Subdisciplines Need Each Other
 
 If biblical and theological studies ought to be a single, multifaceted discipline, how should we construe the relationships between the various _theological_ sub-disciplines?
 
@@ -284,7 +208,7 @@ The historical complexity speaks to the need for historical theology, and the co
 
 What role does pastoral theology play? Both historical and systematic theology must be reminded that the subject matter of Scripture is an all-encompassing story, one in which we all cannot help but participate. Furthermore, as Charry is right to note, theology is properly salutary and “aretegenic” (“virtue-producing”) – and not merely cognitive – for God reveals and redeems for the sake of human flourishing.<a href="#_ftn37" name="_ftnref37">[37]</a> Pastoral theology, therefore, asks the crucial question: Given our current situation, how do we participate rightly in the all-encompassing story of the triune God? It thereby prevents historical and systematic theology from losing purchase on their subject matter by forgetting that it _matters_ for life as we now live it.
 
-# <span class="ez-toc-section" id="CONCLUSIONSUMMARY"></span><a id="conclusion"></a>CONCLUSION/SUMMARY<span class="ez-toc-section-end"></span>
+# <a id="conclusion"></a>CONCLUSION/SUMMARY
 
 Regarding the enterprise of theological hermeneutics, I have argued that we can best account for both (1) the relationship between general and special hermeneutics and (2) the relationship between biblical and theological studies by first attending to Scripture’s theological authoritative location/role regarding its subject matter – the all-encompassing story, to which it bears witness, of how the triune God creates and redeems a people unto fellowship with himself. With respect to God, Scripture is the authoritative and inspired word of the triune God, which God uses to reveal himself and redeem his creatures. With respect to creation, because Scripture’s subject matter is all-encompassing, there is no domain outside of its purview. And with respect to God’s people, Scripture is irreducibly ecclesiological.
 
@@ -292,7 +216,7 @@ Because Scripture plays a uniquely authoritative role within its all-encompassin
 
 Finally, I have argued that, given the enormity and importance of Scripture’s subject matter, we ought to conceive of biblical and theological studies as a single multifaceted discipline, one that includes both biblical studies and the various theological sub-disciplines of historical, systematic, and pastoral theology – as well as biblical theology and the theological interpretation of Scripture. Because Scripture’s subject matter is complex, unified, and irreducibly ecclesiological, biblical and theological studies need each other. Furthermore, because the Church’s understanding of and participation in Scripture’s subject matter is historically, conceptually, and practically complex, the theological subdisciplines need each other.
 
-# <span class="ez-toc-section" id="NOTES"></span>===NOTES===<span class="ez-toc-section-end"></span>
+# ===NOTES===
 
 <a href="#_ftnref1" name="_ftn1">[1]</a> Or, as Vanhoozer puts it, “the subject matter of the Bible, and hence of Christian faith and thought, is intrinsically dramatic.” Kevin J. Vanhoozer, “A Drama-of-Redemption Model: Always Performing?,” in _Four Views on Moving Beyond the Bible to Theology_, ed. Gary T. Meadors, Counterpoints: Bible & Theology (Grand Rapids: Zondervan, 2009), 155. Indeed, as will be seen throughout this paper, I am heavily indebted to Vanhoozer’s “theodrama” model.
 

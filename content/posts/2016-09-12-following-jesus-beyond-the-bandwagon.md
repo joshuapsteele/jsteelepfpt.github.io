@@ -45,58 +45,7 @@ Well, maybe. Perhaps they were legitimate, lifelong fans. But, on the other hand
 
 They could, in other words, just be **bandwagon** fans.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#Bandwagon_fans_are_the_worst_Right" title="Bandwagon fans are the worst. Right?">Bandwagon fans are the worst. Right?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#We_are_Bandwagon_Christians" title="We are Bandwagon Christians">We are Bandwagon Christians</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#Jesus_Doesnt_Want_Bandwagon_Followers" title="Jesus Doesn’t Want Bandwagon Followers!">Jesus Doesn’t Want Bandwagon Followers!</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#Jesus_doesnt_want_bandwagon_followers_Instead_he_wants_your_ultimate_loyalty" title="Jesus doesn’t want bandwagon followers. Instead, he wants your ultimate loyalty.">Jesus doesn’t want bandwagon followers. Instead, he wants your ultimate loyalty.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#He_also_wants_your_life" title="He also wants your life.">He also wants your life.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#OK_how_do_we_get_there" title="OK, how do we get there?">OK, how do we get there?</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#The_first_step_is_to_count_the_cost" title="The first step is to count the cost.">The first step is to count the cost.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#Were_supposed_to_count_the_cost_and_to_realize_that_we_dont_have_what_it_takes" title="We’re supposed to count the cost, and to realize that we don’t have what it takes!">We’re supposed to count the cost, and to realize that we don’t have what it takes!</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#The_good_news_is_that_Jesus_died_for_bandwagon_followers_like_you_and_me" title="The good news is that Jesus died for bandwagon followers, like you and me.">The good news is that Jesus died for bandwagon followers, like you and me.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#So_what_does_jumping_off_the_bandwagon_to_follow_Jesus_really_look_like" title="So, what does jumping off the bandwagon to follow Jesus really look like?">So, what does jumping off the bandwagon to follow Jesus really look like?</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/following-jesus-beyond-the-bandwagon/#What_risk_is_Jesus_asking_you_to_take_for_him_right_now_today" title="What risk is Jesus asking you to take for him right now, today? ">What risk is Jesus asking you to take for him right now, today? </a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Bandwagon_fans_are_the_worst_Right"></span>Bandwagon fans are the worst. _Right_?<span class="ez-toc-section-end"></span>
+## Bandwagon fans are the worst. _Right_?
 
 I mean, you can’t trust them. Sure, they look like a die-hard fan now, when the team is doing well. But, when things get rough, when those wins stop coming, they disappear! On to the next team, at least as long as they keep on winning…
 
@@ -117,7 +66,7 @@ We ride bandwagons when it comes to our friends. Our hobbies.
 
 And, if we’re really honest with ourselves, our <span style="text-decoration: underline;">faith</span>.
 
-## <span class="ez-toc-section" id="We_are_Bandwagon_Christians"></span>We are Bandwagon Christians<span class="ez-toc-section-end"></span>
+## We are Bandwagon Christians
 
 Hear me out. Hear me out. I’m not saying that there are no genuine followers of Jesus Christ here.
 
@@ -139,7 +88,7 @@ Friends, we’re all, to some extent, bandwagon Christians.
 
 And here’s the bad news:
 
-## <span class="ez-toc-section" id="Jesus_Doesnt_Want_Bandwagon_Followers"></span>Jesus Doesn’t Want Bandwagon Follower**s!**<span class="ez-toc-section-end"></span>
+## Jesus Doesn’t Want Bandwagon Follower**s!**
 
 Turn with me, if you’ve got your Bible, to Luke, chapter 14. Verse 25.
 
@@ -153,7 +102,7 @@ What does he want? Let’s read to find out. Verse 25 begins:
 
 > <sup>25 </sup>Now great crowds accompanied him, and he turned and said to them,<sup>26 </sup>“If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple.
 
-### <span class="ez-toc-section" id="Jesus_doesnt_want_bandwagon_followers_Instead_he_wants_your_ultimate_loyalty"></span>Jesus doesn’t want bandwagon followers. Instead, he wants your ultimate loyalty.<span class="ez-toc-section-end"></span>
+### Jesus doesn’t want bandwagon followers. Instead, he wants your ultimate loyalty.
 
 See, he’s not urging us to get really angry at our family. And he’s not telling you to hate yourself or beat yourself up.
 
@@ -173,7 +122,7 @@ Is it Jesus? Or is it \___\___?
 
 Jesus doesn’t want bandwagon followers; he wants your **ultimate loyalty**.
 
-### <span class="ez-toc-section" id="He_also_wants_your_life"></span>He also wants your life.<span class="ez-toc-section-end"></span>
+### He also wants your life.
 
 Let’s read verse 27:
 
@@ -193,9 +142,9 @@ And, if we live that way, we might suffer for it. We might lose friends, money, 
 
 But Jesus wants our **loyalty**, and he wants our **lives**.
 
-## <span class="ez-toc-section" id="OK_how_do_we_get_there"></span>OK, how do we get there?<span class="ez-toc-section-end"></span>
+## OK, how do we get there?
 
-### <span class="ez-toc-section" id="The_first_step_is_to_count_the_cost"></span>The first step is to count the cost.<span class="ez-toc-section-end"></span>
+### The first step is to count the cost.
 
 Let’s read verses 28-32:
 
@@ -209,7 +158,7 @@ We need to count the cost, just like the tower-builder or the king going to war.
 
 But, did you catch something else? We’re not just supposed to count the cost for no good reason. No! It’s supposed to teach us something.
 
-### <span class="ez-toc-section" id="Were_supposed_to_count_the_cost_and_to_realize_that_we_dont_have_what_it_takes"></span>We’re supposed to count the cost, and to realize that we _don’t_ have what it takes!<span class="ez-toc-section-end"></span>
+### We’re supposed to count the cost, and to realize that we _don’t_ have what it takes!
 
 Otherwise, Jesus says, we’re going to get embarrassed if we try and rush into things on our own. We don’t have what it takes.
 
@@ -221,7 +170,7 @@ Let’s read one more verse, verse 33:
 
 Friends, it might not feel like it, but we’ve actually arrived at the good news. Remember, the bad news is that we’re all riding the bandwagon, and that Jesus doesn’t want bandwagon followers.
 
-## <span class="ez-toc-section" id="The_good_news_is_that_Jesus_died_for_bandwagon_followers_like_you_and_me"></span>The good news is that Jesus died for bandwagon followers, like you and me.<span class="ez-toc-section-end"></span>
+## The good news is that Jesus died for bandwagon followers, like you and me.
 
 Jesus rose again from the dead for bandwagon followers, like you and me.
 
@@ -251,7 +200,7 @@ It depends on Jesus Christ, who died and rose again for you.
 
 It depends on the Holy Spirit, who strengthens and empowers you to live life God’s way.
 
-## <span class="ez-toc-section" id="So_what_does_jumping_off_the_bandwagon_to_follow_Jesus_really_look_like"></span>So, what does jumping off the bandwagon to follow Jesus really look like?<span class="ez-toc-section-end"></span>
+## So, what does jumping off the bandwagon to follow Jesus really look like?
 
 Does it have to be this super-emotional, tear-filled conversion experience?
 
@@ -277,7 +226,7 @@ Are we willing to risk our athletic accomplishments?
 
 Are we willing to risk our everyday comfort?
 
-### <span class="ez-toc-section" id="What_risk_is_Jesus_asking_you_to_take_for_him_right_now_today"></span>What risk is Jesus asking you to take for him right now, today? <u></u><span class="ez-toc-section-end"></span>
+### What risk is Jesus asking you to take for him right now, today? <u></u>
 
 Maybe it’s a conversation you need to have.
 

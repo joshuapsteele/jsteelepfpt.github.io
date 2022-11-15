@@ -16,52 +16,7 @@ Great news! If you only have a minute to read about wealth, here&#8217;s my argu
 
 * * *
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/christians-and-wealth-2/#Outline_of_My_Argument" title="Outline of My Argument">Outline of My Argument</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/christians-and-wealth-2/#Introduction" title="Introduction">Introduction</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/christians-and-wealth-2/#Isnt_That_Asceticism" title="Isn&#8217;t That Asceticism?">Isn&#8217;t That Asceticism?</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/christians-and-wealth-2/#False_Wealth_The_Dangers_of_Materialism" title="False Wealth: The Dangers of Materialism">False Wealth: The Dangers of Materialism</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/christians-and-wealth-2/#Downward_Mobility" title="Downward Mobility">Downward Mobility</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/christians-and-wealth-2/#What_About_My_Rights" title="What About My Rights?">What About My Rights?</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/christians-and-wealth-2/#Arent_the_Poor_Just_Lazy" title="Aren&#8217;t the Poor Just Lazy?">Aren&#8217;t the Poor Just Lazy?</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/christians-and-wealth-2/#Conclusion" title="Conclusion">Conclusion</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/christians-and-wealth-2/#Bibliography" title="Bibliography">Bibliography</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/christians-and-wealth-2/#Notes" title="Notes">Notes</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="Outline_of_My_Argument"></span>Outline of My Argument<span class="ez-toc-section-end"></span>
+# Outline of My Argument
 
   * **Main Claim: American Christians should reduce their standards of living to what is necessary for human flourishing and give their excess resources beyond this standard to the poor and oppressed.** 
       1. God is the firmest advocate for human flourishing.
@@ -82,7 +37,7 @@ Still interested in reading about <a href="https://en.wikipedia.org/wiki/Christi
 
 * * *
 
-# <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span>
+# Introduction
 
 In our current context of wealth and poverty existing side by side in a milieu of materialistic consumerism, the Christian gospel of denying ourselves and making much of God is being abandoned for the American gospel of denying others and making much of ourselves.
 
@@ -90,7 +45,7 @@ American Christians have become content to live a baptized version of the Americ
 
 My main contention is that **Christians in the United States should lower their standards of living to what is necessary for human flourishing and give their excess resources beyond this standard to the poor**. In doing so, they will remain faithful to Scripture and discover a more satisfactory way of life.
 
-## <span class="ez-toc-section" id="Isnt_That_Asceticism"></span>Isn&#8217;t That Asceticism?<span class="ez-toc-section-end"></span>
+## Isn&#8217;t That Asceticism?
 
 At this point, some may claim that I am trying to advocate for a form of asceticism.<!--more-->
 
@@ -102,7 +57,7 @@ Things like hunger and poverty are on the chopping block in this redemptive miss
 
 I am advocating for a _**return**_ to standards of living necessary for human flourishing, realizing that this standard will vary greatly from person to person and culture to culture.[[1]][2] The problem is that **what appears to be the standard of human flourishing to us is often quite damaging**.
 
-## <span class="ez-toc-section" id="False_Wealth_The_Dangers_of_Materialism"></span>False Wealth: The Dangers of Materialism<span class="ez-toc-section-end"></span>
+## False Wealth: The Dangers of Materialism
 
 The Bible pulls no punches in describing the dangers of a materialistic pursuit of wealth.
 
@@ -112,7 +67,7 @@ In addition, although it exceeds the scope of this essay, a strong argument can 
 
 Despite our initial reactions, it appears as though what our culture is encouraging us to pursue is actually quite destructive to our ability to serve God well and genuinely enjoy life.
 
-## <span class="ez-toc-section" id="Downward_Mobility"></span>Downward Mobility<span class="ez-toc-section-end"></span>
+## Downward Mobility
 
 While the culture around us is calling us towards a lifestyle of upward financial mobility, “the emphasis of the New Testament lies not on the acquisition side of things…but on sacrifice and divestiture”.[[4]][5]
 
@@ -122,7 +77,7 @@ At the very least, it is reasonable to say that the life of Jesus the Messiah wa
 
 Again, keep in mind that we are not all called to live ascetically and to spurn the legitimate pleasures of this life. However, one would be hard pressed to find biblical support for our culture’s view of wealth and success.
 
-## <span class="ez-toc-section" id="What_About_My_Rights"></span>What About My Rights?<span class="ez-toc-section-end"></span>
+## What About My Rights?
 
 At this point, we are all tempted to rebuff and claim that we have every right to keep all of what we have “earned” and do as we wish with our excess funds.
 
@@ -132,7 +87,7 @@ A prosperous Christian is not an intrinsic oxymoron, and there are examples in S
 
 Even more uncomfortable is the fact that, if God expects us to follow his example in our stewardship of his resources, then we are faced with a strong biblical mandate to give generously to the poor and fight for their justice.
 
-## <span class="ez-toc-section" id="Arent_the_Poor_Just_Lazy"></span>Aren&#8217;t the Poor Just Lazy?<span class="ez-toc-section-end"></span>
+## Aren&#8217;t the Poor Just Lazy?
 
 In my own experience, our culture’s stereotype of the poor consigns their condition to _**laziness**_. Evangelical Christians seem to use this stereotype to effectively avoid giving generously to the poor under the pretense of good stewardship and not wanting their giving to be taken advantage of by lazy individuals.
 
@@ -151,7 +106,7 @@ Consider the biblical account.
 
 Scripture makes it abundantly clear that **God’s heart is for the impoverished, destitute, and oppressed**.
 
-## <span class="ez-toc-section" id="Conclusion"></span>Conclusion<span class="ez-toc-section-end"></span>
+## Conclusion
 
 As Christians, we must take seriously the words of our Savior that how we treat “the least of these” has serious import on how we treat and serve Christ himself.
 
@@ -168,7 +123,7 @@ Then, and only then, will we be able to reduce our extravagant standards of livi
 * * *
 
 <h2 style="text-align: left;" align="center">
-  <span class="ez-toc-section" id="Bibliography"></span>Bibliography<span class="ez-toc-section-end"></span>
+  Bibliography
 </h2>
 
 Sider, Ronald. &#8220;God and the Poor.&#8221; Sider, Ronald. <span style="text-decoration: underline;">Rich Christians in an Age of Hunger.</span> Word Publishing, 1997.
@@ -185,7 +140,7 @@ Witherington, Ben. &#8220;Deprogramming Ourselves from a Lifestyle of Conspicuou
 
 <div>
   <h1>
-    <span class="ez-toc-section" id="Notes"></span>Notes<span class="ez-toc-section-end"></span>
+    Notes
   </h1>
   
   <hr align="left" size="1" width="33%" />

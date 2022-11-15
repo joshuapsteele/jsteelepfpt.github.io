@@ -17,82 +17,7 @@ If that&#8217;s all you&#8217;d like to know, great! If you&#8217;d like to know
 
 Here&#8217;s a cute picture/tweet for your troubles.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"> https://twitter.com/joshuapsteele/status/1020479447953301504 </figure> 
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#It_all_started_on_Tuesday_July_17_2018" title="It all started on Tuesday, July 17, 2018.">It all started on Tuesday, July 17, 2018.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#The_Midwife_Appointment_4_00_pm_Tuesday" title="The Midwife Appointment (4:00 pm, Tuesday)">The Midwife Appointment (4:00 pm, Tuesday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Triage_Elmhurst_Hospital_Labor_and_Delivery_Unit_%CB%9C5_00pm_Tuesday" title="Triage, Elmhurst Hospital, Labor and Delivery Unit (˜5:00pm, Tuesday)">Triage, Elmhurst Hospital, Labor and Delivery Unit (˜5:00pm, Tuesday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Admitted_to_Elmhurst_Hospital_Labor_and_Delivery_Unit_%CB%9C7_00pm_Tuesday" title="Admitted to Elmhurst Hospital, Labor and Delivery Unit (˜7:00pm, Tuesday)">Admitted to Elmhurst Hospital, Labor and Delivery Unit (˜7:00pm, Tuesday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#INDUCTION_STARTS_Cervidil_%CB%9C12_30_am_-_12_30_pm_Wednesday" title="INDUCTION STARTS: Cervidil (˜12:30 am – 12:30 pm, Wednesday)">INDUCTION STARTS: Cervidil (˜12:30 am – 12:30 pm, Wednesday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Cook_Cervical_Ripening_Balloon_Unsuccessful_Attempt_1_1_30_pm_Wednesday" title="Cook Cervical Ripening Balloon, Unsuccessful Attempt #1 (1:30 pm, Wednesday)">Cook Cervical Ripening Balloon, Unsuccessful Attempt #1 (1:30 pm, Wednesday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Started_Pitocin_4_00pm_Wednesday" title="Started Pitocin (4:00pm, Wednesday)">Started Pitocin (4:00pm, Wednesday)</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#To_Eat_or_Not_to_Eat" title="To Eat, or Not to Eat">To Eat, or Not to Eat</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Off_Pitocin_5_30_am_Thursday" title="Off Pitocin (5:30 am, Thursday)">Off Pitocin (5:30 am, Thursday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#LABOR_STARTS_Cook_Catheter_Successful_Attempt_2_8_30_am_Thursday" title="LABOR STARTS: Cook Catheter, Successful Attempt #2 (8:30 am, Thursday)">LABOR STARTS: Cook Catheter, Successful Attempt #2 (8:30 am, Thursday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Back_on_Pitocin_10_30_am_Thursday" title="Back on Pitocin (10:30 am, Thursday)">Back on Pitocin (10:30 am, Thursday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Doula_Teri_Arrives_1_00_pm_Thursday" title="Doula Teri Arrives (1:00 pm, Thursday)">Doula Teri Arrives (1:00 pm, Thursday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Turning_Babies_Stressful_Nurses_Thursday_Afternoon" title="Turning Babies, Stressful Nurses (Thursday Afternoon)">Turning Babies, Stressful Nurses (Thursday Afternoon)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Removed_Cook_Catheter_8_00pm_Thursday" title="Removed Cook Catheter (8:00pm, Thursday)">Removed Cook Catheter (8:00pm, Thursday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Broke_Bag_of_Waters_Transferred_to_Labor_and_Delivery_Room_8_50_pm_Thursday" title="Broke Bag of Waters, Transferred to Labor and Delivery Room (8:50 pm, Thursday)">Broke Bag of Waters, Transferred to Labor and Delivery Room (8:50 pm, Thursday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Slow_Down_9_00_pm_Thursday_-_12_00_am_Friday" title="Slow Down (9:00 pm, Thursday – 12:00 am, Friday)">Slow Down (9:00 pm, Thursday – 12:00 am, Friday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Pick_Back_Up_12_00_-_2_30_am_Friday" title="Pick Back Up (12:00 – 2:30 am, Friday)">Pick Back Up (12:00 – 2:30 am, Friday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-18" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#Three_Hours_in_Hell_2_30_-_5_30_am_Friday" title="Three Hours in Hell (2:30 – 5:30 am, Friday)">Three Hours in Hell (2:30 – 5:30 am, Friday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-19" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#BUT_I_HAVE_TO_PUSH_5_30-5_46_am_Friday" title="&#8220;BUT I HAVE TO PUSH!&#8221; (5:30–5:46 am, Friday)">&#8220;BUT I HAVE TO PUSH!&#8221; (5:30–5:46 am, Friday)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-20" href="https://joshuapsteele.com/eva-joy-steele-a-birth-story/#BABY_ARRIVES_Eva_Joy_Steele_was_born_at_5_46_am_on_Friday_July_20_2018" title="BABY ARRIVES: Eva Joy Steele was born at 5:46 am on Friday, July 20, 2018.">BABY ARRIVES: Eva Joy Steele was born at 5:46 am on Friday, July 20, 2018.</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="It_all_started_on_Tuesday_July_17_2018"></span>It all started on Tuesday, July 17, 2018.<span class="ez-toc-section-end"></span>
+## It all started on Tuesday, July 17, 2018.
 
 The main thing _I_ had scheduled that day was a get-together with my doctoral supervisor and his other students to discuss part two of our reading of Friedrich Schleiermacher&#8217;s _Christian Faith_.
 
@@ -118,7 +43,7 @@ You see, on Saturday, July 21, Rachel&#8217;s sister, Hannah, was getting marrie
 
 Or at least, that&#8217;s what we were planning on.
 
-## <span class="ez-toc-section" id="The_Midwife_Appointment_4_00_pm_Tuesday"></span>The Midwife Appointment (<g class="gr_ gr\_21 gr-alert sel gr\_gramm gr\_replaced gr\_inline\_cards gr\_disable\_anim\_appear Style multiReplace" id="21" data-gr-id="21">4:00 pm</g>, Tuesday)<span class="ez-toc-section-end"></span>
+## The Midwife Appointment (<g class="gr_ gr\_21 gr-alert sel gr\_gramm gr\_replaced gr\_inline\_cards gr\_disable\_anim\_appear Style multiReplace" id="21" data-gr-id="21">4:00 pm</g>, Tuesday)
 
 I met Rachel at Elmhurst Hospital for our midwife appointment on Tuesday afternoon.
 
@@ -128,7 +53,7 @@ Just like the previous week, her initial blood pressure was high. So, they sent 
 
 In fact, while Rachel headed over to triage, I went out to pick us up some food for dinner.
 
-## <span class="ez-toc-section" id="Triage_Elmhurst_Hospital_Labor_and_Delivery_Unit_%CB%9C5_00pm_Tuesday"></span>Triage, Elmhurst Hospital, Labor and Delivery Unit (˜5:00pm, Tuesday)<span class="ez-toc-section-end"></span>
+## Triage, Elmhurst Hospital, Labor and Delivery Unit (˜5:00pm, Tuesday)
 
 When I got over to the triage room, Mediterranean pita wraps in tow, Rachel was already hooked up to the monitors.
 
@@ -148,7 +73,7 @@ On my end, it was helpful to hear that the reason gestational hypertension is a 
 
 So, while it was going to be a bummer to miss the wedding, I reassured myself/Rachel that, at least, we would get to meet our baby girl soon! Plus, even if we had been able to sweet-talk our way into a deal where they let us go home and come back for blood pressure checks each day, I wasn&#8217;t sure that &#8220;freedom&#8221; would be worth the extra stress. 
 
-## <span class="ez-toc-section" id="Admitted_to_Elmhurst_Hospital_Labor_and_Delivery_Unit_%CB%9C7_00pm_Tuesday"></span>Admitted to Elmhurst Hospital, Labor and Delivery Unit (˜7:00pm, Tuesday)<span class="ez-toc-section-end"></span>
+## Admitted to Elmhurst Hospital, Labor and Delivery Unit (˜7:00pm, Tuesday)
 
 So, we literally walked right across the hallway from triage to our pre-partum hospital room on the Labor and Delivery unit.
 
@@ -164,7 +89,7 @@ Back at the apartment by myself, calling Rachel to double-check what she needed 
 
 I somewhat frantically tidied-up the apartment (&#8220;I don&#8217;t want our baby to come home to a messy house!&#8221;) and packed our bags before heading back to the hospital. 
 
-## <span class="ez-toc-section" id="INDUCTION_STARTS_Cervidil_%CB%9C12_30_am_-_12_30_pm_Wednesday"></span>INDUCTION STARTS: Cervidil (˜12:30 am – 12:30 pm, Wednesday)<span class="ez-toc-section-end"></span>
+## INDUCTION STARTS: Cervidil (˜12:30 am – 12:30 pm, Wednesday)
 
 The induction process started around 12:30 am with the insertion of a medicine called [Cervidil][4] to soften the cervix.
 
@@ -178,7 +103,7 @@ Anyways, the first round of Cervidil lasted 12 hours. After they took the Cervid
 
 Nevertheless, they decided to try to insert what is called the Cook Cervical Ripening Balloon, AKA the Cook catheter.
 
-## <span class="ez-toc-section" id="Cook_Cervical_Ripening_Balloon_Unsuccessful_Attempt_1_1_30_pm_Wednesday"></span>Cook Cervical Ripening Balloon, Unsuccessful Attempt #1 (1:30 pm, Wednesday)<span class="ez-toc-section-end"></span>
+## Cook Cervical Ripening Balloon, Unsuccessful Attempt #1 (1:30 pm, Wednesday)
 
 Here&#8217;s a picture of what we&#8217;re talking about.
 
@@ -194,7 +119,7 @@ Unfortunately, they weren&#8217;t able to get this thing in on Wednesday afterno
 
 So, after giving her a bit of break, the midwife recommended starting Pitocin.
 
-## <span class="ez-toc-section" id="Started_Pitocin_4_00pm_Wednesday"></span>Started Pitocin (4:00pm, Wednesday)<span class="ez-toc-section-end"></span>
+## Started Pitocin (4:00pm, Wednesday)
 
 After the unsuccessful insertion of the Cook catheter, they decided to monitor Rachel to see if any regular contractions started. No dice.
 
@@ -202,7 +127,7 @@ After talking with our doula, Teri, on the phone, we decided to start Pitocin on
 
 So, they started Pitocin at around 4:00pm on Wednesday. Just like Cervidil, the first round lasted approximately 12 hours.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"> https://twitter.com/joshuapsteele/status/1019780168326565889 </figure> 
 
-### <span class="ez-toc-section" id="To_Eat_or_Not_to_Eat"></span>To Eat, or Not to Eat<span class="ez-toc-section-end"></span>
+### To Eat, or Not to Eat
 
 Apparently, normal hospital protocol is that you&#8217;re only allowed to consume clear liquids while on Pitocin. We&#8217;d heard from various people that this was a load of crap. However, the midwife who was there when we started Pitocin still said &#8220;clear liquids only.&#8221;
 
@@ -218,7 +143,7 @@ We also discussed with the midwife what would happen if things didn&#8217;t prog
 
 However, she said, if things had moved along enough to allow for the insertion of the Cook catheter, then we would proceed until the baby arrived.
 
-## <span class="ez-toc-section" id="Off_Pitocin_5_30_am_Thursday"></span>Off Pitocin (5:30 am, Thursday)<span class="ez-toc-section-end"></span>
+## Off Pitocin (5:30 am, Thursday)
 
 At around 5:30 am, Rachel came off her first round of Pitocin. They checked, and she was only dilated to 1cm. This was kind of a bummer. 29 hours after induction began, with only a measly centimeter to show for it!
 
@@ -226,7 +151,7 @@ Nevertheless, this was still progress. So, the next thing we decided to try was 
 
 Before doing so, Rachel got another break, during which she drank some coffee, ate breakfast, took a shower, etc. Honestly, she seemed pretty chipper at this point. Which was good, because things were about to get going!
 
-## <span class="ez-toc-section" id="LABOR_STARTS_Cook_Catheter_Successful_Attempt_2_8_30_am_Thursday"></span>LABOR STARTS: Cook Catheter, Successful Attempt #2 (8:30 am, Thursday)<span class="ez-toc-section-end"></span>
+## LABOR STARTS: Cook Catheter, Successful Attempt #2 (8:30 am, Thursday)
 
 Thankfully, the second time was a charm. They were able to successfully insert the Cook catheter on Thursday morning at 8:30. (Although, it took another three tries. According to Rachel, the first two were quite painful but the third, when it was successfully in place, didn&#8217;t feel that bad.)
 
@@ -236,7 +161,7 @@ Looking back, we&#8217;d say that labor started around this time.
 
 Unfortunately, what also started around this time was _vomiting_ (Rachel, not me). I wrote down the first times: 0912, 0945, 1050, 1121, 1215, 1430, 1605&#8230; Then, in my notebook, I just have &#8220;&#8230; (more times).&#8221; It was rough.
 
-## <span class="ez-toc-section" id="Back_on_Pitocin_10_30_am_Thursday"></span>Back on Pitocin (10:30 am, Thursday)<span class="ez-toc-section-end"></span>
+## Back on Pitocin (10:30 am, Thursday)
 
 Things were progressing, but they didn&#8217;t exactly take off after the Cook catheter was in. So, it was back on Pitocin.<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"> https://twitter.com/joshuapsteele/status/1019982256037859329 </figure> 
 
@@ -246,13 +171,13 @@ What&#8217;s more, she was getting to the point where she had to stop talking du
 
 Between that and the vomiting, I suggested that we give our doula a call and ask her to come in. 
 
-## <span class="ez-toc-section" id="Doula_Teri_Arrives_1_00_pm_Thursday"></span>Doula Teri Arrives (1:00 pm, Thursday)<span class="ez-toc-section-end"></span>
+## Doula Teri Arrives (1:00 pm, Thursday)
 
 Teri, our doula, arrived at about 1:00 pm on Thursday.  Rachel wasn&#8217;t doing so hot by then, and I was very glad to have someone else there for more support. 
 
 The way things were going, with the back pain and the vomiting, I wasn&#8217;t sure how much longer we&#8217;d be able to handle things on our own without someone a bit more knowledgeable there to support us.
 
-## <span class="ez-toc-section" id="Turning_Babies_Stressful_Nurses_Thursday_Afternoon"></span>Turning Babies, Stressful Nurses (Thursday Afternoon)<span class="ez-toc-section-end"></span>
+## Turning Babies, Stressful Nurses (Thursday Afternoon)
 
 Thanks be to God that Teri came when she did!
 
@@ -270,7 +195,7 @@ Whenever she would come into the room, which she did rather frequently, Rachel&#
 
 However, that nurse eventually left. Also, Rachel was able to get a decent nap in&#8230; THROUGH some pretty intense contractions! (Teri and I were pretty surprised, looking at the monitor, watching the contractions come, without a peep or change in facial expression from Rachel as she slept.)
 
-## <span class="ez-toc-section" id="Removed_Cook_Catheter_8_00pm_Thursday"></span>Removed Cook Catheter (8:00pm, Thursday)<span class="ez-toc-section-end"></span><figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"> https://twitter.com/joshuapsteele/status/1020115308634361857 </figure> 
+## Removed Cook Catheter (8:00pm, Thursday)<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"> https://twitter.com/joshuapsteele/status/1020115308634361857 </figure> 
 
 There&#8217;s something about <g class="gr_ gr\_54 gr-alert gr\_spell gr\_inline\_cards gr\_run\_anim ContextualSpelling multiReplace" id="54" data-gr-id="54">12 hour</g> rounds of things during induction/labor. So, at 8:00pm or so, they took out the Cook catheter.
 
@@ -280,7 +205,7 @@ After a pretty intense afternoon, Rachel was dilated to (\*drumroll\*) &#8230; 3
 
 The midwife recommended breaking the bag of waters to move things along. After being reassured that this wouldn&#8217;t put us &#8220;on a clock&#8221; before they would intervene with a C-section, we decided to go ahead with that plan.
 
-## <span class="ez-toc-section" id="Broke_Bag_of_Waters_Transferred_to_Labor_and_Delivery_Room_8_50_pm_Thursday"></span>Broke Bag of Waters, Transferred to Labor and Delivery Room (8:50 pm, Thursday)<span class="ez-toc-section-end"></span>
+## Broke Bag of Waters, Transferred to Labor and Delivery Room (8:50 pm, Thursday)
 
 Let me tell you, I didn&#8217;t realize how quickly they would get equipment ready and break the bag of waters! 
 
@@ -288,7 +213,7 @@ We made the call to break the bag. I stepped into the restroom to pee, and by th
 
 Thankfully, after this, they moved us to an actual labor and delivery room down the hall. We hoped that things would start to pick up, which was the goal of breaking the bag of waters, after all&#8230;
 
-## <span class="ez-toc-section" id="Slow_Down_9_00_pm_Thursday_-_12_00_am_Friday"></span>Slow Down (9:00 pm, Thursday – 12:00 am, Friday)<span class="ez-toc-section-end"></span>
+## Slow Down (9:00 pm, Thursday – 12:00 am, Friday)
 
 However, things slowed back down. This did allow Rachel to take a shower and sleep for another hour or so, but it was concerning that we appeared to be moving backward.
 
@@ -298,7 +223,7 @@ I couldn&#8217;t sleep at all. I was watching her contractions get slower and sl
 
 After she got some rest, we got Rachel up and moving around. Her and I took a couple laps around the Labor and Delivery unit. 
 
-## <span class="ez-toc-section" id="Pick_Back_Up_12_00_-_2_30_am_Friday"></span>Pick Back Up (12:00 – 2:30 am, Friday)<span class="ez-toc-section-end"></span>
+## Pick Back Up (12:00 – 2:30 am, Friday)
 
 Thankfully, the movement and changing positions got things going again.
 
@@ -310,7 +235,7 @@ At 2:30am, they checked Rachel again. She was dilated to (\*tired drumroll\*) &#
 
 My heart kind of sank at this point, because I didn&#8217;t know whether to expect things to really get moving, or to expect that we would spend all day/night Friday in labor.
 
-## <span class="ez-toc-section" id="Three_Hours_in_Hell_2_30_-_5_30_am_Friday"></span>Three Hours in Hell (2:30 – 5:30 am, Friday)<span class="ez-toc-section-end"></span>
+## Three Hours in Hell (2:30 – 5:30 am, Friday)
 
 Thankfully, things really started to move along. 
 
@@ -344,7 +269,7 @@ At this point, I was praying that she was at least 8cm dilated. If not, based on
 
 However, thanks be to God, she was dilated to&#8230;9.5cm!
 
-## <span class="ez-toc-section" id="BUT_I_HAVE_TO_PUSH_5_30-5_46_am_Friday"></span>&#8220;BUT I HAVE TO PUSH!&#8221; (5:30–5:46 am, Friday)<span class="ez-toc-section-end"></span>
+## &#8220;BUT I HAVE TO PUSH!&#8221; (5:30–5:46 am, Friday)
 
 Now, if you&#8217;re in the know, you realize that 9.5cm doesn&#8217;t quite cut it. 10cm is the magic dilation number.
 
@@ -366,7 +291,7 @@ Rachel only ended up pushing for 10-15 minutes.
 
 Now, I usually don&#8217;t do well with blood, etc., but for some reason I was perfectly fine watching the whole thing as our daughter came out. It was wild. It took awhile to see her head coming, but then, boom!, she was all the way out and screaming!
 
-## <span class="ez-toc-section" id="BABY_ARRIVES_Eva_Joy_Steele_was_born_at_5_46_am_on_Friday_July_20_2018"></span>BABY ARRIVES: Eva Joy Steele was born at 5:46 am on Friday, July 20, 2018.<span class="ez-toc-section-end"></span>
+## BABY ARRIVES: Eva Joy Steele was born at 5:46 am on Friday, July 20, 2018.
 
 She weighed 5lbs 8oz, she was 18 inches long, and she has been worth every minute of that lengthy labor and delivery!
 

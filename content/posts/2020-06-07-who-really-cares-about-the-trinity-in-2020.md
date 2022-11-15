@@ -40,62 +40,7 @@ it falls to me, a young white priest, to preach the gospel on Trinity Saturday 2
 
 So, preach I will.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#The_Trinity_and_the_Bible" title="The Trinity and the Bible">The Trinity and the Bible</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#Without_the_Doctrine_of_the_Trinity%E2%80%A6" title="Without the Doctrine of the Trinity…">Without the Doctrine of the Trinity…</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#With_the_doctrine_of_the_Trinity%E2%80%A6" title="With the doctrine of the Trinity…">With the doctrine of the Trinity…</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#So_yes_I_think_we_should_care_about_the_doctrine_of_the_Trinity_especially_in_2020" title="So, yes, I think we should care about the doctrine of the Trinity, especially in 2020. ">So, yes, I think we should care about the doctrine of the Trinity, especially in 2020. </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#Now_lets_just_take_a_moment_and_ask_ourselves_How_is_that_going" title="Now, let’s just take a moment and ask ourselves: How is that going?">Now, let’s just take a moment and ask ourselves: How is that going?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#Now_let_me_take_a_deep_breath_here_and_say_that_Ive_been_preaching_at_a_much_broader_target_in_this_sermon_than_just_Church_of_the_Savior_in_Wheaton_IL" title="Now, let me take a deep breath here and say that I’ve been preaching at a much broader target in this sermon than just Church of the Savior in Wheaton, IL!">Now, let me take a deep breath here and say that I’ve been preaching at a much broader target in this sermon than just Church of the Savior in Wheaton, IL!</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#Nevertheless_its_not_enough_to_congratulate_ourselves_that_were_not_as_bad_as_other_churches" title="Nevertheless, it&#8217;s not enough to congratulate ourselves that we&#8217;re not as bad as other churches. ">Nevertheless, it&#8217;s not enough to congratulate ourselves that we&#8217;re not as bad as other churches. </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#As_image-bearers_of_the_Triune_God_in_2020_we_need_to_ask_ourselves_what_it_would_look_like_to_be_and_make_disciples_of_Jesus_who_take_a_stand_for_biblical_justice_against_the_systemic_sin_of_racism" title="As image-bearers of the Triune God in 2020, we need to ask ourselves what it would look like to be and make disciples of Jesus who take a stand for biblical justice against the systemic sin of racism.">As image-bearers of the Triune God in 2020, we need to ask ourselves what it would look like to be and make disciples of Jesus who take a stand for biblical justice against the systemic sin of racism.</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#First_we_need_to_read_the_Bible" title="First, we need to read the Bible.">First, we need to read the Bible.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#Second_we_Christians_ESPECIALLY_we_white_Anglican_Christians_need_to_familiarize_ourselves_with_the_history_of_racism_the_United_States_of_America" title="Second, we Christians, ESPECIALLY we white Anglican Christians, need to familiarize ourselves with the history of racism the United States of America.">Second, we Christians, ESPECIALLY we white Anglican Christians, need to familiarize ourselves with the history of racism the United States of America.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#Third_we_need_to_take_action" title="Third, we need to take action.">Third, we need to take action.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#Now_is_anyone_else_feeling_overwhelmed" title="Now, is anyone else feeling overwhelmed?">Now, is anyone else feeling overwhelmed?</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/#Jesus_said_And_surely_I_am_with_you_always_to_the_very_end_of_the_age" title="Jesus said: “And surely I am with you always, to the very end of the age.” ">Jesus said: “And surely I am with you always, to the very end of the age.” </a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="The_Trinity_and_the_Bible"></span>The Trinity and the Bible<span class="ez-toc-section-end"></span>
+## The Trinity and the Bible
 
 But please, bear with me! My sermon has changed a lot in recent days. 
 
@@ -113,7 +58,7 @@ The Church developed the doctrine of the Trinity in order to make sense of the B
   * brings it to perfection through the Holy Spirit.  
     
 
-## <span class="ez-toc-section" id="Without_the_Doctrine_of_the_Trinity%E2%80%A6"></span>Without the Doctrine of the Trinity…<span class="ez-toc-section-end"></span>
+## Without the Doctrine of the Trinity…
 
 Without the doctrine of the Trinity, the Bible falls apart into _fragments_. 
 
@@ -136,7 +81,7 @@ Without the doctrine of the Trinity, at best, we’re either
   * or we’re completely unsure of who the true God really is.  
     
 
-## <span class="ez-toc-section" id="With_the_doctrine_of_the_Trinity%E2%80%A6"></span>With the doctrine of the Trinity…<span class="ez-toc-section-end"></span>
+## With the doctrine of the Trinity…
 
 _With_ the doctrine of the Trinity, however, we can trust that God is who he has revealed himself to be in Scripture and in the life of the Church—Father, Son, and Holy Spirit.
 
@@ -161,7 +106,7 @@ The doctrine of the Trinity reminds us that we worship the same God who, since P
   </p>
 </blockquote>
 
-## <span class="ez-toc-section" id="So_yes_I_think_we_should_care_about_the_doctrine_of_the_Trinity_especially_in_2020"></span>So, yes, I think we _should_ care about the doctrine of the Trinity, especially in 2020. <span class="ez-toc-section-end"></span>
+## So, yes, I think we _should_ care about the doctrine of the Trinity, especially in 2020. 
 
 Because some Christians, especially some white Christians, seem to have forgotten that all human beings are created in the image of the Triune God. 
 
@@ -175,7 +120,7 @@ Some of us seem to have forgotten that Jesus has “all authority in heaven and 
 
 We Christians should care about the Trinity in 2020 because we are image-bearers of the Triune God, commissioned to make disciples of Jesus Christ in all the diverse people groups of the world.
 
-## <span class="ez-toc-section" id="Now_lets_just_take_a_moment_and_ask_ourselves_How_is_that_going"></span>Now, let’s just take a moment and ask ourselves: How is that going?<span class="ez-toc-section-end"></span>
+## Now, let’s just take a moment and ask ourselves: How is that going?
 
 Let judgment begin with the household of God!
 
@@ -213,13 +158,13 @@ Do we look, think, and act like Jesus?
 
 Or do we think that Jesus looks, thinks, and acts like us?
 
-## <span class="ez-toc-section" id="Now_let_me_take_a_deep_breath_here_and_say_that_Ive_been_preaching_at_a_much_broader_target_in_this_sermon_than_just_Church_of_the_Savior_in_Wheaton_IL"></span>Now, let me take a deep breath here and say that I’ve been preaching at a much broader target in this sermon than just Church of the Savior in Wheaton, IL!<span class="ez-toc-section-end"></span>
+## Now, let me take a deep breath here and say that I’ve been preaching at a much broader target in this sermon than just Church of the Savior in Wheaton, IL!
 
 I thank God for how he has blessed our church with godly leaders and laypeople who are willing to consider the gospel’s implications for all of life. 
 
 I wouldn&#8217;t call our local church a nationalist church or a racist church, and I thank God for that.
 
-## <span class="ez-toc-section" id="Nevertheless_its_not_enough_to_congratulate_ourselves_that_were_not_as_bad_as_other_churches"></span>Nevertheless, it&#8217;s not enough to congratulate ourselves that we&#8217;re not as bad as other churches. <span class="ez-toc-section-end"></span>
+## Nevertheless, it&#8217;s not enough to congratulate ourselves that we&#8217;re not as bad as other churches. 
 
 There is always room for growth!
 
@@ -227,11 +172,11 @@ How, then, should we live?
 
 Well, SO MUCH could be said, but here&#8217;s what I think we need to focus on.
 
-## <span class="ez-toc-section" id="As_image-bearers_of_the_Triune_God_in_2020_we_need_to_ask_ourselves_what_it_would_look_like_to_be_and_make_disciples_of_Jesus_who_take_a_stand_for_biblical_justice_against_the_systemic_sin_of_racism"></span>As image-bearers of the Triune God in 2020, we need to ask ourselves what it would look like to be and make disciples of Jesus who take a stand for biblical justice against the systemic sin of racism.<span class="ez-toc-section-end"></span>
+## As image-bearers of the Triune God in 2020, we need to ask ourselves what it would look like to be and make disciples of Jesus who take a stand for biblical justice against the systemic sin of racism.
 
 I don’t have all the answers, but I do have 3 suggestions. 
 
-### <span class="ez-toc-section" id="First_we_need_to_read_the_Bible"></span>First, we need to read the Bible.<span class="ez-toc-section-end"></span>
+### First, we need to read the Bible.
 
 We need to be so thoroughly familiar with the Bible that we can explain our biblical and theological reasons for taking a stand against the systemic sin of racism.
 
@@ -245,7 +190,7 @@ When we read the narrative of Scripture, it becomes clear that God is not colorb
 
 We have an opportunity to preach the gospel of Jesus Christ to a world that desperately needs hope! Let’s not waste that opportunity.
 
-### <span class="ez-toc-section" id="Second_we_Christians_ESPECIALLY_we_white_Anglican_Christians_need_to_familiarize_ourselves_with_the_history_of_racism_the_United_States_of_America"></span>Second, we Christians, ESPECIALLY we white Anglican Christians, need to familiarize ourselves with the history of racism the United States of America.<span class="ez-toc-section-end"></span>
+### Second, we Christians, ESPECIALLY we white Anglican Christians, need to familiarize ourselves with the history of racism the United States of America.
 
 We can’t understand the current state of things if we are ignorant of America’s racist history and white Anglican Christians’ complicity in it.
 
@@ -253,7 +198,7 @@ Frankly, I do not know enough about this myself, so, in addition to reading our 
 
 We also all need to read Esau McCaulley’s _Reading While Black_ when it comes out in a few months!
 
-### <span class="ez-toc-section" id="Third_we_need_to_take_action"></span>Third, we need to take action.<span class="ez-toc-section-end"></span>
+### Third, we need to take action.
 
 Reading our Bibles and learning more about the history of racism in America are good starts. But they’re not enough.
 
@@ -266,7 +211,7 @@ Reading our Bibles and learning more about the history of racism in America are 
   * We need to speak up and call out racism even when it’s costly to do so and especially when it’s coming from an elected or an ordained leader.  
     
 
-## <span class="ez-toc-section" id="Now_is_anyone_else_feeling_overwhelmed"></span>Now, is anyone else feeling overwhelmed?<span class="ez-toc-section-end"></span>
+## Now, is anyone else feeling overwhelmed?
 
 I mean, does our church, does _the_ church, have the strength to fulfill the Great Commission when things have gone so horribly wrong?
 
@@ -276,7 +221,7 @@ But perhaps you&#8217;ve noticed that I&#8217;ve not yet quoted the last part of
 
 We need to hear it, though, because it&#8217;s the most important part.
 
-### <span class="ez-toc-section" id="Jesus_said_And_surely_I_am_with_you_always_to_the_very_end_of_the_age"></span>Jesus said: “And surely I am with you always, to the very end of the age.” <span class="ez-toc-section-end"></span>
+### Jesus said: “And surely I am with you always, to the very end of the age.” 
 
 Without that promise, the Great Commission is an unbearable burden, an impossible command. 
 

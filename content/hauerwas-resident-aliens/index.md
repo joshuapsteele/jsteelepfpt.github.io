@@ -5,105 +5,9 @@ type: page
 date: 2019-01-23T22:38:47+00:00
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Stanley_Hauerwas_and_William_H_Willimon_Resident_Aliens_READING_NOTES" title="Stanley Hauerwas and William H. Willimon, Resident Aliens, READING NOTES">Stanley Hauerwas and William H. Willimon, Resident Aliens, READING NOTES</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#BIBLIOGRAPHIC_DATA" title="BIBLIOGRAPHIC DATA:">BIBLIOGRAPHIC DATA:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#INTERPRETATION" title="INTERPRETATION:">INTERPRETATION:</a><ul class='ez-toc-list-level-3'>
-            <li class='ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Kind_of_Book_Practical_or_theoretical_Practical" title="Kind of Book (Practical or theoretical?): Practical">Kind of Book (Practical or theoretical?): Practical</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Subject_Matter_Christian_Theology_-_Ecclesiology" title="Subject Matter: Christian Theology &#8212; Ecclesiology">Subject Matter: Christian Theology &#8212; Ecclesiology</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Problems_Attempted_to_Solve" title="Problems Attempted to Solve:">Problems Attempted to Solve:</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Summary_What_is_the_book_about_as_a_whole" title="Summary (What is the book about as a whole?):">Summary (What is the book about as a whole?):</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Outline_of_Source" title="Outline of Source:">Outline of Source:</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Key_Terms" title="Key Terms:">Key Terms:</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Key_PropositionsArguments_What_is_being_said_in_detail_and_how" title="Key Propositions/Arguments (What is being said in detail, and how?):">Key Propositions/Arguments (What is being said in detail, and how?):</a><ul class='ez-toc-list-level-4'>
-                <li class='ez-toc-heading-level-4'>
-                  <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Chapter_One_Christendom_has_collapsed_This_is_both_a_challenge_and_an_opportunity_for_the_church_to_recover_her_true_identity_as_a_pilgrim_people_Christianity_isnt_a_set_of_beliefs_Its_a_way_of_life" title="Chapter One: Christendom has collapsed. This is both a challenge and an opportunity for the church to recover her true identity as a pilgrim people. Christianity isn&#8217;t a set of beliefs. It&#8217;s a way of life!">Chapter One: Christendom has collapsed. This is both a challenge and an opportunity for the church to recover her true identity as a pilgrim people. Christianity isn&#8217;t a set of beliefs. It&#8217;s a way of life!</a>
-                </li>
-                <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-                  <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Chapter_Two_The_church_is_political-its_own_polis_Instead_of_trying_to_transform_the_world_through_activism_or_conversionism_the_church_needs_to_be_the_church" title="Chapter Two: The church is political—its own polis! Instead of trying to transform the world through activism (or conversionism), the church needs to be the church!">Chapter Two: The church is political—its own polis! Instead of trying to transform the world through activism (or conversionism), the church needs to be the church!</a>
-                </li>
-                <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-                  <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Chapter_Three_Recovering_salvation_as_adventure_can_help_re-narrate_the_church_AND_the_world_Christian_ethics_depend_upon_the_church_to_tell_the_Christian_story" title="Chapter Three: Recovering &#8220;salvation as adventure&#8221; can help re-narrate the church AND the world. Christian ethics depend upon the church to tell the Christian story.">Chapter Three: Recovering &#8220;salvation as adventure&#8221; can help re-narrate the church AND the world. Christian ethics depend upon the church to tell the Christian story.</a>
-                </li>
-                <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-                  <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Chapter_Four_Christian_ethics_are_PECULIAR-church-_and_tradition-dependent_The_church_not_the_everyman_is_the_most_significant_ethical_unit_Christian_ethics_are_social_and_eschatological_The_Christian_story_and_the_Sermon_on_the_Mount_put_us_at_odds_with_the_world" title="Chapter Four: Christian ethics are PECULIAR—church- and tradition-dependent. The church, not the &#8220;everyman,&#8221; is the most significant ethical unit. Christian ethics are social and eschatological. The Christian story and the Sermon on the Mount put us at odds with the world.">Chapter Four: Christian ethics are PECULIAR—church- and tradition-dependent. The church, not the &#8220;everyman,&#8221; is the most significant ethical unit. Christian ethics are social and eschatological. The Christian story and the Sermon on the Mount put us at odds with the world.</a>
-                </li>
-                <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-                  <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Chapter_Five_We_dont_know_who_we_are_or_what_being_moral_entails_apart_from_the_church_The_church_must_expose_us_to_saints-examples_of_ethical_living_We_learn_ethics_in_a_very_particular_tradition" title="Chapter Five: We don&#8217;t know who we are or what &#8220;being moral&#8221; entails, apart from the church! The church must expose us to saints—examples of ethical living. We learn ethics in a very particular tradition.">Chapter Five: We don&#8217;t know who we are or what &#8220;being moral&#8221; entails, apart from the church! The church must expose us to saints—examples of ethical living. We learn ethics in a very particular tradition.</a>
-                </li>
-                <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-                  <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Chapter_Six_In_order_to_avoid_cynicism_and_burnout_the_pastor_must_help_the_church_recover_its_role_as_a_truth-telling_colony_of_heaven" title="Chapter Six: In order to avoid cynicism and burnout, the pastor must help the church recover its role as a truth-telling colony of heaven.">Chapter Six: In order to avoid cynicism and burnout, the pastor must help the church recover its role as a truth-telling colony of heaven.</a>
-                </li>
-                <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-                  <a class="ez-toc-link ez-toc-heading-17" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Chapter_Seven_The_church_and_its_ministers_have_power_when_they_speak_the_truth_about_God_the_world_and_themselves" title="Chapter Seven: The church and its ministers have power when they speak the truth about God, the world, and themselves.">Chapter Seven: The church and its ministers have power when they speak the truth about God, the world, and themselves.</a>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-18" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#CRITIQUE" title="CRITIQUE:">CRITIQUE:</a><ul class='ez-toc-list-level-3'>
-            <li class='ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-19" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Is_the_book_true_in_whole_or_part" title="Is the book true, in whole or part?:">Is the book true, in whole or part?:</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-20" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Problems_Solved" title="Problems Solved:">Problems Solved:</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-21" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Problems_Not_Solved" title="Problems Not Solved:">Problems Not Solved:</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-22" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Author_is_uninformed" title="Author is uninformed:">Author is uninformed:</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-23" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Author_is_misinformed" title="Author is misinformed:">Author is misinformed:</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-24" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Author_is_illogical" title="Author is illogical:">Author is illogical:</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-25" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#Author_is_incomplete" title="Author is incomplete:">Author is incomplete:</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-26" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/hauerwas-resident-aliens/#What_of_it_Why_is_it_important_to_know_these_things" title="What of it? (Why) is it important to know these things?:">What of it? (Why) is it important to know these things?:</a>
-            </li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
+# Stanley Hauerwas and William H. Willimon, Resident Aliens, READING NOTES
 
-# <span class="ez-toc-section" id="Stanley_Hauerwas_and_William_H_Willimon_Resident_Aliens_READING_NOTES"></span>Stanley Hauerwas and William H. Willimon, Resident Aliens, READING NOTES<span class="ez-toc-section-end"></span>
-
-## <span class="ez-toc-section" id="BIBLIOGRAPHIC_DATA"></span>BIBLIOGRAPHIC DATA:<span class="ez-toc-section-end"></span>
+## BIBLIOGRAPHIC DATA:
 
   * Author(s): Stanley Hauerwas and William H. Willimon
   * Title and subtitle: Resident Aliens: A provocative Christian assessment of culture and ministry for people who know that something is wrong
@@ -114,21 +18,21 @@ date: 2019-01-23T22:38:47+00:00
 
 * * *
 
-## <span class="ez-toc-section" id="INTERPRETATION"></span>INTERPRETATION:<span class="ez-toc-section-end"></span>
+## INTERPRETATION:
 
-### <span class="ez-toc-section" id="Kind_of_Book_Practical_or_theoretical_Practical"></span>Kind of Book (Practical or theoretical?): Practical<span class="ez-toc-section-end"></span>
+### Kind of Book (Practical or theoretical?): Practical
 
-### <span class="ez-toc-section" id="Subject_Matter_Christian_Theology_-_Ecclesiology"></span>Subject Matter: Christian Theology &#8212; Ecclesiology<span class="ez-toc-section-end"></span>
+### Subject Matter: Christian Theology &#8212; Ecclesiology
 
-### <span class="ez-toc-section" id="Problems_Attempted_to_Solve"></span>Problems Attempted to Solve:<span class="ez-toc-section-end"></span>
+### Problems Attempted to Solve:
 
   * &#8220;&#8230;squeamish, sentimental Docetism is a greater peril for North American Christianity than arrogant ecclesiastical triumphalism. Our line was drawn not between righteousness and sin, or belief and atheism, or liberalism and conservatism, but between the church and the world. We called upon the church to be more deeply, aggressively &#8216;political,&#8217; as we redefined politics. What Barth had thundered, we polemicized—&#8217;Let the church be the church'&#8221; (3).
 
-### <span class="ez-toc-section" id="Summary_What_is_the_book_about_as_a_whole"></span>Summary (What is the book about as a whole?):<span class="ez-toc-section-end"></span>
+### Summary (What is the book about as a whole?):
 
   * &#8220;The church is a colony, an island of one culture in the middle of another. In baptism our citizenship is transferred from one dominion to another, and we become, in whatever culture we find ourselves, resident aliens&#8221; (12).
 
-### <span class="ez-toc-section" id="Outline_of_Source"></span>Outline of Source:<span class="ez-toc-section-end"></span>
+### Outline of Source:
 
   * Foreword
   * Preface
@@ -165,7 +69,7 @@ date: 2019-01-23T22:38:47+00:00
   * Afterword
   * Index
 
-### <span class="ez-toc-section" id="Key_Terms"></span>Key Terms:<span class="ez-toc-section-end"></span>
+### Key Terms:
 
   * Christendom
   * Church
@@ -181,9 +85,9 @@ date: 2019-01-23T22:38:47+00:00
   * Sermon on the Mount
   * story
 
-### <span class="ez-toc-section" id="Key_PropositionsArguments_What_is_being_said_in_detail_and_how"></span>Key Propositions/Arguments (What is being said in detail, and how?):<span class="ez-toc-section-end"></span>
+### Key Propositions/Arguments (What is being said in detail, and how?):
 
-#### <span class="ez-toc-section" id="Chapter_One_Christendom_has_collapsed_This_is_both_a_challenge_and_an_opportunity_for_the_church_to_recover_her_true_identity_as_a_pilgrim_people_Christianity_isnt_a_set_of_beliefs_Its_a_way_of_life"></span>Chapter One: Christendom has collapsed. This is both a challenge and an opportunity for the church to recover her true identity as a pilgrim people. Christianity isn&#8217;t a set of beliefs. It&#8217;s a way of life!<span class="ez-toc-section-end"></span>
+#### Chapter One: Christendom has collapsed. This is both a challenge and an opportunity for the church to recover her true identity as a pilgrim people. Christianity isn&#8217;t a set of beliefs. It&#8217;s a way of life!
 
   * Constantinian Christendom has collapsed. How will the church respond?
   * One possible response: try to make the gospel intelligible/credible to our (post)modern world.
@@ -192,7 +96,7 @@ date: 2019-01-23T22:38:47+00:00
 
   * &#8220;The theologian&#8217;s job is not to make the gospel credible to the modern world, but _to make the world credible to the gospel_&#8221; (24).
 
-#### <span class="ez-toc-section" id="Chapter_Two_The_church_is_political-its_own_polis_Instead_of_trying_to_transform_the_world_through_activism_or_conversionism_the_church_needs_to_be_the_church"></span>Chapter Two: The church is political—its own polis! Instead of trying to transform the world through activism (or conversionism), the church needs to be the church!<span class="ez-toc-section-end"></span>
+#### Chapter Two: The church is political—its own polis! Instead of trying to transform the world through activism (or conversionism), the church needs to be the church!
 
   * &#8220;The political task of Christians is to be the church rather than to transform the world&#8221; (38).
   * We don&#8217;t know what &#8220;peace,&#8221; &#8220;justice,&#8221; etc. are, apart from Jesus Christ! (38).
@@ -200,12 +104,12 @@ date: 2019-01-23T22:38:47+00:00
   * Claim: Yoder&#8217;s &#8220;activist / conversionist / confessing&#8221; church paradigm is more helpful than Niebuhr&#8217;s &#8220;Christ and Culture&#8221; paradigm (39–48).
   * &#8220;The overriding political task of the church is to be the community of the cross&#8221; (47).
 
-#### <span class="ez-toc-section" id="Chapter_Three_Recovering_salvation_as_adventure_can_help_re-narrate_the_church_AND_the_world_Christian_ethics_depend_upon_the_church_to_tell_the_Christian_story"></span>Chapter Three: Recovering &#8220;salvation as adventure&#8221; can help re-narrate the church AND the world. Christian ethics depend upon the church to tell the Christian story.<span class="ez-toc-section-end"></span>
+#### Chapter Three: Recovering &#8220;salvation as adventure&#8221; can help re-narrate the church AND the world. Christian ethics depend upon the church to tell the Christian story.
 
   * &#8220;The Good News &#8230; is that the success of godlessness and the failure of political liberalism have made possible a recovery of Christianity as _an adventurous journey_. Life in the colony is not a settled affair&#8221; (50–51).
   * As the church recovers its story, it can help the world recover its story.
 
-#### <span class="ez-toc-section" id="Chapter_Four_Christian_ethics_are_PECULIAR-church-_and_tradition-dependent_The_church_not_the_everyman_is_the_most_significant_ethical_unit_Christian_ethics_are_social_and_eschatological_The_Christian_story_and_the_Sermon_on_the_Mount_put_us_at_odds_with_the_world"></span>Chapter Four: Christian ethics are PECULIAR—church- and tradition-dependent. The church, not the &#8220;everyman,&#8221; is the most significant ethical unit. Christian ethics are social and eschatological. The Christian story and the Sermon on the Mount put us at odds with the world.<span class="ez-toc-section-end"></span>
+#### Chapter Four: Christian ethics are PECULIAR—church- and tradition-dependent. The church, not the &#8220;everyman,&#8221; is the most significant ethical unit. Christian ethics are social and eschatological. The Christian story and the Sermon on the Mount put us at odds with the world.
 
   * &#8220;Whether they think of themselves as liberal or conservative, as ethically and politically left or right, American Christians have fallen into the bad habit of acting as if the church really does not matter as we go about trying to live like Christians&#8221; (69).
   * &#8220;Christian ethics are church-dependent&#8221; (71). &#8220;Christian ethics only make sense from the point of view of what we believe has happened in the life, death, and resurrection of Jesus of Nazareth&#8221; (71).
@@ -214,7 +118,7 @@ date: 2019-01-23T22:38:47+00:00
   * &#8220;What if all this &#91;The Sermon on the Mount&#93; is not new and more stringent rules for us to observe but rather a picture of the way God is?&#8221; (85).
   * &#8220;There is no way to remove the eschatology of Christian ethics&#8221; (87). &#8220;The removal of eschatology from ethics may account for the suffocating moralism in our church&#8221; (90). &#8220;Without eschatology, we are left with only a baffling residue of strange commands, which seem utterly impractical and ominous&#8221; (90).
 
-#### <span class="ez-toc-section" id="Chapter_Five_We_dont_know_who_we_are_or_what_being_moral_entails_apart_from_the_church_The_church_must_expose_us_to_saints-examples_of_ethical_living_We_learn_ethics_in_a_very_particular_tradition"></span>Chapter Five: We don&#8217;t know who we are or what &#8220;being moral&#8221; entails, apart from the church! The church must expose us to saints—examples of ethical living. We learn ethics in a very particular tradition.<span class="ez-toc-section-end"></span>
+#### Chapter Five: We don&#8217;t know who we are or what &#8220;being moral&#8221; entails, apart from the church! The church must expose us to saints—examples of ethical living. We learn ethics in a very particular tradition.
 
   * &#8220;We want to claim the church&#8217;s &#8216;oddness&#8217; as essential to its faithfulness&#8221; (93).
   * The church tells us who we are, what being moral entails, and who/what the world is (94).
@@ -223,7 +127,7 @@ date: 2019-01-23T22:38:47+00:00
   * &#8220;Learning to be moral is much like learning to speak a language&#8221; (97).
   * Given the communal nature of ethics, &#8220;the church can do nothing more &#8216;ethical&#8217; than to expose us to significant examples of Christian living&#8221; (97).
 
-#### <span class="ez-toc-section" id="Chapter_Six_In_order_to_avoid_cynicism_and_burnout_the_pastor_must_help_the_church_recover_its_role_as_a_truth-telling_colony_of_heaven"></span>Chapter Six: In order to avoid cynicism and burnout, the pastor must help the church recover its role as a truth-telling colony of heaven.<span class="ez-toc-section-end"></span>
+#### Chapter Six: In order to avoid cynicism and burnout, the pastor must help the church recover its role as a truth-telling colony of heaven.
 
   * Problem: There&#8217;s so much burnout, loneliness, depression, and cynicism among pastors. What&#8217;s gone wrong?
   * &#8220;&#8230;one cannot discuss pastors and what they do until one has first discussed the church, which needs these creatures called pastors&#8221; (112). &#8220;Leaders like pastors have significance only to the degree that their leadership is appropriate to the needs and goals of the group they lead&#8221; (113). &#8220;Although clergy do need special traits and abilities, what clergy need most is a function of what the church needs&#8221; (113).
@@ -245,7 +149,7 @@ date: 2019-01-23T22:38:47+00:00
   * &#8220;Pastors would do well to examine their schedules and ruthlessly delete any activity unable to be an opportunity to help us do that which we do in worship&#8221; (139).
   * &#8220;How can I, as pastor, be lonely because I have been faithful, rather than lonely because I was promiscuous with my love?&#8221; (143).
 
-#### <span class="ez-toc-section" id="Chapter_Seven_The_church_and_its_ministers_have_power_when_they_speak_the_truth_about_God_the_world_and_themselves"></span>Chapter Seven: The church and its ministers have power when they speak the truth about God, the world, and themselves.<span class="ez-toc-section-end"></span>
+#### Chapter Seven: The church and its ministers have power when they speak the truth about God, the world, and themselves.
 
   * &#8220;Our goal has been to empower people in the church by exciting their imaginations to see what wonderful opportunities lie at the heart of Christian ministry—once the integrity of the church is reclaimed&#8221; (144).
   * &#8220;What pastors, as well as the laity they serve, need is a theological rationale for ministry which is so cosmic, so eschatological and therefore countercultural, that they are enabled to keep at Christian ministry in a world determined to live as if God were dead. Anything less misreads both the scandal of the gospel and the corruption of our culture&#8221; (145).
@@ -263,36 +167,36 @@ date: 2019-01-23T22:38:47+00:00
 
 * * *
 
-## <span class="ez-toc-section" id="CRITIQUE"></span>CRITIQUE:<span class="ez-toc-section-end"></span>
+## CRITIQUE:
 
-### <span class="ez-toc-section" id="Is_the_book_true_in_whole_or_part"></span>Is the book true, in whole or part?:<span class="ez-toc-section-end"></span>
-
-  * 
-
-### <span class="ez-toc-section" id="Problems_Solved"></span>Problems Solved:<span class="ez-toc-section-end"></span>
+### Is the book true, in whole or part?:
 
   * 
 
-### <span class="ez-toc-section" id="Problems_Not_Solved"></span>Problems Not Solved:<span class="ez-toc-section-end"></span>
+### Problems Solved:
 
   * 
 
-### <span class="ez-toc-section" id="Author_is_uninformed"></span>Author is uninformed:<span class="ez-toc-section-end"></span>
+### Problems Not Solved:
 
   * 
 
-### <span class="ez-toc-section" id="Author_is_misinformed"></span>Author is misinformed:<span class="ez-toc-section-end"></span>
+### Author is uninformed:
 
   * 
 
-### <span class="ez-toc-section" id="Author_is_illogical"></span>Author is illogical:<span class="ez-toc-section-end"></span>
+### Author is misinformed:
 
   * 
 
-### <span class="ez-toc-section" id="Author_is_incomplete"></span>Author is incomplete:<span class="ez-toc-section-end"></span>
+### Author is illogical:
 
   * 
 
-### <span class="ez-toc-section" id="What_of_it_Why_is_it_important_to_know_these_things"></span>What of it? (Why) is it important to know these things?:<span class="ez-toc-section-end"></span>
+### Author is incomplete:
+
+  * 
+
+### What of it? (Why) is it important to know these things?:
 
 &#8211;

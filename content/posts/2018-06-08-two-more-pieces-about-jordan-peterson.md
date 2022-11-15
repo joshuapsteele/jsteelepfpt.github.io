@@ -15,29 +15,7 @@ Previously, [I catalogued a bunch of different takes on Jordan Peterson, before 
 
 Since that post, two other pieces about Jordan Peterson have been written that I&#8217;d like to share.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/#Jordan_Peterson_Custodian_of_the_Patriarchy_by_Nellie_Bowles_New_York_Times" title="&#8220;Jordan Peterson, Custodian of the Patriarchy,&#8221; by Nellie Bowles (New York Times)">&#8220;Jordan Peterson, Custodian of the Patriarchy,&#8221; by Nellie Bowles (New York Times)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/#The_Shocking_Truth_About_Jordan_Peterson_by_Wesley_Yang_Tablet" title="&#8220;The Shocking Truth About Jordan Peterson,&#8221; by Wesley Yang (Tablet)">&#8220;The Shocking Truth About Jordan Peterson,&#8221; by Wesley Yang (Tablet)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/#Whats_YOUR_take_on_Jordan_Peterson" title="What&#8217;s YOUR take on Jordan Peterson?">What&#8217;s YOUR take on Jordan Peterson?</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="Jordan_Peterson_Custodian_of_the_Patriarchy_by_Nellie_Bowles_New_York_Times"></span>&#8220;Jordan Peterson, Custodian of the Patriarchy,&#8221; by Nellie Bowles (New York Times)<span class="ez-toc-section-end"></span>
+# &#8220;Jordan Peterson, Custodian of the Patriarchy,&#8221; by Nellie Bowles (New York Times)
 
 [Nellie Bowles writes][2]
 
@@ -77,7 +55,7 @@ OK, here is a perfect example of how easy it is to misunderstand Peterson. When 
 
 Now, of course, you can still disagree with Peterson&#8217;s take here. However, it seems unfair to make it sound like he thinks women should be assigned to men against their wishes.
 
-# <span class="ez-toc-section" id="The_Shocking_Truth_About_Jordan_Peterson_by_Wesley_Yang_Tablet"></span>&#8220;The Shocking Truth About Jordan Peterson,&#8221; by Wesley Yang (Tablet)<span class="ez-toc-section-end"></span>
+# &#8220;The Shocking Truth About Jordan Peterson,&#8221; by Wesley Yang (Tablet)
 
 This piece by Wesley Yang is currently my favorite take on Jordan Peterson, because it offers such a nuanced critique.
 
@@ -91,7 +69,7 @@ This piece by Wesley Yang is currently my favorite take on Jordan Peterson, beca
 
 So, on the one hand, Peterson should be held responsible for some of his rhetoric, and he should take a bit more care to ensure that he&#8217;s being correctly understood by his various audiences. On the other hand, Peterson&#8217;s views are quite MODERATE. He is not the radical right-wing ideologue that many people make him out to be.
 
-# <span class="ez-toc-section" id="Whats_YOUR_take_on_Jordan_Peterson"></span>What&#8217;s YOUR take on Jordan Peterson?<span class="ez-toc-section-end"></span>
+# What&#8217;s YOUR take on Jordan Peterson?
 
 Let me know in the comments.
 

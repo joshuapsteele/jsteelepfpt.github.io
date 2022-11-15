@@ -14,58 +14,7 @@ categories:
   - The Christian Life
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/bible-poverty-proverbs/#Introduction_Poverty_and_Wealth" title="Introduction: Poverty and Wealth">Introduction: Poverty and Wealth</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/bible-poverty-proverbs/#Descriptions_of_Poverty_Effects_and_Causes" title="Descriptions of Poverty: Effects and Causes">Descriptions of Poverty: Effects and Causes</a><ul class='ez-toc-list-level-3'>
-            <li class='ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/bible-poverty-proverbs/#Effects" title="Effects">Effects</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/bible-poverty-proverbs/#Causes" title="Causes">Causes</a>
-            </li>
-          </ul>
-        </li>
-        
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/bible-poverty-proverbs/#Responses_to_Poverty_Yahweh_and_the_Poor" title="Responses to Poverty: Yahweh and the Poor">Responses to Poverty: Yahweh and the Poor</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/bible-poverty-proverbs/#Responses_to_Poverty_Consequences_and_Rewards" title="Responses to Poverty: Consequences and Rewards">Responses to Poverty: Consequences and Rewards</a><ul class='ez-toc-list-level-3'>
-            <li class='ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/bible-poverty-proverbs/#Negative_Consequences" title="Negative Consequences">Negative Consequences</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/bible-poverty-proverbs/#Positive_Rewards" title="Positive  Rewards">Positive  Rewards</a>
-            </li>
-            <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-              <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/bible-poverty-proverbs/#Combinations" title="Combinations">Combinations</a>
-            </li>
-          </ul>
-        </li>
-        
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/bible-poverty-proverbs/#Conclusion" title="Conclusion">Conclusion</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/bible-poverty-proverbs/#Bibliography" title="Bibliography">Bibliography</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="Introduction_Poverty_and_Wealth"></span>Introduction: Poverty and Wealth<span class="ez-toc-section-end"></span>
+# Introduction: Poverty and Wealth
 
 In contrast to the affluence of mainstream American culture, poverty is a harsh and painful reality. It can be found in abundance in the urban centers of this country, and in countless other places around the globe.
 
@@ -77,11 +26,11 @@ In this milieu of wealth and poverty existing side by side in an atmosphere of c
 
 (For more on how Christians should think about poverty and wealth, see my essay [&#8220;Christians and Wealth.&#8221;][1])
 
-## <span class="ez-toc-section" id="Descriptions_of_Poverty_Effects_and_Causes"></span>Descriptions of Poverty: Effects and Causes<span class="ez-toc-section-end"></span>
+## Descriptions of Poverty: Effects and Causes
 
 Many proverbs are devoted to describing the harsh realities of poverty, showing that the Hebrew sages were well aware of its existence and characteristics.
 
-### <span class="ez-toc-section" id="Effects"></span>Effects<span class="ez-toc-section-end"></span>
+### Effects
 
 These proverbs frequently describe the poor in direct contrast to the wealthy. Consider Proverbs 10:15:
 
@@ -113,7 +62,7 @@ Bridges says it well:
 
 Materially and socially, poverty wreaks havoc on the lives of those it entraps.
 
-### <span class="ez-toc-section" id="Causes"></span>Causes<span class="ez-toc-section-end"></span>
+### Causes
 
 Given the terrible effects and characteristics of poverty, Proverbs naturally contains many admonitions to avoid its causes.
 
@@ -156,7 +105,7 @@ Proverbs 30:14 comes to mind:
 
 These verses make the transition from descriptions of poverty to responses to its existence, highlighting the uncomfortable truth that **improper treatment of the poor can bring disaster**.
 
-## <span class="ez-toc-section" id="Responses_to_Poverty_Yahweh_and_the_Poor"></span>Responses to Poverty: Yahweh and the Poor<span class="ez-toc-section-end"></span>
+## Responses to Poverty: Yahweh and the Poor
 
 It is clear that Proverbs gives its readers a thorough understanding of the dreadfulness of poverty and the importance of avoiding it.
 
@@ -217,7 +166,7 @@ However, for the vast majority of Christians in the United States who live life 
 
 Proverbs reflects that what is at stake here is much more than just our consciences, the minor twangs of guilt or moments of self-righteousness we too often experience in our infrequent interactions with the poor.
 
-## <span class="ez-toc-section" id="Responses_to_Poverty_Consequences_and_Rewards"></span>Responses to Poverty: Consequences and Rewards<span class="ez-toc-section-end"></span>
+## Responses to Poverty: Consequences and Rewards
 
 The teachings in Proverbs regarding the treatment of the poor can be divided into three categories:
 
@@ -225,7 +174,7 @@ The teachings in Proverbs regarding the treatment of the poor can be divided int
   2. those that display positive rewards for proper treatment,
   3. and those that juxtapose the two.
 
-### <span class="ez-toc-section" id="Negative_Consequences"></span>Negative Consequences<span class="ez-toc-section-end"></span>
+### Negative Consequences
 
 Proverbs 21:13 states:
 
@@ -241,7 +190,7 @@ Whybray claims that the word for “interest” refers to “interest which was 
 
 The point is that **money taken from the poor will not do its wicked owner any good,** and has the potential to end up in the hands of righteous men which will in turn help to meet the needs of the poor.
 
-### <span class="ez-toc-section" id="Positive_Rewards"></span>Positive  Rewards<span class="ez-toc-section-end"></span>
+### Positive  Rewards
 
 In addition, Proverbs contains several verses that positively portray, and thereby encourage, generosity towards the poor and preservation of their justice.
 
@@ -261,7 +210,7 @@ A virtually identical point is made in Proverbs 22:9:
 
 Furthermore, the well-known wise woman discussed in chapter 31 “opens her hand to the poor and reaches out her hands to the needy” (31:20). **Giving generously to the poor is a mark of a righteous person, one whose life will be blessed by Yahweh.**
 
-### <span class="ez-toc-section" id="Combinations"></span>Combinations<span class="ez-toc-section-end"></span>
+### Combinations
 
 Finally, some proverbs combine the negative and positive aspects of the previously mentioned verses through antithetical parallelism.
 
@@ -291,7 +240,7 @@ Given Yahweh’s “bias” toward the poor and their status as his image bearer
 
 **It is not enough to simply not oppress the poor.** Proverbs, along with the rest of Scripture, seems to mandate **advocating for their justice.**
 
-## <span class="ez-toc-section" id="Conclusion"></span>Conclusion<span class="ez-toc-section-end"></span>
+## Conclusion
 
 In our current context of extravagant wealth and abject poverty existing side by side in a realm of confusion, apathy, and even malice towards the impoverished, Proverbs contains some timely and powerful teaching.
 
@@ -301,7 +250,7 @@ However, this did not lead them to **abandon** a proper view towards the poor, a
 
 The modern readers of this ancient book would do well to heed its teachings regarding poverty, and to proceed with attitudes and actions in imitation of Yahweh in their interactions with and opinions of the poor, destitute, and oppressed of this world.
 
-## <span class="ez-toc-section" id="Bibliography"></span><span style="text-decoration: underline;"><strong>Bibliography</strong></span><span class="ez-toc-section-end"></span>
+## <span style="text-decoration: underline;"><strong>Bibliography</strong></span>
 
 Alden, Robert L. _Proverbs: A Commentary on an Ancient Book of Timeless Advice._ Grand Rapids: Baker Book House, 1983.
 

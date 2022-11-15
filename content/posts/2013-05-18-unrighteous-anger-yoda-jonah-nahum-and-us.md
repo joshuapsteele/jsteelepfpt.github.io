@@ -17,35 +17,7 @@ categories:
 ---
 (TEXTS: [Jonah 3:5-10; 4:1-11; Nahum 1:1-8][1])
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/unrighteous-anger-yoda-jonah-nahum-and-us/#INTRODUCTION" title="INTRODUCTION">INTRODUCTION</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/unrighteous-anger-yoda-jonah-nahum-and-us/#YODA_DOES_RIGHTEOUS_ANGER_EXIST" title="YODA, DOES RIGHTEOUS ANGER EXIST?">YODA, DOES RIGHTEOUS ANGER EXIST?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/unrighteous-anger-yoda-jonah-nahum-and-us/#JONAH_ARE_YOU_REALLY_SO_VERY_ANGRY" title="JONAH, ARE YOU REALLY SO VERY ANGRY?">JONAH, ARE YOU REALLY SO VERY ANGRY?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/unrighteous-anger-yoda-jonah-nahum-and-us/#NAHUM_WHY_IS_GOD_SO_ANGRY" title="NAHUM, WHY IS GOD SO ANGRY?">NAHUM, WHY IS GOD SO ANGRY?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/unrighteous-anger-yoda-jonah-nahum-and-us/#HOW_THEN_SHOULD_WE_BE_ANGRY" title="HOW, THEN, SHOULD WE BE ANGRY?">HOW, THEN, SHOULD WE BE ANGRY?</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="INTRODUCTION"></span>INTRODUCTION<span class="ez-toc-section-end"></span>
+# INTRODUCTION
 
 <img decoding="async" loading="lazy" class="alignright" id="i-2631" style="margin-top:.4em;" alt="Image" src="https://joshuapsteele.com/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg?w=590" width="354" height="260" /> 
 
@@ -73,7 +45,7 @@ I’d love to say that I met this opposition with nothing but grace and equanimi
   Before considering how we should be rightly angry, I’d like to ask three questions. The first is for our great green theologian:
 </p>
 
-# <span class="ez-toc-section" id="YODA_DOES_RIGHTEOUS_ANGER_EXIST"></span>YODA, DOES RIGHTEOUS ANGER EXIST?<span class="ez-toc-section-end"></span>
+# YODA, DOES RIGHTEOUS ANGER EXIST?
 
 <p dir="ltr">
   According to Yoda and friends, there is no such thing as legitimate anger, at least not humanly-speaking. After all, doesn’t Proverbs (29:11, NET) say that:
@@ -184,7 +156,7 @@ I’d love to say that I met this opposition with nothing but grace and equanimi
 </p>
 
 <h1 style="text-align:left;">
-  <span class="ez-toc-section" id="JONAH_ARE_YOU_REALLY_SO_VERY_ANGRY"></span>JONAH, ARE YOU REALLY SO VERY ANGRY?<span class="ez-toc-section-end"></span>
+  JONAH, ARE YOU REALLY SO VERY ANGRY?
 </h1>
 
 <h1 style="text-align:left;">
@@ -291,7 +263,7 @@ I’d love to say that I met this opposition with nothing but grace and equanimi
   Let’s ask the prophet who got to preach Jonah’s dream message against Nineveh:
 </p>
 
-# <span class="ez-toc-section" id="NAHUM_WHY_IS_GOD_SO_ANGRY"></span>NAHUM, WHY IS GOD SO ANGRY?<img decoding="async" loading="lazy" class="alignright" alt="File:Nahum-prophet.jpg" src="http://upload.wikimedia.org/wikipedia/commons/7/74/Nahum-prophet.jpg" width="259" height="300" /><span class="ez-toc-section-end"></span>
+# NAHUM, WHY IS GOD SO ANGRY?<img decoding="async" loading="lazy" class="alignright" alt="File:Nahum-prophet.jpg" src="http://upload.wikimedia.org/wikipedia/commons/7/74/Nahum-prophet.jpg" width="259" height="300" />
 
 <p dir="ltr">
   In the seventh century BC, Nahum got to preach the prophetic oracles against Nineveh that Jonah had wanted to utter. Apparently, although Nineveh and the Assyrians had been used by God as an instrument of judgment in the eighth century exile, they had grown prideful of their vicious pursuits. Drunk with the blood of their victims, the Assyrians paid no mind to Yahweh who had allowed them to thrive. This brought about a change in the divine approach to the Assyrian empire. We can see this in Nahum’s modification of the traditional credal statement mentioned above. Let’s take another look at Nahum 1:2-3:
@@ -341,7 +313,7 @@ I’d love to say that I met this opposition with nothing but grace and equanimi
   No. Yahweh is not complacent when it comes to heinous sin. In fact, he hates it more than any human possibly could. This does not negate his mercy &#8211; the message of Jonah still stands &#8211; but he is not a passive onlooker when it comes to Sin and Death and those who enact them. He is a mighty warrior on a mission of redemption and deliverance, especially when it comes to the powerless and the oppressed. This theme echoes throughout the pages of Scripture, from the Exodus to the Cross to the coming Kingdom. The righteous anger of Yahweh is redemptive, and it usually focuses on the mistreatment of the weak.
 </p>
 
-# <span class="ez-toc-section" id="HOW_THEN_SHOULD_WE_BE_ANGRY"></span>HOW, THEN, SHOULD WE BE ANGRY?<span class="ez-toc-section-end"></span>
+# HOW, THEN, SHOULD WE BE ANGRY?
 
 <p dir="ltr">
   If Yoda, Jonah, and Nahum have taught us anything, we should acknowledge that the crucial difference between righteous and unrighteous anger is whether it helps or hinders God’s redemptive mission, the Gospel. It’s important, then, that we sit long with Scripture and the Church in order to better know what the Gospel really is. The more clearly we understand the foundational Gospel principles of things like <em>shalom</em> peace, <em>hesed</em> love, and <em>mishpat</em> justice, the more likely it is that we’ll recognize the appropriate things to get angry about. As we become more familiar with God’s redemptive mission, we should gently remind Yoda and others that there is indeed a place for anger which is pleasing to God.

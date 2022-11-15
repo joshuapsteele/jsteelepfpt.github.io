@@ -24,35 +24,7 @@ _Editor’s Note: The piece below represents the opinion of the author. Anglican
 
 In a debate as crucial and heated as the matter of ordaining women to the priesthood in the Anglican Church in North America, it is worth trying to understand what motivates the other side. In my case, being convinced that the received catholic interpretation of the Scriptures is definitive, the “other side” commends and supports the ordination of women to the priesthood.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/brothers-we-have-failed-a-lament-in-response-to-the-womens-ordination-debate/#How_can_I_account_for_the_views_on_the_other_side" title="How can I account for the views on the “other side”?">How can I account for the views on the “other side”?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/brothers-we-have-failed-a-lament-in-response-to-the-womens-ordination-debate/#Brothers_we_have_failed" title="Brothers, we have failed.">Brothers, we have failed.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/brothers-we-have-failed-a-lament-in-response-to-the-womens-ordination-debate/#How_have_we_failed_exactly" title="How have we failed, exactly?">How have we failed, exactly?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/brothers-we-have-failed-a-lament-in-response-to-the-womens-ordination-debate/#In_short_when_we_have_not_been_good_fathers_we_have_failed" title="In short, when we have not been good fathers, we have failed.">In short, when we have not been good fathers, we have failed.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/brothers-we-have-failed-a-lament-in-response-to-the-womens-ordination-debate/#So_apart_from_all_debate_Im_calling_out_to_all_spiritual_fathers" title="So, apart from all debate, I’m calling out to all spiritual fathers:">So, apart from all debate, I’m calling out to all spiritual fathers:</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="How_can_I_account_for_the_views_on_the_other_side"></span>How can I account for the views on the “other side”?<span class="ez-toc-section-end"></span>
+## How can I account for the views on the “other side”?
 
 Due to the diversity of parties and traditions within Anglicanism, churchmanship is a large part of the question, sure. But, at the end of the day, we are all Christians reading God’s authoritative Word. I believe the “other side” holds their beliefs in good faith. They are every bit as educated and wise as the scholars on “my side”. For the most part, we use the same interpretive tools to unpack the meaning of Scripture. “They” desire to honor and obey the Living God every bit as much as “us”.
 
@@ -60,13 +32,13 @@ How then, do they come to such opposite conclusions on this question? While the 
 
 Since I am myself a male priest in the ACNA, this means a failure that I am party to.
 
-## <span class="ez-toc-section" id="Brothers_we_have_failed"></span>Brothers, we have failed.<span class="ez-toc-section-end"></span>
+## Brothers, we have failed.
 
 We have failed in how we have carried the ministry of priesthood.
 
 If we had carried our ministries in a more apostolic, more Christ-like fashion, perhaps the wider Church, against the winds of change, would have rested more content in her inheritance of an all-male priesthood. Perhaps there would be less of a felt need to admit women to the priesthood, had we male priests done our job better. Brothers, I believe we have failed.
 
-## <span class="ez-toc-section" id="How_have_we_failed_exactly"></span>How have we failed, exactly?<span class="ez-toc-section-end"></span>
+## How have we failed, exactly?
 
 We have failed:
 
@@ -116,11 +88,11 @@ When we have preached things that we do not do ourselves.
 
 When we have engaged with other Christians who support the ordination of women to the priesthood with contempt, anger, slander, malice, or scorn.
 
-## <span class="ez-toc-section" id="In_short_when_we_have_not_been_good_fathers_we_have_failed"></span>In short, when we have not been good _fathers_, we have failed.<span class="ez-toc-section-end"></span>
+## In short, when we have not been good _fathers_, we have failed.
 
 It&#8217;s not the only reason, to be sure, but I believe _part_ of why so many in the church today want “mothers” is because the _fathers_ have so often failed us. As Christians we want—we _desperately need_—someone who will take care of our _souls_, and many fathers have made a mess of it, myself included.
 
-## <span class="ez-toc-section" id="So_apart_from_all_debate_Im_calling_out_to_all_spiritual_fathers"></span>So, apart from all debate, I’m calling out to all spiritual fathers:<span class="ez-toc-section-end"></span>
+## So, apart from all debate, I’m calling out to all spiritual fathers:
 
 _Play the man._ Join me in crying out to God to make us servants to the church like St. Paul was a servant. Fast for yourselves and for the brothers.
 

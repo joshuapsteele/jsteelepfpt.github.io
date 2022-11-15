@@ -5,34 +5,9 @@ type: page
 date: 2019-01-23T22:41:49+00:00
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/jennings-the-christian-imagination/#JENNINGS_WILLIE_JAMES_THE_CHRISTIAN_IMAGINATION_THEOLOGY_AND_THE_ORIGINS_OF_RACE_NEW_HAVEN_YALE_UNIVERSITY_PRESS_2011" title="JENNINGS, WILLIE JAMES.* THE CHRISTIAN IMAGINATION: THEOLOGY AND THE ORIGINS OF RACE *. NEW HAVEN: YALE UNIVERSITY PRESS, 2011.*">JENNINGS, WILLIE JAMES.* THE CHRISTIAN IMAGINATION: THEOLOGY AND THE ORIGINS OF RACE *. NEW HAVEN: YALE UNIVERSITY PRESS, 2011.*</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/jennings-the-christian-imagination/#WHAT_THIS_BOOK_IS_ABOUT" title="WHAT THIS BOOK IS ABOUT">WHAT THIS BOOK IS ABOUT</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/jennings-the-christian-imagination/#WHY_IT_IS_IMPORTANT" title="WHY IT IS IMPORTANT">WHY IT IS IMPORTANT</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/jennings-the-christian-imagination/#WHAT_THAT_MEANS_TOFOR_ME" title="WHAT THAT MEANS TO/FOR ME">WHAT THAT MEANS TO/FOR ME</a>
-    </li>
-  </ul></nav>
-</div>
+## JENNINGS, WILLIE JAMES.\* THE CHRISTIAN IMAGINATION: THEOLOGY AND THE ORIGINS OF RACE \*. NEW HAVEN: YALE UNIVERSITY PRESS, 2011.*
 
-## <span class="ez-toc-section" id="JENNINGS_WILLIE_JAMES_THE_CHRISTIAN_IMAGINATION_THEOLOGY_AND_THE_ORIGINS_OF_RACE_NEW_HAVEN_YALE_UNIVERSITY_PRESS_2011"></span>JENNINGS, WILLIE JAMES.\* THE CHRISTIAN IMAGINATION: THEOLOGY AND THE ORIGINS OF RACE \*. NEW HAVEN: YALE UNIVERSITY PRESS, 2011.*<span class="ez-toc-section-end"></span>
-
-## <span class="ez-toc-section" id="WHAT_THIS_BOOK_IS_ABOUT"></span>WHAT THIS BOOK IS ABOUT<span class="ez-toc-section-end"></span>
+## WHAT THIS BOOK IS ABOUT
 
 This book is a theological portrait/genealogy of the origins and outworking of race in the modern West. Although Christianity has (or at least had) the ability to imagine socially – to redefine the social in terms of true intimacy – that this now occurs so infrequently means that something has gone wrong. Jennings claims that Western Christianity has a diseased social imagination, and that the story of how it acquired this disease is intertwined with the story of colonialism. He gives us this theological portrait as somewhat of a lament, in the hopes of regaining what was lost.
 
@@ -84,11 +59,11 @@ To move forward:
   * We need a doctrine of the church that takes relations between Jews and Gentiles seriously, to address the connection between supersessionism and racialized colonialism.
   * We need to detach theological discourse from colonialism and whiteness, in order to think theologically about both.
 
-## <span class="ez-toc-section" id="WHY_IT_IS_IMPORTANT"></span>WHY IT IS IMPORTANT<span class="ez-toc-section-end"></span>
+## WHY IT IS IMPORTANT
 
 This book is important because it offers a rather novel theological account of the origins and developments of race. Although I don’t think it has the ability to stand alone as THE overarching and all-encompassing theological account of race and colonialism, Jennings DOES succeed in complicating the narrative to more accurately reflect the complex intersections of supersessionism, race, place, colonialism, and Western theology.
 
-## <span class="ez-toc-section" id="WHAT_THAT_MEANS_TOFOR_ME"></span>WHAT THAT MEANS TO/FOR ME<span class="ez-toc-section-end"></span>
+## WHAT THAT MEANS TO/FOR ME
 
 Although Jennings’ work probably won’t feature in my dissertation, it has given me much to think about in terms of my future work and ministry in the Church and Academy. I was particularly challenged by his claims about pedagogical imperialism at the end of chapter two.
 

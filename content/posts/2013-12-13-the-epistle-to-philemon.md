@@ -25,43 +25,7 @@ categories:
 
 <span style="color: #000000;">Comprehension of the passage’s contemporaneous Greco-Roman epistolary landscape facilitates a knowledgeable analysis of its constituent parts.<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn2"><span style="color: #000000;">[2]</span></a> Subsequently, the interpretive insights yielded by this examination facilitate an application of the letter to the contemporary Christian church.</span>
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/the-epistle-to-philemon/#Greco-Roman_Letters" title="Greco-Roman Letters">Greco-Roman Letters</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/the-epistle-to-philemon/#Analysis_of_Philemon" title="Analysis of Philemon">Analysis of Philemon</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/the-epistle-to-philemon/#Opening_Greeting" title="Opening Greeting">Opening Greeting</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/the-epistle-to-philemon/#ThanksgivingPrayer" title="Thanksgiving/Prayer">Thanksgiving/Prayer</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/the-epistle-to-philemon/#Body" title="Body">Body</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/the-epistle-to-philemon/#Closing" title="Closing">Closing</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/the-epistle-to-philemon/#Application" title="Application">Application</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Greco-Roman_Letters"></span><span style="color: #000000;"><b>Greco-Roman Letters</b></span><span class="ez-toc-section-end"></span>
+## <span style="color: #000000;"><b>Greco-Roman Letters</b></span>
 
 <span style="color: #000000;">Originally referring to “an oral communication sent by messenger,” the Hellenistic ἐπιστολή eventually encompassed a wide variety of documents – from commercial to legal, political to personal.<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn3"><span style="color: #000000;">[3]</span></a> As Greidanus notes, the basic form of a Greco-Roman letter was tripartite, consisting of introduction/opening, body, and conclusion.<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn4"><span style="color: #000000;">[4]</span></a> </span>
 
@@ -75,7 +39,7 @@ categories:
 
 <span style="color: #000000;">Similarly, Paul often modified the Greco-Roman form by including a concluding paranetic section of exhortation after the body of his letters.<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn11"><span style="color: #000000;">[11]</span></a></span>
 
-## <span class="ez-toc-section" id="Analysis_of_Philemon"></span><span style="color: #000000;"><b>Analysis of Philemon</b></span><span class="ez-toc-section-end"></span>
+## <span style="color: #000000;"><b>Analysis of Philemon</b></span>
 
 <span style="color: #000000;">An appreciation of Pauline epistolary form in Greco-Roman context yields important interpretive insights relating to both the parts and whole of the letter to Philemon, in which Paul displays remarkable tact as he advances his request for reconciliation between Philemon and Onesimus.<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn12"><span style="color: #000000;">[12]</span></a> </span>
 
@@ -86,13 +50,13 @@ categories:
   * <span style="color: #000000;">body (8-22), </span>
   * <span style="color: #000000;">and closing (23-25).<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn13"><span style="color: #000000;">[13]</span></a> </span>
 
-### <span class="ez-toc-section" id="Opening_Greeting"></span>Opening Greeting<span class="ez-toc-section-end"></span>
+### Opening Greeting
 
 Of immediate note, Paul atypically refers to himself, in the midst of an otherwise standard greeting, not as an apostle (cf. Gal 1:1) or servant (cf. Rom 1:1; Phil 1:1), but as “a prisoner of Christ Jesus” (Philem 1; NRSV) – perhaps best explained by his desire throughout “to entreat rather than command” (cf. 8-9), but also to stress Onesimus’ usefulness to him in his captivity (cf. 11-13).[<span style="color: #000000;">[14]</span>][1]
 
 Sender (“Paul…and Timothy”; Philem 1a), and addressee (“Philemon…Apphia…Archippus…and the church in your house”; 1b-2) thus identified, Paul’s signature greeting of χάρις καὶ εἰρήνη (3) functions as a benedictional transition to a section of thanksgiving and prayer (4-7), which – as elsewhere in the Pauline corpus – introduces the letter’s main themes.[<span style="color: #000000;">[15]</span>][2]
 
-### <span class="ez-toc-section" id="ThanksgivingPrayer"></span>Thanksgiving/Prayer<span class="ez-toc-section-end"></span>
+### Thanksgiving/Prayer
 
 <span style="color: #000000;">As Bruce notes, “the ground of the thanksgiving and the substance of the prayer are closely related to the purpose of the letter.”<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn16"><span style="color: #000000;">[16]</span></a> Paul gives thanks to God because of Philemon’s love, faith, and refreshment of “the hearts of the saints” (Philem 5, 7). </span>
 
@@ -102,7 +66,7 @@ Sender (“Paul…and Timothy”; Philem 1a), and addressee (“Philemon…Apphi
 
 <span style="color: #000000;">In addition to introducing the key themes of love/heart (cf. ἀγάπη, 4,7,9; σπλάγχνα, 7,12,20) and mutual participation (cf. κοινωνόν, 17), the thanksgiving/prayer rhetorically establishes mutual goodwill as an exordium in which Paul emphasizes characteristics of Philemon to which he can then appeal.<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn18"><span style="color: #000000;">[18]</span></a></span>
 
-### <span class="ez-toc-section" id="Body"></span>Body<span class="ez-toc-section-end"></span>
+### Body
 
 <span style="color: #000000;">The main request of the letter’s body – of noteworthy length in its Greco-Roman context – is that <strong>Philemon should receive Onesimus just as he would receive Paul</strong> (17b).<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn19"><span style="color: #000000;">[19]</span></a> </span>
 
@@ -116,11 +80,11 @@ Sender (“Paul…and Timothy”; Philem 1a), and addressee (“Philemon…Apphi
 
 <span style="color: #000000;">Confident of Philemon’s compliance with his reconciliatory request (21), Paul makes an additional request for lodging based on Paul’s hope for release from imprisonment and subsequent travel to Colossae to be present with his audience (22) – an epistolary structure known as the “apostolic parousia,” revealing Paul’s consideration of his writings as substitutes for his physical presence.<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn24"><span style="color: #000000;">[24]</span></a> </span>
 
-### <span class="ez-toc-section" id="Closing"></span>Closing<span class="ez-toc-section-end"></span>
+### Closing
 
 <span style="color: #000000;">Finally, Paul reports the greetings of his gospel co-workers to Philemon (23-24), before reverting to the plural to include the other addressees (2) in his concluding benediction.<a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn25"><span style="color: #000000;">[25]</span></a></span>
 
-## <span class="ez-toc-section" id="Application"></span><span style="color: #000000;"><b>Application</b></span><span class="ez-toc-section-end"></span>
+## <span style="color: #000000;"><b>Application</b></span>
 
 <span style="color: #000000;">If the consensus interpretation that Onesimus is Philemon’s runaway slave is correct, then Deuteronomy 23:15-16 would seem to mandate that Paul <strong>not</strong> return the fugitive to his estranged master. <a title="" href="/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn26"><span style="color: #000000;">[26]</span></a> </span>
 

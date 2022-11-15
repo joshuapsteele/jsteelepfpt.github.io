@@ -33,38 +33,7 @@ To counter that, I want to explore the biblical relationship between baptism and
 
 In their eagerness to support their understanding of tradition, Anglicans have sometimes compromised the Kingdom with cultural values, veering away from a biblical theology of human ordination and missing the reality of baptism. If we are to have a good faith conversation around these issues, this must be addressed. So come, let’s wade in the waters one more time.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination/#Claiming_Baptism_Against_the_Bishop" title="Claiming Baptism Against the Bishop">Claiming Baptism Against the Bishop</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination/#Male_Headship_as_Gnostic_Anthropology" title="Male Headship as Gnostic Anthropology">Male Headship as Gnostic Anthropology</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination/#The_Difference_Baptism_Makes-In_Christ_Out_of_adam" title="The Difference Baptism Makes—In Christ, Out of adam">The Difference Baptism Makes—In Christ, Out of adam</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination/#A_New_Priesthood-Hebrews_and_the_Priesthood_of_Christ" title="A New Priesthood—Hebrews and the Priesthood of Christ">A New Priesthood—Hebrews and the Priesthood of Christ</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination/#She_is_the_Form_of_Christ" title="“She is the Form of Christ”">“She is the Form of Christ”</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination/#What_He_Cannot_By_Nature_Have" title="“What He Cannot By Nature Have”">“What He Cannot By Nature Have”</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Claiming_Baptism_Against_the_Bishop"></span>Claiming Baptism Against the Bishop<span class="ez-toc-section-end"></span>
+## Claiming Baptism Against the Bishop
 
 In 1723, Edmund Gibson, the Bishop of London and ecclesial authority over England’s colonies, was faced with a crisis. What happens when slaves want to be baptized and taught the faith? The slaveholders, he knew, were adamantly against baptism or education of any kind, fearing it would lead to the slaves’ agitation against their social position. In fact, they were so desperate to prevent this that slaves who learned to read or who taught others to do so were brutally punished and killed.
 
@@ -82,7 +51,7 @@ The Bishop, torn between his desire to uphold social order and his duty to incre
 
 Which of these, do you think, was a better reader of scripture? The one who showed us Christ. The slaves interpreted their lives according to the scriptures, reading after the model of Peter and Paul. God’s word was for them, _pro nobis_, a Christological reading practice. They read scripture against their culture, against the “natural state of things” and their “place” within it and by doing so understood the logic of baptism. They saw that it was creation anew, that the Old Adam passes away as we are born of Christ, not returning to Eden, but discovering the New Jerusalem, as something neither gnostic nor dualist, but with a claim on real social relations and a claim on those with whom they were baptized: the Bishop, priests, and even their Christian slave owners. They knew that they should be free because they were free together in Christ.
 
-## <span class="ez-toc-section" id="Male_Headship_as_Gnostic_Anthropology"></span>Male Headship as Gnostic Anthropology<span class="ez-toc-section-end"></span>
+## Male Headship as Gnostic Anthropology
 
 What we saw in Bp. Gibson’s response is sadly not a historical outlier. Christianity’s social imagination has often been hijacked to support less than biblical mythologies, especially in how it imagines bodies arranged within hierarchies of power.
 
@@ -104,7 +73,7 @@ St. Irenaeus, St. Paul, and the Gospel of John all have it differently: Humanity
 
 It is the person of Christ that stands against any gnostic mythology, any dualism, as the sole essence of creation.
 
-## <span class="ez-toc-section" id="The_Difference_Baptism_Makes-In_Christ_Out_of_adam"></span>The Difference Baptism Makes—In Christ, Out of _adam_<span class="ez-toc-section-end"></span>
+## The Difference Baptism Makes—In Christ, Out of _adam_
 
 Not only do we fall into Gnostic mythology, but we also miss something fundamental about the incarnation itself if we think first of nature and look to Christ second. His person is _two_ natures, uncreated and created.
 
@@ -118,7 +87,7 @@ There is only one head, one source for Christians: the divine-_anthropos_ Jesus 
 
 To state it bluntly, asserting an Adamic male headship is to adhere to Gnostic mythology and to insist on the continuation of male/female as idealized identities based in headship is to get Christ’s work precisely backwards, leaving unreconciled something Christ has fundamentally put to death by his death. He doesn’t perfect the Adamic archetype. He brings it to death and raises himself as the new eschatological Human Being. He has, by the blood of his cross, put to death all divisions caused by the fall, whether male/female, master/slave, Jew/Gentile, and has raised instead the Human Being, who is known and justified by faith. Because Christ is two natures, our baptism into him transfers us out of what we are by nature into what he is in his person: infinite God united to flesh, a new mode of being.
 
-## <span class="ez-toc-section" id="A_New_Priesthood-Hebrews_and_the_Priesthood_of_Christ"></span>A New Priesthood—Hebrews and the Priesthood of Christ<span class="ez-toc-section-end"></span>
+## A New Priesthood—Hebrews and the Priesthood of Christ
 
 With the acknowledgment of a new mode of being human, we must also ask some fundamental questions about the priesthood itself. Christ’s priesthood, Hebrews tells us, is of the order of Melchizedek. Why then has the church often implemented a version of the Levitical priesthood, when Christ’s priesthood is of a completely different order?
 
@@ -130,7 +99,7 @@ If we imagine that Christ’s body, composed of the baptized, must still uphold 
 
 If we are justified to be priests by our maleness, then we might as well bring back the lambs for slaughter. St. Paul said as much about circumcision. Why is this any different?
 
-## <span class="ez-toc-section" id="She_is_the_Form_of_Christ"></span>“She is the Form of Christ”<span class="ez-toc-section-end"></span>
+## “She is the Form of Christ”
 
 So what does it mean to be _in persona Christi_&#8211;_as_&#8211;_anthropos_? What is the Human Being and how do we, as the body of Christ, embody that through baptism?
 
@@ -156,7 +125,7 @@ It is not Adam (or Eve) at the altar or hanging before the wild animals in the a
 
 If women are _in persona Christi_ in the arena, they are _in persona Christi_ at the altar.
 
-## <span class="ez-toc-section" id="What_He_Cannot_By_Nature_Have"></span>“What He Cannot By Nature Have”<span class="ez-toc-section-end"></span>
+## “What He Cannot By Nature Have”
 
 So where does this leave us, then? In the 1662 Book of Common Prayer, the preface to Holy Baptism says:
 

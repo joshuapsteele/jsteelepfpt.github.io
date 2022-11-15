@@ -13,47 +13,7 @@ tags:
   - research
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/dissertation-dispatch-2019-11-11/#Im_narrowing_my_focus_to_Genesis_1-3_and_the_Sermon_on_the_Mount" title="I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. ">I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/dissertation-dispatch-2019-11-11/#For_one_thing_Bonhoeffer_doesnt_have_that_much_material_in_any_one_place_on_the_book_of_Romans" title="For one thing, Bonhoeffer doesn’t have that much material in any one place on the book of Romans. ">For one thing, Bonhoeffer doesn’t have that much material in any one place on the book of Romans. </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/dissertation-dispatch-2019-11-11/#The_same_thing_is_basically_true_when_it_comes_to_the_Prophets_especially_the_Book_of_the_Twelve" title="The same thing is basically true when it comes to the Prophets, especially the Book of the Twelve. ">The same thing is basically true when it comes to the Prophets, especially the Book of the Twelve. </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/dissertation-dispatch-2019-11-11/#As_for_Barth_the_book_of_Romans_is_undeniably_relevant_for_his_theological_critique_of_religion" title="As for Barth, the book of Romans is undeniably relevant for his theological critique of religion. ">As for Barth, the book of Romans is undeniably relevant for his theological critique of religion. </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/dissertation-dispatch-2019-11-11/#What_about_the_Minor_Prophets" title="What about the Minor Prophets? ">What about the Minor Prophets? </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/dissertation-dispatch-2019-11-11/#What_about_the_Gospels" title="What about the Gospels?">What about the Gospels?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/dissertation-dispatch-2019-11-11/#What_did_Barth_have_to_say_about_the_Sermon_on_the_Mount" title="What did Barth have to say about the Sermon on the Mount? ">What did Barth have to say about the Sermon on the Mount? </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/dissertation-dispatch-2019-11-11/#Ultimately_the_gap_that_Im_trying_to_fill_with_my_dissertation_is_Barth_Bonhoeffer_and_the_Bible" title="Ultimately, the gap that I’m trying to fill with my dissertation is “Barth, Bonhoeffer, and the Bible.” ">Ultimately, the gap that I’m trying to fill with my dissertation is “Barth, Bonhoeffer, and the Bible.” </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/dissertation-dispatch-2019-11-11/#So_I_intend_to_focus_on_three_main_things_in_this_Barth_Bonhoeffer_and_the_Bible_dissertation" title="So, I intend to focus on three main things in this Barth, Bonhoeffer, and the Bible dissertation. ">So, I intend to focus on three main things in this Barth, Bonhoeffer, and the Bible dissertation. </a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Im_narrowing_my_focus_to_Genesis_1-3_and_the_Sermon_on_the_Mount"></span>I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. <span class="ez-toc-section-end"></span>
+## I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. 
 
 Originally, my dissertation proposal cast a very wide net. I was going to have the following chapters: 
 
@@ -67,11 +27,11 @@ Originally, my dissertation proposal cast a very wide net. I was going to have t
 
 However, after doing survey work, and spending most of the previous academic year working on Barth and Bonhoeffer’s reading of Genesis 1–3, I’ve decided to narrow my focus down to Genesis 1–3 and the Sermon on the Mount. 
 
-## <span class="ez-toc-section" id="For_one_thing_Bonhoeffer_doesnt_have_that_much_material_in_any_one_place_on_the_book_of_Romans"></span>For one thing, Bonhoeffer doesn’t have that much material in any one place on the book of Romans. <span class="ez-toc-section-end"></span>
+## For one thing, Bonhoeffer doesn’t have that much material in any one place on the book of Romans. 
 
 This is, admittedly, interesting in and of itself. Why, after being so clearly inspired by Barth’s theological interpretation of Scripture in his _Romans_ commentary, did Bonhoeffer decide to devote his first theological interpretation of Scripture to Genesis 1–3?
 
-## <span class="ez-toc-section" id="The_same_thing_is_basically_true_when_it_comes_to_the_Prophets_especially_the_Book_of_the_Twelve"></span>The same thing is basically true when it comes to the Prophets, especially the Book of the Twelve. <span class="ez-toc-section-end"></span>
+## The same thing is basically true when it comes to the Prophets, especially the Book of the Twelve. 
 
 Bonhoeffer, it’s true, does have the following: 
 
@@ -81,11 +41,11 @@ Bonhoeffer, it’s true, does have the following:
 
 However, he’s got nothing that comes close to the length and level of detail that are evident in his handlings of Genesis 1–3 (in _Creation and Fall_) and the Sermon on the Mount (in _Discipleship_). 
 
-## <span class="ez-toc-section" id="As_for_Barth_the_book_of_Romans_is_undeniably_relevant_for_his_theological_critique_of_religion"></span>As for Barth, the book of Romans is undeniably relevant for his theological critique of religion. <span class="ez-toc-section-end"></span>
+## As for Barth, the book of Romans is undeniably relevant for his theological critique of religion. 
 
 However, I plan to address this in my dissertation when I’m talking about the importance of being precise when we’re defining the term “religion.”
 
-## <span class="ez-toc-section" id="What_about_the_Minor_Prophets"></span>What about the Minor Prophets? <span class="ez-toc-section-end"></span>
+## What about the Minor Prophets? 
 
 Well, Barth does cite the Book of the Twelve throughout his works. But, as far as his main “theological critique of religion” passages go, there’s not very much to go off of. 
 
@@ -101,7 +61,7 @@ Now, as an aside, Barth has an extended discussion of Amos in CD IV/2 (445–52)
 
 However, I now plan to discuss Amos and the Book of the Twelve in the context of my constructive chapter. It strikes me as odd that Barth and Bonhoeffer didn’t do more to explicitly tie their theological critiques of religion to the Minor Prophets. Given the starting points that we have for their interpretations of the Minor Prophets, how might they have used the Book of the Twelve to advance their theological critiques of religions? Is there anything in the Minor Prophets that would critique or at least nuance Barth and Bonhoeffer when it comes to religion?
 
-## <span class="ez-toc-section" id="What_about_the_Gospels"></span>What about the Gospels?<span class="ez-toc-section-end"></span>
+## What about the Gospels?
 
 OK, so I’ve dealt with my originally proposed chapters on the Prophets and Romans. What about the Gospels? Well, I originally cast the net that broadly because Bonhoeffer mentions a litany of Gospel passages in a prison letter to Bethge: 
 
@@ -115,7 +75,7 @@ Oddly enough, however, Bonhoeffer rarely mentioned any of these Gospel passages 
 
 As is well-known, Bonhoeffer’s explanation of the call to/of discipleship is intricately tied to his exposition of the Sermon on the Mount. In fact, no other passage of Scripture played as large of a role in Bonhoeffer’s life and thought. So, without discounting the importance of other passages in the Gospels, a “Barth, Bonhoeffer, and the Bible” project really can’t get away with neglecting the Sermon on the Mount. And I believe that there will be enough material in the Sermon on the Mount to sustain a chapter (at least) of the dissertation, instead of devoting a chapter to “Gospels” in general.
 
-## <span class="ez-toc-section" id="What_did_Barth_have_to_say_about_the_Sermon_on_the_Mount"></span>What did Barth have to say about the Sermon on the Mount? <span class="ez-toc-section-end"></span>
+## What did Barth have to say about the Sermon on the Mount? 
 
 At first glance, honestly, it would seem that the Sermon on the Mount played a larger role in Bonhoeffer’s life and thought than it did in Barth’s. This very well might be true, but it’s important to remember that Barth did not completely neglect the Sermon. 
 
@@ -129,7 +89,7 @@ As Grieb notes:
 
 Thanks to the generosity of Peter Zocher, director of the Karl Barth-Archiv in Basel, Switzerland, I’ve been given access to the manuscript of Barth’s 1925 Sermon on the Mount lectures and the typescript of his 1933–34 lectures. These lectures, along with Barth’s discussion of the Sermon on the Mount in CD II/2 and elsewhere, will provide a good foundation, on the Barth side of things, for a comparative and critical reading of Barth and Bonhoeffer on the Sermon on the Mount. 
 
-## <span class="ez-toc-section" id="Ultimately_the_gap_that_Im_trying_to_fill_with_my_dissertation_is_Barth_Bonhoeffer_and_the_Bible"></span>Ultimately, the gap that I’m trying to fill with my dissertation is “Barth, Bonhoeffer, and the Bible.” <span class="ez-toc-section-end"></span>
+## Ultimately, the gap that I’m trying to fill with my dissertation is “Barth, Bonhoeffer, and the Bible.” 
 
 That is, I want to take a closer look at Barth and Bonhoeffer’s handling of Scripture in order to make better sense of the “Barth-Bonhoeffer relationship.” I’m trying to follow John Webster’s suggestion that “rather than pursuing questions about positivism of revelation or about the worldly and ethical, light can be shed on the relation of Bonhoeffer and Barth by looking at the place of the interpretation of Scripture in their respective theologies” (_Word and Church_, 88).
 
@@ -161,7 +121,7 @@ Here’s an abstract for that paper:
 
 I now plan to expand my work in that paper to the first body chapter of my dissertation, which I will devote to the pitfalls and potentials involved in defining “religion,” perhaps the slipperiest of all theological terms!
 
-## <span class="ez-toc-section" id="So_I_intend_to_focus_on_three_main_things_in_this_Barth_Bonhoeffer_and_the_Bible_dissertation"></span>So, I intend to focus on three main things in this Barth, Bonhoeffer, and the Bible dissertation. <span class="ez-toc-section-end"></span>
+## So, I intend to focus on three main things in this Barth, Bonhoeffer, and the Bible dissertation. 
 
   1. What Barth and Bonhoeffer meant, precisely, by “**religion**.”
   2. How they interpreted **Genesis 1–3**, especially the “**knowledge of good and evil**,” and how these things relate to their theological critiques of religion.

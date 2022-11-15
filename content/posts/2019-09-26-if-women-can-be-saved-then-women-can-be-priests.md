@@ -91,52 +91,7 @@ _After reading this piece, please see [Lee Nelson&#8217;s response][1] and [Emil
 
 * * *
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/#The_connection_between_christology_and_soteriology" title="The connection between christology and soteriology">The connection between christology and soteriology</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/#Implications" title="Implications">Implications</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/#Now_what_does_all_this_have_to_do_with_womens_ordination" title="Now, what does all this have to do with women’s ordination?">Now, what does all this have to do with women’s ordination?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/#Responding_to_an_objection_Arent_redemption_and_sacramental_representation_different" title="Responding to an objection: Aren’t redemption and sacramental representation different?">Responding to an objection: Aren’t redemption and sacramental representation different?</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/#First_the_idea_of_sacramentality_is_rooted_in_part_in_the_analogy_of_being" title="First, the idea of sacramentality is rooted, in part, in the analogy of being.">First, the idea of sacramentality is rooted, in part, in the analogy of being.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/#Second_sacramental_representation_means_the_priest_functions_not_as_Christ_but_as_an_icon_of_Christ" title="Second, sacramental representation means the priest functions not as Christ, but as an icon of Christ.">Second, sacramental representation means the priest functions not as Christ, but as an icon of Christ.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/#Finally_if_the_sacramental_validity_of_the_priesthood_is_based_in_significant_part_upon_the_sexed_and_gendered_body_of_the_priest_that_is_a_male_body_to_match_the_male_Christ_then_we_find_ourselves_in_a_bit_of_a_bind" title="Finally, if the sacramental validity of the priesthood is based in significant part upon the sexed and gendered body of the priest (that is, a male body to match the male Christ), then we find ourselves in a bit of a bind.">Finally, if the sacramental validity of the priesthood is based in significant part upon the sexed and gendered body of the priest (that is, a male body to match the male Christ), then we find ourselves in a bit of a bind.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/#No_matter_which_priestly_body_is_the_subject_of_scrutiny_all_bodies_inevitably_fall_short_of_a_pure_one-to-one_correspondence_between_the_sexed_and_gendered_body_of_human_beings_and_the_Bride_and_Bridegroom_they_are_meant_to_represent" title="No matter which priestly body is the subject of scrutiny, all bodies inevitably fall short of a pure one-to-one correspondence between the sexed and gendered body of human beings and the Bride and Bridegroom they are meant to represent.">No matter which priestly body is the subject of scrutiny, all bodies inevitably fall short of a pure one-to-one correspondence between the sexed and gendered body of human beings and the Bride and Bridegroom they are meant to represent.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/#Conclusion_If_Christ_in_his_male_body_saves_women_through_their_shared_humanity_then_women_through_their_shared_humanity_with_Christ_can_represent_Christ_at_the_altar" title="Conclusion: If Christ in his male body saves women through their shared humanity, then women, through their shared humanity with Christ, can represent Christ at the altar.">Conclusion: If Christ in his male body saves women through their shared humanity, then women, through their shared humanity with Christ, can represent Christ at the altar.</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/#Postscript_Further_Reading" title="Postscript: Further Reading">Postscript: Further Reading</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="The_connection_between_christology_and_soteriology"></span>The connection between christology and soteriology<span class="ez-toc-section-end"></span>
+## The connection between christology and soteriology
 
 A cornerstone of orthodox Christian theology is summed up in the phrase “what is not assumed is not healed”. The phrase is echoed by many early church fathers, but it is credited to St. Gregory of Nazianzus.
 
@@ -159,7 +114,7 @@ In this way, christology and soteriology (the doctrine of salvation) are intimat
 
 As the divine Word, he could descend into the darkest depths of human sin and suffering without being overcome by them. And, as the Word-made-flesh, he could ascend to the heights of heaven following his resurrection—and bring us, now reconciled and united with God, along with him.
 
-## <span class="ez-toc-section" id="Implications"></span>Implications<span class="ez-toc-section-end"></span>
+## Implications
 
 If “what is not assumed is not healed” is a crucial, non-negotiable aspect of orthodox Christianity, then we do well to consider carefully its implications.
 
@@ -183,7 +138,7 @@ Why? Because in assuming the flesh and blood, soul and spirit, of a particular h
 
 Again, what matters for salvation is Jesus’ _humanness_, not Jesus’ maleness.
 
-## <span class="ez-toc-section" id="Now_what_does_all_this_have_to_do_with_womens_ordination"></span>Now, what does all this have to do with women’s ordination?<span class="ez-toc-section-end"></span>
+## Now, what does all this have to do with women’s ordination?
 
 Quite a lot, actually.
 
@@ -213,7 +168,7 @@ The particularities of Jesus’ person—a poor, Jewish, male, unmarried, 30-som
 
 If that’s the case, then all persons are potentially capable of serving as sacramental signs of their Savior.
 
-## <span class="ez-toc-section" id="Responding_to_an_objection_Arent_redemption_and_sacramental_representation_different"></span>Responding to an objection: Aren’t redemption and sacramental representation different?<span class="ez-toc-section-end"></span>
+## Responding to an objection: Aren’t redemption and sacramental representation different?
 
 But, some might object: “Jesus, though male, can redeem women. But women can’t sacramentally represent Jesus because redemption and sacramental representation are two different things.”
 
@@ -221,19 +176,19 @@ I would respond: On what basis does the concept of sacramental representation re
 
 Many things could be addressed on this front, but I’ll specify only a few.
 
-### <span class="ez-toc-section" id="First_the_idea_of_sacramentality_is_rooted_in_part_in_the_analogy_of_being"></span>First, the idea of sacramentality is rooted, in part, in the analogy of being.<span class="ez-toc-section-end"></span>
+### First, the idea of sacramentality is rooted, in part, in the analogy of being.
 
 An analogy does not require a pure one-to-one correspondence—indeed, in Christian theology it specifies the opposite. Between creature and Creator there are similarities, but never such that the dissimilarities are not always greater. Thus, all analogies between God and human beings are inadequate. They are able to speak some real truth, but always fall short in the end.
 
 Similarly, the sacramental representation of the priest will always fall short of pure representation because it is based on analogy.
 
-### <span class="ez-toc-section" id="Second_sacramental_representation_means_the_priest_functions_not_as_Christ_but_as_an_icon_of_Christ"></span>Second, sacramental representation means the priest functions not _as Christ_, but as an _icon_ of Christ.<span class="ez-toc-section-end"></span>
+### Second, sacramental representation means the priest functions not _as Christ_, but as an _icon_ of Christ.
 
 As William Witt has argued, priests are jars of clay, pointing away from him- or herself and pointing to Christ the High Priest, particularly as they share in his suffering (2 Cor. 4:5-10).
 
 What is central is not physical similarity to the male body of Christ, but the priest’s participation in the pattern of Christ, the Suffering Servant. Insofar as the priest demonstrates this participation, the priest serves as a sacramental representation.
 
-### <span class="ez-toc-section" id="Finally_if_the_sacramental_validity_of_the_priesthood_is_based_in_significant_part_upon_the_sexed_and_gendered_body_of_the_priest_that_is_a_male_body_to_match_the_male_Christ_then_we_find_ourselves_in_a_bit_of_a_bind"></span>Finally, if the sacramental validity of the priesthood is based in significant part upon the sexed and gendered body of the priest (that is, a male body to match the male Christ), then we find ourselves in a bit of a bind.<span class="ez-toc-section-end"></span>
+### Finally, if the sacramental validity of the priesthood is based in significant part upon the sexed and gendered body of the priest (that is, a male body to match the male Christ), then we find ourselves in a bit of a bind.
 
 As Sarah Coakley (among others) has shown, in the course of the Eucharistic service, the priest not only acts _in persona Christi_, but also _in persona Ecclesiae_, which, in the imagery of Eph. 5:22, is gendered female.
 
@@ -241,13 +196,13 @@ If a woman cannot act _in persona Christi_ because her female body does not matc
 
 The answer, of course, is that they can; because the priestly body functions sacramentally, or analogically.
 
-### <span class="ez-toc-section" id="No_matter_which_priestly_body_is_the_subject_of_scrutiny_all_bodies_inevitably_fall_short_of_a_pure_one-to-one_correspondence_between_the_sexed_and_gendered_body_of_human_beings_and_the_Bride_and_Bridegroom_they_are_meant_to_represent"></span>No matter which priestly body is the subject of scrutiny, all bodies inevitably fall short of a pure one-to-one correspondence between the sexed and gendered body of human beings and the Bride and Bridegroom they are meant to represent.<span class="ez-toc-section-end"></span>
+### No matter which priestly body is the subject of scrutiny, all bodies inevitably fall short of a pure one-to-one correspondence between the sexed and gendered body of human beings and the Bride and Bridegroom they are meant to represent.
 
 And that brings us back to the principle of analogy. No human body exactly, literally, univocally corresponds to our Great High Priest, Jesus Christ. But, they do not have to. They need only serve as analogues, which is, in fact, core to what sacrament means in the first place.
 
 Let us return then to Gregory’s great insight, “what is not assumed is not healed,” and put my overall point as plainly as possible:
 
-## <span class="ez-toc-section" id="Conclusion_If_Christ_in_his_male_body_saves_women_through_their_shared_humanity_then_women_through_their_shared_humanity_with_Christ_can_represent_Christ_at_the_altar"></span>Conclusion: If Christ in his male body saves women through their shared humanity, then women, through their shared humanity with Christ, can represent Christ at the altar.<span class="ez-toc-section-end"></span>
+## Conclusion: If Christ in his male body saves women through their shared humanity, then women, through their shared humanity with Christ, can represent Christ at the altar.
 
 If they cannot—if, in their female bodies, women are incapable of serving as sacramental signs of the male Savior, Jesus Christ—then women’s salvation is in jeopardy, as is the salvation of all who differ from Christ in their embodied particulars.
 
@@ -257,7 +212,7 @@ Do women demonstrate bodily differences from the God-man, Jesus Christ? Yes, of 
 
 But it is by virtue of those very distinctions that women offer a powerful sacramental sign of our Great High Priest and the new creation he has inaugurated in his body. And we who feast at Eucharistic tables presided over by women priests get to see glimpses of this new creation every Sunday.
 
-## <span class="ez-toc-section" id="Postscript_Further_Reading"></span>Postscript: Further Reading<span class="ez-toc-section-end"></span>
+## Postscript: Further Reading
 
 The argument offered here is inspired, in part, by the following resources. I recommend them to you for further reading:
 

@@ -5,32 +5,7 @@ type: page
 date: 2019-01-23T22:24:16+00:00
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/gregory-of-nyssa-on-the-soul-and-the-resurrection/#Gregory_of_Nyssa" title="Gregory of Nyssa">Gregory of Nyssa</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/gregory-of-nyssa-on-the-soul-and-the-resurrection/#On_the_Soul_and_Resurrection_OSR" title="On the Soul and Resurrection [OSR]">On the Soul and Resurrection [OSR]</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/gregory-of-nyssa-on-the-soul-and-the-resurrection/#The_Argument" title="The Argument">The Argument</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/gregory-of-nyssa-on-the-soul-and-the-resurrection/#Universalism" title="Universalism?">Universalism?</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Gregory_of_Nyssa"></span>Gregory of Nyssa<span class="ez-toc-section-end"></span>
+## Gregory of Nyssa
 
 <img decoding="async" loading="lazy" src="https://joshuapsteele.com/wp-content/uploads/2019/12/Gregory_of_Nyssa.jpg" alt="Gregory of Nyssa" title="Gregory_of_Nyssa.jpg" border="0" width="198" height="225" /> 
 
@@ -45,9 +20,9 @@ From T.A. Noble:
 
 * * *
 
-## <span class="ez-toc-section" id="On_the_Soul_and_Resurrection_OSR"></span>On the Soul and Resurrection [OSR]<span class="ez-toc-section-end"></span>
+## On the Soul and Resurrection [OSR]
 
-## <span class="ez-toc-section" id="The_Argument"></span>The Argument<span class="ez-toc-section-end"></span>
+## The Argument
 
 SOURCE: Gregory of Nyssa, “On the Soul and the Resurrection,” in Gregory of Nyssa: Dogmatic Treatises, Etc., ed. Philip Schaff and Henry Wace, trans. William Moore, vol. 5, A Select Library of the Nicene and Post-Nicene Fathers of the Christian Church, Second Series (New York: Christian Literature Company, 1893), 428–429.
 
@@ -101,7 +76,7 @@ _&#8220;Argument&#8221; quoted in its entirety, formatted with bullet points, em
   * They are all answered by a Definition of the Resurrection, i.e. the restoration of man to his original state. In that, there is neither age nor infancy; and the “coats of skins” are laid aside.
   * When the process of purification has been completed, the better attributes of the soul appear—imperishability, life, honour, grace, glory, power, and, in short, all that belongs to human nature as the image of Deity.
 
-## <span class="ez-toc-section" id="Universalism"></span>Universalism?<span class="ez-toc-section-end"></span>
+## Universalism?
 
 Here is a quote from OSR that seems to indicate Nyssen&#8217;s belief in apocatastasis.
 

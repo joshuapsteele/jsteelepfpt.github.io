@@ -18,56 +18,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
 
 * * *
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1913_GA_I8" title="Predigten 1913 (GA I.8)">Predigten 1913 (GA I.8)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1914_GA_I5" title="Predigten 1914 (GA I.5)">Predigten 1914 (GA I.5)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1915_GA_I27" title="Predigten 1915 (GA I.27)">Predigten 1915 (GA I.27)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1916_GA_I29" title="Predigten 1916 (GA I.29)">Predigten 1916 (GA I.29)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1917_GA_I32" title="Predigten 1917 (GA I.32)">Predigten 1917 (GA I.32)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1918_GA_I37" title="Predigten 1918 (GA I.37)">Predigten 1918 (GA I.37)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1919_GA_I39" title="Predigten 1919 (GA I.39)">Predigten 1919 (GA I.39)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1920_GA_I42" title="Predigten 1920 (GA I.42)">Predigten 1920 (GA I.42)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1921_GA_I44" title="Predigten 1921 (GA I.44)">Predigten 1921 (GA I.44)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1921-1935_GA_I31" title="Predigten 1921-1935 (GA I.31)">Predigten 1921-1935 (GA I.31)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1935-1952_GA_I26" title="Predigten 1935-1952 (GA I.26)">Predigten 1935-1952 (GA I.26)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/a-list-of-karl-barths-sermons/#Predigten_1954-1967_GA_I12" title="Predigten 1954-1967 (GA I.12)">Predigten 1954-1967 (GA I.12)</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Predigten_1913_GA_I8"></span>Predigten 1913 (GA I.8)<span class="ez-toc-section-end"></span>
+## Predigten 1913 (GA I.8)
 
     1. und 5. Januar (Neujahr): Prediger 1,9
     
@@ -172,7 +123,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     28. Dezember: Hebräer 13,14
     
 
-## <span class="ez-toc-section" id="Predigten_1914_GA_I5"></span>Predigten 1914 (GA I.5)<span class="ez-toc-section-end"></span>
+## Predigten 1914 (GA I.5)
 
     1. Januar (Neujahr): Psalm 31,15-16
     
@@ -287,7 +238,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     Grabrede
     
 
-## <span class="ez-toc-section" id="Predigten_1915_GA_I27"></span>Predigten 1915 (GA I.27)<span class="ez-toc-section-end"></span>
+## Predigten 1915 (GA I.27)
 
     1. und 3. Januar (Neujahr): Offenbarung 1,8
     
@@ -394,7 +345,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     Kasualreden
     
 
-## <span class="ez-toc-section" id="Predigten_1916_GA_I29"></span>Predigten 1916 (GA I.29)<span class="ez-toc-section-end"></span>
+## Predigten 1916 (GA I.29)
 
     1. Januar (Neujahr): Hebräer 13,8
     
@@ -507,7 +458,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     Kasualreden: Hochzeit von Karl Guggenheim und Nelly Zollikofer
     
 
-## <span class="ez-toc-section" id="Predigten_1917_GA_I32"></span>Predigten 1917 (GA I.32)<span class="ez-toc-section-end"></span>
+## Predigten 1917 (GA I.32)
 
     1. und 7. Januar (Neujahr): Psalm 25,14
     
@@ -616,7 +567,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     Anhang: Vorworte zu «Suchet Gott, so werdet ihr leben!»
     
 
-## <span class="ez-toc-section" id="Predigten_1918_GA_I37"></span>Predigten 1918 (GA I.37)<span class="ez-toc-section-end"></span>
+## Predigten 1918 (GA I.37)
 
     1. Januar (Neujahr): Psalm 96,1
     
@@ -707,7 +658,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     29. Dezember: Offenbarung 1,3
     
 
-## <span class="ez-toc-section" id="Predigten_1919_GA_I39"></span>Predigten 1919 (GA I.39)<span class="ez-toc-section-end"></span>
+## Predigten 1919 (GA I.39)
 
     1. Januar (Neujahr): Psalm 23
     
@@ -814,7 +765,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     28. Dezember: Matthäus 2,1-12
     
 
-## <span class="ez-toc-section" id="Predigten_1920_GA_I42"></span>Predigten 1920 (GA I.42)<span class="ez-toc-section-end"></span>
+## Predigten 1920 (GA I.42)
 
     1. Januar (Neujahr): Jeremia 31,31-34
     
@@ -913,7 +864,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     26. Dezember (Weihnacht II): Lukas 2,33-35
     
 
-## <span class="ez-toc-section" id="Predigten_1921_GA_I44"></span>Predigten 1921 (GA I.44)<span class="ez-toc-section-end"></span>
+## Predigten 1921 (GA I.44)
 
     1. Januar (Neujahr): Offenbarung 21,1-7
     
@@ -980,7 +931,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     Kasualrede
     
 
-## <span class="ez-toc-section" id="Predigten_1921-1935_GA_I31"></span>Predigten 1921-1935 (GA I.31)<span class="ez-toc-section-end"></span>
+## Predigten 1921-1935 (GA I.31)
 
     Jakobus 5,7-8 (1921)
     
@@ -1125,7 +1076,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     Vorwort zu: Die große Barmherzigkeit (1935)
     
 
-## <span class="ez-toc-section" id="Predigten_1935-1952_GA_I26"></span>Predigten 1935-1952 (GA I.26)<span class="ez-toc-section-end"></span>
+## Predigten 1935-1952 (GA I.26)
 
     Matthäus 6,24-34 (1935)
     
@@ -1248,7 +1199,7 @@ The only way to display the dates correctly in Markdown is to write these up as 
     Jesus Christus ist auferstanden (1947)
     
 
-## <span class="ez-toc-section" id="Predigten_1954-1967_GA_I12"></span>Predigten 1954-1967 (GA I.12)<span class="ez-toc-section-end"></span>
+## Predigten 1954-1967 (GA I.12)
 
     Dennoch bleibe ich stets bei dir, Psalm 73,23 (1954)
     

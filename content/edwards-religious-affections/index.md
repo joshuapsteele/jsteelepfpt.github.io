@@ -6,71 +6,7 @@ date: 2019-01-23T22:27:40+00:00
 featured_image: /wp-content/uploads/2020/01/Jonathan_Edwards-1200x1319.jpg
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#BIBLIOGRAPHIC_DATA" title="BIBLIOGRAPHIC DATA:">BIBLIOGRAPHIC DATA:</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#INTERPRETATION" title="INTERPRETATION:">INTERPRETATION:</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Problems_Attempted_to_Solve" title="Problems Attempted to Solve:">Problems Attempted to Solve:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Summary_What_is_the_book_about_as_a_whole" title="Summary (What is the book about as a whole?):">Summary (What is the book about as a whole?):</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Outline_of_Source" title="Outline of Source:">Outline of Source:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Key_Terms" title="Key Terms:">Key Terms:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Key_PropositionsArguments_What_is_being_said_in_detail_and_how" title="Key Propositions/Arguments (What is being said in detail, and how?):">Key Propositions/Arguments (What is being said in detail, and how?):</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#CRITIQUE" title="CRITIQUE:">CRITIQUE:</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Is_the_book_true_in_whole_or_part" title="Is the book true, in whole or part?:">Is the book true, in whole or part?:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Problems_Solved" title="Problems Solved:">Problems Solved:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Problems_Not_Solved" title="Problems Not Solved:">Problems Not Solved:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Author_is_uninformed" title="Author is uninformed:">Author is uninformed:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Author_is_misinformed" title="Author is misinformed:">Author is misinformed:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-14" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Author_is_illogical" title="Author is illogical:">Author is illogical:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-15" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#Author_is_incomplete" title="Author is incomplete:">Author is incomplete:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-16" href="https://joshuapsteele.com/portfolio/theology-competency-reading-list/edwards-religious-affections/#What_of_it_Why_is_it_important_to_know_these_things" title="What of it? (Why) is it important to know these things?:">What of it? (Why) is it important to know these things?:</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="BIBLIOGRAPHIC_DATA"></span>BIBLIOGRAPHIC DATA:<span class="ez-toc-section-end"></span>
+## BIBLIOGRAPHIC DATA:
 
 Author: Jonathan Edwards  
 Title: Religious Affections  
@@ -82,15 +18,15 @@ _Note: [Religious Affections is also available for free through the Christian Cl
 
 * * *
 
-## <span class="ez-toc-section" id="INTERPRETATION"></span>INTERPRETATION:<span class="ez-toc-section-end"></span>
+## INTERPRETATION:
 
-### <span class="ez-toc-section" id="Problems_Attempted_to_Solve"></span>Problems Attempted to Solve:<span class="ez-toc-section-end"></span>
+### Problems Attempted to Solve:
 
 How to tell the difference between true and false religion. Or, as Edwards himself puts it:
 
 > THERE is no question whatsoever, that is of greater importance to mankind, and that it more concerns every individual person to be well resolved in, than this, **What are the distinguishing qualifications of those that are in favor with God, and entitled to his eternal rewards?** Or, which comes to the same thing, **What is the nature of true religion? and wherein do lie the distinguishing notes of that virtue and holiness, that is acceptable in the sight of God.** (WJE 2:84, emphasis added). 
 
-### <span class="ez-toc-section" id="Summary_What_is_the_book_about_as_a_whole"></span>Summary (What is the book about as a whole?):<span class="ez-toc-section-end"></span>
+### Summary (What is the book about as a whole?):
 
 Edwards (1) describes and defends the importance of &#8220;affections&#8221; when it comes to &#8220;true religion.&#8221;
 
@@ -102,7 +38,7 @@ Finally, he (3) provides 12 trustworthy signs of genuine/true religion.
 
 *Note: See [the summary of Edwards&#8217;s argument provided in the &#8220;Editor&#8217;s Introduction&#8221; to WJE 2][3]. Also, [see Justin Taylor&#8217;s helpful brief summary of Edwards&#8217;s argument at The Gospel Coalition blog][4].
 
-### <span class="ez-toc-section" id="Outline_of_Source"></span>Outline of Source:<span class="ez-toc-section-end"></span>
+### Outline of Source:
 
   * AUTHOR&#8217;S PREFACE
   * PART ONE: Concerning the Nature of the Affections, and Their Importance in Religion
@@ -133,11 +69,11 @@ Finally, he (3) provides 12 trustworthy signs of genuine/true religion.
       * The higher gracious affections are raised, the more is a spiritual appetite and longing of soul after spiritual attainments increased. (376-82)
       * Have their exercise and fruit in Christian practice. (383-462)
 
-### <span class="ez-toc-section" id="Key_Terms"></span>Key Terms:<span class="ez-toc-section-end"></span>
+### Key Terms:
 
   * Affections: &#8220;the more vigorous and sensible exercises of the inclination and will of the soul” (WJE 2:96)
 
-### <span class="ez-toc-section" id="Key_PropositionsArguments_What_is_being_said_in_detail_and_how"></span>Key Propositions/Arguments (What is being said in detail, and how?):<span class="ez-toc-section-end"></span>
+### Key Propositions/Arguments (What is being said in detail, and how?):
 
   * &#8220;True religion, in great part, consists in holy affections.&#8221; (WJE 2:95).
   * Affections are a [necessary, though not sufficient, condition][5] for true religion.
@@ -153,37 +89,37 @@ Finally, he (3) provides 12 trustworthy signs of genuine/true religion.
 
 * * *
 
-## <span class="ez-toc-section" id="CRITIQUE"></span>CRITIQUE:<span class="ez-toc-section-end"></span>
+## CRITIQUE:
 
-### <span class="ez-toc-section" id="Is_the_book_true_in_whole_or_part"></span>Is the book true, in whole or part?:<span class="ez-toc-section-end"></span>
-
-  * 
-
-### <span class="ez-toc-section" id="Problems_Solved"></span>Problems Solved:<span class="ez-toc-section-end"></span>
+### Is the book true, in whole or part?:
 
   * 
 
-### <span class="ez-toc-section" id="Problems_Not_Solved"></span>Problems Not Solved:<span class="ez-toc-section-end"></span>
+### Problems Solved:
 
   * 
 
-### <span class="ez-toc-section" id="Author_is_uninformed"></span>Author is uninformed:<span class="ez-toc-section-end"></span>
+### Problems Not Solved:
 
   * 
 
-### <span class="ez-toc-section" id="Author_is_misinformed"></span>Author is misinformed:<span class="ez-toc-section-end"></span>
+### Author is uninformed:
 
   * 
 
-### <span class="ez-toc-section" id="Author_is_illogical"></span>Author is illogical:<span class="ez-toc-section-end"></span>
+### Author is misinformed:
 
   * 
 
-### <span class="ez-toc-section" id="Author_is_incomplete"></span>Author is incomplete:<span class="ez-toc-section-end"></span>
+### Author is illogical:
 
   * 
 
-### <span class="ez-toc-section" id="What_of_it_Why_is_it_important_to_know_these_things"></span>What of it? (Why) is it important to know these things?:<span class="ez-toc-section-end"></span>
+### Author is incomplete:
+
+  * 
+
+### What of it? (Why) is it important to know these things?:
 
 &#8211;
 

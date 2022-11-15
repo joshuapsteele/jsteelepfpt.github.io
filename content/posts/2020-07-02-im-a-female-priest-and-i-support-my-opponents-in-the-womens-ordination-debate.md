@@ -21,32 +21,7 @@ There is not unanimous agreement about women’s ordination in the worldwide Ang
 
 This makes the ACNA a complicated place to be ordained, especially as a woman. However, I also believe that this diversity of conviction and practice is a strength of our denomination.
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate/#Unity_in_Diversity" title="Unity in Diversity">Unity in Diversity</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate/#This_is_not_to_say_that_anything_goes" title="This is not to say that “anything goes”">This is not to say that “anything goes”</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate/#Bearing_with_one_another_in_love" title="Bearing with one another in love">Bearing with one another in love</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate/#Laying_down_our_lives" title="Laying down our lives">Laying down our lives</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Unity_in_Diversity"></span>Unity in Diversity<span class="ez-toc-section-end"></span>
+## Unity in Diversity
 
 Since the inception of the ACNA, the College of Bishops has embraced a “dual integrities” approach to the ordination of women.
 
@@ -77,11 +52,11 @@ Anglicanism, on the other hand, describes a willingness to hold together a lot o
 
 Unity does not have to mean absolute unanimity on secondary issues and practices. I realize that some would consider women&#8217;s ordination a primary issue. But since the bishops in the ACNA have agreed to allow differences of opinion on this issue within the Province, it remains a secondary issue in practice.
 
-## <span class="ez-toc-section" id="This_is_not_to_say_that_anything_goes"></span>This is not to say that “anything goes”<span class="ez-toc-section-end"></span>
+## This is not to say that “anything goes”
 
 As canon theologian Esau McCaulley [noted][3], there are certainly boundaries around what constitutes “tolerable” disagreement in the Church. This is precisely why the historic ecumenical creeds came into being, and this is why our bishops gather to have difficult conversations about questions of orthodoxy today. Therefore we can follow their example by practicing gracious respect for conscience within those parameters.
 
-## <span class="ez-toc-section" id="Bearing_with_one_another_in_love"></span>Bearing with one another in love<span class="ez-toc-section-end"></span>
+## Bearing with one another in love
 
 The dual integrities model gives us an opportunity to practice this graciousness. It provides the opportunity to “walk&#8230;with all humility and gentleness, with patience, bearing with one another in love, eager to maintain the unity of the Spirit in the bond of peace” as the apostle Paul encourages us to do (Eph. 4:1–3).
 
@@ -89,7 +64,7 @@ I recently saw this happen at a diocesan gathering where members of a task-force
 
 This practice of “bearing with one another” is not only good for the Church. It is also good for the world. We live in a society that is characterized by polarization and ultimatums. “If you don’t agree with me,” we are told, “you can’t have fellowship with me.” Often this goes much further: “If you don’t agree with me, you don’t deserve to exist.” In light of this, Christians who can live peaceably together—even with significant disagreements—can be a powerful apologetic to the broader culture.
 
-## <span class="ez-toc-section" id="Laying_down_our_lives"></span>Laying down our lives<span class="ez-toc-section-end"></span>
+## Laying down our lives
 
 I don’t mean to imply that this is easy to do. With significant disagreement often comes significant pain. I know women who experience real discouragement and frustration, ranging from challenges finding a job (or even a discernment committee) to the inability to exercise their ordained ministry in their diocese. I also know men and women who feel uncomfortable bringing their children to Communion when a woman is celebrating the Eucharist.
 

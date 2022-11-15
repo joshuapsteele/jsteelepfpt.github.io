@@ -22,46 +22,7 @@ _Theology is confusing enough, much more so when you attempt to summarize it all
 >   <em>“At the centre of Christian faith is the history of Christ. </em><em>At the centre of the history of Christ is his passion and his death on the cross.” </em><em>~ Jürgen Moltmann</em><a href="#_ftn1" name="_ftnref1"><sup><sup>[1]</sup></sup></a>
 > </p>
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/theology-outline/#Theology_in_Outline_An_Attempted_Summary_of_the_Christian_Faith" title="Theology in Outline: A[n Attempted] Summary of the Christian Faith">Theology in Outline: A[n Attempted] Summary of the Christian Faith</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/theology-outline/#THE_HOLY_TRINITY_The_Main_Characters_of_Theology" title="THE HOLY TRINITY: The Main Character(s) of Theology">THE HOLY TRINITY: The Main Character(s) of Theology</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/theology-outline/#ELECTION_CREATION" title="ELECTION & CREATION">ELECTION & CREATION</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/theology-outline/#RECONCILIATION" title="RECONCILIATION">RECONCILIATION</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/theology-outline/#Back_to_the_Cross_and_the_Empty_Tomb" title="Back to the Cross and the Empty Tomb">Back to the Cross and the Empty Tomb</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/theology-outline/#THE_STORY_OF_SCRIPTURE" title="THE STORY OF SCRIPTURE:">THE STORY OF SCRIPTURE:</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/theology-outline/#THE_CHURCH" title="THE CHURCH">THE CHURCH</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/theology-outline/#NOTES" title="NOTES">NOTES</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="Theology_in_Outline_An_Attempted_Summary_of_the_Christian_Faith"></span>Theology in Outline: A[n Attempted] Summary of the Christian Faith<span class="ez-toc-section-end"></span>
+# Theology in Outline: A[n Attempted] Summary of the Christian Faith
 
 We believe that, during the prefecture of Pontius Pilate, God died on a Roman cross.<a href="#_ftn2" name="_ftnref2">[2]</a> We also believe that, the third day thereafter, Jesus of Nazareth – the same person who had been crucified – rose again from the dead.
 
@@ -80,7 +41,7 @@ Should we choose the _former_, our Christ, canon, and confession are irreducibly
 
 Yet, should we choose the _latter_, God is irreducibly, ineluctably Triune – Father, Son, and Holy Spirit. We believe, we **trust** that the Triune God is who God has revealed Godself to be.<!--more-->
 
-## <span class="ez-toc-section" id="THE_HOLY_TRINITY_The_Main_Characters_of_Theology"></span>THE HOLY TRINITY: The Main Character(s) of Theology<span class="ez-toc-section-end"></span>
+## THE HOLY TRINITY: The Main Character(s) of Theology
 
 The narrative of **Scripture portrays the Trinity “by telling a history of God with us that displays three enactors of that history, each of which is indeed other than the other two and yet is at the same time the same God as the other two.”**<a href="#_ftn4" name="_ftnref4"><sup><sup>[4]</sup></sup></a>
 
@@ -112,7 +73,7 @@ And yet, we are still faced with the difficulty of the Incarnation: **how can th
 
 (For more on the Trinity, see my essay: [&#8220;The Holy Trinity: What Is It? (Why) Is It Important?&#8221;][2])
 
-## <span class="ez-toc-section" id="ELECTION_CREATION"></span>ELECTION & CREATION<span class="ez-toc-section-end"></span>
+## ELECTION & CREATION
 
 There is no escape from time, not even for God. The Trinity holds together not just Crucifixion and Resurrection, but time itself.<a href="#_ftn13" name="_ftnref13">[13]</a>
 
@@ -136,7 +97,7 @@ By, for, and to Jesus Christ “the universe is created as a theatre for God’s
 
 Humanity only exists within this Christological correspondence, on the basis of a shared sphere with Christ.<a href="#_ftn14" name="_ftnref14">[14]</a> Therefore, “to be a man is to be with God,” for no matter what else each individual is, “he is on the basis of the fact that he is with Jesus and therefore with God” (CD III/2, 135). **The Incarnation grounds anthropology in the Triune God’s address to humanity through Jesus Christ.**
 
-## <span class="ez-toc-section" id="RECONCILIATION"></span>RECONCILIATION<span class="ez-toc-section-end"></span>
+## RECONCILIATION
 
 However, the Incarnation also yields the clearest view of sin’s absurdity.
 
@@ -148,7 +109,7 @@ Just as there is no God behind God, there is no humanity beyond the divine summo
 
 **Therefore, sin is not merely <span style="text-decoration: underline;">moral</span> – it is both <span style="text-decoration: underline;">ontological</span> and <span style="text-decoration: underline;">incomprehensible</span>**: the inherent contradiction of a nothingness which opposes God as the very ground of all existence and reality.
 
-## <span class="ez-toc-section" id="Back_to_the_Cross_and_the_Empty_Tomb"></span>Back to the Cross and the Empty Tomb<span class="ez-toc-section-end"></span>
+## Back to the Cross and the Empty Tomb
 
 Pardon the cyclical nature of this discussion, but it is time to return to the Crucifixion and Resurrection.
 
@@ -168,7 +129,7 @@ This is all beginning to sound rather _timeless_.
 
 And yet, a proper appreciation of the **_timeliness_** of the Trinity is necessary to make sense of the divine revelation we have actually received, **for the Bible contains but an account of the Trinity’s external works in the midst of time – first through the story of Israel, and then through the story of the Church.**<a href="#_ftn15" name="_ftnref15">[15]</a>
 
-## <span class="ez-toc-section" id="THE_STORY_OF_SCRIPTURE"></span>THE STORY OF SCRIPTURE:<span class="ez-toc-section-end"></span>
+## THE STORY OF SCRIPTURE:
 
 Between creation and the Incarnation lies the story of **ISRAEL**, lamentably overlooked in many formulations of the Christian faith.<a href="#_ftn16" name="_ftnref16">[16]</a>
 
@@ -198,7 +159,7 @@ Through this movement of the Son into the utmost exile and back again, **sin its
 
 And crucially, **all humanity who is united to him by grace through faith – everyone who is therefore _in Christ_ – gets caught up with the Son in his return to the life and love of the Triune God.**<a href="#_ftn24" name="_ftnref24"><sup><sup>[24]</sup></sup></a>
 
-## <span class="ez-toc-section" id="THE_CHURCH"></span>THE CHURCH<span class="ez-toc-section-end"></span>
+## THE CHURCH
 
 And yet, getting caught up with Christ in this return to Triune fellowship does <span style="text-decoration: underline;"><em><strong>not</strong></em></span> take place **timelessly** or **instantaneously**.
 
@@ -228,7 +189,7 @@ Because it is a part of the history of the temporally-eternal, transcendently-im
 
 * * *
 
-# <span class="ez-toc-section" id="NOTES"></span>NOTES<span class="ez-toc-section-end"></span>
+# NOTES
 
 <a href="#_ftnref1" name="_ftn1">[1]</a> Jürgen Moltmann, _The Way of Jesus Christ: Christology in Messianic Dimensions_ (Minneapolis, MN: Fortress, 1990), 151.
 

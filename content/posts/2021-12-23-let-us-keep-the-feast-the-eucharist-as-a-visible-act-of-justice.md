@@ -26,35 +26,7 @@ categories:
   Our seats at God’s table empower us to do justice as advocates who walk humbly with the Christ of reconciliation. Perhaps it is this very rhythm of bowing, proclaiming, peace-making, confessing, receiving, feasting, and blessing that make room in our hearts for wonder and worship.
 </p>
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/let-us-keep-the-feast-the-eucharist-as-a-visible-act-of-justice/#The_internal_shaping_of_justice_is_communal" title="The internal shaping of justice is communal. ">The internal shaping of justice is communal. </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/let-us-keep-the-feast-the-eucharist-as-a-visible-act-of-justice/#Finding_respite_in_ancient_prayer" title="Finding respite in ancient prayer. ">Finding respite in ancient prayer. </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/let-us-keep-the-feast-the-eucharist-as-a-visible-act-of-justice/#Weekly_we_are_cleansed_from_our_complicity_with_unjust_systems" title="Weekly, we are cleansed from our complicity with unjust systems. ">Weekly, we are cleansed from our complicity with unjust systems. </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/let-us-keep-the-feast-the-eucharist-as-a-visible-act-of-justice/#Advocating_with_prayer_and_mediating_for_the_marginalized_with_Gods_divine_energy" title="Advocating with prayer and mediating for the marginalized with God’s divine energy. ">Advocating with prayer and mediating for the marginalized with God’s divine energy. </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/let-us-keep-the-feast-the-eucharist-as-a-visible-act-of-justice/#Christ_feeds_us_with_Himself_to_send_us_into_the_world_as_peace_makers_and_justice_do-ers" title="Christ feeds us with Himself, to send us into the world as peace makers and justice do-ers. ">Christ feeds us with Himself, to send us into the world as peace makers and justice do-ers. </a>
-    </li>
-  </ul></nav>
-</div>
-
-#### <span class="ez-toc-section" id="The_internal_shaping_of_justice_is_communal"></span>**The internal shaping of justice is communal.** <span class="ez-toc-section-end"></span> {.p5}
+#### **The internal shaping of justice is communal.**  {.p5}
 
 <p class="p7">
   The incense rises as an acolyte stands near the altar with steady hands gently swinging the thurible, filling the room with a blend of burned resin to remind us that God’s people once followed a pillar of smoke with nothing but a promise and future hope of liberation and inheritance. The smells now signal the gift of sacrifice, the body of Christ broken for us, filling us now with the newness of life. We gather before His table, also with a single promise, one of complete reconciliation of all things. The new heavens and new earth are now being held with hope of all that is to come, when all the wounds and hurts of mankind are laid to rest for good.
@@ -64,7 +36,7 @@ categories:
   The Eucharist liturgy makes space for lamenting injustice, <i>if </i>we start to see it as a visible act of <i>doing</i> justice. It is then that it becomes a safe place to grieve the ways power and authority are abused to oppress the weak. Over time, I can see the ways my soul has been nourished to live under Christ’s rule and reign in every part of the liturgy. The table of the Passover Lamb is where I am empowered to pursue equity, and where I am called to a holiness that doesn’t escape grief altogether. Rather, we are collectively moved to express grief as transcendent solidarity among our marginalized neighbors. We walk into the service being prompted to righteous action on behalf of those who suffer in our midst.
 </p>
 
-#### <span class="ez-toc-section" id="Finding_respite_in_ancient_prayer"></span>**Finding respite in ancient prayer.** <span class="ez-toc-section-end"></span> {.p5}
+#### **Finding respite in ancient prayer.**  {.p5}
 
 <p class="p5">
   At home, I open the Book of Common Prayer, searching the pages of prayers for the one that reflects the grief in my heart. Another tragedy prompts my desperation, but I can’t find the words, so I scan and find the one that lifts my heart out of my stomach,
@@ -78,7 +50,7 @@ categories:
   I sit in the words, “…make no peace with oppression”, with a greater longing for justice and restoration, a renewed vision of God’s people. Alone, I can grieve what is not yet here, the void of equity. In community, that’s where those prayers come to life, leaving the pages, landing on the faces of those he calls my neighbors.
 </p>
 
-#### <span class="ez-toc-section" id="Weekly_we_are_cleansed_from_our_complicity_with_unjust_systems"></span>**Weekly, we are cleansed from our complicity with unjust systems.** <span class="ez-toc-section-end"></span> {.p5}
+#### **Weekly, we are cleansed from our complicity with unjust systems.**  {.p5}
 
 <p class="p5">
   At the beginning of our Eucharist service, we bow at the procession of the cross, indicating our loyalties to the King of Love and Prince of Peace. Our physical bodies bend at the waist, so that our hearts can yield to the Christ who rebuked violence even when his own life was endangered. This Lord, the one we bow to, holds our hearts and minds with great mercy. We follow with the collect for purity, asking God to “cleanse the thoughts of our hearts by the inspiration of the Holy Spirit”; the thoughts of implicit biases, the thoughts of superiority, the thoughts of self-righteousness, are these the thoughts being cleansed? Are these the thoughts we are holding up openly for God to see and pull at? How deep does the Spirit of God go for the sake of purity? Maybe as honest as we’re willing to lay transparent before him.
@@ -96,7 +68,7 @@ categories:
   “Christ have mercy upon us”, I sigh.
 </p>
 
-#### <span class="ez-toc-section" id="Advocating_with_prayer_and_mediating_for_the_marginalized_with_Gods_divine_energy"></span>**Advocating with prayer and mediating for the marginalized with God’s divine energy.** <span class="ez-toc-section-end"></span> {.p5}
+#### **Advocating with prayer and mediating for the marginalized with God’s divine energy.**  {.p5}
 
 <p class="p5">
   My breath hangs on the words of the Prayers of the People,
@@ -118,7 +90,7 @@ categories:
   As if that was enough to stir my heart’s hunger for justice, the confession of sin plunges the Holy Spirit into territory I wish didn’t exist, I am facing my own darkness. My legs are bent, my knees uncomfortably welding onto the hard cold floor. I am now in submission, completely laid bare in my own complicity, and “…the burden of them (my sins) is more than I can bear. Have mercy upon us…”. I take the words of comfort as soon as I hear them, clinging to them for dear life. Absolution reminds me of my inheritance, my standing is sturdy, I am free. My palms are up. We are all up against brokenness, but God is near, with rest and newness of life. Even now, when I’ve been gutted by the week’s images and news. “My standing is sturdy”, I remind myself.
 </p>
 
-#### <span class="ez-toc-section" id="Christ_feeds_us_with_Himself_to_send_us_into_the_world_as_peace_makers_and_justice_do-ers"></span>**Christ feeds us with Himself, to send us into the world as peace makers and justice do-ers.** <span class="ez-toc-section-end"></span> {.p5}
+#### **Christ feeds us with Himself, to send us into the world as peace makers and justice do-ers.**  {.p5}
 
 <p class="p5">
   Our Peaceful King invites us to partake of his peace, so we turn to our neighbors in the pews. I find that friend I miscommunicated with earlier, and I grant her peace. I find the face of my child, whose ears heard my frustrations and bitter words, and I ask for peace. As we greet one another in the name of the Lord, we reclaim God’s design for relationship. With each hug and handshake, we give ourselves over to humility. We enter the feast of the Lamb with hearts overflowing with gratitude, anticipating the work of the eucharist meal and its holy mysteries. Our hunger is satisfied with his body and blood, soul and body are recalibrated with God’s mercy.

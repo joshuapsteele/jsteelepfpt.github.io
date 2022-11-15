@@ -12,46 +12,7 @@ categories:
   - Sermons
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/faithful-faith-in-a-faithful-god-romans-1-1-17/#I_Introduction_The_Prodigal_Son_Part_2" title="I. Introduction: The Prodigal Son, Part 2">I. Introduction: The Prodigal Son, Part 2</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/faithful-faith-in-a-faithful-god-romans-1-1-17/#II_From_Paul" title="II. From Paul">II. From Paul</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/faithful-faith-in-a-faithful-god-romans-1-1-17/#A_SLAVE" title=" A SLAVE. "> A SLAVE. </a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/faithful-faith-in-a-faithful-god-romans-1-1-17/#CALLED" title=" CALLED"> CALLED</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/faithful-faith-in-a-faithful-god-romans-1-1-17/#SET_APART" title=" SET APART"> SET APART</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/faithful-faith-in-a-faithful-god-romans-1-1-17/#III_To_the_Roman_Christians" title="III.    To the Roman Christians">III.    To the Roman Christians</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/faithful-faith-in-a-faithful-god-romans-1-1-17/#IV_Through_the_Gospel" title="IV. Through the Gospel">IV. Through the Gospel</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/faithful-faith-in-a-faithful-god-romans-1-1-17/#V_Conclusion_Obedient_Faithfulness_Today" title="V. Conclusion: Obedient Faithfulness Today?">V. Conclusion: Obedient Faithfulness Today?</a>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="I_Introduction_The_Prodigal_Son_Part_2"></span>I. Introduction: The Prodigal Son, Part 2<span class="ez-toc-section-end"></span>
+# I. Introduction: The Prodigal Son, Part 2
 
 What a relief, to get out of that house.
 
@@ -223,7 +184,7 @@ Now, despite Paul’s wide influence in the early Church, I don’t think it’s
 
 **_I mean, Who <u>was</u> Paul, really?_**
 
-# <span class="ez-toc-section" id="II_From_Paul"></span>II. From Paul<span class="ez-toc-section-end"></span>
+# II. From Paul
 
 Well, as sister Phoebe mentioned, about <u>twenty-five years</u> separated the <u>Resurrection</u> of our Lord Jesus Christ and <u>Paul’s penning</u> of the letter to the Christians at Rome in 57, 58 AD.
 
@@ -265,7 +226,7 @@ In 1 Timothy 1:13, he says:
 
 And YET, here, Paul, to the Christians at Rome, declares himself, <u>first</u>:
 
-  1. ## <span class="ez-toc-section" id="A_SLAVE"></span>** _A SLAVE._** <span class="ez-toc-section-end"></span>
+  1. ## ** _A SLAVE._** 
 
 NOT, as previously, to his own <u>zeal for the traditions</u> and the so-called “righteousness” of the Law of Moses.
 
@@ -276,7 +237,7 @@ Paul declares himself, second:
 <ol start="2">
   <li>
     <h2>
-      <span class="ez-toc-section" id="CALLED"></span><strong><em> CALLED</em></strong><span class="ez-toc-section-end"></span>
+      <strong><em> CALLED</em></strong>
     </h2>
   </li>
 </ol>
@@ -290,7 +251,7 @@ A slave. Called an apostle. Paul declares himself, third:
 <ol start="3">
   <li>
     <h2>
-      <span class="ez-toc-section" id="SET_APART"></span><strong><em> SET APART</em></strong><span class="ez-toc-section-end"></span>
+      <strong><em> SET APART</em></strong>
     </h2>
   </li>
 </ol>
@@ -315,7 +276,7 @@ It almost make us wonder:
 
 **_**Who <u>were</u> the Romans? Who <u>were</u> these Christians at Rome?**_** 
 
-# <span class="ez-toc-section" id="III_To_the_Roman_Christians"></span>**III.    To the Roman Christians**<span class="ez-toc-section-end"></span>
+# **III.    To the Roman Christians**
 
 Well, like everyone, name-change or not, they had a <u>past</u>.
 
@@ -418,7 +379,7 @@ The same thing that was powerful enough to change Saul to Paul: **_<u>the gospel
 
 **_<u>What is the gospel?</u>_**
 
-# <span class="ez-toc-section" id="IV_Through_the_Gospel"></span>IV. Through the Gospel<span class="ez-toc-section-end"></span>
+# IV. Through the Gospel
 
 Well, much like God’s people, including Paul and the Roman Christians, God’s gospel **<u>has a past</u>**.
 
@@ -487,7 +448,7 @@ God’s saving faithfulness **demands** and the Holy Spirit **enables** obedient
 
 > **“the God of endurance and comfort [may] give you <u>unity</u> with one another in accordance with Christ Jesus, so that <u>together</u> you may with <u>one voice</u> glorify the God and Father of our Lord Jesus Christ.”**
 
-# <span class="ez-toc-section" id="V_Conclusion_Obedient_Faithfulness_Today"></span>V. Conclusion: Obedient Faithfulness Today?<span class="ez-toc-section-end"></span>
+# V. Conclusion: Obedient Faithfulness Today?
 
 Now, I’m speaking to a room full of **_<u>seminarians</u>_**.
 

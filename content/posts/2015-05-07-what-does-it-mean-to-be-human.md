@@ -25,60 +25,7 @@ categories:
   - Church and Theology
 
 ---
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <ul class='ez-toc-list-level-2'>
-      <li class='ez-toc-heading-level-2'>
-        <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#What_Does_It_Mean_to_Be_Human" title="What Does It Mean to Be Human?">What Does It Mean to Be Human?</a>
-      </li>
-    </ul></li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#DIVIDED_DESIRES" title="DIVIDED DESIRES">DIVIDED DESIRES</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#What_Do_I_See_When_I_Look_at_Myself" title="What Do I See When I Look at Myself?">What Do I See When I Look at Myself?</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#What_Do_I_See_When_I_Look_at_Others" title="What Do I See When I Look at Others?">What Do I See When I Look at Others?</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#What_Do_I_See_When_I_Look_at_God" title="What Do I See When I Look at God?">What Do I See When I Look at God?</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#What_Does_It_Mean_to_Be_Human-2" title="What Does It Mean to Be Human?">What Does It Mean to Be Human?</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#DIVINE_DISCOURSE" title="DIVINE DISCOURSE">DIVINE DISCOURSE</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#What_Does_God_See_When_He_Looks_at_Me" title="What Does God See When He Looks at Me?">What Does God See When He Looks at Me?</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#God_Sets_Us_Free_for_Himself_and_for_Others" title="God Sets Us Free, for Himself and for Others">God Sets Us Free, for Himself and for Others</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#CONCLUSION" title="CONCLUSION">CONCLUSION</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/what-does-it-mean-to-be-human/#NOTES" title="NOTES:">NOTES:</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="What_Does_It_Mean_to_Be_Human"></span>_What Does It Mean to Be Human?_<span class="ez-toc-section-end"></span>
+## _What Does It Mean to Be Human?_
 
 A clue to the answer lies in the asking of the question, for this act presupposes both a [human] subject and object in a dialectic of self-transcendence.
 
@@ -88,9 +35,9 @@ But what do I see when I look at myself? At others? At God?
 
 On our own, this self-transcendence leaves us humans at the mercy of our own divided desires – searching for definition. But with God, we receive our true humanity in the midst of divine discourse – finding significance in God’s recognition that we are true human beings. The failures of the former approach highlight the successes of the latter.
 
-# <span class="ez-toc-section" id="DIVIDED_DESIRES"></span>DIVIDED DESIRES<span class="ez-toc-section-end"></span>
+# DIVIDED DESIRES
 
-## <span class="ez-toc-section" id="What_Do_I_See_When_I_Look_at_Myself"></span>_What Do I See When I Look at <u>Myself</u>?_<span class="ez-toc-section-end"></span>
+## _What Do I See When I Look at <u>Myself</u>?_
 
 One driven by desire.
 
@@ -102,7 +49,7 @@ Despite the necessity of unfulfilled desires for human development in Freud’s 
 
 The former, Eros, is synonymous with _libido_, the desire for objects for the sake of preservation; while the latter, Death, leads to guilt when internalized, and aggression towards others.<sup>6</sup>
 
-## <span class="ez-toc-section" id="What_Do_I_See_When_I_Look_at_Others"></span>_What Do I See When I Look at <u>Others</u>?_<span class="ez-toc-section-end"></span>
+## _What Do I See When I Look at <u>Others</u>?_
 
 Ones who both inform and frustrate my desires.
 
@@ -116,7 +63,7 @@ Without a goal or _telos_ to distinguish between right and wrong desires, I can 
 
 When desire is turned in on itself, the pursuit of things (and not even the things themselves!) becomes my temporary respite from the restlessness of my existence. Since I cannot define myself, I go shopping instead.<sup>10</sup> And yet, I cannot shop forever.
 
-## <span class="ez-toc-section" id="What_Do_I_See_When_I_Look_at_God"></span>_What Do I See When I Look at <u>God</u>?_<span class="ez-toc-section-end"></span>
+## _What Do I See When I Look at <u>God</u>?_
 
 If human self-transcendence in search of definition is an enclosed circle, the most I will ever see is a personified, projected “god” who is the opposite of my weaknesses and the abstracted absolute of my strengths.
 
@@ -126,7 +73,7 @@ As Jenson dryly observes, “if the conclusion of our play, hidden as we play ou
 
 And so I trade places with the indefinable God of past theological formulations, defining him against the contours of my own mysterious existence, which I expect him to justify and underwrite.<sup>12</sup> Yet if I worship a mere projection, I am left on my own.
 
-## <span class="ez-toc-section" id="What_Does_It_Mean_to_Be_Human-2"></span>_What Does It Mean to Be Human?_<span class="ez-toc-section-end"></span>
+## _What Does It Mean to Be Human?_
 
 To be at the mercy of our own divided, conflicted, and frustrated desires.
 
@@ -136,13 +83,13 @@ Karl Barth best describes the failures of self-definition:
 
 My idols (whether myself, my neighbor, or my “God”) exhaust and finally crush me. The attempt to establish my own identity isolates me from myself, whom I do not know; my neighbor, whom I love to hate; my “God,” whom I project; and God, whom I ignore.
 
-# <span class="ez-toc-section" id="DIVINE_DISCOURSE"></span>DIVINE DISCOURSE<span class="ez-toc-section-end"></span>
+# DIVINE DISCOURSE
 
 Who am I? What do I see when I look at God?
 
 To solve the enigma of my own existence, I must reverse the latter question and expand the former.
 
-## <span class="ez-toc-section" id="What_Does_God_See_When_He_Looks_at_Me"></span>What Does God See When He Looks at <u>Me</u>?<span class="ez-toc-section-end"></span>
+## What Does God See When He Looks at <u>Me</u>?
 
 As Barth rightly inveighs, God “is not the personified but the personifying person – the person on the basis of whose prior existence alone we can speak (hypothetically) of other persons different from Him.”<sup>14</sup> Therefore, humans “ought not to be independently what they are in dependence upon God.”<sup>15</sup>
 
@@ -158,7 +105,7 @@ In Jenson’s terms, humans are unique in that God relates to us as “his conve
 
 Therefore, as Barth puts it, “the ontological determination of humanity is grounded in the fact that one man among all others is the man Jesus.”<sup>21 </sup>To be human is to be with God in the person of Christ.<sup>22</sup>
 
-## <span class="ez-toc-section" id="God_Sets_Us_Free_for_Himself_and_for_Others"></span>God Sets Us Free, for Himself and for Others<span class="ez-toc-section-end"></span>
+## God Sets Us Free, for Himself and for Others
 
 If true, the grounding of humanity in divine discourse is a profound liberation, for “our acts [and our desires] cannot determine our being. Only the one who determines being and non-being determines our being.”<sup>23 </sup>
 
@@ -182,7 +129,7 @@ This is self-transcendence as it was meant to be. Divine discourse encompasses G
 
 (For an overview of what I believe, check out my essay: [&#8220;Theology in Outline.&#8221;][1])
 
-# <span class="ez-toc-section" id="CONCLUSION"></span>CONCLUSION<span class="ez-toc-section-end"></span>
+# CONCLUSION
 
 _What does it mean to be human? _On my own, I am unable to answer the question.
 
@@ -192,7 +139,7 @@ Yet with God, I am enabled to receive my humanity in the midst of divine discour
 
 * * *
 
-# <span class="ez-toc-section" id="NOTES"></span>NOTES:<span class="ez-toc-section-end"></span>
+# NOTES:
 
 1 Robert W. Jenson, _Systematic Theology Volume 2: The Works of God_ (New York, NY: Oxford University Press, 1999), 64.
 

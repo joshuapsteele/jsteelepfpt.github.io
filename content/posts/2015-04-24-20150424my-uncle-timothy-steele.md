@@ -27,29 +27,7 @@ categories:
 
 [<img decoding="async" loading="lazy" class="aligncenter size-full wp-image-3449" src="https://joshuapsteele.com/wp-content/uploads/2015/10/image.png" alt="Image" width="220" height="250" />][1]
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/20150424my-uncle-timothy-steele/#Timothy_Steele" title="Timothy Steele">Timothy Steele</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/20150424my-uncle-timothy-steele/#Encouragement_in_the_Midst_of_Pain" title="Encouragement in the Midst of Pain">Encouragement in the Midst of Pain</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/20150424my-uncle-timothy-steele/#Conclude_and_Reflect" title="Conclude and Reflect">Conclude and Reflect</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Timothy_Steele"></span>Timothy Steele<span class="ez-toc-section-end"></span>
+## Timothy Steele
 
 The juxtaposition is staggering. The funeral of the man I most associate with laughter and joy. It hurts. No Steele family gathering was complete without hearing his boisterous laugh, receiving one of his legendary bear hugs, and &#8211; if you were lucky &#8211; getting one heck of a sloppy kiss on the cheek.
 
@@ -65,7 +43,7 @@ Many more stories could be and have been told about Timothy Steele. However, the
 
 Now, he didn&#8217;t speak of his regrets in terms of not knowing any better when he was younger. He didn&#8217;t speak of the pain of violating a general sense of right and wrong, but of the nagging sense that at various times he had let a **person** down&#8230;the person of Christ.
 
-## <span class="ez-toc-section" id="Encouragement_in_the_Midst_of_Pain"></span>Encouragement in the Midst of Pain<span class="ez-toc-section-end"></span>
+## Encouragement in the Midst of Pain
 
 Here&#8217;s why I find that story encouraging in the midst of pain: **You don&#8217;t much regret letting down people for whom you don&#8217;t much care. And even though we have all, to the very last one of us, let Jesus down, he never abandons us. His love makes my Uncle Tim&#8217;s love pale in comparison, and he is now showing Tim even more grace than Tim showed to all of us each day.**
 
@@ -81,7 +59,7 @@ But my Uncle Tim&#8217;s life on earth, painful ending and all, was not a trite 
 
 * * *
 
-## <span class="ez-toc-section" id="Conclude_and_Reflect"></span>Conclude and Reflect<span class="ez-toc-section-end"></span>
+## Conclude and Reflect
 
 I write this reflection mid-air, on my way back to Alabama. I wish that I had gotten to see my family members in a house of merrymaking, but it was a house of mourning instead.As we remembered the life of the man who could make you laugh so hard you cried, there was a lot of laughter and a lot of tears in the Steele family this weekend. There was riotous applause at the funeral at one point, but I know there&#8217;s still a whole lot of sadness and pain.
 

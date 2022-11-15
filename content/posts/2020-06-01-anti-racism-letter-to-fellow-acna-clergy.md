@@ -30,56 +30,7 @@ _Following the lead of bishops Jim Hobby, Todd Hunter, Stewart Ruch III, and Ste
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#Our_Context" title="Our Context">Our Context</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#Confessions" title="Confessions">Confessions</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#Commitments" title="Commitments">Commitments</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#The_Road_Ahead" title="The Road Ahead">The Road Ahead</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#Authors" title="Authors">Authors</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#Initial_Signatories_Click_Here_or_Scroll_Down_to_Sign" title="Initial Signatories (Click Here or Scroll Down to Sign)">Initial Signatories (Click Here or Scroll Down to Sign)</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#Sign_the_Letter" title="Sign the Letter">Sign the Letter</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#All_Other_Supporters" title="All Other Supporters">All Other Supporters</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#Signatures" title="Signatures">Signatures</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#ACNA_Clergy" title="ACNA Clergy">ACNA Clergy</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/anti-racism-letter-to-fellow-acna-clergy/#All_Other_Supporters-2" title="All Other Supporters">All Other Supporters</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Our_Context"></span>Our Context<span class="ez-toc-section-end"></span>
+## Our Context
 
 Our province, The Anglican Church in North America (ACNA), was born as part of a global movement that features diverse leadership and reflects the churches and people of global Anglicanism. It is a manifestation of the universal power and eschatological _telos_ of the Gospel of Jesus: “from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb” (Rev. 7:9).
 
@@ -91,7 +42,7 @@ We see and grieve the racism and discrimination that exists and has a deep cultu
 
 Against this backdrop, we offer the following confessions and make the following commitments.
 
-## <span class="ez-toc-section" id="Confessions"></span>Confessions<span class="ez-toc-section-end"></span>
+## Confessions
 
 We confess that we have failed to see, understand, and address the expressions of racism, both personal and systemic, that plague our society, communities, and churches.
 
@@ -99,7 +50,7 @@ We confess our slowness to listen to the dismay and discouragement of our brothe
 
 We confess that our ignorance, complacency, and silence have undermined our fidelity to the Great Commandment to love God and love our neighbor (Matt. 22:36-40), which fundamentally calls us into disciplines of anti-racism.
 
-## <span class="ez-toc-section" id="Commitments"></span>Commitments<span class="ez-toc-section-end"></span>
+## Commitments
 
 We commit to listening to, learning from, and supporting leaders of color in their witness to our province.
 
@@ -116,7 +67,7 @@ And, in all of our different capacities and platforms, in our churches and in th
 
 _(Editor&#8217;s note: You should also check out [the work being done by The Matthew 25 Initiative][7].)_
 
-## <span class="ez-toc-section" id="The_Road_Ahead"></span>The Road Ahead<span class="ez-toc-section-end"></span>
+## The Road Ahead
 
 We are encouraged by the leaders, including the Archbishop, who have spoken out about the recent injustices, and we know that there are places within the province where there is movement toward realizing this vision of a multi-ethnic church, one that is unhindered by racism in all its forms, that can reach the entirety of North America.
 
@@ -132,7 +83,7 @@ Our ultimate goal, however, is not just signatures, but a collective public comm
 
 Sincerely in Christ,
 
-## <span class="ez-toc-section" id="Authors"></span>Authors<span class="ez-toc-section-end"></span>
+## Authors
 
 Rev. Ryan Boettcher  
 _Associate Clergy,_ [_Resurrection Anglican South Austin_][8]
@@ -156,7 +107,7 @@ Rev. Erik Willits
 _Host of_ [_The Intersection Podcast_][14]_  
 Special Projects,_ [_Diocese of Churches for the Sake of Others_][15]
 
-## <span class="ez-toc-section" id="Initial_Signatories_Click_Here_or_Scroll_Down_to_Sign"></span>Initial Signatories ([Click Here or Scroll Down to Sign][2])<span class="ez-toc-section-end"></span>
+## Initial Signatories ([Click Here or Scroll Down to Sign][2])
 
 Rev. Canon Dr. Dan Alger  
 _Provincial Canon for Church Planting,_ [_Anglican Church in North America_][16]  
@@ -240,7 +191,7 @@ _Co-Rector,_ [_Church of the Resurrection, Los Angeles_][34]
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
-## <span class="ez-toc-section" id="Sign_the_Letter"></span>Sign the Letter<span class="ez-toc-section-end"></span> {#sign}
+## Sign the Letter {#sign}
 
 _If you&#8217;re ACNA clergy, please use the first form. We&#8217;d also love for laypeople and Christian leaders outside of the ACNA to indicate their support. If you&#8217;re **not ACNA** **clergy**, please use the **second** form (scroll down)._
 
@@ -248,15 +199,15 @@ _(**NOTE**: Don&#8217;t worry if you don&#8217;t see your name appear below righ
 
 [emailpetition id=&#8221;2&#8243;]
 
-### <span class="ez-toc-section" id="All_Other_Supporters"></span>All Other Supporters<span class="ez-toc-section-end"></span>
+### All Other Supporters
 
 [emailpetition id=&#8221;3&#8243;]
 
 <hr class="wp-block-separator has-alpha-channel-opacity" />
 
-## <span class="ez-toc-section" id="Signatures"></span>Signatures<span class="ez-toc-section-end"></span>
+## Signatures
 
-### <span class="ez-toc-section" id="ACNA_Clergy"></span>ACNA Clergy<span class="ez-toc-section-end"></span>
+### ACNA Clergy
 
 <div class="wp-block-file">
   <a id="wp-block-file--media-f11444f2-c193-4511-8f52-cd86e505ad46" href="https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv">ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15</a><a href="https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv" class="wp-block-file__button" download aria-describedby="wp-block-file--media-f11444f2-c193-4511-8f52-cd86e505ad46">Download</a>
@@ -264,7 +215,7 @@ _(**NOTE**: Don&#8217;t worry if you don&#8217;t see your name appear below righ
 
 [signaturelist id=&#8221;2&#8243;]
 
-### <span class="ez-toc-section" id="All_Other_Supporters-2"></span>All Other Supporters<span class="ez-toc-section-end"></span>
+### All Other Supporters
 
 <div class="wp-block-file">
   <a id="wp-block-file--media-0006827f-cce4-4f37-9fd3-899aedf82c6f" href="https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv">Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15</a><a href="https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv" class="wp-block-file__button" download aria-describedby="wp-block-file--media-0006827f-cce4-4f37-9fd3-899aedf82c6f">Download</a>

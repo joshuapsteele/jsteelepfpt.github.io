@@ -47,38 +47,7 @@ In English:
 
 * * *
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/karl-barths-gesamtausgabe-complete-collected-edition-a-list-of-works/#Abteilung_I_Predigten" title="Abteilung I. Predigten">Abteilung I. Predigten</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/karl-barths-gesamtausgabe-complete-collected-edition-a-list-of-works/#Abteilung_II_Akademische_Werke" title="Abteilung II. Akademische Werke">Abteilung II. Akademische Werke</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/karl-barths-gesamtausgabe-complete-collected-edition-a-list-of-works/#Abteilung_III_Vortrage_und_kleinere_Arbeiten" title="Abteilung III. Vorträge und kleinere Arbeiten">Abteilung III. Vorträge und kleinere Arbeiten</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/karl-barths-gesamtausgabe-complete-collected-edition-a-list-of-works/#Abteilung_IV_Gesprache" title="Abteilung IV. Gespräche">Abteilung IV. Gespräche</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/karl-barths-gesamtausgabe-complete-collected-edition-a-list-of-works/#Abteilung_V_Briefe" title="Abteilung V. Briefe">Abteilung V. Briefe</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/karl-barths-gesamtausgabe-complete-collected-edition-a-list-of-works/#Abteilung_VI_Aus_Karl_Barths_Leben" title="Abteilung VI. Aus Karl Barths Leben">Abteilung VI. Aus Karl Barths Leben</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Abteilung_I_Predigten"></span>Abteilung I. Predigten<span class="ez-toc-section-end"></span>
+## Abteilung I. Predigten
 
   * Konfirmandenunterricht 1909-1921 (GA I.18)
   * *Predigten 1907–1910 (GA I.53)
@@ -98,7 +67,7 @@ In English:
 
 * * *
 
-## <span class="ez-toc-section" id="Abteilung_II_Akademische_Werke"></span>Abteilung II. Akademische Werke<span class="ez-toc-section-end"></span>
+## Abteilung II. Akademische Werke
 
   * Das christliche Leben 1959-1961 (GA II.7)
   * Der Römerbrief 1919 (GA II.16)
@@ -120,7 +89,7 @@ In English:
 
 * * *
 
-## <span class="ez-toc-section" id="Abteilung_III_Vortrage_und_kleinere_Arbeiten"></span>Abteilung III. Vorträge und kleinere Arbeiten<span class="ez-toc-section-end"></span>
+## Abteilung III. Vorträge und kleinere Arbeiten
 
   * Vorträge und kleinere Arbeiten 1905-1909 (GA III.21)
   * Vorträge und kleinere Arbeiten 1909-1914 (GA III.22)
@@ -132,7 +101,7 @@ In English:
 
 * * *
 
-## <span class="ez-toc-section" id="Abteilung_IV_Gesprache"></span>Abteilung IV. Gespräche<span class="ez-toc-section-end"></span>
+## Abteilung IV. Gespräche
 
   * Gespräche 1959-1962 (GA IV.25)
   * Gespräche 1963 (GA IV.41)
@@ -140,7 +109,7 @@ In English:
 
 * * *
 
-## <span class="ez-toc-section" id="Abteilung_V_Briefe"></span>Abteilung V. Briefe<span class="ez-toc-section-end"></span>
+## Abteilung V. Briefe
 
   * Barth &#8211; Brunner Briefwechsel 1916-1966 (GA V.33)
   * Barth &#8211; Bultmann Briefwechsel 1911-1966 (GA V.1)
@@ -156,7 +125,7 @@ In English:
 
 * * *
 
-## <span class="ez-toc-section" id="Abteilung_VI_Aus_Karl_Barths_Leben"></span>Abteilung VI. Aus Karl Barths Leben<span class="ez-toc-section-end"></span>
+## Abteilung VI. Aus Karl Barths Leben
 
   * *Karl Barth: Bilder und Dokumente aus seinem Leben (GA VI.54)
 

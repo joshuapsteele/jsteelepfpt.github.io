@@ -24,61 +24,7 @@ Granted, I don&#8217;t have to solve all of the exegetical issues (of which ther
 
 But, it turns out (surprise, surprise), it&#8217;s difficult to make sense of what Barth thought about Romans 9–11!
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#Barth_on_Romans_9-11_in_Der_Romerbrief" title="Barth on Romans 9–11 in Der Römerbrief ##">Barth on Romans 9–11 in Der Römerbrief ##</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#Isnt_that_supersessionism" title="Isn’t that supersessionism?">Isn’t that supersessionism?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#Despite_this_its_become_increasingly_common_to_at_least_mitigate_the_accusation_of_supersessionism_against_Barths_reading_of_Romans_9-11" title="Despite this, it’s become increasingly common to at least mitigate the accusation of supersessionism against Barth’s reading of Romans 9–11.">Despite this, it’s become increasingly common to at least mitigate the accusation of supersessionism against Barth’s reading of Romans 9–11.</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#Katherine_Sonderegger_That_Jesus_Christ_Was_Born_A_Jew_Karl_Barths_Doctrine_of_Israel_Pennsylvania_State_University_Press_1992" title="Katherine Sonderegger, That Jesus Christ Was Born A Jew: Karl Barth’s “Doctrine of Israel” (Pennsylvania State University Press, 1992).">Katherine Sonderegger, That Jesus Christ Was Born A Jew: Karl Barth’s “Doctrine of Israel” (Pennsylvania State University Press, 1992).</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#R_Kendall_Soulen_Karl_Barth_and_the_Future_of_the_God_of_Israel_Pro_Ecclesia_6_no_4_1997_413-28" title="R. Kendall Soulen, “Karl Barth and the Future of the God of Israel,” Pro Ecclesia 6, no. 4 (1997): 413–28.">R. Kendall Soulen, “Karl Barth and the Future of the God of Israel,” Pro Ecclesia 6, no. 4 (1997): 413–28.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#Douglas_K_Harink_Barths_Apocalyptic_Exegesis_and_the_Question_of_Israel_in_Romerbrief_Chapters_9-11_Toronto_Journal_of_Theology_25_no_1_2009_5-18" title="Douglas K. Harink, “Barth’s Apocalyptic Exegesis and the Question of Israel in Römerbrief, Chapters 9-11,” Toronto Journal of Theology 25, no. 1 (2009): 5–18.">Douglas K. Harink, “Barth’s Apocalyptic Exegesis and the Question of Israel in Römerbrief, Chapters 9-11,” Toronto Journal of Theology 25, no. 1 (2009): 5–18.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#Wesley_Hill_The_Church_as_Israel_and_Israel_as_the_Church_An_Examination_of_Karl_Barths_Exegesis_of_Romans_9_1-5_in_the_Epistle_to_the_Romans_and_Church_Dogmatics_22_Journal_of_Theological_Interpretation_6_no_1_2012_139-58" title="Wesley Hill, “The Church as Israel and Israel as the Church: An Examination of Karl Barth’s Exegesis of Romans 9:1-5 in the Epistle to the Romans and Church Dogmatics 2/2,” Journal of Theological Interpretation 6, no. 1 (2012): 139–58.">Wesley Hill, “The Church as Israel and Israel as the Church: An Examination of Karl Barth’s Exegesis of Romans 9:1-5 in the Epistle to the Romans and Church Dogmatics 2/2,” Journal of Theological Interpretation 6, no. 1 (2012): 139–58.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#Susannah_Ticciati_The_Future_of_Biblical_Israel_How_Should_Christians_Read_Romans_9-11_Today_Biblical_Interpretation_25_no_4-5_November_15_2017_497-518" title="Susannah Ticciati, “The Future of Biblical Israel: How Should Christians Read Romans 9-11 Today?,” Biblical Interpretation 25, no. 4–5 (November 15, 2017): 497–518.">Susannah Ticciati, “The Future of Biblical Israel: How Should Christians Read Romans 9-11 Today?,” Biblical Interpretation 25, no. 4–5 (November 15, 2017): 497–518.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#Beverly_Gaventa_The_Finality_of_the_Gospel_Barths_Romerbrief_on_Romans_9-11_2019_Karl_Barth_Conference" title="Beverly Gaventa, &#8220;The Finality of the Gospel: Barth’s Römerbrief on Romans 9-11,” 2019 Karl Barth Conference.">Beverly Gaventa, &#8220;The Finality of the Gospel: Barth’s Römerbrief on Romans 9-11,” 2019 Karl Barth Conference.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-10" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#What_if_the_biggest_problem_with_Barths_reading_isnt_supersessionism" title="What if the biggest problem with Barth’s reading isn’t supersessionism?">What if the biggest problem with Barth’s reading isn’t supersessionism?</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-11" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#Instead_I_think_the_biggest_problem_with_Barths_reading_is_that_he_equated_the_Gentiles_that_Paul_mentions_in_Romans_9_30_and_again_in_11_11ff_with_the_world" title="Instead, I think the biggest problem with Barth’s reading is that he equated the “Gentiles” that Paul mentions in Romans 9:30 (and again in 11:11ff.) with the “world.” ">Instead, I think the biggest problem with Barth’s reading is that he equated the “Gentiles” that Paul mentions in Romans 9:30 (and again in 11:11ff.) with the “world.” </a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-12" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#If_you_miss_the_Jew-Gentile_tensions_within_the_Church_you_miss_the_pastoral_point_of_Romans" title="If you miss the Jew-Gentile tensions within the Church, you miss the (pastoral) point of Romans!">If you miss the Jew-Gentile tensions within the Church, you miss the (pastoral) point of Romans!</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-13" href="https://joshuapsteele.com/i-think-karl-barth-missed-the-pastoral-point-of-romans/#Barth_seems_to_have_missed_the_pastoral_point_of_Romans" title="Barth seems to have missed the pastoral point of Romans.">Barth seems to have missed the pastoral point of Romans.</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="Barth_on_Romans_9-11_in_Der_Romerbrief"></span>Barth on Romans 9–11 in _Der Römerbrief_ ##<span class="ez-toc-section-end"></span>
+## Barth on Romans 9–11 in _Der Römerbrief_ ##
 
 If you haven&#8217;t read Barth&#8217;s _Epistle to the Romans_, here are his chapter headings:
 
@@ -119,21 +65,21 @@ But perhaps I should have seen it coming! After all, earlier, commenting on &#82
 
 Hmmm. So “the Jew” and “Israel” are both ciphers for “the religious and ecclesiastical man,” “the world of religion as it appears in history.”
 
-## <span class="ez-toc-section" id="Isnt_that_supersessionism"></span>Isn’t that supersessionism?<span class="ez-toc-section-end"></span>
+## Isn’t that supersessionism?
 
 Without fail, Barth’s equation of “Israel” with “the Church,” built upon his apparent evacuation of “Jew” and “Israel” of all _Jewish_ and _Israelite_ content, raises the specter of “supersessionism,” the view that the Church supersedes, replaces, or supplants Israel.
 
 After all, in a straightforward sense, Barth’s reading of Romans 9–11 is supersessionist, because he literally replaces “Israel” with “Church” in his exposition!
 
-## <span class="ez-toc-section" id="Despite_this_its_become_increasingly_common_to_at_least_mitigate_the_accusation_of_supersessionism_against_Barths_reading_of_Romans_9-11"></span>Despite this, it’s become increasingly common to at least mitigate the accusation of supersessionism against Barth’s reading of Romans 9–11.<span class="ez-toc-section-end"></span>
+## Despite this, it’s become increasingly common to at least mitigate the accusation of supersessionism against Barth’s reading of Romans 9–11.
 
 Let me highlight a few of these defenses of Barth.
 
-### <span class="ez-toc-section" id="Katherine_Sonderegger_That_Jesus_Christ_Was_Born_A_Jew_Karl_Barths_Doctrine_of_Israel_Pennsylvania_State_University_Press_1992"></span>Katherine Sonderegger, _That Jesus Christ Was Born A Jew: Karl Barth’s “Doctrine of Israel”_ (Pennsylvania State University Press, 1992).<span class="ez-toc-section-end"></span>
+### Katherine Sonderegger, _That Jesus Christ Was Born A Jew: Karl Barth’s “Doctrine of Israel”_ (Pennsylvania State University Press, 1992).
 
 In the chapter on _Der Römerbrief_ in her examination of Barth’s doctrine of Israel, Sonderegger argues that Barth had a robust notion of solidarity between Israel and the Church, and that, thanks to his use of the figures of Prophet and Pharisee at least, “Barth does not discard history, empty it, or make it of no use or value” (42).
 
-### <span class="ez-toc-section" id="R_Kendall_Soulen_Karl_Barth_and_the_Future_of_the_God_of_Israel_Pro_Ecclesia_6_no_4_1997_413-28"></span>R. Kendall Soulen, “Karl Barth and the Future of the God of Israel,” Pro Ecclesia 6, no. 4 (1997): 413–28.<span class="ez-toc-section-end"></span>
+### R. Kendall Soulen, “Karl Barth and the Future of the God of Israel,” Pro Ecclesia 6, no. 4 (1997): 413–28.
 
 Nevertheless, Barth is perhaps guilty of at least a kind of supersessionism in his exposition of Romans 9:30–10:21 in Romans. Soulen has has provided a helpful diagnostic framework of three different kinds of supersessionism: economic, punitive, and structural. 
 
@@ -146,7 +92,7 @@ In his own words,
 
 Overall, Soulen interprets Barth as (1) repudiating punitive and structural supersessionism while (2) supporting and defending “economic supersessionism.”
 
-### <span class="ez-toc-section" id="Douglas_K_Harink_Barths_Apocalyptic_Exegesis_and_the_Question_of_Israel_in_Romerbrief_Chapters_9-11_Toronto_Journal_of_Theology_25_no_1_2009_5-18"></span>Douglas K. Harink, “Barth’s Apocalyptic Exegesis and the Question of Israel in Römerbrief, Chapters 9-11,” Toronto Journal of Theology 25, no. 1 (2009): 5–18.<span class="ez-toc-section-end"></span>
+### Douglas K. Harink, “Barth’s Apocalyptic Exegesis and the Question of Israel in Römerbrief, Chapters 9-11,” Toronto Journal of Theology 25, no. 1 (2009): 5–18.
 
 In his 2009 article, Douglas Harink argues that 
 
@@ -164,7 +110,7 @@ Critiquing Barth, Harink writes:
   </p>
 </blockquote>
 
-### <span class="ez-toc-section" id="Wesley_Hill_The_Church_as_Israel_and_Israel_as_the_Church_An_Examination_of_Karl_Barths_Exegesis_of_Romans_9_1-5_in_the_Epistle_to_the_Romans_and_Church_Dogmatics_22_Journal_of_Theological_Interpretation_6_no_1_2012_139-58"></span>Wesley Hill, “The Church as Israel and Israel as the Church: An Examination of Karl Barth’s Exegesis of Romans 9:1-5 in the Epistle to the Romans and Church Dogmatics 2/2,” Journal of Theological Interpretation 6, no. 1 (2012): 139–58.<span class="ez-toc-section-end"></span>
+### Wesley Hill, “The Church as Israel and Israel as the Church: An Examination of Karl Barth’s Exegesis of Romans 9:1-5 in the Epistle to the Romans and Church Dogmatics 2/2,” Journal of Theological Interpretation 6, no. 1 (2012): 139–58.
 
 Here is how Wesley Hill assessed Barth’s exegesis of Romans 9:1–5: 
 
@@ -178,7 +124,7 @@ I agree with this assessment, and also with Hill’s modification of Soulen’s 
 
 As Hill puts it, “Israel simply does not feature in any central way in Barth’s exposition of what by common consent is Paul’s most sustained, penetrating discussion of Israel’s role in God’s salvific purposes” (152n63). This sounds a lot like the “Israel-forgetfulness” that Soulen mentions in his description of structural supersessionism (“Karl Barth and Future of the God of Israel,” 417).
 
-### <span class="ez-toc-section" id="Susannah_Ticciati_The_Future_of_Biblical_Israel_How_Should_Christians_Read_Romans_9-11_Today_Biblical_Interpretation_25_no_4-5_November_15_2017_497-518"></span>Susannah Ticciati, “The Future of Biblical Israel: How Should Christians Read Romans 9-11 Today?,” Biblical Interpretation 25, no. 4–5 (November 15, 2017): 497–518.<span class="ez-toc-section-end"></span>
+### Susannah Ticciati, “The Future of Biblical Israel: How Should Christians Read Romans 9-11 Today?,” Biblical Interpretation 25, no. 4–5 (November 15, 2017): 497–518.
 
 Susannah Ticciati suggests that Barth was right to put the Church in the place of “hardened Israel” in his _Römerbrief_ reading of Romans 9–11. Yet, he was guilty of forgetting Israel, “eliding Jews and Judaism from discussion of the text.” 
 
@@ -198,7 +144,7 @@ In her explanation (and justification) for Barth’s equation of the Church with
   </p>
 </blockquote>
 
-### <span class="ez-toc-section" id="Beverly_Gaventa_The_Finality_of_the_Gospel_Barths_Romerbrief_on_Romans_9-11_2019_Karl_Barth_Conference"></span>Beverly Gaventa, &#8220;The Finality of the Gospel: Barth’s Römerbrief on Romans 9-11,” 2019 Karl Barth Conference.<span class="ez-toc-section-end"></span>
+### Beverly Gaventa, &#8220;The Finality of the Gospel: Barth’s Römerbrief on Romans 9-11,” 2019 Karl Barth Conference.
 
 As it turns out, Beverly Gaventa just gave a talk on Barth&#8217;s reading of Romans 9–11 at the 2019 Karl Barth Conference at Princeton. 
 
@@ -223,7 +169,7 @@ Furthermore, she points out that, throughout the letter, Paul _appears_ to draw 
 
 For example, Paul plays on Jewish stereotypes of Gentiles in the second half of chapter 1, before springing a rhetorical trap in chapter 2! Gaventa also notes how Paul handles Abraham vis-a-vis the question of circumcision in chapter 4. Paul then puts everyone together in Adam and in Christ in chapter 5.
 
-## <span class="ez-toc-section" id="What_if_the_biggest_problem_with_Barths_reading_isnt_supersessionism"></span>What if the biggest problem with Barth’s reading isn’t supersessionism?<span class="ez-toc-section-end"></span>
+## What if the biggest problem with Barth’s reading isn’t supersessionism?
 
 I think that Sonderegger, Soulen, Harink, Hill, Ticciati, and Gaventa are all on the right track. It’s too easy to accuse Barth’s reading of Romans 9–11 in the _Romans_ commentary of supersessionism _simpliciter_. 
 
@@ -231,7 +177,7 @@ Yes, it was a mistake for Barth not to consider the particularities of Israel. T
 
 However (and here’s my contribution to this discussion), I don’t think that the (potential) supersessionism of reading “the Church” for “Israel” is the biggest problem with Barth’s _Römerbrief_ reading of Romans 9–11.
 
-## <span class="ez-toc-section" id="Instead_I_think_the_biggest_problem_with_Barths_reading_is_that_he_equated_the_Gentiles_that_Paul_mentions_in_Romans_9_30_and_again_in_11_11ff_with_the_world"></span>Instead, I think the biggest problem with Barth’s reading is that he equated the “Gentiles” that Paul mentions in Romans 9:30 (and again in 11:11ff.) with the “world.” <span class="ez-toc-section-end"></span>
+## Instead, I think the biggest problem with Barth’s reading is that he equated the “Gentiles” that Paul mentions in Romans 9:30 (and again in 11:11ff.) with the “world.” 
 
 Barth thereby fails to recognize that Paul is speaking to/about Gentile _Christians_. He misses Paul’s pastoral focus on Jew-Gentile tensions _within_ the Church, and instead focuses on the relationship between the Church and the world.
 
@@ -267,7 +213,7 @@ That might be true, but that’s not the Paul is referring to _ethne_ in this pa
 
 Now, Barth is absolutely correct to interpret Paul as arguing for (1) unity between Jews and Gentiles on the basis of (2) the judgment and the salvation of God. However, at least here in the _Romans_ commentary, I believe that Barth is overlooking the fact that, for Paul and the Roman Christians, differences between Jews and Gentiles were still significant, even if they were not meant to be ultimate/final.
 
-## <span class="ez-toc-section" id="If_you_miss_the_Jew-Gentile_tensions_within_the_Church_you_miss_the_pastoral_point_of_Romans"></span>If you miss the Jew-Gentile tensions _within_ the Church, you miss the (pastoral) point of Romans!<span class="ez-toc-section-end"></span>
+## If you miss the Jew-Gentile tensions _within_ the Church, you miss the (pastoral) point of Romans!
 
 I agree with the thrust of Scot McKnight’s argument, in his recent book, [_Reading Romans Backward: A Gospel of Peace in the Midst of Empire_][2], that “Romans 12–16…reveals the pastoral context of Romans.”
 
@@ -285,7 +231,7 @@ Barth claims that “Truth and Mercy hold together Jew and Gentile, Church and W
 
 The “strong” and the “weak” in Romans 14–15 were not necessarily “Gentiles” and “Jews” respectively. As Thielman notes, “the situation in mid first-century Rome was more complex than this simple division allows” (_Romans_, ZECNT, Zondervan, 2018, p. 629). Nevertheless, the identification of the “strong” and the “weak” almost undoubtedly had to do with Jewish customs, and not, as Barth seems to claim, merely with the extent to which one had grasped Pauline theology and the KRISIS of God.
 
-## <span class="ez-toc-section" id="Barth_seems_to_have_missed_the_pastoral_point_of_Romans"></span>Barth seems to have missed the pastoral point of Romans.<span class="ez-toc-section-end"></span>
+## Barth seems to have missed the pastoral point of Romans.
 
 Barth claimed, in the preface to Hoskyns’ English translation of Romans, that, “in writing this book, I set out neither to compose a free fantasia upon the theme of religion, nor to evolve a philosophy of it. My sole aim was to interpret Scripture” (ix). 
 

@@ -16,47 +16,7 @@ tags:
 ---
 _(Here&#8217;s a PDF of this paper: [STEELE_The Tree of Religion Barth and Bonhoeffer on the Tree of Knowledge][1].)_
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/#Introduction" title="Introduction">Introduction</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/#Barth_and_Bonhoeffer_on_the_Tree_of_Knowledge_and_a_Critique_of_Religion" title="Barth and Bonhoeffer on the Tree of Knowledge and a Critique of Religion">Barth and Bonhoeffer on the Tree of Knowledge and a Critique of Religion</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/#Bonhoeffer_on_the_Tree_of_Knowledge_and_Religion" title="Bonhoeffer on the Tree of Knowledge and Religion">Bonhoeffer on the Tree of Knowledge and Religion</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/#Barth_on_the_Tree_of_Knowledge_and_Religion" title="Barth on the Tree of Knowledge and Religion">Barth on the Tree of Knowledge and Religion</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/#Similarities_and_Differences_between_Barth_and_Bonhoeffer" title="Similarities and Differences between Barth and Bonhoeffer">Similarities and Differences between Barth and Bonhoeffer</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/#An_Exegetical_Evaluation_of_Barth_and_Bonhoeffer_on_the_Tree_of_Knowledge" title="An Exegetical Evaluation of Barth and Bonhoeffer on the Tree of Knowledge">An Exegetical Evaluation of Barth and Bonhoeffer on the Tree of Knowledge</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-1'>
-      <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/#Conclusion_The_Tree_of_Knowledge_and_a_BiblicalTheological_Critique_of_Religion_Today" title="Conclusion: The Tree of Knowledge and a Biblical/Theological Critique of Religion Today">Conclusion: The Tree of Knowledge and a Biblical/Theological Critique of Religion Today</a><ul class='ez-toc-list-level-2'>
-        <li class='ez-toc-heading-level-2'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/#BIBLIOGRAPHY" title=" BIBLIOGRAPHY"> BIBLIOGRAPHY</a>
-        </li>
-      </ul>
-    </li>
-  </ul></nav>
-</div>
-
-# <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span>
+# Introduction
 
 The precise meaning of the “tree of the knowledge of good and evil” (=TK) has long vexed interpreters of Genesis 2:4–3:24.<sup><a id="post-41779-footnote-ref-1" href="#post-41779-footnote-1">[1]</a></sup> While the “tree of life” (=TL) is mentioned and alluded to throughout the Bible, the TK is explicitly mentioned by its full name just twice (Gen. 2:9, 17).<sup><sup><a id="post-41779-footnote-ref-2" href="#post-41779-footnote-2">[2]</a></sup></sup> Nevertheless, because of the significant role that the TK plays in the narrative, both Dietrich Bonhoeffer and Karl Barth highlight the TK in their theological interpretations of Genesis 1–3. Furthermore, both theologians describe the TK and the knowledge of good and evil (=KGE) in ways that resemble their theological critiques of “religion” as an improper response to divine revelation.
 
@@ -66,11 +26,11 @@ However, although maintaining an emphasis on religion as self-justification and 
 
 In this paper, I argue (1) that Barth’s and Bonhoeffer’s interpretations of the TK and the KGE help to explain the similarity and differences between their theological critiques of religion. For Bonhoeffer, the KGE is primarily “disunion.” What he would call “religion” in prison is an inward and partial response to the disunion caused by the KGE. For Barth, the KGE is primarily God’s prerogative to judge what ought and ought not to be. “Religion” is a repetition of humanity’s attempt to grasp the KGE and justify itself. Nevertheless, (2) given the text of Genesis 2:4–3:24, Bonhoeffer’s and Barth’s interpretations need some exegetical adjustments. Bonhoeffer’s view adequately describes the consequences of humans grasping the KGE, but it is insufficient to the degree that it fails to describe the essence of the KGE, how the KGE is spoken of in the rest of the OT, and how the KGE is originally and properly God’s. Barth’s view is more exegetically robust, but it needs to be softened in order to make it clear how humans now have the KGE. Yet, despite these adjustments, (3) I believe that the TK and the KGE can be used to advance a theological critique of religion along the same lines as both Barth and Bonhoeffer.
 
-# <span class="ez-toc-section" id="Barth_and_Bonhoeffer_on_the_Tree_of_Knowledge_and_a_Critique_of_Religion"></span><a id="post-41779-Barth_and_Bonhoeffer_the_Tree_"></a>Barth and Bonhoeffer on the Tree of Knowledge and a Critique of Religion<span class="ez-toc-section-end"></span>
+# <a id="post-41779-Barth_and_Bonhoeffer_the_Tree_"></a>Barth and Bonhoeffer on the Tree of Knowledge and a Critique of Religion
 
 Although the links are admittedly indirect and thematic, I argue that the same similarities and differences can be seen in (1) Barth’s and Bonhoeffer’s theological critiques of religion and (2) their theological interpretations of the TK and the KGE in Genesis 2:4–3:24.<sup><a id="post-41779-footnote-ref-9" href="#post-41779-footnote-9">[9]</a></sup> Barth emphasized the relationship between the KGE (God’s prerogative to judge) and humanity’s idolatrous desire to justify itself. Although these elements are also present in some of Bonhoeffer’s discussions, Bonhoeffer places much more emphasis on the relationship between the KGE (disunion) and the fragmentation of human life.
 
-## <span class="ez-toc-section" id="Bonhoeffer_on_the_Tree_of_Knowledge_and_Religion"></span><a id="post-41779-Bonhoeffer_on_the_Tree_of_Know"></a>Bonhoeffer on the Tree of Knowledge and Religion<span class="ez-toc-section-end"></span>
+## <a id="post-41779-Bonhoeffer_on_the_Tree_of_Know"></a>Bonhoeffer on the Tree of Knowledge and Religion
 
 “Good and evil” played an important role throughout Bonhoeffer’s theological career. Already in his February 1929 lecture, “Basic Questions of a Christian Ethic,” Bonhoeffer was using Genesis 2–3 to defend the claim that “[t]he Christian message stands beyond good and evil” because it emphasizes unity with God as opposed to the duality suggested by the oppositional pair “good and evil.”<sup><sup><a id="post-41779-footnote-ref-10" href="#post-41779-footnote-10">[10]</a></sup></sup> Later, in January 1933, Bonhoeffer addressed the TK and the KGE in his lectures on Genesis 2–3.<sup><a id="post-41779-footnote-ref-11" href="#post-41779-footnote-11">[11]</a></sup> In describing the primal state, Bonhoeffer emphasizes the unity of Adam’s life in “unbroken obedience to the Creator,” an “obedience that issues from freedom” to obey God’s command.<sup><sup><a id="post-41779-footnote-ref-12" href="#post-41779-footnote-12">[12]</a></sup></sup> In terms that echo his insistence in the prison letters on speaking “non-religiously” of God “not at the boundaries but in the center,” Bonhoeffer interprets the prohibition against eating from the TK as God’s boundary/limit [Grenze] which encounters Adam in the center [Mitte] of his own existence.<sup><sup><a id="post-41779-footnote-ref-13" href="#post-41779-footnote-13">[13]</a></sup></sup> According to Bonhoeffer, heeding the divine boundary in the middle of life was to secure human life in its unified totality. Instead, transgressing the boundary led to knowledge of good _and_ evil, so that humans now “suffer from an inner split [Zwiespalt].”<sup><sup><a id="post-41779-footnote-ref-14" href="#post-41779-footnote-14">[14]</a></sup></sup>
 
@@ -102,7 +62,7 @@ As for how/whether humans become “like God” when they obtain the KGE, Bonhoe
 
 And yet, in the end, due to the KGE, “everything is pulled into the process of disunion [Entzweiung].”<sup><sup><a id="post-41779-footnote-ref-29" href="#post-41779-footnote-29">[29]</a></sup></sup> Although Bonhoeffer arguably sounds a bit more like Barth when discussing the KGE in _Ethics_ (as opposed to in _Creation and Fall_), Bonhoeffer still retains a distinctive emphasis on the KGE as the source of all disunion—with God, with others, and with ourselves. What he would later call “religion” in prison is an inward and partial response to this disunion.
 
-## <span class="ez-toc-section" id="Barth_on_the_Tree_of_Knowledge_and_Religion"></span><a id="post-41779-Barth_on_the_Tree_of_Knowledge"></a>Barth on the Tree of Knowledge and Religion<span class="ez-toc-section-end"></span>
+## <a id="post-41779-Barth_on_the_Tree_of_Knowledge"></a>Barth on the Tree of Knowledge and Religion
 
 Although Bonhoeffer offered a lengthy exposition of Genesis 1–3 over a decade before Barth, Barth had previously addressed these chapters of Genesis in his discussion of Romans 7:7–13 (“The Meaning of Religion”) in the second and subsequent editions of his _Römerbrief.<sup><sup><a id="post-41779-footnote-ref-30" href="#post-41779-footnote-30">[30]</a></sup></sup>_ In _Romans_, Barth interpreted the KGE as the divine secret that humans are merely humans. Such knowledge
 
@@ -114,7 +74,7 @@ However, Barth’s interpretation of the TK in _CD_ differs sharply from his pre
 
 Barth returned to Genesis 3 at some length in _CD_ IV/1, §60, “The Pride and Fall of Man.” The _Leitsatz_ for §60 describes the sinful human “who willed to be as God, himself lord, the judge of good and evil.”<sup><a id="post-41779-footnote-ref-35" href="#post-41779-footnote-35">[35]</a></sup> Barth continued to interpret the KGE as God’s ability and prerogative to judge. Furthermore, in Barth’s interpretation of Genesis 3 in _CD_ IV/1, the primary concealment is not God’s concealment of the creator/creature distinction, but rather the serpent’s and humanity’s concealment of the pernicious nature of wanting (1) to be like God, (2) to be lord, (3) to be one’s own judge, and (4) to help oneself.<sup><a id="post-41779-footnote-ref-36" href="#post-41779-footnote-36">[36]</a></sup> Regarding the desire to be one’s own judge, Barth argues that, not only do humans lack the capacity to judge between good and evil, they actively choose evil. And although the creator is in fact the judge, he is not the egotistic victor in need of approval that humans make him out to be in their endeavor to join him in judging. That is a false god, an idol. Instead, the true God is the self-sacrificial judge who gives himself to be judged in our place.<sup><a id="post-41779-footnote-ref-37" href="#post-41779-footnote-37">[37]</a></sup>
 
-## <span class="ez-toc-section" id="Similarities_and_Differences_between_Barth_and_Bonhoeffer"></span>Similarities and Differences between Barth and Bonhoeffer<span class="ez-toc-section-end"></span>
+## Similarities and Differences between Barth and Bonhoeffer
 
 The first similarity between Barth and Bonhoeffer on the TK and the KGE is that both theologians’ explanations of the TK/KGE correlate with their theological critiques of religion. For Bonhoeffer in prison, religion is an inward and partial attempt to address the disunion caused by the KGE. For Barth, religion is the same kind of idolatrous self-justification as humans grasping after God’s KGE. And yet both theologians speak of self-justification and a false idea of God at the fall. Given the paucity of citations of Genesis 2–3 in Bonhoeffer’s prison letters, it would be very difficult to “prove” that their differences on the TK and the KGE directly “caused” their differences on religion, but the correlations here should not be ignored.
 
@@ -122,7 +82,7 @@ Second, both theologians interpret the prohibition from eating from the TK as a 
 
 Third, both theologians are trying to make sense of the contours of the passage, which seem to indicate that the KGE is (1) originally and properly God’s knowledge and (2) something that humans now have (Gen. 3:5, 22). But here is where their differences also begin to emerge. Bonhoeffer’s definition of the KGE in terms of disunion makes better sense of (2) than (1). That is, it is easier to understand how humans suffer from disunion post-fall than it is to understand how such disunion was originally and properly God’s. Barth’s definition of the KGE in terms of judgment and decision makes better sense of (1) than (2). It is easier to understand how God has the prerogative to judge between what ought to and ought not to be than it is to understand how humans now have such an ability.<sup><a id="post-41779-footnote-ref-38" href="#post-41779-footnote-38">[38]</a></sup>
 
-# <span class="ez-toc-section" id="An_Exegetical_Evaluation_of_Barth_and_Bonhoeffer_on_the_Tree_of_Knowledge"></span>An Exegetical Evaluation of Barth and Bonhoeffer on the Tree of Knowledge<span class="ez-toc-section-end"></span>
+# An Exegetical Evaluation of Barth and Bonhoeffer on the Tree of Knowledge
 
 So far, I have argued that the similarities and differences between Barth and Bonhoeffer on the TK and the KGE help to make sense of the similarities and differences between their theological critiques of religion. I will now evaluate their interpretations of the TK and the KGE in light of the text of Genesis 2:4–3:24.
 
@@ -156,7 +116,7 @@ Barth concludes that to know good and evil “is to know right and wrong, salvat
 
 Nevertheless, Barth’s moral autonomy view is perhaps cast in such strong terms that it suffers from the same weakness as the omniscience view. Although I am persuaded that, given how “good” and “evil” are spoken of in the rest of the OT, something like moral autonomy (stronger than mere ethical discernment) must be in view, the KGE should be defined as “mere” moral autonomy—the ability to make decisions about what is right and wrong—in order to help make it clear that, although humans now possess the KGE, it is but a pale imitation and coveting of God’s absolute KGE.
 
-# <span class="ez-toc-section" id="Conclusion_The_Tree_of_Knowledge_and_a_BiblicalTheological_Critique_of_Religion_Today"></span><a id="post-41779-Conclusion"></a>Conclusion: The Tree of Knowledge and a Biblical/Theological Critique of Religion Today<span class="ez-toc-section-end"></span>
+# <a id="post-41779-Conclusion"></a>Conclusion: The Tree of Knowledge and a Biblical/Theological Critique of Religion Today
 
 In this paper, I have argued that (1) Barth and Bonhoeffer’s interpretations of the TK and the KGE help to explain the similarity and differences between their theological critiques of religion. For Bonhoeffer, the KGE is primarily “disunion”—with God, with others, and with ourselves. What he would call “religion” in prison is an inward and partial response to the disunion caused by the KGE. For Barth, the KGE is primarily God’s prerogative to judge what ought and ought not to be. “Religion” is a repetition of humanity’s attempt to exercise the KGE and justify itself.
 
@@ -164,7 +124,7 @@ Based upon the text of Genesis 2:4–3:24, (2) both Barth’s and Bonhoeffer’s
 
 Given these adjustments and a moral autonomy view of the KGE, (3) can the TK be used to advance a theological critique of religion along the same lines as both Barth and Bonhoeffer? Yes. With both theologians, we can maintain that the point of the TK was obedience to God’s command—a command which was also an instance of divine self-revelation. God is not against human beings acquiring ethical discernment and wisdom, but they are to do so through reverent worship and obedience in response to divine revelation, and not through attempting to seize godlike autonomy. If humans had obeyed God’s command, then the TK would have remained a tree of worship and wisdom, as it were, securing the unity and the freedom of human life. Instead, both in Eden and today, the error of religion is to grasp after God—to justify oneself before one’s own idea of “god,” instead of obeying and worshiping God as he has revealed himself to be. Because humans tried to grasp moral autonomy through consumption, instead of through worship and obedience, the TK thereby became the tree of religion. It would take an act of reverent obedience on a different tree to solve humanity’s religious predicament.
 
-## <span class="ez-toc-section" id="BIBLIOGRAPHY"></span><a id="post-41779-Bibliography"></a> BIBLIOGRAPHY<span class="ez-toc-section-end"></span>
+## <a id="post-41779-Bibliography"></a> BIBLIOGRAPHY
 
 Baez, Enrique. “Tree of Knowledge.” In _The Lexham Bible Dictionary_, edited by John D. Barry et al. Bellingham, WA: Lexham Press, 2016.
 

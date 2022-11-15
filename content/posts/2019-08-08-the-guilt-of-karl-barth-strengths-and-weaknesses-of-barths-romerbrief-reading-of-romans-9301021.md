@@ -18,51 +18,7 @@ tags:
 ---
 _UPDATE: Here is the paper that I gave at the 2019 Karl Barth Graduate Student Colloquium at the Center for Barth Studies at Princeton Theological Seminary._
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/#INTRODUCTION_GENTILES_WORLD_IS_WORSE_THAN_ISRAEL_CHURCH" title="INTRODUCTION: “GENTILES” = “WORLD” IS WORSE THAN “ISRAEL” = “CHURCH”">INTRODUCTION: “GENTILES” = “WORLD” IS WORSE THAN “ISRAEL” = “CHURCH”</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/#SUMMARY_WHAT_BARTH_IS_DOING_IN_ROMERBRIEF_10" title="SUMMARY: WHAT BARTH IS DOING IN RÖMERBRIEF 10">SUMMARY: WHAT BARTH IS DOING IN RÖMERBRIEF 10</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/#The_KRISIS_of_Knowledge_Romans_9_30-10_3_With_Great_Revelation_Comes_Great_Culpability4" title="The KRISIS of Knowledge (Romans 9:30–10:3): With Great Revelation Comes Great Culpability[4]">The KRISIS of Knowledge (Romans 9:30–10:3): With Great Revelation Comes Great Culpability[4]</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/#And_Yet_The_Light_Shines_in_the_Darkness_Romans_10_4-21" title="And Yet, The Light Shines in the Darkness (Romans 10:4–21)">And Yet, The Light Shines in the Darkness (Romans 10:4–21)</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/#ASSESSMENT_WHAT_SHOULD_WE_MAKE_OF_BARTHS_READING" title="ASSESSMENT: WHAT SHOULD WE MAKE OF BARTH’S READING?">ASSESSMENT: WHAT SHOULD WE MAKE OF BARTH’S READING?</a><ul class='ez-toc-list-level-3'>
-        <li class='ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/#First_Barth_Was_Right_to_Critique_the_Church" title="First, Barth Was Right to Critique the Church.">First, Barth Was Right to Critique the Church.</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/#And_Yet_Barth_Was_Wrong_to_Miss_the_Jew-Gentile_Tensions_WITHIN_the_Church" title="And Yet, Barth Was Wrong to Miss the Jew-Gentile Tensions WITHIN the Church.">And Yet, Barth Was Wrong to Miss the Jew-Gentile Tensions WITHIN the Church.</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/#CONCLUSION" title="CONCLUSION">CONCLUSION</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-2'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/#NOTES" title="NOTES:">NOTES:</a>
-    </li>
-  </ul></nav>
-</div>
-
-## <span class="ez-toc-section" id="INTRODUCTION_GENTILES_WORLD_IS_WORSE_THAN_ISRAEL_CHURCH"></span>INTRODUCTION: “GENTILES” = “WORLD” IS WORSE THAN “ISRAEL” = “CHURCH”<span class="ez-toc-section-end"></span>
+## INTRODUCTION: “GENTILES” = “WORLD” IS WORSE THAN “ISRAEL” = “CHURCH”
 
 On at least one level, Karl Barth’s Römerbrief reading of Romans 9–11 is supersessionist. In general, especially in the second edition, when Paul refers to “Israel” in Romans 9–11, Barth refers to the “Church.”<sup><sup><a id="post-41871-footnote-ref-1" href="#post-41871-footnote-1">[1]</a></sup></sup> He replaces Israel with the Church. That’s supersessionism, case closed. Right? Well, yes and no. It has become increasingly common to at least mitigate or nuance the charge of supersessionism against Barth’s reading of Romans 9–11. Various scholars have broadly argued that, yes, Barth’s handling of Romans 9–11 at least leaves the door open for at least a certain kind of supersessionism, but, no, he wasn’t being quite as careless with Israel as it might initially seem.<sup><sup><a id="post-41871-footnote-ref-2" href="#post-41871-footnote-2">[2]</a></sup></sup> By and large, I agree with these assessments. Barth should have said more about the actual people and history of Israel, but he wasn’t trying to merely displace Israel with the Church, as if the latter were superior and the former were forgotten. He was trying to bring Israel and the Church together in solidarity, in opposition to the arrogance of the Church.
 
@@ -70,9 +26,9 @@ Of course, the very worst thing about supersessionism is that it implies that Go
 
 In order to make this point, I will first summarize Barth’s argument in Römerbrief 10, before assessing its strengths and weaknesses as an interpretation of Romans 10.
 
-## <span class="ez-toc-section" id="SUMMARY_WHAT_BARTH_IS_DOING_IN_ROMERBRIEF_10"></span>SUMMARY: WHAT BARTH IS DOING IN RÖMERBRIEF 10<span class="ez-toc-section-end"></span>
+## SUMMARY: WHAT BARTH IS DOING IN RÖMERBRIEF 10
 
-### <span class="ez-toc-section" id="The_KRISIS_of_Knowledge_Romans_9_30-10_3_With_Great_Revelation_Comes_Great_Culpability4"></span>The KRISIS of Knowledge (Romans 9:30–10:3): With Great Revelation Comes Great Culpability<sup><a id="post-41871-footnote-ref-4" href="#post-41871-footnote-4">[4]</a></sup><span class="ez-toc-section-end"></span>
+### The KRISIS of Knowledge (Romans 9:30–10:3): With Great Revelation Comes Great Culpability<sup><a id="post-41871-footnote-ref-4" href="#post-41871-footnote-4">[4]</a></sup>
 
 The knowledge in question is the knowledge of God and the crisis is the judgment that humans are guilty. In fact, the crisis of knowledge is that both avoiding and pursuing the knowledge of God lead to guilt. _Avoiding_ the knowledge of God _increases_ the guilt and _pursuing_ (and even receiving) the knowledge of God _reveals_ the guilt. For Barth, the relationship between divine revelation and human plight is direct, not inverse.<sup><sup><a id="post-41871-footnote-ref-5" href="#post-41871-footnote-5">[5]</a></sup></sup>
 
@@ -88,7 +44,7 @@ Now, of course, for Barth, to call something the “pinnacle of religion” is a
 
 Although some might suggest that, given the direct correlation between revelation and plight, the best course of action would be to distance ourselves from the guilty Church, Barth maintains that there really is no escape from the solidarity of human beings under the judgment of God. He writes that “in the Church humanity becomes conscious of itself and is manifested as religious.”<sup><sup><a id="post-41871-footnote-ref-8" href="#post-41871-footnote-8">[8]</a></sup></sup> Therefore, “in describing the Church we are describing ourselves.”<sup><sup><a id="post-41871-footnote-ref-9" href="#post-41871-footnote-9">[9]</a></sup></sup> After all, Barth maintains that “in the affairs of God it is impossible for one individual to range itself against another, or one person against another. We cannot examine men, and then proceed to justify some and to condemn others.”<sup><sup><a id="post-41871-footnote-ref-10" href="#post-41871-footnote-10">[10]</a></sup></sup> The knowledge of God, therefore, leads to a crisis, a judgment, a critique of ourselves and our best thoughts about God.<sup><sup><a id="post-41871-footnote-ref-11" href="#post-41871-footnote-11">[11]</a></sup></sup>
 
-### <span class="ez-toc-section" id="And_Yet_The_Light_Shines_in_the_Darkness_Romans_10_4-21"></span>And Yet, The Light Shines in the Darkness (Romans 10:4–21)<span class="ez-toc-section-end"></span>
+### And Yet, The Light Shines in the Darkness (Romans 10:4–21)
 
 Barth insists that, despite the Church’s tribulation and guilt, there is a way forward. But it is not pleasant. For Barth, “the hope of the Church” is manifest “precisely where its guilt is proven.”<sup><sup><a id="post-41871-footnote-ref-12" href="#post-41871-footnote-12">[12]</a></sup></sup> The stone of stumbling, the rock of offense, is the only way forward. That is, in order to see the light of God that shines in the darkness, the Church must accept the judgment of God as her own, instead of trying to escape the judgment.
 
@@ -98,11 +54,11 @@ Instead, the light shines in the darkness because God himself has already drawn 
 
 And yet, the light shines in “real darkness.”<sup><sup><a id="post-41871-footnote-ref-15" href="#post-41871-footnote-15">[15]</a></sup></sup> Barth writes that “what is demanded of us here is that we should know that we are understood by God—in our lack of understanding.”<sup><sup><a id="post-41871-footnote-ref-16" href="#post-41871-footnote-16">[16]</a></sup></sup> We best serve the Church by reminding it that even this demand exceeds its grasp. For Barth, we must not minimize but must instead emphasize “that the tribulation of the Church is its guilt, and that its guilt consists in a perpetual avoiding of the tribulation which it suffers from the secret of God.”<sup><sup><a id="post-41871-footnote-ref-17" href="#post-41871-footnote-17">[17]</a></sup></sup> “The Church needs to be continually reminded of the most serious of all symptoms. It was the Church, not the world, which crucified Christ.”<sup><sup><a id="post-41871-footnote-ref-18" href="#post-41871-footnote-18">[18]</a></sup></sup> Römerbrief chapter 10 was written as just such a reminder. With great revelation comes great culpability.
 
-## <span class="ez-toc-section" id="ASSESSMENT_WHAT_SHOULD_WE_MAKE_OF_BARTHS_READING"></span>ASSESSMENT: WHAT SHOULD WE MAKE OF BARTH’S READING?<span class="ez-toc-section-end"></span>
+## ASSESSMENT: WHAT SHOULD WE MAKE OF BARTH’S READING?
 
 So much for a summary sketch of chapter 10. Let’s now assess Barth’s argument.
 
-### <span class="ez-toc-section" id="First_Barth_Was_Right_to_Critique_the_Church"></span>First, Barth Was Right to Critique the Church.<span class="ez-toc-section-end"></span>
+### First, Barth Was Right to Critique the Church.
 
 Previously, in chapter 9, Barth wrote that “in contrast with the Gospel of Jesus Christ, there is thrust upon our attention—Israel, the Church, the world of religion as it appears in history, and, we hasten to add, Israel in its purest, truest, and most powerful aspect.”<sup><sup><a id="post-41871-footnote-ref-19" href="#post-41871-footnote-19">[19]</a></sup></sup> The first time I read those words, I’m pretty sure my jaw hit the ground. And yet, I believe that Karl Barth was right to use Romans 9–11 to critique the Church instead of critiquing Israel. He was right, in other words, to interpret Paul’s words “to all God’s beloved in Rome, who are called to be saints” (Rom. 1:7) as an internal critique of the Church rather than an external critique of Israel.
 
@@ -116,7 +72,7 @@ I largely agree with what Gaventa recently argued at the 2019 Karl Barth Confere
 
 In his critique of the guilty Church in Römerbrief 10, Barth is at least attempting to take the same posture as Paul. As a Jewish Christian writing to Christians in Rome, Paul took a posture of self-critique and solidarity with Israel. Barth therefore takes a posture of self-critique and solidarity with the Church.
 
-### <span class="ez-toc-section" id="And_Yet_Barth_Was_Wrong_to_Miss_the_Jew-Gentile_Tensions_WITHIN_the_Church"></span>And Yet, Barth Was Wrong to Miss the Jew-Gentile Tensions WITHIN the Church.<span class="ez-toc-section-end"></span>
+### And Yet, Barth Was Wrong to Miss the Jew-Gentile Tensions WITHIN the Church.
 
 Exegetically speaking, using Romans 9:30–10:21 to critique the Church at least plausibly depends on Paul’s admission in the following chapter that he is speaking to “you Gentiles” as “an apostle to the Gentiles” (11:13). That is, the Gentiles among his predominantly Gentile Christian audience at Rome. At this point, we should recall that, in Romans 9:30–10:21, Paul is in the second stage of his argument that “It is not as though the word of God had failed” (9:6a). The first stage of his argument (9:6–29) was that “not all Israelites truly belong to Israel” (9:6b), “and not all of Abraham’s children are his true descendants” (9:7a). That is, membership in the people of God has always been determined by God’s gracious election—nothing else.
 
@@ -140,7 +96,7 @@ In his comments upon Romans 10:12–13 (“For there is no distinction between J
 
 I disagree. Although Barth is absolutely correct to interpret Paul as arguing for (1) unity between Jews and Gentiles on the basis of (2) the judgment and the salvation of God, he is guilty of overlooking the fact that, for Paul and the Roman Christians, differences between Jews and Gentiles were still significant, even if they were not meant to be ultimate/final.<sup><sup><a id="post-41871-footnote-ref-31" href="#post-41871-footnote-31">[31]</a></sup></sup> Although Barth was right to use Romans 9–11 as an internal critique of the Church, the main problem with Barth’s reading of Romans 10 and Romans 9–11 is that, while Paul is speaking about Israel in order to address tensions between Jewish and Gentile Christians, Barth is speaking about the Church’s relationship to the world.<sup><sup><a id="post-41871-footnote-ref-32" href="#post-41871-footnote-32">[32]</a></sup></sup>
 
-## <span class="ez-toc-section" id="CONCLUSION"></span>CONCLUSION<span class="ez-toc-section-end"></span>
+## CONCLUSION
 
 Borrowing Barth’s words from his preface to the English translation of Römerbrief, we might ask, after reading chapter 10 of the Romans commentary, “Did Paul think and speak in general and in detail in the manner in which [Barth has] interpreted him as thinking and speaking?” My answer would have to be “yes and no.” Yes, in general, but no in detail. Yes, in form, but no in content.
 
@@ -148,7 +104,7 @@ Yes, the internal critique of the Church is Paul’s. But, no, Paul was not prim
 
 Is there a way to bring Paul and Barth together in Romans 9:30–10:21? I think and hope so. We might arrive at the same destination, with regards to the relationship between the Church and the world, but I think that, when reading Romans, we need to start with the divisions that exist within the Church. With great revelation comes great culpability. The Church cannot comprehend the nature of her division and divisiveness apart from her knowledge of God. “There is no distinction between Jew and Greek; for the same Lord is Lord of all” (10:12). And yet the Church cannot afford to erase or forget the distinction between Jew and Greek from her own internal history.<sup><sup><a id="post-41871-footnote-ref-33" href="#post-41871-footnote-33">[33]</a></sup></sup> Within the Church, the light of Christian unity shines, but it shines in divided and divisive darkness.
 
-## <span class="ez-toc-section" id="NOTES"></span>NOTES:<span class="ez-toc-section-end"></span>
+## NOTES:
 
 <li id="post-41871-footnote-1">
   <p>

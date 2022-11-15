@@ -38,49 +38,7 @@ Presented at Southeast ETS 2015.**
 
 **_Joshua P. Steele_**
 
-<div id="ez-toc-container" class="ez-toc-v2_0_37 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
-  <div class="ez-toc-title-container">
-    <p class="ez-toc-title">
-      Table of Contents
-    </p>
-    
-    <span class="ez-toc-title-toggle"><a href="#" class="ez-toc-pull-right ez-toc-btn ez-toc-btn-xs ez-toc-btn-default ez-toc-toggle" style="display: none;"><label for="item" aria-label="Table of Content"><span style="display: flex;align-items: center;width: 35px;height: 30px;justify-content: center;"><svg style="fill: #999;color:#999" xmlns="http://www.w3.org/2000/svg" class="list-377408" width="20px" height="20px" viewBox="0 0 24 24" fill="none"><path d="M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z" fill="currentColor"></path></svg><svg style="fill: #999;color:#999" class="arrow-unsorted-368013" xmlns="http://www.w3.org/2000/svg" width="10px" height="10px" viewBox="0 0 24 24" version="1.2" baseProfile="tiny"><path d="M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z"/></svg></span></label><input type="checkbox" id="item" /></a></span>
-  </div><nav>
-  
-  <ul class='ez-toc-list ez-toc-list-level-1' >
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-1" href="https://joshuapsteele.com/disunity-in-the-church-absurd/#INTRODUCTION" title="INTRODUCTION">INTRODUCTION</a>
-    </li>
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-2" href="https://joshuapsteele.com/disunity-in-the-church-absurd/#SIN_AS_ONTOLOGICAL_IMPOSSIBILITY" title="SIN AS ONTOLOGICAL IMPOSSIBILITY">SIN AS ONTOLOGICAL IMPOSSIBILITY</a><ul class='ez-toc-list-level-4'>
-        <li class='ez-toc-heading-level-4'>
-          <a class="ez-toc-link ez-toc-heading-3" href="https://joshuapsteele.com/disunity-in-the-church-absurd/#Sin_is_the_Impossible_Possibility" title="Sin is the Impossible Possibility">Sin is the Impossible Possibility</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-          <a class="ez-toc-link ez-toc-heading-4" href="https://joshuapsteele.com/disunity-in-the-church-absurd/#Atonements_Intensification_of_Sins_Absurdity" title="Atonement’s Intensification of Sin’s Absurdity">Atonement’s Intensification of Sin’s Absurdity</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-          <a class="ez-toc-link ez-toc-heading-5" href="https://joshuapsteele.com/disunity-in-the-church-absurd/#DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILITY" title="DISUNITY AS ECCLESIOLOGICAL IMPOSSIBILITY">DISUNITY AS ECCLESIOLOGICAL IMPOSSIBILITY</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-          <a class="ez-toc-link ez-toc-heading-6" href="https://joshuapsteele.com/disunity-in-the-church-absurd/#Christological_Ecclesiology" title="Christological Ecclesiology">Christological Ecclesiology</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-          <a class="ez-toc-link ez-toc-heading-7" href="https://joshuapsteele.com/disunity-in-the-church-absurd/#Disunity_is_the_Impossible_Possibility" title="Disunity is the Impossible Possibility">Disunity is the Impossible Possibility</a>
-        </li>
-        <li class='ez-toc-page-1 ez-toc-heading-level-4'>
-          <a class="ez-toc-link ez-toc-heading-8" href="https://joshuapsteele.com/disunity-in-the-church-absurd/#Atonements_Intensification_of_Disunitys_Absurdity" title="Atonement’s Intensification of Disunity’s Absurdity">Atonement’s Intensification of Disunity’s Absurdity</a>
-        </li>
-      </ul>
-    </li>
-    
-    <li class='ez-toc-page-1 ez-toc-heading-level-3'>
-      <a class="ez-toc-link ez-toc-heading-9" href="https://joshuapsteele.com/disunity-in-the-church-absurd/#CONCLUSION_TOWARD_A_BARTHIAN_ECUMENISM" title="CONCLUSION: TOWARD A BARTHIAN ECUMENISM">CONCLUSION: TOWARD A BARTHIAN ECUMENISM</a>
-    </li>
-  </ul></nav>
-</div>
-
-### <span class="ez-toc-section" id="INTRODUCTION"></span>INTRODUCTION<span class="ez-toc-section-end"></span>
+### INTRODUCTION
 
 Just as sin is ontological impossibility, disunity is ecclesiological impossibility. The tension between the undeniable reality of sin and Karl Barth’s theological definition of sin as an impossible possibility parallels the tension between the obvious reality of a fractured church1 and the theological definition of the church as the one body of the one Christ. Two excerpts from the Barthian corpus legitimize this connection. First, in his prepared remarks to the 1937 Second World Conference on Faith and Order in Edinburgh, Karl Barth maintained that
 
@@ -98,7 +56,7 @@ In order to describe in Barthian terms what it means for church disunity to be p
 
 (For a[n attempted] summary of the Christian faith, see my essay: &#8220;[Theology in Outline: What do I Believe?][1]&#8220;)
 
-### <span class="ez-toc-section" id="SIN_AS_ONTOLOGICAL_IMPOSSIBILITY"></span>SIN AS ONTOLOGICAL IMPOSSIBILITY<span class="ez-toc-section-end"></span>
+### SIN AS ONTOLOGICAL IMPOSSIBILITY
 
 In considering human sin, we must begin with what it means to be human. Although various attempts have been made to define humanity in the spheres of natural science, idealist ethics, existentialist philosophy, and theistic anthropology, Barth claims that these are merely descriptions of the _phenomena_, and not the essence, of humanity (CD III/2, 71-132).
 
@@ -120,7 +78,7 @@ Instead of framing this distinction between Christ and other humans in terms of 
 
 Humanity only exists within this Christological correspondence, this _analogia relationis_ (CD III/2, 218-20, 225-6). Specifically, Barth grounds the humanity of individual humans in the notion of a shared sphere with Christ: “the ontological determination of humanity is grounded in the fact that one man among all others is the man Jesus” (CD III/2, 132). Therefore, “to be a man is to be with God,” for no matter what else each individual is, “he is on the basis of the fact that he is with Jesus and therefore with God” (CD III/2, 135). Because the incarnation is the fullest expression of the Creator’s summons to the creature into relationship, it is the ground of the human creature’s being and personality – distinguishing humanity from the other non-human spheres which Christ did not inhabit (CD III/2, 137).
 
-#### <span class="ez-toc-section" id="Sin_is_the_Impossible_Possibility"></span>**Sin is the Impossible Possibility**<span class="ez-toc-section-end"></span>
+#### **Sin is the Impossible Possibility**
 
 However, the incarnation is also the source of sin’s absurdity. Because humanity “is not without God, but with God,” true “Godlessness, is not, therefore, a possibility, but an ontological impossibility for man” (CD III/2, 136). When it comes to sin, Barth simultaneously removes it from the definition of what it means to be human, and emphasizes its absurdity as part of human existence – for, although sin undeniably exists, “our being does not include but excludes sin. To be in sin, in godlessness, is a mode of being contrary to our humanity” (CD III/2, 136).
 
@@ -142,7 +100,7 @@ Given the definition of humanity and the absurdity of sin, there is a tension be
 
 For Barth, this absurdity takes on the character of improper judgment: “all sin has its being and origin in the fact that man wants to be his own judge” (CD IV/1, 220). Although “not all men commit all sins,” everyone commits “this sin which is the essence and root of all other sins” (CD IV/1, 220). Self-justification and the damnation of the others characterize sin as “the arrogance in which man wants to be his own and his neighbour’s judge,” wanting “to be able and competent to pronounce ourselves free and righteous and others more or less guilty” (CD IV/1, 231). Sinful humanity tries to ground its own existence by carving-out its own improper position as judge.
 
-#### <span class="ez-toc-section" id="Atonements_Intensification_of_Sins_Absurdity"></span>**Atonement’s Intensification of Sin’s Absurdity**<span class="ez-toc-section-end"></span>
+#### **Atonement’s Intensification of Sin’s Absurdity**
 
 Yet sin becomes an even further absurdity in light of the atonement. In fact, the tension between humanity’s Christological essence and its sinful form is a driving force in the doctrine of reconciliation, for “the incompatibility of the existence of Jesus Christ with us and us with Him, the impossibility of the co-existence of His divine-human actuality and action and our sinfully human being and activity” must be addressed before we can rest assured “that Jesus Christ belongs to us and we belong to Him, that His cause is our cause and our cause is His” (CD IV/1, 348). As an answer to this predicament, “the event of redemption in Jesus Christ not only compromises this position [of improper human judgment], but destroys it” (CD IV/1, 232).
 
@@ -162,13 +120,13 @@ Furthermore, in taking our improper place as judge, he also takes away from us t
 
 Because of this, humans “have no other ground to do evil now that the ground has been cut out from under our feet” (CD IV/1, 243). Considering Christ’s work both for us and in us, Barth maintains that “unfaithfulness to God is a disallowed possibility which can no longer be actualised. It is seen to be the wholly impossible possibility on which we can no longer count, which we see to be eliminated and taken from us by God&#8217;s omnipotent contradiction set up in us” (CD IV/4, 22). In light of the doctrine of reconciliation, repentance from sin is the only viable human response. Only by ignoring Christ and his accomplished atonement, only by denying the source of our own existence can we presume to have the freedom to sin, to reject God, and to be our own judges.
 
-#### <span class="ez-toc-section" id="DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILITY"></span>DISUNITY AS ECCLESIOLOGICAL IMPOSSIBILITY<span class="ez-toc-section-end"></span>
+#### DISUNITY AS ECCLESIOLOGICAL IMPOSSIBILITY
 
 Humanity’s Christological definition results in sin as an absurdity which is intensified by the atonement. The church&#8217;s Christological definition similarly results in disunity as an absurdity which is intensified by the atonement. As we began with what it means to be human, so we begin with what it means to be the church.
 
 Just as Barth resists an anthropology that is based upon the mere phenomena of humanity, he resists an ecclesiology that is based upon the mere phenomena of the church. Although the church is “a phenomenon of world history which can be grasped in historical and psychological and sociological terms like any other” (CD IV/1, 652), what the church actually is, “the character, the truth of its existence in time and space, is not a matter of a general but a very special visibility” (CD IV/1, 654). And just as grasping the Christological essence of humanity allows for a true appreciation of humanity’s historical form,6 understanding the Christological essence of the church allows the community to “act confidently on the level of its phenomenal being” (CD IV/1, 660). This includes ecumenical pursuits.
 
-#### <span class="ez-toc-section" id="Christological_Ecclesiology"></span>**Christological Ecclesiology**<span class="ez-toc-section-end"></span>
+#### **Christological Ecclesiology**
 
 For Barth, Christology determines both anthropology and ecclesiology, and there is therefore no “abandonment of the sphere of the [Apostles’] creed” when the transition is made from the second to the third article.7 He offers a conceptual map at this juncture:
 
@@ -184,7 +142,7 @@ There is therefore a Chalcedonian pattern, 8 not only to Christ’s person, but 
 
 For this reason, “the history which we consider when we speak of the Christian community and Christian faith is enclosed and exemplified in the history of Jesus Christ” (CD IV/1, 644). Barth takes seriously the New Testament language of the church as Christ’s “body,” and claims that “the community is the earthly-historical form of existence of Jesus Christ himself” (CD IV/1, 661). As Christ is the head of his body, the church, he is the ground of its particular existence. Just as the incarnation grounds human existence, it determines ecclesiological existence. And because Christology and ecclesiology are inseparably intertwined, the Chalcedonian pattern which unites the church with the person of Christ also applies to the relationship between the church’s being and its act – between its invisible essence and its visible form.
 
-#### <span class="ez-toc-section" id="Disunity_is_the_Impossible_Possibility"></span>**Disunity is the Impossible Possibility**<span class="ez-toc-section-end"></span>
+#### **Disunity is the Impossible Possibility**
 
 This union, however, parallels the aforementioned tension between humanity’s essence and its form, given its Christological definition and the absurdity of sin. As Bender notes, “Barth’s dialectical understanding of the church as both an invisible and visible reality, an event of the Holy Spirit and a historical entity, leads naturally to his dialectical understanding of the marks of the church: the church as one, holy, catholic, and apostolic.”10 Within the context of the first mark, there is a tension between the church’s being/essence as _one_, and its act/form as _many_.
 
@@ -206,11 +164,11 @@ And yet this is exactly the scandalous reality of the church. Although there are
 
 While there may be legitimate human explanations for such divisions, there are no acceptable theological ones, Barth claims, for a “plurality of Churches in this sense means a plurality of lords, a plurality of spirits, a plurality of gods” – a practical denial of the church’s theoretical confession of the singular unity of the Triune God (CD IV/1, 675). Just as it is absurd for humans to oppose God as the very ground of their existence, it is equally absurd for the church to divide in denial of the unity of God.
 
-#### <span class="ez-toc-section" id="Atonements_Intensification_of_Disunitys_Absurdity"></span>**Atonement’s Intensification of Disunity’s Absurdity**<span class="ez-toc-section-end"></span>
+#### **Atonement’s Intensification of Disunity’s Absurdity**
 
 Just as the atonement intensifies the anthropological absurdity of sin, it intensifies the ecclesiological absurdity of disunity. As Barth puts it, the previously-described exclusive claim of a Christian community to be the only church “has been dashed out of hand by the One who is the unity of the Church” (CD IV/1, 684). In making an end of the nothingness of human sin, Christ has also delivered up disunity to destruction, for “in Him it was all humanity in its corruption and lostness, its earthly-historical existence under the determination of the fall, which was judged and executed and destroyed, and in that way liberated for a new determination, for its being as a new humanity” (CD IV/1, 663). The unity which is necessarily implied in Barth’s Christological description of election is realized in the church. Members of the community “were one in God’s election (Eph 1:4), were and are one in the fulfilment of it on Golgotha, are one in the power of His resurrection, one in Jesus Christ…His body together in their unity and totality” (CD IV/1, 664). Most succinctly, “there is only one Christ, and therefore there is only one body of Christ” (CD IV/1, 666). Disunity in the church is therefore absurd, because it denies the definition of the church as Christ’s body, and the reality of reconciliation as Christ’s work.
 
-### <span class="ez-toc-section" id="CONCLUSION_TOWARD_A_BARTHIAN_ECUMENISM"></span>CONCLUSION: TOWARD A BARTHIAN ECUMENISM<span class="ez-toc-section-end"></span>
+### CONCLUSION: TOWARD A BARTHIAN ECUMENISM
 
 I have endeavored to demonstrate the significance of Karl Barth’s remark that disunity in the church “is only possible as sin is possible,” by showing the structural parallels between his anthropological claim that sin is ontological impossibility and the claim that disunity is ecclesiological impossibility. Yet the value of this correlation for ecumenism is not readily apparent until it is situated within Barth’s own ecumenical vision.
 
